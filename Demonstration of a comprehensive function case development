@@ -1,0 +1,58 @@
+"""
+Demonstration of a comprehensive function case development
+"""
+
+#  Define global variables money and name
+money = 5000000
+name = None
+# Prompt the customer to enter their name
+name = input("Please enter your name: ")
+# Define the query function
+def query(show_header):
+    if show_header:
+       print("-------Query balance--------")
+    print(f"{name}, Hello, your balance is: ${money}")
+# Define the deposit function
+def saving(num):
+    global money # money，Define as a global variable within a function
+    money += num
+    print("------Deposit------")
+    print(f"{name},Hello, you have successfully deposited ${num}")
+# Call the 'query' function to check the balance.
+    query(False)
+
+# Define a withdrawal function
+def get_money(num):
+    global money
+    money -= num
+    print("------withdrawn------")
+    print (f"{name},Hello, you have successfully withdrawn ${num}")
+    query(False)
+#  define a main menu function 
+def main():
+    print("------- main menu--------")
+    print(f"{name},hello,welcome to our bank, please choose your requirement: ")
+    print("query balance\t\t[input 1]")
+    print("saving money\t\t[input 2]")
+    print("withdrawal money\t[input 3]") 
+    print("exit\t\t\t\t[input 4]")
+    return input("please input your choose:")
+#   Set up an infinite loop
+while True:
+    keyword_input = main()
+    if keyword_input == "1":
+        query(True)
+        continue # Use ‘continue ’to move to the next iteration of the loop, which will return you to the main menu
+    elif keyword_input == "2":
+        num = int(input("How much would you like to deposit? Please enter： "))
+        saving(num)
+        continue
+    elif keyword_input == "3":
+        num = int(input(""How much would you like to withdraw? Please enter： "))
+
+        get_money(num)
+        continue
+        continue
+    else:
+        print("exit")
+        break # Use break to exit the infinite loop
