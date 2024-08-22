@@ -1,0 +1,52 @@
+package com.rh;
+
+public class LoopStatements {
+    // Note: Do not add a semicolon after the parentheses in if(){}; otherwise, it will cause an error.
+    public static void main(String[] args) {
+        double temp = 36.9;
+        if (temp > 37) {
+            System.out.println("Fever");
+        } else if (temp > 38) {
+            System.out.println("High fever");
+        } else {
+            System.out.println("Normal temperature");
+        }
+        System.out.println("------------------------------");
+
+        String week = "Wednesday";
+        switch (week) {
+            case "Monday":
+                System.out.println("Focus on studying");
+                break;
+            case "Tuesday":
+                System.out.println("Ask for help from experts");
+                break;
+            case "Wednesday":
+                System.out.println("Barbecue");
+                break;
+            default:
+                System.out.println("The day you entered does not exist");
+        }
+        // The expression type in switch can only be byte, int, char, or string. 
+        // It does not support double, float, or long.
+        // Case values must be unique literals and cannot be variables.
+        // Switch statements have fall-through behavior if there is no break statement.
+        String weekday = "Three";
+        switch (weekday) {
+            case "One":
+                System.out.println("Focus on studying, fix bugs");
+                break;
+            case "Two":
+            case "Three":
+            case "Four":
+                System.out.println("Request help from expert programmers");
+                break;
+            case "Five":
+            case "Six":
+                System.out.println("Play games");
+                break;
+            default:
+                System.out.println("The day you entered does not exist");
+        }
+    }
+}
