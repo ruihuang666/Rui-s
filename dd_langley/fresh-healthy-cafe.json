@@ -1,0 +1,1024 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/a1f802c4-7b0b-4c99-a1ae-cf3c7761a92c.png,,",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/296610f3-0026-4d05-a20b-c00d9d71d791.jpg"
+    ],
+    "name": "Fresh Healthy Cafe",
+    "address": "20727 Willoughby Town Centre Dr A150, Langley Twp, BC V2Y 3N1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.14547",
+        "longitude": "-122.646935"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Lemonade",
+                            "description": "Apple, spinach, cucumber, lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Açaí Bowl",
+                            "description": "543 cal. Organic acai blended with strawberries, banana. Topped with granola, fresh blueberries, banana, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chicken",
+                            "description": "352 cal. Spicy chicken breast, cheddar, red onion, green pepper, salsa, jalapeños.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Bacon Avocado",
+                            "description": "631 cal. turkey breast, turkey bacon, romaine lettuce, cheddar, avocado, tomato, red onions, alioi. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Açaí Mega Berry",
+                            "description": "Pomegranate-blueberry juice, acai, blueberries, strawberries, raspberries, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar BLT",
+                            "description": "794 cal. Chicken breast, turkey bacon, romaine lettuce, parmesan, tomato, Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical Peach",
+                            "description": "Coconut water, mango, peach, pineapple, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Wrap",
+                            "description": "354 cal. Turkey bacon, scrambled egg, cheddar cheese, spinach, tomato. Wraps grilled upon request\n.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caribbean Splash",
+                            "description": "Coconut water, mango, strawberries, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Protein Power",
+                            "description": "Almond milk, vanilla greek yogurt, strawberries, banana, choice of protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Machine",
+                            "description": "Coconut water, spinach, mango, peach, pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "PB2 Bowl",
+                            "description": "490 cal. PB2 peanut butter blended with coconut milk, banana, strawberries. Topped with granola, fresh blueberries, banana, honey, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "House made Soda",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "House made soda 16oz",
+                            "description": "sparking mineral water with freshly squeezed lemonade, orange or raspberry juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House made soda 24oz",
+                            "description": "sparking mineral water with freshly squeezed lemonade, orange or raspberry juice. 24oz",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Power bites",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baja Quesadilla",
+                            "description": "black beans, corn, green pepper, tomato, mozzarella, salsa",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Slim Chicken Wrap",
+                            "description": "chicken, spinach, romaine, tomato, cheddar,  aioli dressing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "chocolate cinnamon Chia pudding",
+                            "description": "almond milk, cocoa, cinnamon, Chia seeds, topped with granola, blueberries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Pesto Quesadilla",
+                            "description": "chicken, spinach, roasted red pepper, mozzarella, pesto",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Slim Southwest Veggie Wrap",
+                            "description": "black beans, romaine, corn, quinoa, cheddar, salsa",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Breakfast Wrap ",
+                            "description": "egg, salsa, spinach, turkey bacon, cheddar cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Energy bites, peanut butter chocolate 2",
+                            "description": "Oats, chocolate chips, peanut butter, honey, flax vanilla, salt, comes in pairs of two. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Salad ",
+                            "description": "Kale, green peppers, edamame, quinoa, cucumber, tomato, red onion, citrus vinaigrette, onion, black beans, corn 12oz",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "JUICE PROGRAM---MUST PREORDER 24 HRS IN ADVANCE",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "2-day reFresh Juice Cleanse",
+                            "description": "12 x 16 oz labeled bottles of Fresh Squeeze Juice\nSweet Green (apple, cucumber, lemon, spinach, romaine)\nMean Green (cucumber, celery, kale, lemon spinach)\nBeet me to It (apple, carrot, beet, lemon, ginger)\nSpicy Lempnade (water, lemon, agave, cayene)\nChia Later (apple, cucumber, lemon, chia seeds)\nOh nuts (cashew milk, agave, date, cinnamon)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$120.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3-day reFresh Juice Cleanse",
+                            "description": "18 x 16 oz labeled bottles of Fresh Squeeze Juice\nSweet Green (apple, cucumber, lemon, spinach, romaine)\nMean Green (cucumber, celery, kale, lemon spinach)\nBeet me to It (apple, carrot, beet, lemon, ginger)\nSpicy Lempnade (water, lemon, agave, cayene)\nChia Later (apple, cucumber, lemon, chia seeds)\nOh nuts (cashew milk, agave, date, cinnamon)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$170.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1-day reFresh Juice Cleanse",
+                            "description": "6x 16 oz labeled bottles of Fresh Squeeze Juice\nSweet Green (apple, cucumber, lemon, spinach, romaine)\nMean Green (cucumber, celery, kale, lemon spinach)\nBeet me to It (apple, carrot, beet, lemon, ginger)\nSpicy Lempnade (water, lemon, agave, cayene)\nChia Later (apple, cucumber, lemon, chia seeds)\nOh nuts (cashew milk, agave, date, cinnamon)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$62.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "others",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "lays oven baked chips ",
+                            "description": "Crispy oven-baked potato chips with a light, crunchy texture and a hint of salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "nestle water ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "perrier sparkling water ",
+                            "description": "Effervescent Perrier water to refresh and invigorate your palate.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pure Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical Peach",
+                            "description": "Coconut water, mango, peach, pineapple, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Banana Supreme",
+                            "description": "Apple juice, agave, strawberries, banana.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caribbean Splash",
+                            "description": "Coconut water, mango, strawberries, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Paradise",
+                            "description": "Coconut milk, pineapple juice, pineapple, mangos.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Mania",
+                            "description": "Coconut water, mango, banana, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Lover",
+                            "description": "Organic brewed coffee, almond milk, banana, cocoa powder, vanilla, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chunky Monkey",
+                            "description": "Almond milk, vanilla Greek yogurt, cocoa powder, banana, PB2, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry Blast",
+                            "description": "Pomegranate-blueberry juice, blueberries, raspberries, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Super Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Açaí Mega Berry",
+                            "description": "Pomegranate-blueberry juice, acai, blueberries, strawberries, raspberries, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Green Tea",
+                            "description": "Almond milk, banana, pineapple, matcha green tea, vanilla, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Protein Power",
+                            "description": "Almond milk, vanilla greek yogurt, strawberries, banana, choice of protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado Dream",
+                            "description": "Avocado Dream Smoothie: Creamy avocado blend, choice of small or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Machine",
+                            "description": "Coconut water, spinach, mango, peach, pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kale Pineapple",
+                            "description": "Pineapple juice, kale, pineapple, mangos, bananas.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "All Day Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Wrap",
+                            "description": "354 cal. Turkey bacon, scrambled egg, cheddar cheese, spinach, tomato. Wraps grilled upon request\n.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado Artisan Toast",
+                            "description": "117 cal. Spring mix, avocado, tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Panini",
+                            "description": "241 cal. Turkey bacon, scrambled egg, cheddar cheese, spinach, tomato. Make any panini gluten-free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg &amp; Muffin Breakfast Sandwich",
+                            "description": "270 cal. English muffin, egg, tomato, avocado.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tex Bowl",
+                            "description": "205 cal. Scrambled egg, turkey bacon, black beans, spinach, salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cali Bowl",
+                            "description": "223 cal. Scrambled egg, quinoa, spinach, tomato, avocado, Greek yogurt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "FAMILY BREAKFAST DEAL",
+                            "description": "FAMILY BREAKFAST DEAL. \n\n-enjoy 1 panini or wrap ( please add in notes if you want panini OR wrap) \n-2 Avocado Toast( please add in notes that there is 2 Avocado Toast)\n-1 Yogurt Parfait or Coffee Boost Smoothie( Please add in notes if you want Yogurt Parfait OR Smoothie)\n- 1 Egg muffin Breakfast ( Please add in notes that there is 1 Egg Muffin)\n-1 Cali Bowl or Tex Bowl( Please add in notes if you want Cali bowl OR Tex Bowl)\nALL 6 items for $39.99 SPECIAL\nIn total there should be 6 things added into notes",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Hard Boiled and Peeled Eggs",
+                            "description": "2 Hard Boiled and Peeled Eggs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yogurt Parfait",
+                            "description": "130 cal. Greek yogurt, fresh fruit, granola.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boost Coffee Smoothie",
+                            "description": "Organic brewed coffee, rolled oats, cacao, banana, almond milk, sugar-free vanilla, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Wraps",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar BLT",
+                            "description": "794 cal. Chicken breast, turkey bacon, romaine lettuce, parmesan, tomato, Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mediterranean",
+                            "description": "675 cal. Chicken breast, spinach, feta, cucumber, tomato, onion, olives, homemade citrus vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Super Veg",
+                            "description": "787 cal.spinach, edamame, cucumber, tomato, green pepper, vegan cheese, aioli",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mission Burrito",
+                            "description": "733 cal. Beyond Beef® or chicken, cheddar, romaine lettuce, black beans, quinoa, corn, avocado, Greek yogurt, salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Bacon Avocado",
+                            "description": "631 cal. turkey breast, turkey bacon, romaine lettuce, cheddar, avocado, tomato, red onions, alioi. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Wrap",
+                            "description": "Falafel that is plant based, cucumber, tomato, olives , feta, red onions, tzatziki sauce ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Grilled Paninis",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chicken",
+                            "description": "352 cal. Spicy chicken breast, cheddar, red onion, green pepper, salsa, jalapeños.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Pesto",
+                            "description": "519 cal. Turkey breast, mozzarella, tomato, pesto, spinach, and balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken",
+                            "description": "554 cal.Bbq chicken, chedder, red onion, green pepper, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Bacon Avo",
+                            "description": "494cal. Turkey breast, turkey bacon, cheddar, avocado, tomato, red onion, aloili.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veg Portobello",
+                            "description": "475 cal. Portobello mushroom, spinach, mozzarella, roasted red pepper, balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Bowl",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mediterranean",
+                            "description": "497 cal. Turkey breast, spring mix, spinach, feta, cucumber, tomato, onion, olives, homemade citrus vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beach",
+                            "description": "504 cal. Chicken breast, spring mix, romaine lettuce, feta, blueberries, avocado, hemp hearts, citrus vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Teriyaki",
+                            "description": "484 cal. Grilled chicken, quinoa, portobello mushroom, edamame, corn, tomato, green pepper, cucumber, sesame seeds, teriyaki sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fiesta",
+                            "description": "Chicken breast, or beyond beef®, quinoa, romaine lettuce, black beans, corn, cheddar, avocado, salsa, greek yogurt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veg Buddha",
+                            "description": "575 cal. Gardein™ Chick’n, spinach, quinoa, avocado, tomato, cucumber, feta, balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh Plant Powered Soup",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Plant Powered Soup",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh Squeezed",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beet Punch",
+                            "description": "Beet, ginger, lemon, apple, carrot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fountain of Youth",
+                            "description": "Apples, blueberries or strawberries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cold Terminator",
+                            "description": "Orange, carrot, ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The buzz",
+                            "description": "Apple, orange, lemon, ginger",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Lemonade",
+                            "description": "Apple, spinach, cucumber, lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Shot",
+                            "description": "49 cal. 2 oz. ginger, lemon, cayenne pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Iced Teas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Brewed",
+                            "description": "Organic green or black tea sweetened with agave nectar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Infused (Passion Fruit)",
+                            "description": "Organic iced tea infused with passion fruit. Sizes: small or regular with calorie count.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Infused (Fresh Lemon)",
+                            "description": "Organic iced tea infused with fresh lemon. Options include small or regular sizes, calorie count provided.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Infused (Natural Mint)",
+                            "description": "Organic iced tea with natural mint infusion. Options include small or regular sizes with calorie details.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Power Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "PB2 Bowl",
+                            "description": "490 cal. PB2 peanut butter blended with coconut milk, banana, strawberries. Topped with granola, fresh blueberries, banana, honey, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Açaí Bowl",
+                            "description": "543 cal. Organic acai blended with strawberries, banana. Topped with granola, fresh blueberries, banana, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Green Tea Bowl",
+                            "description": "553 cal. Coconut milk, banana, mango, avocado, matcha green tea, agave. Topped with granola, banana, fresh blueberries, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hidden Greens Chocolate Bowl",
+                            "description": "Almond milk, vanilla greek yogurt, cocoa, cinnamon, blueberries, banana, spinach, dates, topped with blueberries, banana, and coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Heather K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "very healthy very fresh! 10/10 will order from here again!!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Carlo L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "the matcha Matcha Green Tea  was not good. The matcha too strong and it wasnt blended properly. Still had fruit chunks. also lid wasnt taped either."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.7
+    },
+    "servesCuisine": [
+        "Juice Bars &amp; Smoothies",
+        "Acai Bowls",
+        "Sandwiches",
+        "Wraps",
+        "Cafe",
+        "Healthy",
+        "Smoothies"
+    ],
+    "url": "https://www.doordash.com/store/fresh-healthy-cafe-langley-township-25307979/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6043711330",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

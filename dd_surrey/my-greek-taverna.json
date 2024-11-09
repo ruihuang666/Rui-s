@@ -1,0 +1,984 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/MyGreekTaverna6450120SurreyBC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/41df67bb-cbc8-4e47-b79f-0f08538efe1f.jpg"
+    ],
+    "name": "My Greek Taverna",
+    "address": "6450 120 St, Surrey BC V3W 3M5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.12013",
+        "longitude": "-122.89007"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Souvlaki",
+                            "description": "Broiled to perfection, a skewer of tender chicken pieces marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kalamaria",
+                            "description": "Marinated in white wine, our fried squid is served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Sirloin Souvlaki",
+                            "description": "Broiled to perfection, a skewer of tender lamb pieces marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Moussaka",
+                            "description": "Layers of eggplants, zucchini, lean ground beef, and a hearty béchamel sauce topping, served with Greek salad, rice roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Lamb Shoulder",
+                            "description": "New Zealand lamb shoulder slow roasted in a mustard and lemon sauce. Served with Greek salad, rice, roast potatoes. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus &amp; Pita",
+                            "description": "A blend of chickpeas, fresh garlic, lemon, tahini &amp; herbs makes this dish an instant favorite with 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tenderloin Souvlaki",
+                            "description": "Broiled to perfection, a skewer of beef tenderloin pieces, marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn Souvlaki",
+                            "description": "Prawns on a skewer placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spanakopita Dinner",
+                            "description": "Served with Greek salad, rice roast potatoes tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tzatziki &amp; Pita",
+                            "description": "Yogurt, shredded cucumbers, garlic, dill &amp; herbs, served with 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Potatoes",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Lasagna",
+                            "description": "Served with Greek salad &amp; pita bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dinner",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Lamb Shoulder",
+                            "description": "New Zealand lamb shoulder slow roasted in a mustard and lemon sauce. Served with Greek salad, rice, roast potatoes. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kalamaria",
+                            "description": "Marinated in white wine, our fried squid is served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spanakopita Dinner",
+                            "description": "Served with Greek salad, rice roast potatoes tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rack of Lamb",
+                            "description": "New Zealand rack of lamb charbroiled to your perfection. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$44.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Plate",
+                            "description": "Vegetarian. Zucchini sticks with Greek salad, rice, roast potatoes tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Ribs &amp; Lasagna",
+                            "description": "Served with Greek salad, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Style Ribs",
+                            "description": "Charbroiled baby back ribs, topped with a lemon mustard sauce, served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawns YOUVetsi",
+                            "description": "Baked in the oven with tomato sauce &amp; vegetables, topped with feta. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Prawns",
+                            "description": "Baked in a delicious garlic butter sauce served with Greek salad, rice, roast potatoes tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Athenian Chicken",
+                            "description": "Charbroiled chicken breast with lemon sauce served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Keftedes Dinner",
+                            "description": "Charbroiled Greek meatballs, made with lean ground beef served with Greek salad, rice, roast potatoes tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Corfu",
+                            "description": "Chicken breast stuffed with spinach and feta, topped with a creamy lemon sauce. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Chicken Schnitzel",
+                            "description": "Greek chicken schnitzel. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paidakia Skaras",
+                            "description": "Tender lamb chops charbroiled to your perfection, served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8 Oz NY Steak",
+                            "description": "Charbroiled to your perfection. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$30.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Dolmades",
+                            "description": "Vegetarian. Served with rice, roasted potatoes, Greek salad, pita and tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Filet",
+                            "description": "Baked in a delicious garlic butter sauce served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Lasagna",
+                            "description": "Served with Greek salad &amp; pita bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Vegetarian Lasagna",
+                            "description": "Vegetarian. Served with Greek salad &amp; pita bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Ribs &amp; Spaghetti",
+                            "description": "Served with Greek salad, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8 Oz NY Steak &amp; Prawns",
+                            "description": "Charbroiled to your perfection, served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Moussaka",
+                            "description": "Vegetarian. Layers of eggplants, zucchini and a hearty béchamel sauce topping, serves with Greek salad, rice, potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Plaki",
+                            "description": "Wild BC sockeye &amp; tiger prawns baked in oven with peppers &amp; tomatoes. Served with Greek salad, rice, roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Spaghetti",
+                            "description": "Served with Greek salad &amp; pita bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8 Oz NY Steak &amp; Spaghetti",
+                            "description": "Charbroiled to your perfection. Served with Greek salad, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8 Oz NY Steak &amp; Lasagna",
+                            "description": "Charbroiled to your perfection served with Greek salad, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Moussaka",
+                            "description": "Layers of eggplants, zucchini, lean ground beef, and a hearty béchamel sauce topping, served with Greek salad, rice roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolmades",
+                            "description": "Grapevine leaves filled with ground beef and rice topped with lemon sauce. Served with Greek salad, rice roast potatoes, tzatziki &amp; pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer - Cold Dips",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Taramasalata Dip",
+                            "description": "A mouth-watering spread of red caviar, caramelized onions, olive oil &amp; lemon, served with 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tirokafteri (Spicy Feta Dip)",
+                            "description": "Mildly spicy Feta spread with fresh roasted peppers &amp; olive oil served with 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Feta &amp; Olives",
+                            "description": "Pepperoncini peppers, olives &amp; 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cold Appetizer Platter",
+                            "description": "Hummus, tzatziki, taramas, tirokafteri, olives, and 4 pita bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tzatziki &amp; Pita",
+                            "description": "Yogurt, shredded cucumbers, garlic, dill &amp; herbs, served with 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus &amp; Pita",
+                            "description": "A blend of chickpeas, fresh garlic, lemon, tahini &amp; herbs makes this dish an instant favorite with 2 pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer - Soups",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fakkes",
+                            "description": "A lentil soup and one of the famous everyday Greek soups.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avgolemono",
+                            "description": "&quot;Egg-lemon&quot; soup: chicken, meat, vegetable &amp; orzo pasta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fasolada",
+                            "description": "The traditional Greek dish. It is made of beans, tomatoes, carrot, celery and a lot of olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer - Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad (Small)",
+                            "description": "Tomatoes, cucumbers, red onions, green peppers, black olives &amp; Feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad (Large)",
+                            "description": "Tomatoes, cucumbers, red onions, green peppers, black olives &amp; Feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar Salad",
+                            "description": "Chicken breast served over romaine lettuce, mixed with creamy caesar dressing, croutons &amp; Parmesan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Prawn Caesar Salad",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Greek Salad",
+                            "description": "Grilled chicken breast served over our signature salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Romaine lettuce, mixed with creamy caesar dressing, croutons &amp; Parmesan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer - Hot",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Appetizer Platter",
+                            "description": "Calamari, keftedes, dolmades, spanakopita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$45.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calamari",
+                            "description": "Marinated deep fried squid served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Prawns",
+                            "description": "Pan fried in garlic butter, finished in white wine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Fries",
+                            "description": "Tossed in feta, garlic, oregano and olive oil served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Keftedes",
+                            "description": "Classic Greek comfort food! Hand made with lean beef &amp; fresh herbs. Served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolmades",
+                            "description": "Lean ground beef, with rice, &amp; fresh herbs, rolled in grape leave. Topped with lemon sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Escargot",
+                            "description": "Baked with garlic butter &amp; mozzarella served with pita bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spanakopita",
+                            "description": "Filo pastry stuffed with spinach and feta, with onions and herbs. Served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Zucchini",
+                            "description": "Served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiropita",
+                            "description": "Filo pastry filled with feta cheese, served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Saganaki",
+                            "description": "The star of this show! Pan fried kefalotiri, our Greek cheese is lit on fire to serve it right!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Calamari",
+                            "description": "Vegan. For all our vegan lovers served with tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side Orders",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Potatoes",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Rice",
+                            "description": "Seasoned steamed grains, perfect as a side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Dips (Of All) 2 Oz",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Tirokafteri 8 Oz",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Hummus or Tzatziki",
+                            "description": "chicken, lamb, or beef.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Tarama 8 Oz",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Black Olives",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pita Bread",
+                            "description": "Fluffy, warm pita bread, perfect for dips and wraps.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Souvlaki",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Souvlaki",
+                            "description": "Broiled to perfection, a skewer of tender chicken pieces marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn Souvlaki",
+                            "description": "Prawns on a skewer placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Beef Souvlaki",
+                            "description": "Broiled to perfection, a skewer of tender beef and chicken pieces, marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tenderloin Souvlaki",
+                            "description": "Broiled to perfection, a skewer of beef tenderloin pieces, marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Sirloin Souvlaki",
+                            "description": "Broiled to perfection, a skewer of tender lamb pieces marinated in olive oil and herbs, placed on top a generous rice pilaf, and served with a roast potato, Greek salad, pita, and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Platters",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "My Greek Platter for Two",
+                            "description": "A platter to satisfy all your favorite Greek food cravings! Moussaka, beef souvlaki, spanakopita, dolmades, and paidakia, served with generous portions of Greek salad, roast potatoes, rice, pita and our signature tzatziki dip and pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$78.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "George&apos;s Platter for Two",
+                            "description": "Calamari, chicken souvlaki, beef souvlaki, &amp; keftedes, served with generous portions of Greek salad, roast potatoes, rice, pita and our signature tzatziki dip and pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$65.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "My Greek Vegetarian Platter",
+                            "description": "Vegetarian. Moussaka, spanakopita, dolmades, zucchini served with generous portions of Greek salad, roast potatoes, rice, pita and our signature tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$59.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bougatsa",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baklavas",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ek Mek",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Greek",
+        "American",
+        "Mediterranean",
+        "Italian",
+        "Casual Dining",
+        "Seafood Restaurant"
+    ],
+    "url": "https://www.doordash.com/store/my-greek-taverna-surrey-30827388/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7789385348",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 8:40 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "4 PM - 9:10 PM"
+        ],
+        "SATURDAY": [
+            "4 PM - 9:10 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "4 PM - 9:30 PM"
+        ],
+        "SATURDAY": [
+            "4 PM - 9:30 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

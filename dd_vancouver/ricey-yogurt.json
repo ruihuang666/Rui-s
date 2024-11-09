@@ -1,0 +1,452 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/59b57aad-edad-477f-bad5-43aa4e8623cb.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/cb3b054d-920d-4e97-bba1-f2f4e52c557a.jpg"
+    ],
+    "name": "Ricey Yogurt",
+    "address": "8328 Capstan Way #1108, Richmond, BC V6X 4B6, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.18761",
+        "longitude": "-123.13022"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Yogurt Smoothie with Purple Rice 原味紫米酸奶",
+                            "description": "Creamy yogurt blended with chewy purple rice, offering a unique texture and mildly sweet flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B1. Strawberry Yogurt Smoothie 真爱草莓酸奶",
+                            "description": "Creamy yogurt blended with fresh strawberries, creating a smooth and fruity beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oreo Yogurt Smoothie 奧利奧酸奶杯",
+                            "description": "Creamy yogurt blended with crushed Oreo cookies for a delightful dessert smoothie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Yogurt Smoothie with Oats 原味燕麥酸奶",
+                            "description": "Creamy yogurt smoothie blended with oats, offering a thick and textured treat with bits of oats throughout.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B2. Mango Yogurt Smoothie 暧昧芒果酸奶",
+                            "description": "Creamy yogurt blended with fresh mango chunks for a smooth and refreshing treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cameral Coffee Yogurt Smoothie with Hazelnut 焦糖咖啡榛果酸奶",
+                            "description": "Swirled caramel and coffee yogurt smoothie blended with crunchy hazelnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B7. Mango &amp; Passion Fruit Yogurt Smoothie 百香果遇见芒果酸奶",
+                            "description": "A creamy blend of mango and passion fruit with yogurt, featuring visible passion fruit seeds for added texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A7. Matcha Yogurt Smoothie with Oats 抹茶酸奶燕麦杯",
+                            "description": "Creamy matcha yogurt smoothie blended with oats for a nutritious and refreshing treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coconut Yogurt Smoothie 兮有小椰肉",
+                            "description": "Coconut yogurt smoothie typically includes coconut milk, yogurt, and small pieces of coconut flesh, blended into a smooth beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Sesame Yogurt Smoothie 麻麻黑酸奶杯",
+                            "description": "Black sesame yogurt smoothie typically includes a blend of creamy yogurt and nutty, roasted black sesame seeds for a smooth, rich texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "椰子美眉 Strawberry Coconut Smoothie with Salted Yogurt Form",
+                            "description": "Blended strawberries and coconut milk smoothie, topped with a layer of salted yogurt foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grape Yogurt Smoothie 萄里萄气",
+                            "description": "Fresh grapes blended with creamy yogurt, typically includes a touch of honey for sweetness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Ricey Signature Yogurt 招牌酸奶",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Yogurt Smoothie with Purple Rice 原味紫米酸奶",
+                            "description": "Creamy yogurt blended with chewy purple rice, offering a unique texture and mildly sweet flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oreo Yogurt Smoothie 奧利奧酸奶杯",
+                            "description": "Creamy yogurt blended with crushed Oreo cookies for a delightful dessert smoothie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Yogurt Smoothie with Oats 原味燕麥酸奶",
+                            "description": "Creamy yogurt smoothie blended with oats, offering a thick and textured treat with bits of oats throughout.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cameral Coffee Yogurt Smoothie with Hazelnut 焦糖咖啡榛果酸奶",
+                            "description": "Swirled caramel and coffee yogurt smoothie blended with crunchy hazelnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Multi-Grain Series 多谷物",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "A3. Matcha Yogurt Smoothie with Purple Rice 抹茶酸奶紫米露",
+                            "description": "A creamy blend of matcha and yogurt, complemented by chewy purple rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A8. Haw Yogurt Smoothie with Purple Rice 山楂酸奶燕麦杯",
+                            "description": "山楂有核 介意慎选\nmay contain fruit core.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cameral Coffee Yogurt Smoothie with Hazelnut 焦糖咖啡榛果酸奶",
+                            "description": "A blend of yogurt, coffee, and caramel, topped with hazelnut pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A2. Jujube Yogurt Smoothie with Purple Rice 红枣酸奶紫米露",
+                            "description": "Blended jujube and yogurt mixed with purple rice, creating a creamy, textured smoothie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A4. Haw Yogurt Smoothie with Oats 山楂酸奶紫米露",
+                            "description": "山楂有核 介意慎选\nmay contain fruit core.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A6. Jujube Yogurt Smoothie with Oats 红枣酸奶燕麦杯",
+                            "description": "Blended jujube and yogurt with oats, creating a creamy and textured smoothie rich in multi-grain goodness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Beans Yogurt Smoothie 相思红豆酸奶杯",
+                            "description": "Red beans and yogurt blended into a smoothie, incorporating a mix of multi-grains for a unique texture and taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A7. Matcha Yogurt Smoothie with Oats 抹茶酸奶燕麦杯",
+                            "description": "Creamy matcha yogurt smoothie blended with oats for a nutritious and refreshing treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Sesame Yogurt Smoothie 麻麻黑酸奶杯",
+                            "description": "Black sesame yogurt smoothie typically includes a blend of creamy yogurt and nutty, roasted black sesame seeds for a smooth, rich texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh Fruit Series 鲜果恋",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "B1. Strawberry Yogurt Smoothie 真爱草莓酸奶",
+                            "description": "Creamy yogurt blended with fresh strawberries, creating a smooth and fruity beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B7. Mango &amp; Passion Fruit Yogurt Smoothie 百香果遇见芒果酸奶",
+                            "description": "A creamy blend of mango and passion fruit with yogurt, featuring visible passion fruit seeds for added texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coconut Yogurt Smoothie 兮有小椰肉",
+                            "description": "Coconut yogurt smoothie typically includes coconut milk, yogurt, and small pieces of coconut flesh, blended into a smooth beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lychee Rose Yogurt Smoothie with Aloe 蓝色妖姬",
+                            "description": "Blended lychee and rose yogurt smoothie, enhanced with refreshing aloe pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B2. Mango Yogurt Smoothie 暧昧芒果酸奶",
+                            "description": "Creamy yogurt blended with fresh mango chunks for a smooth and refreshing treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grape Yogurt Smoothie 萄里萄气",
+                            "description": "Fresh grapes blended with creamy yogurt, typically includes a touch of honey for sweetness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "New Product 新品尝鲜",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "仙桃冰冰 Peach Smoothie with Salted Yogurt Foam",
+                            "description": "Peach smoothie blended with a hint of salted yogurt foam on top, offering a refreshing and slightly tangy taste experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "萄气升天 Grape Smoothie with Salted Yogurt Foam",
+                            "description": "Grape juice blended into a smoothie, topped with a layer of salted yogurt foam for a unique taste combination.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "椰子美眉 Strawberry Coconut Smoothie with Salted Yogurt Form",
+                            "description": "Blended strawberries and coconut milk smoothie, topped with a layer of salted yogurt foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "火龙果小姐姐 Dragon Fruit Yogurt Smoothie",
+                            "description": "Creamy yogurt blended with vibrant dragon fruit, creating a smooth and refreshing pink smoothie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Frozen Yogurt",
+        "Smoothies",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/ricey-yogurt-richmond-23490045/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6043700575",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 9:10 PM"
+        ],
+        "TUESDAY": [
+            "1 PM - 9:10 PM"
+        ],
+        "WEDNESDAY": [
+            "1 PM - 9:10 PM"
+        ],
+        "THURSDAY": [
+            "1 PM - 9:10 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9:10 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9:10 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 9:30 PM"
+        ],
+        "TUESDAY": [
+            "1 PM - 9:30 PM"
+        ],
+        "WEDNESDAY": [
+            "1 PM - 9:30 PM"
+        ],
+        "THURSDAY": [
+            "1 PM - 9:30 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9:30 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9:30 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

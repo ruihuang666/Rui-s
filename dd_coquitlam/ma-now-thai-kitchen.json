@@ -1,0 +1,755 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/MaNowThaiKitchen2755PortCoquitlamBC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/6891d485-7632-4014-b710-b5dd81e764fd.jpg"
+    ],
+    "name": "Ma Now Thai Kitchen",
+    "address": "Ma Now Thai Kitchen, 29-2755 Lougheed Highway; Port Coquitlam, BC V3B 5Y9. Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.273582",
+        "longitude": "-122.78833"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "R1. Pad Thai (PT)",
+                            "description": "The famous Thai stir-fried noodles with egg and tofu; topped with lime wedge bean sprouts, chives, and peanuts. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "R3. Si Ew Noodle (SE) ",
+                            "description": "A Thai street noodle stir-fry of vegetables, meat, egg, garlic-soy sauce, and black pepper. (not GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C1. Green Curry (G)",
+                            "description": "Keaw Whan - Thai classic coconut cream curry with eggplants, broccoli, bell peppers and Thai basil. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A2. Spring Rolls ",
+                            "description": "House-made vegetable stuffings, hand-rolled, deep-fried, sweet chili sauce. (not GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "R4. Fried Rice Kaow Pad (FR)",
+                            "description": "Kow Pad. Thailand&apos;s comfort food. Wok-fry rice, egg, vegetables, and pineapples.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Set A Pad Thai prawns ",
+                            "description": "1/2 Pad Thai with prawns, 1/2 Massaman curry chicken, Rice. No sub please ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V4. V Pad Thai tofu",
+                            "description": "The famous Thai stir-fried noodles with egg, broccoli, and tofu; topped with bean sprouts, chives, carrots, and peanuts (can be made without egg vegan style).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A3. Veggie Rolls (2 Pieces)",
+                            "description": "Spring mix, cucumbers, carrots,  green beans, sprouts, lettuce, rice papers, peanut sauce (GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V3. Yellow Curry ",
+                            "description": "Kang Leung - Vegan style Thai coconut milk curry, turmeric, variety of vegetables, and kefir lime leaf. Served with rice. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C2 Red Curry (R)",
+                            "description": "Gang Phed - Savoury coconut milk curry with bell peppers, bamboo shoots, Thai basil and kefir lime leafs. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thai Iced Milk Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A4. Chicken Satay",
+                            "description": "Fire-grilled chicken on skewers, house marinates, hand-skewered, peanut sauce, cucumber vinaigrette ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lunch Sets",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Set A Pad Thai prawns ",
+                            "description": "1/2 Pad Thai with prawns, 1/2 Massaman curry chicken, Rice. No sub please ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Set C The Cashew ",
+                            "description": "1/2 Cashew chicken, 1/2 Massaman curry chicken, Rice. No sub please",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Set D Vegan Padthai",
+                            "description": "1/2 Vegan Pad Thai with tofu, 1/2 Yellow curry, Rice. No sub please",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Set B Basil Beef",
+                            "description": "1/2 Basil Beef, 1/2 Massaman curry chicken, Rice. No sub please",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appy",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "A2. Spring Rolls ",
+                            "description": "House-made vegetable stuffings, hand-rolled, deep-fried, sweet chili sauce. (not GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A1. Crunchy Wonton (7 Pieces)",
+                            "description": "Fried wonton chips with sweet chili sauce. (not GF, no stuffing)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A4. Chicken Satay",
+                            "description": "Fire-grilled chicken on skewers, house marinates, hand-skewered, peanut sauce, cucumber vinaigrette ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A3. Veggie Rolls (2 Pieces)",
+                            "description": "Spring mix, cucumbers, carrots,  green beans, sprouts, lettuce, rice papers, peanut sauce (GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drink",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "(355ml) please select",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thai Iced Lemon Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thai Iced Milk Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thai Coconut Milk Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Soup",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "S2. Tom Kha Gai",
+                            "description": "Coconut cream soup; coconut milk soup with chicken, mushroom, onions, galangal, and a touch of lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S1. Thai Tom Yum Goong",
+                            "description": "The Classic Thai Tom Yum Goong (hot &amp; sour soup); prawns, lemongrass, kefir lime leafs, mushroom, chili, onions, and a touch of lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Vegan/Vegetarian",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "V4. V Pad Thai tofu",
+                            "description": "The famous Thai stir-fried noodles with egg, broccoli, and tofu; topped with bean sprouts, chives, carrots, and peanuts (can be made without egg vegan style).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V3. Yellow Curry ",
+                            "description": "Kang Leung - Vegan style Thai coconut milk curry, turmeric, variety of vegetables, and kefir lime leaf. Served with rice. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V6. V Chili Basil (V BSL)",
+                            "description": "Thai basil, tofu, chili, garlic, and vegetables, stirfry. served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V2. V Coconut Cream Tofu Soup (V coco)",
+                            "description": "Tom kha: coconut milk soup with tofu, mushroom, onions, Thai herbs and a touch of lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V7. V Spicy Noodle (V SN)  ",
+                            "description": "Kee mow, a wicked combination of flavors and heat. Noodles stir-fried, tofu, vegetables, garlic, chili, and basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V1. Veggie Rolls (2 Pieces)",
+                            "description": "Spring mix, cucumbers, carrots, sprouts, \ngreen beans, lettuce, rice papers, \npeanut sauce (GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V8. VGT Si Ew with Tofu/Egg ",
+                            "description": "A Thai street noodle stir-fry of vegetables, tofu, egg, garlic-soy sauce, and black pepper (not GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V9. V Mixed Veggies Tofu ",
+                            "description": "Phat Pack Ruam Mit. Feel good about this choice! All vegetables &amp; tofu healthy Thai stir-fry. Served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Thai Curry ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "C2 Red Curry (R)",
+                            "description": "Gang Phed - Savoury coconut milk curry with bell peppers, bamboo shoots, Thai basil and kefir lime leafs. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C3. Panang Curry (PN)",
+                            "description": "Bold flavours curry, coconut cream curry with meat, bell peppers, green beans, carrots, Thai basil and kefir lime leafs. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C1. Green Curry (G)",
+                            "description": "Keaw Whan - Thai classic coconut cream curry with eggplants, broccoli, bell peppers and Thai basil. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "T1. Massaman Curry (MS)",
+                            "description": "Rich coconut milk curry with cumin, curry spices, potatoes, vegetables and peanuts. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Noodle &amp; Rice",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "R1. Pad Thai (PT)",
+                            "description": "The famous Thai stir-fried noodles with egg and tofu; topped with lime wedge bean sprouts, chives, and peanuts. GF",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "R3. Si Ew Noodle (SE) ",
+                            "description": "A Thai street noodle stir-fry of vegetables, meat, egg, garlic-soy sauce, and black pepper. (not GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "R2. Spicy Noodle (SN) ",
+                            "description": "Kee maow, a wicked combination of flavors and heat. Noodles stir-fried, vegetables, meat, garlic, chili, and Thai basil .",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "R4. Fried Rice Kaow Pad (FR)",
+                            "description": "Kow Pad. Thailand&apos;s comfort food. Wok-fry rice, egg, vegetables, and pineapples.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "N1. Kow Soi (KS)",
+                            "description": "A popular Northern Thai-Lanna dish. Savoury curried broth, coconut milk, meat, egg noodles, crispy noodles, and toppings (not GF)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Wok Stir Fry",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "P3. Veggie Ready (mix veg)",
+                            "description": "A healthy Thai stir-fry with a variety of vegetables, garlic, a touch of sesame oil. served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "P1. Chili Basil (BSL)",
+                            "description": "Meat, chili, garlic, Thai basil, chili sauce, wok-fired vegetables (not GF). served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "P2. Craving Cashew (CC)",
+                            "description": "Meat, vegetables, onions, chili jam sauce, cashew nuts (not GF). served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides &amp; Extras",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coconut Rice",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain Rice",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peanut Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Chili",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Flakes",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sang kaya with coconut sticky rice",
+                            "description": "Homemade, sweet egg custard, coconut infused sticky rice, mung beans",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Utensils - free",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Need cutlery",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Daniel W"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "I ordered the Pad Thai and Spring Rolls. Spring Rolls were good. I ordered my Pad Thai &apos;Thai Spicy Hot&apos; but it was more of a medium. I also paid the $2.50 for extra veg but there wasn&apos;t a lot on there. Other than that it was tasty and a good portion size.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kate A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "C3. Panang (PN) is out of this world delicious. My go to."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Keon S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "very tasty Thai *TRAY Thai Coconutmilk Curry (does not include rice)"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mahyar S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "My #1 go-to place for thai food. Excellent service and food (both in-house and delivery). They close somewhat early so I can&apos;t always order, but I recommend this place 100%"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Danielle G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I order from Ma Now all the time and every single time it&apos;s amazing. Everything is so rich in flavour and they pay close attention to noted allergies. I&apos;ve never had a bad experience wether it&apos;s through door dash or dining in restaurant. "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Noodles",
+        "Fried Rice",
+        "Chicken",
+        "Thai",
+        "Vegan",
+        "Vegetarian",
+        "Asian"
+    ],
+    "url": "https://www.doordash.com/store/ma-now-thai-kitchen-port-coquitlam-204607/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17783557979",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:15 AM - 2:25 PM\",\"4:15 PM - 8:25 PM"
+        ],
+        "TUESDAY": [
+            "11:15 AM - 2:25 PM\",\"4:15 PM - 8:25 PM"
+        ],
+        "THURSDAY": [
+            "11:15 AM - 2:25 PM\",\"4:15 PM - 8:25 PM"
+        ],
+        "FRIDAY": [
+            "11:15 AM - 2:25 PM\",\"4:15 PM - 8:55 PM"
+        ],
+        "SATURDAY": [
+            "11:45 AM - 2:25 PM\",\"4:15 PM - 8:55 PM"
+        ],
+        "SUNDAY": [
+            "4:15 PM - 8:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:15 AM - 2:45 PM\",\"4:15 PM - 8:45 PM"
+        ],
+        "TUESDAY": [
+            "11:15 AM - 2:45 PM\",\"4:15 PM - 8:45 PM"
+        ],
+        "THURSDAY": [
+            "11:15 AM - 2:45 PM\",\"4:15 PM - 8:45 PM"
+        ],
+        "FRIDAY": [
+            "11:15 AM - 2:45 PM\",\"4:15 PM - 9:15 PM"
+        ],
+        "SATURDAY": [
+            "11:45 AM - 2:45 PM\",\"4:15 PM - 9:15 PM"
+        ],
+        "SUNDAY": [
+            "4:15 PM - 8:45 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,292 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "",
+        ""
+    ],
+    "name": "Burger Bay",
+    "address": "8265 Oak St, Vancouver, BC V6P 4A8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.21095",
+        "longitude": "-123.130455"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Create Your Own Burger",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Burger",
+                            "description": "Customized burger with choice of ciabatta, cheese bun, or sesame seed bun. Select fish, beef, bacon, paneer, or halloumi. Includes goat, havarti, cheddar, or parmesan cheese. Options for onions, tomatoes, pickles, jalapenos, cucumbers, romaine, shredded lettuce, or caramelized onions. Sauce options: mayo, ketchup, mustard, pickled mayo, soy lime aioli, tandoori, mint jalapeno, or sweet habanero sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers (Veg)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cottage Cheese Burger",
+                            "description": "Vegetarian. Marinated cottage cheese, cheese, and crispy onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mix Veg Burger",
+                            "description": "Vegetarian. A variety of vegetables, home-made sauces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Halloumi Sandwich",
+                            "description": "Vegetarian. Halloumi, spiced hummus, cucumber, tomato, and naan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burger (Non-Veg)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Cheese Burger",
+                            "description": "Bacon, herbed beef patty, cheese, crispy onion, and mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pollo Cajun",
+                            "description": "Chicken breast, herb aioli, cheese, tomato, and romaine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chicken Burger",
+                            "description": "Crispy chicken, poppy herb mayo, pickled onions, and arugula.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Heavyweight Burger",
+                            "description": "Herbed beef patty, pickled mayo, caramelized onions, Monterey jack cheese, and sesame buns.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Cheval",
+                            "description": "Herbed beef patty, cheese, crispy onion, mayo, and cucumber.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Burger",
+                            "description": "Marinated arctic salmon, lemon soy aioli, cheese, and crispy onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fishy Burger",
+                            "description": "Fried fish, cheese, crispy onion, and mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Cheesecake",
+                            "description": "Creamy cheesecake with a strawberry topping, perfect for strawberry lovers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Lava Cake",
+                            "description": "Rich, moist chocolate cake with a creamy, melted chocolate center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shirley Temple",
+                            "description": "Sparkling and refreshing mocktail with a delightful mix of soda and grenadine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Classic, refreshing carbonated beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Crisp, Refreshing Lemon-Lime Carbonated Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canada Dry Ginger Ale",
+                            "description": "Sparkling and refreshing, with a hint of ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Mocktail",
+                            "description": "Mango mocktail typically includes fresh mango juice blended with a mix of citrus and sweeteners, served chilled for a refreshing taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemonade",
+                            "description": "Refreshing citrus beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Burgers",
+        "Vegetarian",
+        "Cheesecake"
+    ],
+    "url": "https://www.doordash.com/store/burger-bay-vancouver-23241506/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+1(604) 726-8584",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 AM - 2:50 AM"
+        ],
+        "TUESDAY": [
+            "5 PM - 2:50 AM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 2:50 AM"
+        ],
+        "THURSDAY": [
+            "5 PM - 2:50 AM"
+        ],
+        "FRIDAY": [
+            "12 PM - 3:20 PM\",\"5 PM - 2:50 AM"
+        ],
+        "SATURDAY": [
+            "12 PM - 3:20 PM\",\"5 PM - 2:50 AM"
+        ],
+        "SUNDAY": [
+            "12 PM - 3:20 PM\",\"5 PM - 2:50 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 AM - 3:10 AM"
+        ],
+        "TUESDAY": [
+            "5 PM - 3:10 AM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 3:10 AM"
+        ],
+        "THURSDAY": [
+            "5 PM - 3:10 AM"
+        ],
+        "FRIDAY": [
+            "12 PM - 3:40 PM\",\"5 PM - 3:10 AM"
+        ],
+        "SATURDAY": [
+            "12 PM - 3:40 PM\",\"5 PM - 3:10 AM"
+        ],
+        "SUNDAY": [
+            "12 PM - 3:40 PM\",\"5 PM - 3:10 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

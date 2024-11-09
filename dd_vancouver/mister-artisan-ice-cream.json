@@ -1,0 +1,472 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/MisterArtisanIceCream_1141_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/c5afd326-f803-4d80-ad56-7c6221b78a60.jpg"
+    ],
+    "name": "Mister Artisan Ice Cream",
+    "address": "Mister Artisan Ice Cream, 1141 Mainland St, Vancouver, BC V6B 5P2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.275063",
+        "longitude": "-123.121376"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Oreo Sammie",
+                            "description": "Oreo ice cream filling with oreo crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Custard Sammie",
+                            "description": "Vanilla custard ice cream filling with oreo crust. DISCLAIMER: Sandwiches cannot be dipped or bruleed for travel as it may affect the quality of ice cream on arrival.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dark Chocolate Sammie",
+                            "description": "Dark chocolate ice cream filling with graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Oreo Pint",
+                            "description": "Rich, creamy ice cream blended with generous chunks of double-stuffed Oreo cookies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Vanilla Oat Milk Sammie",
+                            "description": "Vanilla ice cream made with oat milk with an oreo crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dark Chocolate Pint",
+                            "description": "Rich, creamy dark chocolate ice cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Custard Pint",
+                            "description": "Rich and creamy vanilla custard, perfect for enjoying by the spoonful.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookies &amp; Creme Pint",
+                            "description": "Our made in store vanilla custard ice cream mixed with oreo cookies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Mint Sammie",
+                            "description": "Strawberry mint ice cream  filling with graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Mint Pint",
+                            "description": "Creamy strawberry ice cream blended with refreshing mint.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Vanilla Oat Milk Pint",
+                            "description": "Vanilla ice cream made with oat milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earl Grey Sammie",
+                            "description": "Earl grey ice cream filling with graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pints",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dark Chocolate Pint",
+                            "description": "Rich, creamy dark chocolate ice cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Oreo Pint",
+                            "description": "Rich, creamy ice cream blended with generous chunks of double-stuffed Oreo cookies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Custard Pint",
+                            "description": "Rich and creamy vanilla custard, perfect for enjoying by the spoonful.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Mint Pint",
+                            "description": "Creamy strawberry ice cream blended with refreshing mint.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookies &amp; Creme Pint",
+                            "description": "Our made in store vanilla custard ice cream mixed with oreo cookies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earl Grey Pint",
+                            "description": "Earl Grey tea leaves are infused into our ice cream base, creating a smooth and aromatic Earl Grey flavor throughout this pint-sized dessert.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ritz Pint",
+                            "description": "Creamy ice cream with a rich, smooth texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Matcha Oat Milk  Pint",
+                            "description": "Matcha ice cream made with oat milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Vanilla Oat Milk Pint",
+                            "description": "Vanilla ice cream made with oat milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Ice Cream Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earl Grey Sammie",
+                            "description": "Earl grey ice cream filling with graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Mint Sammie",
+                            "description": "Strawberry mint ice cream  filling with graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Matcha Oat Milk Sammie",
+                            "description": "Matcha ice cream made with Oat Milk with an Oreo Crust",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dark Chocolate Sammie",
+                            "description": "Dark chocolate ice cream filling with graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Oreo Sammie",
+                            "description": "Oreo ice cream filling with oreo crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Custard Sammie",
+                            "description": "Vanilla custard ice cream filling with oreo crust. DISCLAIMER: Sandwiches cannot be dipped or bruleed for travel as it may affect the quality of ice cream on arrival.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Chocolate Sammie",
+                            "description": "Strawberry ice cream and chocolate cookie combine to create this dessert sandwich, typically featuring a rich, fruity filling.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Vanilla Oat Milk Sammie",
+                            "description": "Vanilla ice cream made with oat milk with an oreo crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Vanilla Oat Milk Sammie",
+                            "description": "Vanilla ice cream made with oat milk with an oreo crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Claudia L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "A gamble to satisfy a last-minute craving turned me into a fan. I wasn&apos;t expecting much but the Vanilla Custard Sammie is like the grown up Oreo ice cream sandwich I&apos;ve been waiting for. The Double Oreo Double Oreo Sammie had a beautiful malty flavour. Highly recommend."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Quinn W"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The ice cream sandwiches are my FAVOURITE!! Their staff are the sweetest and we love their vegan options &lt;3 thank you so much  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Owen E"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "the vanilla custard pint literally has no flavour at all"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Miguel E"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Ordered the Vanilla ice cream. It was tasteless, not sure if I ordered a &quot;sugar-free&quot; version or what was the problem, but no sweet flavor at all. Really disappointed because I paid 13 dollars for it."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Davey L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Can you bring back the milo with rice crispy please!"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.8
+    },
+    "servesCuisine": [
+        "Ice Cream",
+        "Dessert",
+        "Sweets"
+    ],
+    "url": "https://www.doordash.com/store/mister-artisan-ice-cream-vancouver-64775/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17783792833",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 10:20 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 10:20 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 10:20 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 10:20 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 10:50 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 10:50 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 10:50 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 10:30 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 10:30 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 10:30 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 10:30 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 11 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 11 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 11 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,872 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/b1497edb-0680-4d93-a604-8b579ed3737d.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/404c1179-98b9-4294-bc67-8ed59ab2a99a.jpg"
+    ],
+    "name": "Sweet Thea Bakery",
+    "address": "4789 Main St, Vancouver, BC V5V 3R8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.242264",
+        "longitude": "-123.10151"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hand Pie - Apple",
+                            "description": "Single serve Granny Smith Apple pie, with the same butter crust and filling as our large pies.  Dee-licious.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hand Pie - Sour Cherry",
+                            "description": "Single serve Sour Cherry Pie, with the same butter crust and filling as our large pies.  Bestest!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tarts",
+                            "description": "Thea&apos;s signature shortbread crust with hand made fillings made from real ingredients - classic, popular, and a great way to treat family and friends",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mini Cookie Variety Pack",
+                            "description": "A big favorite at the markets is thea’s mini cookie variety pack, which has 2 each of 6 different mini-cookies. It makes a great hostess gift, travel companion or just a treat for you!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cream Puffs",
+                            "description": "Decadent and delicious, our cream puffs are made using real cream and choux pastry - classic",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Cinnamon Danish",
+                            "description": "Delicate pastry filled with spiced apple and cinnamon, drizzled with a light glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hand Pie - Strawberry Rhubarb",
+                            "description": "Single serve Strawberry Rhubarb Pie, with the same butter crust and filling as our large pies.  Extreme yumminess.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Danish",
+                            "description": "Flaky pastry filled with tangy lemon curd, topped with a dusting of powdered sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Garlic Focaccia",
+                            "description": "Baked today - delicous!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Chip Cookies - Bag of 5",
+                            "description": "Thea’s version of this delicious ‘old standard’, made with real butter.  Bag of 5 cookies.\n\n(Nut free recipe -  we do use nuts in our bakery.)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Whole Grain &amp; Seeds Sourdough",
+                            "description": "20% Dark Rye, 30% Whole Wheat, Sesame Seeds, Flax Seeds, Sunflower Seeds, Whole Rolled Oats, Salt, Water, natural leavener\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Country Sourdough (Pain de Campagne)",
+                            "description": "The traditional classic sourdough.  20% whole wheat, \nUnbleached Organic Bread Flour, Salt, Water, all natural leavener. \n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cafe",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Sandwich",
+                            "description": "Enjoy our Chicken Sandwich, featuring:\n\nRoasted Chicken | Asiago Crema | Avocado Smash |Green goddess Slaw | Fresh Tomato.  As we only use fresh ingredients, we reserve the right to change out some veg based on quality and availability.\n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smashed Avocado Toast",
+                            "description": "Enjoy our Smash Avocado Toast, featuring:\n\nFried Eggs | Bacon Crumbs and Country Sourdough\n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Frittata",
+                            "description": "Enjoy our Frittata featuring:\n\nEggs | Roasted Zucchini | Sundried Tomato | Basil Pesto and Parmesan.\n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carmelized Mushroom Toast",
+                            "description": "Enjoy our Carmelized Mushroom Toast, featuring:\n\nBasil Pesto | Pecorino Cheese | Mushroom and Whole Grain and Seeds Sourdough Toast.\n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Sandwich",
+                            "description": "Enjoy our Breakfast Sandwich, featuring:\n\nFried Egg | Maple Bacon | Butter Cheese | Tomato Jam | Smoked Onion Aioli | Greens and Housemade Brioche Bun . We only use fresh ingredients, so may slightly differ based on availability. \n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Sandwich ",
+                            "description": "Enjoy our Vegetarian Sandwich, featuring:\n\nRoma Tomato | Bocconcini | Basil | Sundried Tomato | Tapenade | Roast Garlic Aioli and Baby Spinach. \n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Croissant",
+                            "description": "Enjoy our Breakfast Croissant, featuring:\n\nScrambled Eggs | Aged Cheddar | Caramelized Onions | Avocado | Spinach and Siracha Mayo. We use only fresh ingredients - may change slightly based on availability. \n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese",
+                            "description": "Enjoy our Grilled Cheese, featuring:\n\nAged Cheddar | Butter Cheese | Caramelized Onions  and Country Sourdough.\n\nKitchen Hours:\nMonday - Friday: 9am - 4pm\nSaturday - Sunday: 9am - 5pm\n\nOrders placed outside of these hours will not be available. We apologize for the inconvenience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Savory Pastries",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Roll",
+                            "description": "Delicious puff pastry enclosing our own house-made sausage.   All-natural ingredients make for a clean delicious snack that is unlike the bad commercial sausage rolls that plague our society.  Try it you will love it.  Laurie thinks it is the best in the city.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheddar &amp; Jalapeno Pull-Apart",
+                            "description": "Zesty morning favorite - baked fresh daily",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Eggs and Ham Breakfast Buddy",
+                            "description": "Egg, Spinach, Ham and Cheese in a fresh baked Brioche bun.  Easily one of our most popular items - absolutely satisfying and delicious",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham &amp; Swiss Cheese Croissant",
+                            "description": "Flaky goodness, fresh every morning and delicious all day",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon, Chive &amp; Cheddar Scone",
+                            "description": "Flaky scone with crispy bacon, fresh chives, and sharp cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach &amp; Feta Swirl",
+                            "description": "Golden pastry spiraled with savory spinach and tangy feta cheese, baked to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Croissant",
+                            "description": "flaky fresh baked goodness",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Scone",
+                            "description": "Fresh baked goodness",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Morning Glory Muffin",
+                            "description": "The same crazy-popular muffin that ferry passengers at our Tsawwassen location have made a best-seller!  Fresh daily",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Southwest Cornbread",
+                            "description": "This tasty treat is a lot more flavorful than you might expect.  Accidentally vegan - Thea was making something delicious and once she had finished the recipe she realized it was also Vegan!  Happy accident for those of us who are working on improving our eating habits",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cookies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Chip Cookies - Bag of 5",
+                            "description": "Thea’s version of this delicious ‘old standard’, made with real butter.  Bag of 5 cookies.\n\n(Nut free recipe -  we do use nuts in our bakery.)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolava Cookies - Bag of 5",
+                            "description": "A market favorite – tastes more like a brownie than a cookie!  Bag of 5 cookies.\n\n(Nut free recipe -  we do use nuts in our bakery.)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Crinkle Cookies - bag of 5",
+                            "description": "Just like grandma used to make!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shortbread Cookies - Bag of 7",
+                            "description": "Traditional scottish-style shortbread.  Bag of 7 delicious treats.\n\n(Nut free recipe -  we do use nuts in our bakery.)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - single",
+                            "description": "All of Thea&apos;s cookies are made with real ingredients - no preservatives, stabilizers, premixes - all hand made and delicious.  Give yourself a treat!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mini Cookie Variety Pack",
+                            "description": "A big favorite at the markets is thea’s mini cookie variety pack, which has 2 each of 6 different mini-cookies. It makes a great hostess gift, travel companion or just a treat for you!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Macaron - box of 12",
+                            "description": "12 gluten-free almond macaron - various flavors - so delicious and decadent!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sweet Pastries",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Celebration Cake",
+                            "description": "6 inch delicious layer cake, feeds 8 or so...",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$48.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Cinnamon Danish",
+                            "description": "Delicate pastry filled with spiced apple and cinnamon, drizzled with a light glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cake Slice",
+                            "description": "Classic delicious European style cake slice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Macaron Box of 6",
+                            "description": "Gluten free delicious fresh, mix of 6 different flavors",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tarts",
+                            "description": "Thea&apos;s signature shortbread crust with hand made fillings made from real ingredients - classic, popular, and a great way to treat family and friends",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Danish",
+                            "description": "Flaky pastry filled with tangy lemon curd, topped with a dusting of powdered sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Palmier",
+                            "description": "This is easily one of our best-sellers, flaky delicious and light.   We usually sell out by later in the day, so order early if you have the craving",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Croissant (Pain du Chocolat)",
+                            "description": "Delicate layers of flaky pastry filled with rich chocolate, topped with a dusting of powdered sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Hazelnut Babka",
+                            "description": "Rich, braided pastry filled with swirls of chocolate and topped with crunchy pistachios.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry &apos;Jam&apos;boree",
+                            "description": "Raspberry &amp; cream filled bun, baked this morning, one of Thea&apos;s latest great creations, simply scrumptions",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yogurt Parfait",
+                            "description": "Thea&apos;s homemade granola with compote and yogurt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Macaron Box of 12",
+                            "description": "Gluten free, variety of flavors",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cream Puffs",
+                            "description": "Decadent and delicious, our cream puffs are made using real cream and choux pastry - classic",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Almond Croissant",
+                            "description": "Double Baked deliciousness, filled with almond cream",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Berry Scone",
+                            "description": "Studded with juicy berries, this crumbly scone offers a delightful balance of sweetness and texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hand Pie - Apple",
+                            "description": "Single serve Granny Smith Apple pie, with the same butter crust and filling as our large pies.  Dee-licious.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hand Pie - Sour Cherry",
+                            "description": "Single serve Sour Cherry Pie, with the same butter crust and filling as our large pies.  Bestest!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Granny Smith Apple Pie",
+                            "description": "We use Granny Smith apples, which add a little tartness - and texturely so perfect!  8 servings.\n\n(vegetarian - we do not use lard - butter makes a nice flaky crust too!)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Rhubarb Pie",
+                            "description": "Strawberry and Rhubarb from the Fraser Valley make this a Vancouver favorite!  8 servings.\n\n(vegetarian - we do not use lard - butter makes a nice flaky crust too!)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hand Pie - Strawberry Rhubarb",
+                            "description": "Single serve Strawberry Rhubarb Pie, with the same butter crust and filling as our large pies.  Extreme yumminess.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bread",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Whole Grain &amp; Seeds Sourdough",
+                            "description": "20% Dark Rye, 30% Whole Wheat, Sesame Seeds, Flax Seeds, Sunflower Seeds, Whole Rolled Oats, Salt, Water, natural leavener\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic &amp; Rosemary Sourdough",
+                            "description": "Unbleached organic Bread Flour, Roasted Garlic, Potato, Rosemary, Black Pepper, Salt, Water, all natural leavener\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olive Sourdough",
+                            "description": "Unbleached Organic Bread Flour, Olives,\nSalt, Water, all natural leavener\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sourdough Baguette",
+                            "description": "Fresh daily.  Super popular item - may be sold out if you order late in the day.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rosemary Focaccia",
+                            "description": "Baked today!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fig &amp; Walnut Rye Sourdough",
+                            "description": "30% Rye, Unbleached Bread Four, Whole Wheat Flour, Water,  all natural leavener, Figs, Walnuts, Salt\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalapeno, Asiago &amp; Cheddar Sourdough",
+                            "description": "Unbleached Bread Flour, Pickled Jalapeno Peppers, \nAsiago Cheese, Cheddar Cheese Salt, Water,\nall natural leavener\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nine Grain Honey Sourdough",
+                            "description": "Oats, Rye Flakes, Wheat Germ, Bran, Whole Wheat Flour, Millet, Sunflower Seeds, Cornmeal, Unbleached Organic Bread Flour, Salt, Water, Honey, all natural leavener\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rugbrod (Traditional Danish Rye Bread)",
+                            "description": "Rye Flour, Rye Levain (Wild Yeast), Whole Rye Kernels, Sunflower Seed, Flax Seed, Water, Salt.  This is a very traditional dark rye bread - wrap well and store in the fridge, it will keep for a long while. \n\n(do not leave it on the counter, as it is a very well hydrated bread which may attract spores from the environment, turning it bad)\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Country Sourdough (Pain de Campagne)",
+                            "description": "The traditional classic sourdough.  20% whole wheat, \nUnbleached Organic Bread Flour, Salt, Water, all natural leavener. \n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Garlic Focaccia",
+                            "description": "Baked today - delicous!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Werklab I"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious and Fresh pastry. Babka is the best one I have ever had. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "G z"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Palmier Was indeed delicious as usual😋This is my first review for them. Because just recently found place. So after several weeks of ordering their tasty food &amp; quite regularly as well. So far sooo good. Definitely recommend this place. Reasonably priced too. Which is not common nowadays👍"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Georgette K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "This is my 2nd time trying this place. Finally, found a place that have actual Palmiers Delicious! 😋"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Rebecca S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I honestly wasn&apos;t expecting that much from this place, but it totally blew me away! So fresh, the flavours were fantastic, and best of all, they weren&apos;t too sweet! I will definitely be ordering from them again."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Susan O"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "I did got the Fig &amp; Walnut Rye Sourdough."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.7
+    },
+    "servesCuisine": [
+        "Cookies",
+        "Sweets",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/sweet-thea-bakery-vancouver-24437886/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6042260895",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "7 AM - 6:45 PM"
+        ],
+        "TUESDAY": [
+            "7 AM - 6:45 PM"
+        ],
+        "WEDNESDAY": [
+            "7 AM - 6:45 PM"
+        ],
+        "THURSDAY": [
+            "7 AM - 6:45 PM"
+        ],
+        "FRIDAY": [
+            "7 AM - 6:45 PM"
+        ],
+        "SATURDAY": [
+            "7 AM - 6:45 PM"
+        ],
+        "SUNDAY": [
+            "7 PM - 6:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "7 AM - 7 PM"
+        ],
+        "TUESDAY": [
+            "7 AM - 7 PM"
+        ],
+        "WEDNESDAY": [
+            "7 AM - 7 PM"
+        ],
+        "THURSDAY": [
+            "7 AM - 7 PM"
+        ],
+        "FRIDAY": [
+            "7 AM - 7 PM"
+        ],
+        "SATURDAY": [
+            "7 AM - 7 PM"
+        ],
+        "SUNDAY": [
+            "7 PM - 7 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

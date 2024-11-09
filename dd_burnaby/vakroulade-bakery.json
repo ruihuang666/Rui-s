@@ -1,0 +1,349 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "",
+        ""
+    ],
+    "name": "Vakroulade Bakery",
+    "address": "8650 Cinnamon Dr, Burnaby, BC V5A 4H7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.26471",
+        "longitude": "-122.91446"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "2 layers, ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coconut Mango mousse Cake ",
+                            "description": "Coconut dacquoise, layer of coconut mousse and mango mousse.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tres Leches",
+                            "description": "2 layers, sponge cake—soaked in three kinds of milk: cream, condensed milk, whole milk and pastry cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red velvet Cake",
+                            "description": "5.6” long (serving 5-6ppl). Red velvet swiss roll, rolled with red velvet cream frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rocher Hazelnut Cake",
+                            "description": "Brownie dacquoise, praline mousse and rocher’s.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red velvet Cake",
+                            "description": "Red velvet sponge, rolled with red velvet cream frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "8” round (serving 12-15 ppl). Carrot cake base, cheese frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.56"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Milk Chocolate Mango &amp; Passion fruit",
+                            "description": "5.6” long (serving 5-6ppl). Chocolate swiss roll, milk chocolate praline mousse and mango&amp; passion fruit cremeux.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "5.6” long (serving 5-6ppl). Carrot cake sheet rolled with cheese frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.76"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cake",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coconut Mango mousse Cake ",
+                            "description": "Coconut dacquoise, layer of coconut mousse and mango mousse.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tres Leches",
+                            "description": "2 layers, sponge cake—soaked in three kinds of milk: cream, condensed milk, whole milk and pastry cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "2 layers, ladyfingers dipped in coffee, layered with a whipped mixture of eggs, sugar, and mascarpone cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red velvet Cake",
+                            "description": "Red velvet sponge, rolled with red velvet cream frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rocher Hazelnut Cake",
+                            "description": "Brownie dacquoise, praline mousse and rocher’s.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Strawberry Short Cake",
+                            "description": "Vanilla Dacquoise, vanilla diplomate cream",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$50.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Chocolate Cake",
+                            "description": "Chocolate genoise and layer of dark chocolate mousse &amp; raspberry jelly.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Chocolate creamux Cake",
+                            "description": "Vegan chocolate Dacquoise, Chocolate creamux ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$50.76"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Baked",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "8” round (serving 12-15 ppl). Carrot cake base, cheese frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.56"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York Cheesecake (Classic, Strawberry, Biscoff)",
+                            "description": "8” round (serving 12-15 ppl). Graham cracker crust, cream cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.56"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eggless Cake",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Velvet Cake",
+                            "description": "Red Velvet sponge and cream cheese frosting",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.56"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Cake",
+                            "description": "8” round serving 12-15 ppl. Eggless sponge, pineapple cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.56"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Forest Cake",
+                            "description": "Eggless chocolate sponge, dak chocolate mousse, chantilly, sour cherry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.56"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Roulade",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red velvet Cake",
+                            "description": "5.6” long (serving 5-6ppl). Red velvet swiss roll, rolled with red velvet cream frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "5.6” long (serving 5-6ppl). Carrot cake sheet rolled with cheese frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.76"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Milk Chocolate Mango &amp; Passion fruit",
+                            "description": "5.6” long (serving 5-6ppl). Chocolate swiss roll, milk chocolate praline mousse and mango&amp; passion fruit cremeux.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.76"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Bakery",
+        "Cakes",
+        "Cookies"
+    ],
+    "url": "https://www.doordash.com/store/vakroulade-bakery-burnaby-26104572/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "2506318979",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "6 AM - 2 PM"
+        ],
+        "TUESDAY": [
+            "6 AM - 1:40 PM"
+        ],
+        "WEDNESDAY": [
+            "6 AM - 1:40 PM"
+        ],
+        "THURSDAY": [
+            "6 AM - 1:40 PM"
+        ],
+        "FRIDAY": [
+            "6 AM - 1:40 PM"
+        ],
+        "SATURDAY": [
+            "6 AM - 1:40 PM"
+        ],
+        "SUNDAY": [
+            "6 AM - 1:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "6 AM - 2 PM"
+        ],
+        "TUESDAY": [
+            "6 AM - 2 PM"
+        ],
+        "WEDNESDAY": [
+            "6 AM - 2 PM"
+        ],
+        "THURSDAY": [
+            "6 AM - 2 PM"
+        ],
+        "FRIDAY": [
+            "6 AM - 2 PM"
+        ],
+        "SATURDAY": [
+            "6 AM - 2 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

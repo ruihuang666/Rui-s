@@ -1,0 +1,993 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/8d7b2c09-53f2-459f-af4a-1f0da242c1dd.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/f153c65a-5de7-4d2f-847c-1907a13b05c5.jpg"
+    ],
+    "name": "Sabor mexicano restaurant",
+    "address": "2665 Kingsway, Vancouver, BC V5R 5H4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.238747",
+        "longitude": "-123.051125"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tacos of Pastor",
+                            "description": "Marinated pork tacos with chopped onions, cilantro, lime wedges, and a side of radish slices. Served with green and red salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ramen Birria",
+                            "description": "Tender birria meat with ramen noodles in a rich, savory broth, garnished with chopped onions and lime wedges.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Enchiladas",
+                            "description": "Corn tortillas filled with savory ingredients, topped with green salsa, crema, radish slices, and fresh cilantro. Served with refried beans and Mexican rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tamales",
+                            "description": "Corn dough stuffed with chicken and mexican sauce (green or red).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burritos (Largue) Flour Tortilla",
+                            "description": "A large flour tortilla filled and topped with rich red sauce, drizzled with crema, and garnished with fresh avocado slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quesabirrias",
+                            "description": "Corn tortilla filled with slow-cooked beef, melted cheese, onions, and cilantro, typically served with a side of consommé for dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Horchata",
+                            "description": "Refreshing rice-based cinnamon beverage, a traditional Mexican delight.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jarritos",
+                            "description": "Refreshing Mexican soda in a variety of flavors, perfect to complement any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca-Cola Mexicana",
+                            "description": "Imported cola from Mexico, sweetened with cane sugar, typically served in a glass bottle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tacos",
+                            "description": "Seasoned beef nestled in a soft or hard tortilla, typically garnished with lettuce, cheese, and often accompanied by salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gordita of Carnitas",
+                            "description": "Handmade corn gordita filled with slow-cooked carnitas, typically includes beans, lettuce, cheese, and sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tacos of Chorizo with Potatoes",
+                            "description": "Mexican chorizo and diced potatoes, typically includes onions and cilantro, served in tortillas.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Platillo",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Champurrado",
+                            "description": "Rich and comforting Mexican-style hot chocolate for all chocolate lovers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gordita",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gordita of Pork Meat in Green or Red Salsa",
+                            "description": "Gordita filled with pork meat, choice of red or green salsa",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shredded Chicken Gorditas",
+                            "description": "Hearty gorditas filled with shredded chicken, crisp lettuce, and savory beans, all encased in thick, soft corn masa pockets.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gorditas of Poblano Pepper with Cream",
+                            "description": "Gordita filled with poblano pepper strips and cream, typically includes beans and cheese, encased in a handmade corn masa shell.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gorditas of Red Poblano Mole Our Green Mole",
+                            "description": "Thick corn tortilla filled with red poblano or green mole sauce, typically accompanied by beans and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gorditas of Chorizo and Potatoes",
+                            "description": "Handmade gordita filled with a savory mix of chorizo and potatoes, typically accompanied by lettuce, queso fresco, and a dollop of sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gorditas of Shredded Beef with Potatoes",
+                            "description": "Gordita filled with shredded beef and potatoes, typically includes beans, cheese, and a blend of Mexican spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gordita of Carnitas",
+                            "description": "Handmade corn gordita filled with slow-cooked carnitas, typically includes beans, lettuce, cheese, and sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gorditas of Poblano Pepper and Potatoes",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Tacos",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tacos of Pastor",
+                            "description": "Marinated pork tacos with chopped onions, cilantro, lime wedges, and a side of radish slices. Served with green and red salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tacos Shredded Pork / Carnitas",
+                            "description": "Slow-cooked shredded pork, typically served on corn tortillas with a garnish of onions and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tongue Tacos",
+                            "description": "Beef tongue tacos, served in soft corn tortillas, typically include finely chopped onion and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tacos",
+                            "description": "Seasoned beef nestled in a soft or hard tortilla, typically garnished with lettuce, cheese, and often accompanied by salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Taco of Rajas with Cream",
+                            "description": "Poblano peppers and onions, gently sautéed and enveloped in a rich, creamy sauce, nestled in a soft corn tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Tacos / Barbacoa",
+                            "description": "Slow-cooked, shredded lamb typically includes onions, cilantro, and a blend of traditional spices, served in a corn tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tacos of Chorizo with Potatoes",
+                            "description": "Mexican chorizo and diced potatoes, typically includes onions and cilantro, served in tortillas.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Huarache",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Huarache Lab Barbacoa",
+                            "description": "Handmade corn huarache topped with barbacoa, typically includes beans, lettuce, cheese, sour cream, and a blend of traditional Mexican toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Huarache Carnitas and Beans",
+                            "description": "Handmade corn huarache topped with slow-cooked carnitas, refried beans, and typically garnished with lettuce and a sprinkle of cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Huarache Rajas with Cream Poblano Pepper",
+                            "description": "Handmade corn flatbread topped with creamy poblano pepper strips (rajas), typically includes refried beans, a drizzle of cream, and a sprinkle of cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Huarache Chorizo and Potatoes",
+                            "description": "Handmade corn tortilla topped with chorizo, potatoes, refried beans, lettuce, and cheese, finished with a dollop of sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Huarache Chicken and Pico De Gallo",
+                            "description": "Handmade corn tortilla forms the base for this huarache, generously topped with chicken, refried beans, and fresh pico de gallo, finished with a sprinkle of cotija cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca-Cola Mexicana",
+                            "description": "Imported cola from Mexico, sweetened with cane sugar, typically served in a glass bottle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jarritos",
+                            "description": "Refreshing Mexican soda in a variety of flavors, perfect to complement any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Horchata",
+                            "description": "Refreshing rice-based cinnamon beverage, a traditional Mexican delight.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jamaica",
+                            "description": "Refreshing Hibiscus Tea, a Classic Caribbean Beverage",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Can of Pop",
+                            "description": "Selection of canned sodas including cola, diet cola, and lemon-lime flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Tamales",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Tamales",
+                            "description": "Sweet tamale made with a masa dough, typically includes ingredients like fruits and cinnamon, wrapped in a corn husk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tamales",
+                            "description": "Corn dough stuffed with chicken and mexican sauce (green or red).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tamales with Mole and Chicken",
+                            "description": "Corn dough stuffed with our traditional poblano mole and chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Menu",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quesabirrias",
+                            "description": "Corn tortilla filled with slow-cooked beef, melted cheese, onions, and cilantro, typically served with a side of consommé for dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burritos (Largue) Flour Tortilla",
+                            "description": "A large flour tortilla filled and topped with rich red sauce, drizzled with crema, and garnished with fresh avocado slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ramen Birria",
+                            "description": "Tender birria meat with ramen noodles in a rich, savory broth, garnished with chopped onions and lime wedges.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tarasca",
+                            "description": "A refreshing blend of traditional Mexican flavors, typically served as a beverage, combining unique ingredients for a satisfying drink experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chile Relleno Baked",
+                            "description": "Roasted poblano pepper stuffed with cheese, topped with melted cheese, served with Mexican rice, refried beans, and a side of fresh pico de gallo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Pastor",
+                            "description": "Telera bread filled with marinated pork pastor, pineapple, onions, cilantro, and a spread of mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Beef",
+                            "description": "Juicy shredded beef layered with fresh lettuce and avocado slices, served in a soft, toasted roll. Accompanied by a side of savory dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta De Birria",
+                            "description": "Torta de birria typically includes tender birria meat, melted cheese, onions, cilantro, and a side of consomé, all nestled within a soft telera bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Guacamole",
+                            "description": "Fresh, creamy avocado dip, seasoned with lime and cilantro. Perfect for sharing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mexican Rice",
+                            "description": "Spicy rice seasoned with Mexican flavors, perfect as a side or base for your favorite dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajeta Flan",
+                            "description": "Cajeta flan is a creamy custard dessert topped with a sweet goat milk caramel sauce, often enjoyed for its smooth and rich texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Chip",
+                            "description": "A generous portion of crispy corn tortilla chips, typically served as a complement to dips or salsas.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Menudo Soup",
+                            "description": "Menudo soup is a traditional Mexican broth featuring beef tripe and hominy, seasoned with a red chili pepper base. Often garnished with onions, cilantro, and lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shredded Chicken Tostadas",
+                            "description": "Crisp tortilla topped with shredded chicken, refried beans, lettuce, cheese, and a dollop of sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pambazos",
+                            "description": "Pambazos feature bread soaked in guajillo pepper sauce, filled with potatoes and chorizo, garnished with lettuce, sour cream, and queso fresco.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chilaquiles Red or Green",
+                            "description": "Corn tortilla pieces, lightly fried, topped with your choice of red or green salsa. Served traditionally.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chilaquiles of Chicken Mole",
+                            "description": "Tender chicken chilaquiles topped with rich mole sauce, drizzled with crema, and sprinkled with cheese. Served with refried beans and Mexican rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Chicken",
+                            "description": "A torta of chicken typically includes a soft bun layered with seasoned chicken, mayonnaise, lettuce, tomato, and avocado, often garnished with refried beans and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Chorizo with Potatoes",
+                            "description": "A Mexican sandwich featuring chorizo and potatoes, typically accompanied by beans, cheese, avocado, lettuce, and tomato on a toasted bolillo bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Asado De Puerco",
+                            "description": "Asado de puerco consists of tender pork, slow-cooked in a rich, spicy sauce made from chile guajillo and other traditional spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Enchiladas",
+                            "description": "Corn tortillas filled with savory ingredients, topped with green salsa, crema, radish slices, and fresh cilantro. Served with refried beans and Mexican rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Enmoladas",
+                            "description": "Corn tortillas filled with shredded chicken, generously coated in a traditional mole sauce, and garnished with queso fresco and red onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coconut Flan",
+                            "description": "Homemade coconut flan, typically includes a smooth custard base with coconut milk, topped with a caramel sauce and sprinkled with toasted coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chips",
+                            "description": "Bag of our homemade corn tortilla chips, typically served as a crunchy snack.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homemade Salsa",
+                            "description": "Made with a blend of fresh tomatoes, onions, cilantro, and jalapeños, complemented by a hint of lime juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beans and Chips",
+                            "description": "Corn tortilla chips accompanied by a serving of freshly prepared beans, typically garnished with a sprinkle of white cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Escabeche",
+                            "description": "Escabeche typically consists of marinated vegetables like carrots, cauliflower, and onions, infused with flavors of garlic, serrano peppers, and cilantro, often finished with olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beans and Chips",
+                            "description": "Corn tortilla chips accompanied by a serving of our homemade refried beans, typically garnished with a sprinkle of white cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mozzarella Cheese",
+                            "description": "Breaded mozzarella cheese sticks, typically served with a side of marinara sauce for dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mexican Cream",
+                            "description": "Mexican cream typically includes a rich blend of dairy, often used as a topping or ingredient in various desserts and savory dishes, enhancing flavors with its smooth texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Lime",
+                            "description": "Sliced or wedged limes, often accompanying dishes to enhance flavor with a citrusy zest.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oregano",
+                            "description": "Oregano, typically used as a seasoning, enhances the flavors of various dishes, suggesting its presence in this item may indicate a herb-focused offering.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pico De Gallo Regular with Chips",
+                            "description": "Diced tomatoes, onions, cilantro, and jalapeños, served with homemade tortilla chips.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Beef Tongue",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Carnitas",
+                            "description": "Carnitas torta with cheese, lettuce, tomatoes, onions, cilantro, sour cream, and spicy or mild sauce on traditional Mexican bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Corn Tortillas",
+                            "description": "Handmade, authentic corn tortillas - the perfect base for your favorite fillings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado",
+                            "description": "Fresh and creamy fruit with a rich taste, perfect for adding a touch of luxury to any dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Tostadas",
+                            "description": "Crispy flat corn tortillas typically topped with a generous layer of refried beans, accompanied by a selection of toppings including lettuce, cheese, and sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Order of 4 Tortillas",
+                            "description": "Four tortillas, handcrafted and typically made from either corn or flour, based on traditional Mexican recipes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torta of Tamal Stuffed",
+                            "description": "A torta featuring a tamale center, typically accompanied by beans, mayonnaise, lettuce, and tomato, all served within a traditional Mexican bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Trang V"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Food tasted better than it looked! we were worried about the taste...looked kind of sad. Salsa came in a plastic bag, which was off-putting. Will order again"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Chris C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "This place is fantastic.  You know it&apos;s good when half the patrons are Mexican "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Brian T"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great tacos"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tim L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Two of the three items we ordered weren&apos;t available and were replaced with other things. No pictures of items or descriptions explained what the items are on DoorDash.."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Mexican",
+        "Tortas",
+        "Chicken"
+    ],
+    "url": "https://www.doordash.com/store/sabor-mexicano-restaurant-vancouver-26110036/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6045663445",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 8:25 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 8:25 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 8:25 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 8:25 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 8:25 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 8:25 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 8:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

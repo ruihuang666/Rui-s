@@ -1,0 +1,271 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/66dfb328-c705-423b-9894-26867d7da6f6.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/78d4f685-00c6-40e8-9da4-29b50080aee7.png"
+    ],
+    "name": "Casa Eatalia",
+    "address": "2638 E Hastings St, Vancouver, BC V5K 1Z6, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28105704745794",
+        "longitude": "-123.05094565606052"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Pizza Romana",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Capricciosa Pizza (Full)",
+                            "description": "Prosciutto cotto, mushrooms, artichokes, and olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita Pizza (Full)",
+                            "description": "Mozzarella, and tomatoes sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prosciutto Pizza (Full)",
+                            "description": "Prosciutto, burrata, and arugula.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$41.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato Rosemary Pizza (Full)",
+                            "description": "With or without the pancetta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Vegetable Pizza (Full)",
+                            "description": "Eggplant, roasted peppers, roasted cherry tomatoes, asparagus, and pesto.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Truffle Mushroom Pizza (Full)",
+                            "description": "Truffle, and mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Anchovy Pizza (Full)",
+                            "description": "Anchovy, olive, oregano, and cappers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Soppressata Pizza (Full)",
+                            "description": "Spicy. Spicy soppressata, roasted peppers, and olive.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata Margherita Pizza",
+                            "description": "Creamy burrata, fresh basil leaves, and cherry tomatoes on a classic tomato and mozzarella base.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Belly Pizza (Full)",
+                            "description": "Pork belly sundried tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$41.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Pizza",
+                            "description": "Tuna in olive oil, Spanish onion, and olives on a traditional Roman-style crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Water",
+                            "description": "Clear, refreshing bottled water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sparkling Water",
+                            "description": "Effervescent, refreshing water with a lively burst of bubbles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sparkling Ice",
+                            "description": "Lemon/lime\ncoconut/pineapple \ncherry/limeade.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chinotto Drink",
+                            "description": "A carbonated Italian soda, crafted from the distinctive chinotto oranges and a unique blend of herbs for a bittersweet taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.15"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Add Extra",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Mozzarella Cheese",
+                            "description": "An additional serving of mozzarella cheese, typically used to enhance the flavor and texture of various Italian dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Burrata",
+                            "description": "A serving of creamy burrata cheese, typically enjoyed as an addition to enhance a variety of dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lasagna",
+                            "description": "Beef, pork with besciamella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Italian Restaurant",
+        "Italian",
+        "Pizza"
+    ],
+    "url": "https://www.doordash.com/store/casa-eatalia-vancouver-23055718/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+1(604) 842-0462",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 4:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 4:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 4:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 4:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 4:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 4:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 5 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 5 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 5 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 5 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 5 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 5 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

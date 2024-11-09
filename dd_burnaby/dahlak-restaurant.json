@@ -1,0 +1,491 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Dahlak_Restaurant_Burnaby.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/ff5cb001-143a-41a2-b130-e438258095ad.jpg"
+    ],
+    "name": "Dahlak Restaurant",
+    "address": "7868 Edmonds St, Burnaby, BC V3N 1B8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.225754",
+        "longitude": "-122.93772"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Combo Platter",
+                            "description": "green beans, cabbage, red lentil, yellow lwntil, shiro, smoked chickpea. served with injera",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dahlak Tibsi Combo",
+                            "description": "Your choice of Tibsi assorted with Dahlak alcha, spinach, shiro, and lentils. Serves up to two persons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Awaze Tibsi",
+                            "description": "cubes of lamb sauteed in red sauce with onion and garlic berbere sauce. served with injera.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus Dip",
+                            "description": "Hummus served with pita bread, crispy mushrooms, and fried onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Platter",
+                            "description": "lamb/chicken with caramelized onion and garlic served with hummus, green salad tomato, tahini and dip",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spring Chicken",
+                            "description": "cubes of chicken breast, sauteed with onion, garlic and jalapeno sauce spicy and mild option. Served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kitfo",
+                            "description": "minced raw beef, butter sauce and special spice mix served with injera. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tsaeda Tibsi",
+                            "description": "cubes of lamb sauteed with onion, garlic and jalapeno sauce. served with injera",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dahlak Zilzil Tibsi",
+                            "description": "Strip of tender lamb marinated with special dahlak sauce and sauteed with onions, fresh garlic, and jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "kitcha fitfit vegan ",
+                            "description": "crispy fried bread in sweet and spicy tomato sauce, top with fresh onion, tomato and jalapeno. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tibsi",
+                            "description": "cubes of chicken breast sauteed with onion, garlic and jalapeno sauce. Red and white option sauce. Served with injera",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Wrap",
+                            "description": "lamb/chicken with caramelized onion and garlic ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus Dip",
+                            "description": "Hummus served with pita bread, crispy mushrooms, and fried onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Anises crispy chicken",
+                            "description": "buttered chicken thighs fried, served with sauteed mushrooms and bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Fried Lamb",
+                            "description": "served in a slow cooked house jalapeno sauce and served with grilled pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "House Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Salad",
+                            "description": "Fresh mixed greens with seasonal vegetables",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mediterranean",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Platter",
+                            "description": "lamb/chicken with caramelized onion and garlic served with hummus, green salad tomato, tahini and dip",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Wrap",
+                            "description": "lamb/chicken with caramelized onion and garlic ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus shea",
+                            "description": "freshly made hummus plate topped with sauteed lamb, caramelized onion, bell pepper and jalapeno, garlic served with grilled pita",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spring Chicken",
+                            "description": "cubes of chicken breast, sauteed with onion, garlic and jalapeno sauce spicy and mild option. Served with rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dahlak Traditional Mains",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tibsi",
+                            "description": "cubes of chicken breast sauteed with onion, garlic and jalapeno sauce. Red and white option sauce. Served with injera",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Combo Platter",
+                            "description": "green beans, cabbage, red lentil, yellow lwntil, shiro, smoked chickpea. served with injera",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shiro Dish",
+                            "description": "smoked chickpea stew, with sauteed onion, garlic and fresh tomatoes. served with injera and salad",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dahlak Zilzil Tibsi",
+                            "description": "Strip of tender lamb marinated with special dahlak sauce and sauteed with onions, fresh garlic, and jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Awaze Tibsi",
+                            "description": "cubes of lamb sauteed in red sauce with onion and garlic berbere sauce. served with injera.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tsaeda Tibsi",
+                            "description": "cubes of lamb sauteed with onion, garlic and jalapeno sauce. served with injera",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dahlak Tibsi Combo",
+                            "description": "Your choice of Tibsi assorted with Dahlak alcha, spinach, shiro, and lentils. Serves up to two persons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kitfo",
+                            "description": "minced raw beef, butter sauce and special spice mix served with injera. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kitcha fitfit",
+                            "description": "minced beef mixed with crispy fried bread, with sweet and spicy tomato sauce, top with fresh onion, tomato and jalapeno. Served with yogurt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "kitcha fitfit vegan ",
+                            "description": "crispy fried bread in sweet and spicy tomato sauce, top with fresh onion, tomato and jalapeno. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SIdes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pita Bread",
+                            "description": "Fluffy, warm pita bread, perfect for dips and wraps.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "yogurt",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "injera",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "rice",
+                            "description": "Flavorful rice dish prepared to perfection, showcasing an ideal complement for any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gingerale",
+                            "description": "Refreshing, crisp ginger-flavored carbonated soft drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cola",
+                            "description": "Cola selection: Choose from Coke, Fanta, Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Crisp, Refreshing Lemon-Lime Carbonated Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.2
+    },
+    "servesCuisine": [
+        "Shawarma",
+        "Mediterranean",
+        "Coffee",
+        "Salads"
+    ],
+    "url": "https://www.doordash.com/store/dahlak-restaurant-burnaby-610422/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16045157774",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 10:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 11 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 11 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 11 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 11 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 11 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 11 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

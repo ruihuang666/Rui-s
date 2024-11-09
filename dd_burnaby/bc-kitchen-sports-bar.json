@@ -1,0 +1,647 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/BCKitchen39603_1.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/e9d740be-53d5-4a12-a771-dd06215bee8a.463"
+    ],
+    "name": "BC Kitchen: Sports Bar",
+    "address": "39 Smithe St, Vancouver, BC V6B 1C2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.27521",
+        "longitude": "-123.11381"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Churros",
+                            "description": "cinnamon sugar dust  &amp; dulce de leche.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Crispy, golden fries with a light, crunchy exterior and tender interior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calamari",
+                            "description": "Banana peppers, parsley, lemon, tartar sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish &amp; Chips",
+                            "description": "Cod, beer batter, slaw, fries, tartar sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Buffalo, Maple Bacon, Lemon &amp; Pepper, Salt &amp; Pepper wings come with blue cheese dressing. \nKorean BBQ wings come with Gochujang sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Mac &apos;n&apos; Cheese",
+                            "description": "Cavatappi noodles, cheddar sauce, crispy onions. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Dry Ribs",
+                            "description": "Salt, pepper and fresh lime. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buffalo Cauliflower",
+                            "description": "Blue Cheese dip. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar",
+                            "description": "Grana Padano cheese, croutons, and house dressing. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garden Burger (v)",
+                            "description": "Brown rice &amp; vegetable blend, burger sauce, lettuce, tomato and pickle. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BCK Beef Dip",
+                            "description": "Smoked Prime Rib, garlic butter, baguette, au jus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tater Tots ",
+                            "description": "Crispy golden tots, perfect for dipping. A comforting classic side dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Buffalo, Maple Bacon, Lemon &amp; Pepper, Salt &amp; Pepper wings come with blue cheese dressing. \nKorean BBQ wings come with Gochujang sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buffalo Cauliflower",
+                            "description": "Blue Cheese dip. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calamari",
+                            "description": "Banana peppers, parsley, lemon, tartar sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Poutine",
+                            "description": "Cheese curds, Thick-cut fries, gravy. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Dry Ribs",
+                            "description": "Salt, pepper and fresh lime. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Real Big Soft Pretzel",
+                            "description": "Stadium Cheese Sauce and Hot Mustard Dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nacho Stack",
+                            "description": "Corn tortilla chips, stadium cheese sauce, 3-cheese mix, grilled onions, tomatoes,  salsa and guacamole. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tikka Sliders (3pc)",
+                            "description": "Potato buns, Mint chutney, Cucumber tomato salad. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar",
+                            "description": "Grana Padano cheese, croutons, and house dressing. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chinese Chicken Salad",
+                            "description": "Grilled chicken, cabbage, iceberg lettuce, carrots, cucumber, edamame, crispy wontons, sesame ginger dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers &amp; Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BCK Beef Dip",
+                            "description": "Smoked Prime Rib, garlic butter, baguette, au jus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheddar Burger",
+                            "description": "Burger sauce, brioche bun, lettuce, tomato and pickle. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Champ Burger",
+                            "description": "Cheddar cheese, onion ring, smoked bacon, lettuce, tomato, pickle and fried egg. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Stack Burger",
+                            "description": "Double patty, cheddar cheese, onion ring, lettuce, tomato, pickle and brioche bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Famous Hot Chicken",
+                            "description": "Buttermilk fried, spicy mayo, brioche bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blackened Chicken Burger",
+                            "description": "Cajun spiced, mayonnaise, and guacamole. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garden Burger (v)",
+                            "description": "Brown rice &amp; vegetable blend, burger sauce, lettuce, tomato and pickle. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.45"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita Pizza (v)",
+                            "description": "Size: 12&quot;\nGem tomatoes, mozzarella, and basil. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Pizza",
+                            "description": "Size: 12&quot;\nSpicy pickle peppers, red onion, mozzarella, garlic cheese sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fancy Mushroom Pizza",
+                            "description": "Size: 12&quot;\nRoasted Mushrooms, truffle, caramelized onion, white sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BC Back Country Pizza",
+                            "description": "Size: 12&apos;&apos;\nhorizo, pepperoni, mozzarella, provolone. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Pizza",
+                            "description": "Size: 12&quot;\nTomato sauce, provolone, mozzarella. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onion Rings",
+                            "description": "Crispy, golden-brown onion rings with a light, crunchy batter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Crispy, golden fries with a light, crunchy exterior and tender interior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Potato Fries",
+                            "description": "Crispy and flavorful fries made from sweet potatoes, a delightful twist on a classic favorite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tater Tots ",
+                            "description": "Crispy golden tots, perfect for dipping. A comforting classic side dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brown Gravy",
+                            "description": "A rich, savory brown gravy, typically served alongside traditional Chinese dishes to enhance their flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Waffle Fries",
+                            "description": "Crispy golden fries with a unique waffle-cut shape, served hot and delicious.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Entrees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish Tacos (3pcs)",
+                            "description": "Cod, tortillas, slaw, pickled red onion, and salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish &amp; Chips",
+                            "description": "Cod, beer batter, slaw, fries, tartar sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mee Goreng (v)",
+                            "description": "Thick Noodle, egg, wok vegetables, crispy onion, and sweet-spicy soy sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smocked Chicken Quesadilla ",
+                            "description": "Cheddar cheese, green onion, guacamole, salsa. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken ",
+                            "description": "Cucumber tomato salad, crispy papadum, jasmine rice. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gochujang Glazed Salmon ",
+                            "description": "Iceberg lettuce &amp; cabbage salad, edamame, crispy wontons, jasmine rice, sesame ginger dressing. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Mac &apos;n&apos; Cheese",
+                            "description": "Cavatappi noodles, cheddar sauce, crispy onions. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wonton Noodle Soup",
+                            "description": "Shrimp &amp; Pork Wontons, egg noodle, broccoli, pork bone broth",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Churros",
+                            "description": "cinnamon sugar dust  &amp; dulce de leche.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Stephanie B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "The food was tasty enough, but as a Mac &amp; Cheese connoisseur it was disappointing. Despite being well cooked, it was bland and almost felt processed. My calamari was alright, crispy and zesty enough."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Adam M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Had my doubts ordering from a casino. Pizza is good and spring rolls tasty.  They gave 3 instead of 2. "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Chinese",
+        "Burgers",
+        "Pizza",
+        "Dim Sum",
+        "Barbecue"
+    ],
+    "url": "https://www.doordash.com/store/bc-kitchen:-sports-bar-vancouver-241037/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17783708300",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 8:35 PM"
+        ],
+        "TUESDAY": [
+            "4 PM - 8:35 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 8:35 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 8:35 PM"
+        ],
+        "FRIDAY": [
+            "4 PM - 10:35 PM"
+        ],
+        "SATURDAY": [
+            "4 PM - 10:35 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 8:35 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "4 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "4 PM - 11 PM"
+        ],
+        "SATURDAY": [
+            "4 PM - 11 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

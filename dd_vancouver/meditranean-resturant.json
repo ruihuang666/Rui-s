@@ -1,0 +1,856 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/4eafb685-f355-425b-81c1-2b9e38109492.jpeg",
+        ""
+    ],
+    "name": "Meditranean Resturant",
+    "address": "1152 Denman St, Vancouver, BC V6G 2M9, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28765",
+        "longitude": "-123.14088"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Plate (Chicken)",
+                            "description": "Choice of plain, barberry, dill, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Plate (Lamb &amp; Beef)",
+                            "description": "Lamb &amp; beef shawarma served with choice of rice: dill, barberry, plain, or green. Available in regular or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Lamb Plate",
+                            "description": "Roasted lamb served with your choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Souvlaki Plate (Chicken)",
+                            "description": "Chicken Souvlaki Plate: Choice of 1 or 2 skewers, served with options of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stew &amp; Rice (Beef &amp; Eggplant)",
+                            "description": "Beef and eggplant stew served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Donair Pita (Beef &amp; Lamb)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Shawarma Pita (Chicken)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Beef Kabob (Vaziri)",
+                            "description": "Mediterranean chicken and beef kebabs, served with choice of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Souvlaki Plate (Beef)",
+                            "description": "Beef souvlaki served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Pie Plate (Veggie)",
+                            "description": "Spanakopita plate: savoury spinach pie, choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolma &amp; Tzatziki Dip",
+                            "description": "6-piece dolma served with tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Pie &amp; Tzatziki Dip",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel &amp; Hummus Dip",
+                            "description": "5-piece falafel served with hummus dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolma &amp; Tzatziki Dip",
+                            "description": "6-piece dolma served with tzatziki dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Pie &amp; Tzatziki Dip",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Dip",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soup of the Day",
+                            "description": "Chef&apos;s choice soup, made fresh daily with the finest ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Wings",
+                            "description": "Choice of flavors: hot, smokey or barbeque.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus with Pita",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tzatziki with Pita",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Main Courses",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steak &amp; Ground Beef Kabob (Sultani)",
+                            "description": "Sultani kebab: combination of steak and ground beef, served with choice of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Lamb Plate",
+                            "description": "Roasted lamb served with your choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Plate (Lamb &amp; Beef)",
+                            "description": "Lamb &amp; beef shawarma served with choice of rice: dill, barberry, plain, or green. Available in regular or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Plate (Chicken)",
+                            "description": "Choice of plain, barberry, dill, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Souvlaki Plate (Beef)",
+                            "description": "Beef souvlaki served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Kabob (Joojeh)",
+                            "description": "Chicken kabob, choice of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ground Beef Kabob Plate (Koobideh)",
+                            "description": "Ground beef kabob plate with choice of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Donair Pita (Beef &amp; Lamb)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Shawarma Pita (Chicken)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Plate (Veggie)",
+                            "description": "Falafel served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stew &amp; Rice (Beef &amp; Eggplant)",
+                            "description": "Beef and eggplant stew served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Souvlaki Plate (Chicken)",
+                            "description": "Chicken Souvlaki Plate: Choice of 1 or 2 skewers, served with options of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Souvlaki Plate (Lamb)",
+                            "description": "Lamb souvlaki served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Chop Plate",
+                            "description": "Lamb chops served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Beef Kabob (Vaziri)",
+                            "description": "Mediterranean chicken and beef kebabs, served with choice of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Royal Kabob",
+                            "description": "1 skewer of joojeh/chicken, 1 skewer of barg/beef.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Greek Salad",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "One Skewer of Ground Beef Kabob Plate",
+                            "description": "Add salad &amp; tzatziki for an extra cost.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Kabob Pita (Ground Beef)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Falafel Pita (Veggie)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shawarma Salad",
+                            "description": "Shawarma Salad: Choice of mixed, lamb, or chicken &amp; lamb atop crisp greens with Mediterranean flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stew &amp; Rice (Beef &amp; Herbs)",
+                            "description": "Hearty beef stew, simmered with Mediterranean herbs. Served with your choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Shank Plate",
+                            "description": "Lamb shank served with choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Kabob (Steak)",
+                            "description": "Steak kebab, choices of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Kabob (Shashlik)",
+                            "description": "Lamb Kabob: skewered, grilled lamb, served with choice of tomato or potato side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Sampler",
+                            "description": "Dolma, falafel, tzatziki dip, salad &amp; hummus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Family Platter Plate",
+                            "description": "1 koobideh, 1 steak kebab, 1 chicken kebab.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish Kabob Plate",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Kabob Bone-in Plate",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Pie Plate (Veggie)",
+                            "description": "Spanakopita plate: savoury spinach pie, choice of dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wrap Souvlaki Pita (Chicken)",
+                            "description": "Add rice or potatoes &amp; a can of soft drink for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pita Bread",
+                            "description": "Fluffy, warm pita bread, perfect for dips and wraps.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus",
+                            "description": "Creamy chickpea dip, tahini, olive oil. Options: as side or with pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tzatziki",
+                            "description": "Creamy yogurt sauce, cucumber, garlic. Options: As a side or with pita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potatoes",
+                            "description": "Crispy hash browns, choice of small or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side House Salad",
+                            "description": "Fresh garden greens with house dressing - a perfect complement to any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice",
+                            "description": "Mediterranean-style rice, available in small or large sizes. Options include dill, barberry, plain, or green rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pickles",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Fresh mixed greens, olives, feta, cucumber, and tomato in homemade dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tabouleh Salad",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Salad",
+                            "description": "Fresh mix of greens, with an assortment of vegetables and homemade dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shirazi Salad",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baklava",
+                            "description": "Layered phyllo pastry filled with sweet syrup and choice of pistachios, walnut, or almond.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesecake",
+                            "description": "Smooth and rich, our Creamy Cheesecake is the perfect way to satisfy your sweet tooth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca-Cola (355 Ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke (335 Ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi (355 Ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sparkling Ice",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Root Beer",
+                            "description": "Smooth, classic root beer with a rich, frothy head. Perfectly sweet and endlessly refreshing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mineral Water",
+                            "description": "Crisp and refreshing hydration",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.10"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sofia C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Massive portions, perfectly seasoned, super filling and flavourful. Greek salad is fresh"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Nouman S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great food, always fresh "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "the eggplant Dio is no where near as good as when u order it in the restaurant. It&apos;s missing toppings."
+        }
+    ],
+    "servesCuisine": [
+        "Mediterranean",
+        "Chicken",
+        "Kebabs"
+    ],
+    "url": "https://www.doordash.com/store/meditranean-resturant-vancouver-26159245/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6046892700",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 3:15 AM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 3:15 AM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 3:15 AM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 3:15 AM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 3:15 AM"
+        ],
+        "SATURDAY": [
+            "9:30 AM - 3:15 AM"
+        ],
+        "SUNDAY": [
+            "9:30 AM - 3:15 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 3:30 AM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 3:30 AM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 3:30 AM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 3:30 AM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 3:30 AM"
+        ],
+        "SATURDAY": [
+            "9:30 AM - 3:30 AM"
+        ],
+        "SUNDAY": [
+            "9:30 AM - 3:30 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

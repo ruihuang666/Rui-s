@@ -1,0 +1,431 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/ee4831e8-3403-4f5b-a016-342de2b14d09.25",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/5c7de0d8-e580-4b0a-9c2f-05d171e63ecc.26"
+    ],
+    "name": "Bella Gelateria Gelato &amp; Coffee",
+    "address": "4567 Lougheed Hwy. #016-09, Burnaby, BC V5C 3Z6, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.268208",
+        "longitude": "-123.001656"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gelato 800gm Container",
+                            "description": "Select up to 3 flavours!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$46.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Croccantino",
+                            "description": "Elevate your taste experience with our Croccantino, a pastry inspired by the hazelnut cake of the Piedmont region in northern Italy.  Made from the finest Piedmont hazelnuts, it boasts a praline heart embraced by velvety white Belgian chocolate mousse.  The result is a flavour profile reminiscent of the beloved Ferrero Rocher chocolates, offering a harmonious balance of nutty sweetness.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gelato 400gm Container",
+                            "description": "Select up to 2 flavours!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Tart",
+                            "description": "Experience a harmonious blend of citrus in our Lemon Tart, straight from the region of Amalfi.  A rich and tangy lemon cream filling takes center stage, complemented by an exquisite Italian meringue topping, adding a perfect hint of sweetness to the tartness.  Encased in a perfectly baked pastry shell, it&apos;s a symphony of flavours and textures that cater to the most discerning palates.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Explore the artistry of our Tiramisu, a classic Italian dessert with roots tracing back to the picturesque city of Treviso.  Immerse yourself in the velvety textures of the eggless mascarpone Chantilly cream, expertly layered with the rich nuances of Lavazza espresso.  Each bite embodies the perfect balance of creamy indulgence and the robust essence of coffee, providing an authentic taste of Italy.  \n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diplomatica",
+                            "description": "Indulge in the velvety texture of our Diplomatica Pastry, a delightful Italian dessert that’s a symphony of flavours, featuring layers of flaky puff pastry, delicate sponge cake and a luscious pastry cream.  Each bite is a journey through multiple soft, creamy layers, harmonized with the sweet dusting of icing sugar on top.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cannoncini",
+                            "description": "Savour the flaky perfection of our Cannoncini, a large puff pastry cone that’s expertly handcrafted and baked in-house.  These northern Italian cream horns/tubes are a delightful marriage of crispy puff pastry and sumptuous Italian Chantilly pastry cream. Each layer of pastry offers an exquisite texture, delivering a melt-in-your-mouth experience that&apos;s utterly indulgent.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.37"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tres Leches",
+                            "description": "Sponge cake soaked in three kinds of milk; evaporated milk, condensed milk, whole milk with Cinnamon chantilly &amp; Hazelnuts",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wild Berry Cheesecake",
+                            "description": "Creamy cheesecake infused with a medley of wild berries, served atop a classic graham cracker crust, and finished with a wild berry compote.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastry",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tres Leches",
+                            "description": "Sponge cake soaked in three kinds of milk; evaporated milk, condensed milk, whole milk with Cinnamon chantilly &amp; Hazelnuts",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bella Brownie",
+                            "description": "Satisfy your sweet tooth with or indulgent Bella Brownie.  Crafted in house, this delectable treat is a blend of three dark chocolates and coco powder, creating a perfect balance of sweetness and intensity.  The dense, fudgy texture is complemented by a thin layer of dark chocolate icing, ensuring each bite is a divine chocolate-lovers experience.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Loaf",
+                            "description": "Savour the zesty indulgence of our Lemon Loaf, a culinary masterpiece crafted with precision.  This moist and flavourful treat is generously topped with a tantalizing lemon syrup, creating a perfect harmony of citrusy freshness and sweet satisfaction.  Elevate your pastry experience with every delectable bite of our Lemon Loaf.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marble Loaf",
+                            "description": "Swirled vanilla and chocolate batter baked into a loaf, offering a harmonious blend of flavors in every slice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.31"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Chocolate Cookie",
+                            "description": "Indulge in the decadent allure of our Double Chocolate Cookie, a symphony of rich, velvety goodness that captivates every chocolate lover&apos;s palate.  Immerse yourself in the exquisite blend of dark chocolate, milk chocolate, and the intense depth of both dark and Dutch cocoa.  Each bite promises an unparalleled chocolate experience, making it the perfect companion for your moments of sweet indulgence. \n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.86"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Torroncini",
+                            "description": "Our Torroncini is an Italian masterpiece of pastry perfection.  This slender, artisanal creation features a delightful filling of almonds and rich chocolate, expertly encased in a crisp exterior.  With each bite, experience the harmonious blend of textures and flavours, showcasing the essence of authentic Italian baking.  Elevate your dessert experience with Torroncini—a sweet symphony of tradition and innovation.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Biscotti",
+                            "description": "Indulge in the artisanal delight of our handcrafted Biscotti, expertly baked twice to perfection.  This crispy Italian cookie is more than a treat; it&apos;s a delightful companion to your coffee moments.  Enjoy the satisfying crunch and rich flavours that make our biscotti an irresistible addition to your Bella Gelateria experience.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Banana Bread Loaf",
+                            "description": "Indulge in the warm embrace of our Banana Bread Loaf, where every slice is a celebration of freshness.  Crafted with the finest, ripe bananas, this delectable creation promises a moist and flavourful experience.  Each bite is a journey into the heart of comforting sweetness, making our Banana Bread a perfect companion to your moments of relaxation. Savour the richness of simplicity in every delicious slice, especially with a cappuccino or hot drink of choice.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Crumble Loaf",
+                            "description": "Medium loaf infused with coffee, topped with a buttery crumble.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.31"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Triple Chocolate Muffin",
+                            "description": "Freshly baked muffin infused with three kinds of chocolate, offering a rich and moist texture in every bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Walnut Loaf",
+                            "description": "Zested Carrot, Walnuts through the loaf",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.31"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten-free Brookie",
+                            "description": "A brookie combining a gluten-free brownie base with a layer of chocolate chip cookie, designed to cater to those avoiding gluten.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.31"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oat Milk Cookie",
+                            "description": "Savour the simplicity of our Oat Milk Cookie, a delightful union of wholesome goodness and indulgent sweetness.  Crafted with care, this cookie features the richness of oat milk, delivering a subtle nutty undertone and adorned with luscious chocolate pieces on top and throughout, it&apos;s a treat that strikes the perfect balance between health-conscious choices and irresistible flavours.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.86"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cannoncini",
+                            "description": "Savour the flaky perfection of our Cannoncini, a large puff pastry cone that’s expertly handcrafted and baked in-house.  These northern Italian cream horns/tubes are a delightful marriage of crispy puff pastry and sumptuous Italian Chantilly pastry cream. Each layer of pastry offers an exquisite texture, delivering a melt-in-your-mouth experience that&apos;s utterly indulgent.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.37"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Croccantino",
+                            "description": "Elevate your taste experience with our Croccantino, a pastry inspired by the hazelnut cake of the Piedmont region in northern Italy.  Made from the finest Piedmont hazelnuts, it boasts a praline heart embraced by velvety white Belgian chocolate mousse.  The result is a flavour profile reminiscent of the beloved Ferrero Rocher chocolates, offering a harmonious balance of nutty sweetness.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Explore the artistry of our Tiramisu, a classic Italian dessert with roots tracing back to the picturesque city of Treviso.  Immerse yourself in the velvety textures of the eggless mascarpone Chantilly cream, expertly layered with the rich nuances of Lavazza espresso.  Each bite embodies the perfect balance of creamy indulgence and the robust essence of coffee, providing an authentic taste of Italy.  \n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diplomatica",
+                            "description": "Indulge in the velvety texture of our Diplomatica Pastry, a delightful Italian dessert that’s a symphony of flavours, featuring layers of flaky puff pastry, delicate sponge cake and a luscious pastry cream.  Each bite is a journey through multiple soft, creamy layers, harmonized with the sweet dusting of icing sugar on top.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.62"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wild Berry Cheesecake",
+                            "description": "Creamy cheesecake infused with a medley of wild berries, served atop a classic graham cracker crust, and finished with a wild berry compote.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Tart",
+                            "description": "Experience a harmonious blend of citrus in our Lemon Tart, straight from the region of Amalfi.  A rich and tangy lemon cream filling takes center stage, complemented by an exquisite Italian meringue topping, adding a perfect hint of sweetness to the tartness.  Encased in a perfectly baked pastry shell, it&apos;s a symphony of flavours and textures that cater to the most discerning palates.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.62"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gelato",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gelato 800gm Container",
+                            "description": "Select up to 3 flavours!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$46.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gelato 400gm Container",
+                            "description": "Select up to 2 flavours!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sorbetto",
+                            "description": "Lemon zest sorbetto, refreshing and light.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hollis S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The akbar mashti NEVER disappoints! So glad I got the Gelato  600gm Container of it! I also tried the Carrot Walnut Loaf and was very pleasantly surprised; went great with my coffee the next morning."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Ice Cream",
+        "Dessert",
+        "Sweets"
+    ],
+    "url": "https://www.doordash.com/store/bella-gelateria-gelato-&-coffee-burnaby-24927592/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16045691010Press#4",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 10 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 10 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 10 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

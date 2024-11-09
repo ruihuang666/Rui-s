@@ -1,0 +1,644 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/HotPiePizza_4_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/1f6c7e2f-916b-4285-9e7c-079bd19bffcd.jpg"
+    ],
+    "name": "Hot Pie Pizza",
+    "address": "4 Powell St, Vancouver, BC V6A 1E7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28326",
+        "longitude": "-123.104004"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Classic Pizza",
+                            "description": "Pepperoni, mushrooms, green peppers, red peppers, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Chicken Pesto Pizza",
+                            "description": "Chicken, artichoke hearts, pesto, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Classic Pizza",
+                            "description": "Pepperoni, mushrooms, green peppers, red peppers, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Chicken Pesto Pizza",
+                            "description": "Chicken, artichoke hearts, pesto, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Per wing. Oven baked.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Meat Lovers Pizza",
+                            "description": "Pepperoni, ham, bacon, genoa salami, Italian sausage, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Hawaiian Pizza",
+                            "description": "Ham, pineapple, bacon, cheddar cheese, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Hawaiian Pizza",
+                            "description": "Ham, pineapple, bacon, cheddar cheese, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Meat Lovers Pizza",
+                            "description": "Pepperoni, ham, bacon, genoa salami, Italian sausage, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Romaine lettuce, croutons, parmesan, and caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Tomatoes, green peppers, cucumbers, onions, black olives, and dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Sugar &amp; Spice Pizza",
+                            "description": "Pineapple, hot banana peppers, green olives, cheddar and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Tomatoes, green peppers, cucumbers, onions, black olives, and dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Romaine lettuce, croutons, parmesan, and caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Salad",
+                            "description": "Mixed greens or mixed lettuce, tomato, red onions with choice of dressing: italian, ranch, or thousand island.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Meat Specialties",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Meat Lovers Pizza",
+                            "description": "Pepperoni, ham, bacon, genoa salami, Italian sausage, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Classic Pizza",
+                            "description": "Pepperoni, mushrooms, green peppers, red peppers, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Classic Pizza",
+                            "description": "Pepperoni, mushrooms, green peppers, red peppers, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Meat Lovers Pizza",
+                            "description": "Pepperoni, ham, bacon, genoa salami, Italian sausage, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Hawaiian Pizza",
+                            "description": "Ham, pineapple, bacon, cheddar cheese, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Hawaiian Pizza",
+                            "description": "Ham, pineapple, bacon, cheddar cheese, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Chicken Pesto Pizza",
+                            "description": "Chicken, artichoke hearts, pesto, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Chicken Pesto Pizza",
+                            "description": "Chicken, artichoke hearts, pesto, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Chefs&apos; Choice Pizza",
+                            "description": "Ham, salami, mushrooms, garlic, onions, Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Red Hot Pizza",
+                            "description": "Capicola, spicy mushroom, hot banana peppers, green onions, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Beef Classic Pizza",
+                            "description": "Lean beef, mushrooms, onions, cheddar cheese, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Beef Classic Pizza",
+                            "description": "Lean beef, mushrooms, onions, cheddar cheese, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Chefs&apos; Choice Pizza",
+                            "description": "Ham, salami, mushrooms, garlic, onions, Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Red Hot Pizza",
+                            "description": "Capicola, spicy mushroom, hot banana peppers, green onions, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Veggie Specialties",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Veggie Deluxe Pizza",
+                            "description": "Mushrooms, green peppers, onions, black olives, fresh tomatoes, artichoke hearts, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Veggie Deluxe Pizza",
+                            "description": "Mushrooms, green peppers, onions, black olives, fresh tomatoes, artichoke hearts, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Chefs&apos; Veggie Choice",
+                            "description": "Mushrooms, green peppers, red peppers, black olives, onions and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Chefs&apos; Veggie Choice",
+                            "description": "Mushrooms, green peppers, red peppers, black olives, onions and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Spinach Pesto Pizza",
+                            "description": "Spinach, pesto, onions, artichoke hearts, cheddar, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Spinach Pesto Pizza",
+                            "description": "Spinach, pesto, onions, artichoke hearts, cheddar, and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Spinach Pie Pizza",
+                            "description": "Spinach, tomato, onions, feta cheese, Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Spinach Pie Pizza",
+                            "description": "Spinach, tomato, onions, feta cheese, Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Sugar &amp; Spice Pizza",
+                            "description": "Pineapple, hot banana peppers, green olives, cheddar and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Sugar &amp; Spice Pizza",
+                            "description": "Pineapple, hot banana peppers, green olives, cheddar and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium The Greek Pizza",
+                            "description": "Green peppers, onions, black olives, tomatoes, artichoke hearts, feta and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large The Greek Pizza",
+                            "description": "Green peppers, onions, black olives, tomatoes, artichoke hearts, feta and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side Orders",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Per wing. Oven baked.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Assorted Bottled Beverages",
+                            "description": "Assorted bottled sodas with options including Coke, Diet Coke, and Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Soda selection includes Coke, Diet Coke, and Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Limonata",
+                            "description": "A refreshing Italian lemon soda, often sparkling, made with real lemon juice for a crisp and tangy taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orangata",
+                            "description": "A refreshing Italian beverage made with the essence of sun-ripened oranges, offering a sweet and slightly tangy taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "Pure and refreshing bottled water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mineral Water",
+                            "description": "Crisp and refreshing hydration",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Nathan T"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious! A gastown must neighbourhood staple. Love this place and love the think crust NYC style pizza "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jamie B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Some of the best pizza in the city!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ishman k"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "very rude to the customers. I never recommend anyone to order from this restaurant."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jeremy R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "very dry, barely any sauce, forgot one of the meats.  we ordered a large and only ate 2 pieces"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Italian",
+        "Pizza",
+        "Salads"
+    ],
+    "url": "https://www.doordash.com/store/hot-pie-pizza-vancouver-98645/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16045669944",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "3 PM - 11:30 PM"
+        ],
+        "TUESDAY": [
+            "3 PM - 11:10 PM"
+        ],
+        "WEDNESDAY": [
+            "3 PM - 11:10 PM"
+        ],
+        "THURSDAY": [
+            "3 PM - 11:39 PM"
+        ],
+        "FRIDAY": [
+            "3 PM - 11:39 PM"
+        ],
+        "SUNDAY": [
+            "3 PM - 11:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "3 PM - 11:30 PM"
+        ],
+        "TUESDAY": [
+            "3 PM - 11:30 PM"
+        ],
+        "WEDNESDAY": [
+            "3 PM - 11:30 PM"
+        ],
+        "THURSDAY": [
+            "3 PM - 11:59 PM"
+        ],
+        "FRIDAY": [
+            "3 PM - 11:59 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

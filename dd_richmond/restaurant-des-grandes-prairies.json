@@ -1,0 +1,207 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/0bdcad97-b005-40c0-876e-cc971746d2c0.jpg"
+    ],
+    "name": "Restaurant des Grandes Prairies",
+    "address": "8555 Sea Island Wy, Richmond, BC V6X 3C7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.19168",
+        "longitude": "-123.12867"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Le soleil de Marrakech / Kebab Poulet",
+                            "description": "Assiette avec du poulet et du riz. / plate with chicken and rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sandwich du bled / Sandwich From The Country",
+                            "description": "Sandwich featuring a hearty combination of local, country-style ingredients, typically assembled on artisan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bouillabaisse de Nimes",
+                            "description": "A reinterpretation of the classic French stew, featuring a medley of seafood simmered in a rich tomato and saffron broth, typically accompanied by garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Manana Club Sandwich",
+                            "description": "Toasted bread layered with ham, turkey, bacon, lettuce, tomato, and mayonnaise, following the classic club sandwich tradition.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Repas principaux / Main meals",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sandwich du bled / Sandwich From The Country",
+                            "description": "Sandwich featuring a hearty combination of local, country-style ingredients, typically assembled on artisan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Le soleil de Marrakech / Kebab Poulet",
+                            "description": "Assiette avec du poulet et du riz. / plate with chicken and rice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bouillabaisse de Nimes",
+                            "description": "A reinterpretation of the classic French stew, featuring a medley of seafood simmered in a rich tomato and saffron broth, typically accompanied by garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Manana Club Sandwich",
+                            "description": "Toasted bread layered with ham, turkey, bacon, lettuce, tomato, and mayonnaise, following the classic club sandwich tradition.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Merlin poisson",
+                            "description": "Marlin fish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mac and cheese",
+                            "description": "Creamy, classic macaroni in a rich, velvety cheese sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nachos De Marseille",
+                            "description": "Tortilla chips topped with a unique blend of Mediterranean flavors, likely including olives and herbs, inspired by the city of Marseille.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Combo des grandes prairies (2 grandes pizzas, 16 ailes de poulet, 1x 2l de soda) / Great Prairie Combo (2 Pizza Large, 16 Chicken Wings, 1X 2L Soda)",
+                            "description": "Two large pizzas paired with 16 chicken wings. Includes a 2L soda with choices of cola, diet cola, or Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$59.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homard marseillais / Marseille lobster",
+                            "description": "Servi avec frites maison et beurre a l&apos;ail. / served with homemade fries and garlic butter",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$49.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Boissons / Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bouteille d&apos;eau / water",
+                            "description": "Pure, still water provided in a sealed bottle for refreshing hydration.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca-Cola",
+                            "description": "Classic, refreshing soda with a timeless taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Crisp, Refreshing Lemon-Lime Carbonated Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "American",
+        "Fast Food"
+    ],
+    "url": "https://www.doordash.com/store/restaurant-des-grandes-prairies-richmond-28110309/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "5146198597",
+    "doordashOperationHourInfo": {},
+    "storeOperationHourInfo": {},
+    "merchant_cuisine": "Not found"
+}

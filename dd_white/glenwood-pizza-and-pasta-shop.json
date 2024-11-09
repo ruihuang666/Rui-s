@@ -1,0 +1,842 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/22ac7171-59ab-4e7c-8b62-e86473c5e3de.jpg"
+    ],
+    "name": "Glenwood Pizza and Pasta Shop",
+    "address": "2390 200 St, Langley Twp, BC V2Z 1W9, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.045498",
+        "longitude": "-122.66903"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian",
+                            "description": "Loads of ham and pineapple with extra cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lover Supreme",
+                            "description": "Ham, pepperoni, salami, ground beef, Italian sausage and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lasagna (Large)",
+                            "description": "Comes with 2 pieces garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lover",
+                            "description": "Ham, pepperoni, salami, lean ground beef.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Glenwood Standard",
+                            "description": "Green pepper, mushroom, salami, olive, onions, pepperoni and ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Pizza",
+                            "description": "Beef, feta, tomato, olives, onions, green pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Everything but Fish",
+                            "description": "Everything But Fish Pizza: Topped with a variety of meats and vegetables, excluding fish. Available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad with Garlic Bread",
+                            "description": "Crisp cucumbers, juicy cherry tomatoes, red onions, green olives, and crumbled feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ravioli (Large)",
+                            "description": "Comes with 2 pieces garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken",
+                            "description": "Chicken, pepper, onion, pineapple and BBQ sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special",
+                            "description": "Ham, pepperoni, onion, pepper, mushroom and Italian sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Toppings (Medium)",
+                            "description": "Medium pizza with a choice of 3 toppings from a selection including meats like pepperoni, chicken, and Italian sausage, vegetables like mushrooms and onions, and cheeses like feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Slices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Pizza Slice",
+                            "description": "Freshly baked slice of classic cheese pizza, featuring a rich tomato sauce and a generous layer of melted mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Create Your Own Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Toppings (Large)",
+                            "description": "Large pizza with choice of 4 toppings from a selection including meats like pepperoni, chicken, and various vegetables. Options also include pineapple, feta, and jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Toppings (Medium)",
+                            "description": "Medium pizza with choice of 4 toppings: includes meats like pepperoni, chicken, and Italian sausage; fresh vegetables such as sliced tomato and green peppers; or tangy pineapple and spicy jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Toppings (Medium)",
+                            "description": "Medium pizza with a choice of 3 toppings from a selection including meats like pepperoni, chicken, and Italian sausage, vegetables like mushrooms and onions, and cheeses like feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Toppings (Large)",
+                            "description": "Large pizza with a choice of three toppings: selection includes meats like pepperoni and salami, vegetables such as sliced tomatoes and green peppers, or a mix for varied taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Toppings (Large)",
+                            "description": "Large pizza with choice of two toppings: meats include pepperoni, chicken, and more; or opt for veggies like sliced tomato, onions, and others.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Toppings (Small)",
+                            "description": "Small pizza with two toppings of choice from a range including meats like pepperoni, chicken, and ham, or vegetables like sliced tomato, onions, and green peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1 Topping (Medium)",
+                            "description": "Medium-sized pizza with choice of one topping: meats include pepperoni, salami, beef, shrimp, chicken, sausage, bacon, capocollo, ham; vegetables and others include tomato, onions, pineapple, olives, green peppers, mushrooms, feta, banana peppers, jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1 Topping (Large)",
+                            "description": "Large pizza with choice of one topping: includes meats like pepperoni, chicken, or shrimp, veggies such as mushrooms, olives, and peppers, or cheese like feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Toppings (Medium)",
+                            "description": "Medium pizza with choice of two toppings: meats include pepperoni, salami, and chicken; vegetables like sliced tomato, onions, and mushrooms; additional options like feta and jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Toppings (Small)",
+                            "description": "Small pizza with choice of three toppings: meats including pepperoni, chicken,  and veg options like sliced tomato, olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1 Topping (Small)",
+                            "description": "Small pizza with choice of one: meats including pepperoni, chicken, bacon; vegetables like olives, mushrooms; or unique toppings such as pineapple, jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Toppings (Small)",
+                            "description": "Small pizza with a choice of four toppings from a selection including meats like pepperoni, chicken, Italian sausage, and vegetables like mushrooms, onions, green peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lover Supreme",
+                            "description": "Ham, pepperoni, salami, ground beef, Italian sausage and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian",
+                            "description": "Loads of ham and pineapple with extra cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special",
+                            "description": "Ham, pepperoni, onion, pepper, mushroom and Italian sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lover",
+                            "description": "Ham, pepperoni, salami, lean ground beef.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Glenwood Standard",
+                            "description": "Green pepper, mushroom, salami, olive, onions, pepperoni and ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical Chicken",
+                            "description": "Ham, bacon, chicken, onion, peppers &amp; pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Alfredo",
+                            "description": "Chicken, peppers, onions, mushrooms &amp; Alfredo sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Pizza",
+                            "description": "Beef, feta, tomato, olives, onions, green pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken",
+                            "description": "Chicken, peppers, onions, tomatoes &amp; butter chicken sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken",
+                            "description": "Chicken, pepper, onion, pineapple and BBQ sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Glenwood Vegetarian",
+                            "description": "Double cheese, onions, mushrooms, green peppers, olives, fresh tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Everything but Fish",
+                            "description": "Everything But Fish Pizza: Topped with a variety of meats and vegetables, excluding fish. Available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nutella &amp; Marshmallow",
+                            "description": "Nutella and marshmallow spread over pizza crust. Available in small, medium, or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Wings",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "18 Pieces",
+                            "description": "18 pieces of chicken wings, available in a variety of flavors: honey garlic, hot, teriyaki, salt and pepper, spicy Thai, or BBQ.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6 Pieces",
+                            "description": "Six chicken wings with choice of honey garlic, hot, teriyaki, salt and pepper, spicy Thai, or BBQ flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12 Pieces",
+                            "description": "12-piece chicken wings served with a selection of honey garlic, hot, teriyaki, salt and pepper, spicy Thai, or BBQ flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ravioli (Large)",
+                            "description": "Comes with 2 pieces garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lasagna (Regular)",
+                            "description": "Comes with 1 piece garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lasagna (Large)",
+                            "description": "Comes with 2 pieces garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ravioli (Regular)",
+                            "description": "Comes with 1 piece garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti with Meatballs (Regular)",
+                            "description": "Comes with 1 piece garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti with Meatballs (Large)",
+                            "description": "Comes with 2 pieces garlic bread. Extra cheese, mushroom and sauce for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Sub Sandwich",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "3. Pizza Sub",
+                            "description": "Pepperoni, cheese, pizza sauce. Extra toppings for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4. Pub Sub",
+                            "description": "Salami, ham, beef, mushroom.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1. Ham, Salami, Onion &amp; Cheese",
+                            "description": "Ham, salami, onion, and cheese on a sub, typically includes lettuce, tomato, and a blend of Italian dressing or mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2. Salami, Cheese &amp; Capocollo",
+                            "description": "Salami, capocollo, and cheese served with lettuce, tomato, onion, and a dressing of oil and vinegar on a freshly baked sub roll.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salad",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad with Garlic Bread",
+                            "description": "Crisp cucumbers, juicy cherry tomatoes, red onions, green olives, and crumbled feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Garlic Bread",
+                            "description": "Sliced and toasted bread, generously topped with garlic butter and a sprinkle of parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dips",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Garlic Dip",
+                            "description": "A smooth blend of garlic and cream, often seasoned with herbs for a rich and savory dip experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheddar Chipotle",
+                            "description": "A blend of cheddar cheese and chipotle peppers, this dip offers a smoky and slightly spicy flavor profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Ranch",
+                            "description": "Creamy ranch dip, typically includes a blend of herbs and spices mixed into a smooth, creamy base. Ideal for dipping or as a dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pop",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Pepsi",
+                            "description": "Diet Pepsi offers a sugar-free, calorie-conscious soda option with the classic Pepsi taste in a refreshing carbonated form.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi",
+                            "description": "Classic, refreshing cola soda.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nestea",
+                            "description": "Refreshing Iced Tea, Perfectly Sweetened for an Invigorating Sip",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crush Grape Raisin",
+                            "description": "A blend of crushed grapes and raisins, this beverage offers a unique twist on traditional grape drinks, incorporating the natural sweetness and depth of raisins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crush Orange",
+                            "description": "Refreshing orange soda with a delightful burst of citrus flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Root Beer",
+                            "description": "Smooth, classic root beer with a rich, frothy head. Perfectly sweet and endlessly refreshing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Ale",
+                            "description": "Refreshing, crisp ginger-flavored carbonated soft drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Cola or Diet Cola soda options, Italian pop category.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "Diet Coke, a sugar-free and calorie-free cola, offers a refreshing and crisp taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "hardeep S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Best pizza store in town "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Darrell M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "No sauce all water. Disgusting. Garlic toast with unmelted butter that was soggy . Seemed wet. First time ordering here and the last time "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Darrell M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Lasagna was watery. Could find sauce. Garlic toast with unmelted butter seemed soggy and wet. Overall wont order from here again. First time and last time"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Raj S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great place for pizza and pastap"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Italian",
+        "Pizza"
+    ],
+    "url": "https://www.doordash.com/store/glenwood-pizza-and-pasta-shop-langley-township-25693915/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6045301240",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "3 PM - 8:25 PM"
+        ],
+        "TUESDAY": [
+            "4 PM - 8:25 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 8:25 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 8:25 PM"
+        ],
+        "FRIDAY": [
+            "3 PM - 9:25 PM"
+        ],
+        "SATURDAY": [
+            "3 PM - 9:25 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 8:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "3 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "4 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "3 PM - 10 PM"
+        ],
+        "SATURDAY": [
+            "3 PM - 10 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

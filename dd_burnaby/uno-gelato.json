@@ -1,0 +1,380 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Uno_Gelato_West_Broadway.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/706e4b14-e6e5-4d0e-b178-edabdfb79441.jpg"
+    ],
+    "name": "Uno Gelato",
+    "address": "Uno Gelato, 1055 Canada Pl #30, Vancouver, BC V6C, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28919",
+        "longitude": "-123.11449"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "New Fashioned Chocolate (500ML Pint)",
+                            "description": "Our gelato version of the classic “Fudgsicle” brings back memories of chasing down the ice cream truck as a kid. New Fashioned Chocolate is a grown-up version of this classic frozen treat with natural cocoa by gourmet chocolatier Scharffen Berger. Enjoyable for people of all ages! (Gluten free)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Midnight Chocolate (Vegan) (500ML Pint)",
+                            "description": "Creamy, dreamy, and no dairy, our Midnight Chocolate sorbetto marries the best artisanal chocolatiers Guittard’s black cocoa with 99% cocoa from Valhrona and non-alkalined cocoa from Venezuela.  All the chocolaty goodness without the guilt – so silky and deliciously healthy – you’ll think you’re dreaming!  (Gluten free, Vegan)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Caramel (500ML Pint)",
+                            "description": "Our classic dulce de leche inspired gelato is made with homemade caramel, farm fresh cream and organic milk from Avalon Dairy, a dash of pure maple syrup from Quebec, and has just the right sprinkling of Vancouver Island Sea Salt to make it a rich and golden experience.  Can you say La dulce vita! (Gluten free) Gluten-free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookies &amp; Cream (500ML Pint)",
+                            "description": "Do you twist, lick or dunk your Oreo cookie? We prefer blend! What could be more fun than blending an iconic chocolate cookie sandwich with fresh churned Avalon Dairy organic milk and cream from the Fraser Valley? A creamy creation that is for the kid in all of us!\n\n(NOTE: contains gluten).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lavazza Espresso (500ML Pint)",
+                            "description": "Good coffee is like a great story: it’s a pleasure to be shared… Our Lavazza espresso gelato is made with intense, fresh-brewed Lavazza Arabica espresso mixed with some sweet and mild Colombian coffee along with wholesome BC cream and organic milk from Avalon Dairy.  As they say in Italy, “La Lavazza Paradiso in tazza!” (gluten-free, contains caffeine)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Hazelnut (500ML Pint)",
+                            "description": "“Round was she, beautiful and of noble aspect…” Inspired by Dante, our nocciola gelato is an autumn creation crafted with locally roasted hazelnuts from Italy, along with BC cream and organic milk from the happy Avalon Dairy cows, and a dash of Vancouver Island Sea Salt. Poetic. Epic. Divine!\n\n(NOTE: contains nuts, gluten free).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Passion Fruit Sorbetto (Vegan)(500ML Pint)",
+                            "description": "Sweet and tart, our juicy sorbetto is made with just three ingredients: passion fruit from Colombia, organic sugar and fresh BC water. This colourful and refreshing il frutto della passione will transport you to the tropics! (Gluten free, Vegan)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mint Chocolate Chip (500ML Pint)",
+                            "description": "Mint and chocolate are made for each other, and this refreshing treat is handcrafted with organic mint leaves grown in the Fraser Valley, along with cream and milk from the happy Avalon Dairy cows, and decadent nuggets of 70% cacao chocolate by gourmet Swiss chocolatier Barry Callebaut.  Pure frozen perfection, indulge and enjoy! (Gluten free)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Bean (500ML Pint)",
+                            "description": "The flavour of paradise, our all natural Madagascar vanilla gelato is crafted from beans renowned for their natural creamy and rich vanillin sweetness, grown on the tropical island of Madagascar off the coast of Africa. Our Maestro added organic milk and cream from Avalon Dairy and touch of organic cane sugar to this definitely not plain vanilla. One taste and you’ll experience paradiso in a cone or cup!\n(gluten free)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Akbar Mashti (500ML Pint)",
+                            "description": "A beloved Persian classic with fragrant saffron, rosewater, and rich pieces of Devonshire style cream from Iran along with crunchy roasted pistachios from California.  This Persian delight is blended with wholesome B.C. cream and organic milk from Avalon Dairy in the Fraser Valley along with B.C. birch syrup by Sweet Tree Ventures in Quesnel and a pinch of organic cane sugar for added sweetness.\nGluten-free. Nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango (Vegan) (500ML Pint)",
+                            "description": "Mango sorbetto, presented in a 500ml pint, combines the essence of ripe mangoes with a hint of organic sugar, offering a refreshing and smooth experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yuzu Citrus (Vegan) (500ML Pint)",
+                            "description": "Vegan \nGluten ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Featured Items",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "New Fashioned Chocolate (500ML Pint)",
+                            "description": "Our gelato version of the classic “Fudgsicle” brings back memories of chasing down the ice cream truck as a kid. New Fashioned Chocolate is a grown-up version of this classic frozen treat with natural cocoa by gourmet chocolatier Scharffen Berger. Enjoyable for people of all ages! (Gluten free)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Bean (500ML Pint)",
+                            "description": "The flavour of paradise, our all natural Madagascar vanilla gelato is crafted from beans renowned for their natural creamy and rich vanillin sweetness, grown on the tropical island of Madagascar off the coast of Africa. Our Maestro added organic milk and cream from Avalon Dairy and touch of organic cane sugar to this definitely not plain vanilla. One taste and you’ll experience paradiso in a cone or cup!\n(gluten free)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Caramel (500ML Pint)",
+                            "description": "Our classic dulce de leche inspired gelato is made with homemade caramel, farm fresh cream and organic milk from Avalon Dairy, a dash of pure maple syrup from Quebec, and has just the right sprinkling of Vancouver Island Sea Salt to make it a rich and golden experience.  Can you say La dulce vita! (Gluten free) Gluten-free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookies &amp; Cream (500ML Pint)",
+                            "description": "Do you twist, lick or dunk your Oreo cookie? We prefer blend! What could be more fun than blending an iconic chocolate cookie sandwich with fresh churned Avalon Dairy organic milk and cream from the Fraser Valley? A creamy creation that is for the kid in all of us!\n\n(NOTE: contains gluten).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Akbar Mashti (500ML Pint)",
+                            "description": "A beloved Persian classic with fragrant saffron, rosewater, and rich pieces of Devonshire style cream from Iran along with crunchy roasted pistachios from California.  This Persian delight is blended with wholesome B.C. cream and organic milk from Avalon Dairy in the Fraser Valley along with B.C. birch syrup by Sweet Tree Ventures in Quesnel and a pinch of organic cane sugar for added sweetness.\nGluten-free. Nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mint Chocolate Chip (500ML Pint)",
+                            "description": "Mint and chocolate are made for each other, and this refreshing treat is handcrafted with organic mint leaves grown in the Fraser Valley, along with cream and milk from the happy Avalon Dairy cows, and decadent nuggets of 70% cacao chocolate by gourmet Swiss chocolatier Barry Callebaut.  Pure frozen perfection, indulge and enjoy! (Gluten free)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango (Vegan) (500ML Pint)",
+                            "description": "Mango sorbetto, presented in a 500ml pint, combines the essence of ripe mangoes with a hint of organic sugar, offering a refreshing and smooth experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Hazelnut (500ML Pint)",
+                            "description": "“Round was she, beautiful and of noble aspect…” Inspired by Dante, our nocciola gelato is an autumn creation crafted with locally roasted hazelnuts from Italy, along with BC cream and organic milk from the happy Avalon Dairy cows, and a dash of Vancouver Island Sea Salt. Poetic. Epic. Divine!\n\n(NOTE: contains nuts, gluten free).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lavazza Espresso (500ML Pint)",
+                            "description": "Good coffee is like a great story: it’s a pleasure to be shared… Our Lavazza espresso gelato is made with intense, fresh-brewed Lavazza Arabica espresso mixed with some sweet and mild Colombian coffee along with wholesome BC cream and organic milk from Avalon Dairy.  As they say in Italy, “La Lavazza Paradiso in tazza!” (gluten-free, contains caffeine)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yuzu Citrus (Vegan) (500ML Pint)",
+                            "description": "Vegan \nGluten ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Midnight Chocolate (Vegan) (500ML Pint)",
+                            "description": "Creamy, dreamy, and no dairy, our Midnight Chocolate sorbetto marries the best artisanal chocolatiers Guittard’s black cocoa with 99% cocoa from Valhrona and non-alkalined cocoa from Venezuela.  All the chocolaty goodness without the guilt – so silky and deliciously healthy – you’ll think you’re dreaming!  (Gluten free, Vegan)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Passion Fruit Sorbetto (Vegan)(500ML Pint)",
+                            "description": "Sweet and tart, our juicy sorbetto is made with just three ingredients: passion fruit from Colombia, organic sugar and fresh BC water. This colourful and refreshing il frutto della passione will transport you to the tropics! (Gluten free, Vegan)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Evie S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I love the gelato from  Uno because it  has that icy texture that I associate with top quality gelato. It&apos;s  not too sweet, and it&apos;s not full of air. I&apos;ve tried them all, and Uno is definitely one of the top two in my opinion. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Maxine S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "I don&apos;t eat gelato or ice cream often, but when I do it&apos;s always the Coffee flavour.  This particular flavour at this store certainly didn&apos;t taste like coffee, well maybe a hint.  Really disappointed."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Des R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Top tier Gelato. Delicious "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Takeout",
+        "Pickup",
+        "Dessert",
+        "Ice Cream"
+    ],
+    "url": "https://www.doordash.com/store/uno-gelato-vancouver-1260844/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17788898884",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 8:45 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 8:45 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 7:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 8 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 8 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 8 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 8 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

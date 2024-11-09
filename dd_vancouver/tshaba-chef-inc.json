@@ -1,0 +1,466 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/515f53f3-17c5-4765-ba95-66e3c652aac4.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/c7193e3a-90cf-4f17-9d9e-49378d3ca163.jpg"
+    ],
+    "name": "Tshaba Chef Inc.",
+    "address": "395 Kingsway, Vancouver, BC V5T 3J7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.2603",
+        "longitude": "-123.09659"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Crispy Chicken Mango Bowl",
+                            "description": "Crispy chicken, mango, cucumber, avocado, rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Corn Chowder Soup",
+                            "description": "Creamy corn chowder with tender chicken bits. Available in cup or bowl.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuscan-Style Vegetable Lasagna",
+                            "description": "Spinach, kale, artichoke layered pasta, blend of four cheese, side of honey glazed carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Vegan Mushroom Risotto",
+                            "description": "Creamy cremini &amp; portabella, coconut oil, onion, thyme, parsley, nutritional yeast &amp; rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hunter Chicken with Mashed Potato (Yukon Gold)",
+                            "description": "Pan-seared chicken breast with white wine, mushrooms, tomato paste &amp; tarragon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Italian Muffuletta",
+                            "description": "Ham, mortadella, salami, arugula, Provolone cheese, freshly baked in-house focaccia bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon &amp; Kimchi Burger",
+                            "description": "Pork belly, deep-fried jalapeño, smoked Gouda, ground beef chuck, mayo, ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Swiss Burger with Fries",
+                            "description": "Mayo, mushrooms, Swiss cheese, lettuce, tomato jam, beef chuck.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Focaccia BLT",
+                            "description": "Olive, mayo, tomato jam, lettuce &amp; bacon. Choice of fries or house salad, make vegan with vegan mayo (no bacon).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Vegan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Crispy Chicken Bites",
+                            "description": "Creamy onion, tarragon, whole grain mustard. Served with salad, sweet &amp; spicy dressing, and honey mustard dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom &amp; Caramelized Onion Flatbread",
+                            "description": "Arugula sprigs, balsamic glace, black lava salt, Monterey Jack cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Starters",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Corn Chowder Soup",
+                            "description": "Creamy corn chowder with tender chicken bits. Available in cup or bowl.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yam Fries",
+                            "description": "Chipotle or Parmesan aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Crispy Chicken Bites",
+                            "description": "Creamy onion, tarragon, whole grain mustard. Served with salad, sweet &amp; spicy dressing, and honey mustard dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom &amp; Caramelized Onion Flatbread",
+                            "description": "Arugula sprigs, balsamic glace, black lava salt, Monterey Jack cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine",
+                            "description": "Vegetarian. Cheese curd, gravy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Vegan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Truffle Fries",
+                            "description": "Vegetarian. Parmesan cheese, parsley, and truffle oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads Classic",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Caesar",
+                            "description": "Shaved Parmesan, candied bacon, crispy capers, croutons, lemon, creamy Parmesan Caesar dressing. Add prawns for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Local Mix Green House Salad",
+                            "description": "Vegetarian. Ribbon cucumber &amp; carrots, daikon radish, dried cranberries, feta &amp; spicy pecans, tarragon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuscan-Style Vegetable Lasagna",
+                            "description": "Spinach, kale, artichoke layered pasta, blend of four cheese, side of honey glazed carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Vegan Mushroom Risotto",
+                            "description": "Creamy cremini &amp; portabella, coconut oil, onion, thyme, parsley, nutritional yeast &amp; rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Bolognese",
+                            "description": "Tender spaghetti topped with a rich meat sauce, garnished with grated Parmesan cheese and fresh parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Swiss Burger with Fries",
+                            "description": "Mayo, mushrooms, Swiss cheese, lettuce, tomato jam, beef chuck.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Italian Muffuletta",
+                            "description": "Ham, mortadella, salami, arugula, Provolone cheese, freshly baked in-house focaccia bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hunter Chicken with Mashed Potato (Yukon Gold)",
+                            "description": "Pan-seared chicken breast with white wine, mushrooms, tomato paste &amp; tarragon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Focaccia BLT",
+                            "description": "Olive, mayo, tomato jam, lettuce &amp; bacon. Choice of fries or house salad, make vegan with vegan mayo (no bacon).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Lentil Mushroom Burger",
+                            "description": "Arugula, vegan mayo, curried mustard, red onion, tomato jam. Whole wheat bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon &amp; Kimchi Burger",
+                            "description": "Pork belly, deep-fried jalapeño, smoked Gouda, ground beef chuck, mayo, ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheddar &amp; Onion Burger",
+                            "description": "Parmesan sauce, ground beef chuck, crunchy slaw.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Crispy Chicken Mango Bowl",
+                            "description": "Crispy chicken, mango, cucumber, avocado, rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple crumble cheesecake ",
+                            "description": "This apple crisp cheesecake is absolutely amazing – creamy cheesecake topped with cinnamon apples, a crumble topping, and caramel sauce! It’s the perfect dessert!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel pecan cheesecake ",
+                            "description": "Pecan Pie Cheesecake has a crunchy pecan crust, a velvety brown sugar cheesecake layer and is topped with gooey caramel and toasted pecans.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quinoa Bowl",
+                            "description": "Roasted beets, radish, cucumber, assorted sprouted beans, quinoa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Rahel A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Amazing!!!! Best Chicken dish I&apos;ve ever had. And the packaging kept the food so warm it was as if it just came straight out my own kitchen. I will be ordering from here every chance I get. My new favorite resturant"
+        }
+    ],
+    "servesCuisine": [
+        "American",
+        "Burgers"
+    ],
+    "url": "https://www.doordash.com/store/tshaba-chef-inc.-vancouver-24683704/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7788712598",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 10:35 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 10:35 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 12:05 AM"
+        ],
+        "FRIDAY": [
+            "4 PM - 11:34 PM"
+        ],
+        "SATURDAY": [
+            "4 PM - 12:35 AM"
+        ],
+        "SUNDAY": [
+            "4 PM - 10:05 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 11 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 11 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 12:30 AM"
+        ],
+        "FRIDAY": [
+            "4 PM - 11:59 PM"
+        ],
+        "SATURDAY": [
+            "4 PM - 1 AM"
+        ],
+        "SUNDAY": [
+            "4 PM - 10:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

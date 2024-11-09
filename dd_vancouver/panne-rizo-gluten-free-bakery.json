@@ -1,0 +1,912 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Panne-Rizo-Gluten-Free-Bakery.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/74a1f906-5a9d-4cfe-86d1-42bc6b242433.jpg"
+    ],
+    "name": "Panne Rizo Gluten Free Bakery",
+    "address": "1939 Cornwall Avenue, Vancouver, BC, V6J1C8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.272575",
+        "longitude": "-123.1486"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten Free Breakfast Wrap Veggie",
+                            "description": "Two eggs, mushrooms, spinach, mayo, and mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten Free Turkey Crepe",
+                            "description": "Turkey breast, tomato, spinach, mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brownie - Gluten Free",
+                            "description": "Ingredients: eggs, butter, chocolate chips, honey, cocoa powder, brown sugar, white rice flour, tapioca flour, natural vanilla extract, sea salt, xanthan gum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Multigrain Loaf - Gluten Free",
+                            "description": "A hearty loaf, packed with 5 grains millet, poppy, sesame, flax and sunflower. High on fiber and sugar free. Our hearty multigrain loaf, is made with five grains millet, poppy, sesame, flax and sunflower. High on fiber and sugar free. It’s perfect with sweet or savory options. Ingredients: water, whole eggs, brown rice flour, sorghum flour, vegetable oil, amaranth flour, tapioca starch, cornstarch, flaxseeds, honey, xanthan gum, yeast, vinegar, sea salt, millet seeds, sesame seeds, poppy seeds, sunflower seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten FreeTurkey panini ",
+                            "description": "Housemade ciabatta, Turkey breast, spinach, marble cheese, tomato and mayonnaise. Grilled to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Pie - Gluten Free",
+                            "description": "Gluten free, dairy free, made by hand.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten free Muffin ",
+                            "description": "Mouth watering Gluten-free and dairy free muffin.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Swirls - Gluten Free",
+                            "description": "Ingredients: sweet butter pastry (white rice flour, butter, cornstarch, tapioca flour, eggs, sugar, potato starch, sea salt, lemon juice, xanthan gum, baking powder, natural vanilla extract), brown sugar, butter, clear jelly, white rice flour, cinnamon, nutmeg, tapioca flour.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Apple Cinnamon Pie - Gluten Free",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Walnut Cookies - Gluten Free",
+                            "description": "Each bite is a blissful blend of smooth chocolate chips and hearty walnuts, nestled within a soft, chewy cookie that’s completely gluten-free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Latte",
+                            "description": "Rich espresso blended with steamed milk. Available in large or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buttery Shortbread - Gluten Free",
+                            "description": "Delicious shortbread cookies filled with jam. They simply melt in your mouth. Ingredients: white rice flour, butter, tapioca flour, white sugar, icing sugar, sweet rice flour, xanthan gum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Croissants",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain Croissant",
+                            "description": "Savor the simplicity of our Gluten Free Plain Croissant, a buttery and flaky masterpiece. Baked to golden perfection, it offers a delicate crunch outside and a soft, airy interior. Perfect for a classic, indulgent breakfast or a light snack any time of day. Celiac safe",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey and cheese Croissant",
+                            "description": "Gluten-Free Danish, a masterful creation with a tender, flaky crust and a lusciously sweet filling. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.69"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cake ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cake pop",
+                            "description": "A delightful treat combining cake, filling, and frosting, rolled into a ball, coated in a sweet outer layer, and served on a stick.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cake slice",
+                            "description": "Individual portion of delicious gluten-free cake. Flavour may vary ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6” Gluten-free cake",
+                            "description": "Small cake serves 4 people.  Flavour may vary depending on availability. For customized cakes or other inquiries call to the store.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$44.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8” gluten-free cake",
+                            "description": "Medium size cake, serves 8-10 people. Flavour may vary depending on availability. For customized cakes and other inquiries call the store.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$68.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Crepes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten Free Turkey Crepe",
+                            "description": "Turkey breast, tomato, spinach, mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Other Entrees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Roll",
+                            "description": "Savory pastry filled with seasoned, minced pork.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chickpea bun - Gluten free ",
+                            "description": "Cheese and green onions buns",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Wraps and Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten Free Breakfast Wrap Veggie",
+                            "description": "Two eggs, mushrooms, spinach, mayo, and mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten free Breakfast Bun",
+                            "description": "Egg and cheese on a delicious cheese and green onions bun, grilled to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tofu and hummus panini - Gluten free and vegan ",
+                            "description": "Sautéed tofu  on gluten-free bread, typically includes vegan cheese, pressed and served as a panini.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten FreeTurkey panini ",
+                            "description": "Housemade ciabatta, Turkey breast, spinach, marble cheese, tomato and mayonnaise. Grilled to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten free Chicken pesto Panini",
+                            "description": "Chicken strips marinated in pesto sauce, mayo, spinach, tomato and cheddar cheese on a cranberry bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Flours &amp; Mixes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten Free All-Purpose White Flour Blend",
+                            "description": "A versatile mix crafted for those seeking gluten-free baking solutions, this all-purpose white flour blend is designed to substitute traditional flour in various recipes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten Free Bread Mix",
+                            "description": "The panne rizo bread mix is an easy to use mix that can have you baking fresh bread in the convenience of your home in no-time.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bread",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten-free breadcrumbs ",
+                            "description": "Gluten-free and dairy free bread crumbs. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Multigrain Loaf - Gluten Free",
+                            "description": "A hearty loaf, packed with 5 grains millet, poppy, sesame, flax and sunflower. High on fiber and sugar free. Our hearty multigrain loaf, is made with five grains millet, poppy, sesame, flax and sunflower. High on fiber and sugar free. It’s perfect with sweet or savory options. Ingredients: water, whole eggs, brown rice flour, sorghum flour, vegetable oil, amaranth flour, tapioca starch, cornstarch, flaxseeds, honey, xanthan gum, yeast, vinegar, sea salt, millet seeds, sesame seeds, poppy seeds, sunflower seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Chia Loaf - Gluten Free",
+                            "description": "Ingredients: water, brown rice flour, sorghum flour, veg. Oil, organic agave syrup, tapioca starch, potato starch, chia seeds, xanthan gum, baking powder, vinegar, guar gum, salt, yeast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gluten free Cookies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Swirls - Gluten Free",
+                            "description": "Ingredients: sweet butter pastry (white rice flour, butter, cornstarch, tapioca flour, eggs, sugar, potato starch, sea salt, lemon juice, xanthan gum, baking powder, natural vanilla extract), brown sugar, butter, clear jelly, white rice flour, cinnamon, nutmeg, tapioca flour.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan cookie",
+                            "description": "Enjoy our 4” vegan and gluten-free cookie, perfectly chewy. Crafted with premium gluten-free flours, this cookie delivers delightful sweetness in every bite—ideal for the health-conscious and environmentally aware. Treat yourself to a guilt-free indulgence!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Walnut Cookies - Gluten Free",
+                            "description": "Each bite is a blissful blend of smooth chocolate chips and hearty walnuts, nestled within a soft, chewy cookie that’s completely gluten-free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buttery Shortbread - Gluten Free",
+                            "description": "Delicious shortbread cookies filled with jam. They simply melt in your mouth. Ingredients: white rice flour, butter, tapioca flour, white sugar, icing sugar, sweet rice flour, xanthan gum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Dipped Macaroons - Gluten Free",
+                            "description": "Ingredients: sugar, chocolate, egg whites, coconut (may contain sulphites).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Rum Balls - Gluten Free",
+                            "description": "Ingredients: white rice flour, tapioca flour, potato starch, free range eggs, chocolate, canola oil, butter, sugar, cocoa powder, dried pineapple, apricot, apple, carrot, banana, walnut, raisin, pumpkin puree, rum, brandy, baking powder, baking soda, cinnamon, nutmeg, sea salt, xanthan gum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pecan Shortbread - Gluten Free",
+                            "description": "Delicious shortbread cookies filled with jam. They simply melt in your mouth. Ingredients: white rice flour, butter, brown sugar, tapioca flour, sweet rice flour, pecans, xanthan gum, natural vanilla extract, sea salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pecan Snowballs - Gluten Free",
+                            "description": "Delicious shortbread cookies with ground pecans. Ingredients: white rice flour, butter, pecans, tapioca flour, sugar, eggs, icing sugar, natural vanilla extract, xanthan gum, sea salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry Swirls - Gluten Free",
+                            "description": "Ingredients: white rice flour, butter, sugar, eggs, fondant (water, icing sugar), potato starch, raspberry jam (raspberry, sugar, cornstarch), tapioca flour, baking powder, xanthan gum, sea salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Biscotti",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Almond Biscotti - Gluten Free",
+                            "description": "Ingredients: almond flour, whole eggs, chocolate chips, sugar, vegetable oil, Dutch cocoa powder, cornstarch, sea salt, vanilla paste, baking soda.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cranberry Almond Biscotti - Gluten Free",
+                            "description": "Ingredients: white rice flour, earth balance(natural oil blend(palm fruit, canola, soybean, flax and olive oils), filtered water, natural flavor, pea protein, sunflower lecithin, lactic acid, annatto), whole eggs, sugar, cornstarch, almonds, tapioca starch, dry cranberries, potato starch, almond extract, vanilla paste, xanthan gum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple cinnamon Pie 6”",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Apple Cinnamon Pie - Gluten Free",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Pie - Gluten Free",
+                            "description": "Gluten free, dairy free, made by hand.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Pumpkin Pie - Gluten Free",
+                            "description": "Our classic large Pumpkin Pie is made with a rich, spiced pumpkin filling and a perfectly flaky gluten-free crust. Perfect for sharing at family gatherings or cozying up with a slice of fall goodness",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Squares",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rocky road Square - Gluten Free",
+                            "description": "Mouthwatering square made with chocolate, peanut butter, marshmallows and nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brownie - Gluten Free",
+                            "description": "Ingredients: eggs, butter, chocolate chips, honey, cocoa powder, brown sugar, white rice flour, tapioca flour, natural vanilla extract, sea salt, xanthan gum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Date square - Sugar free - GF -Vegan ",
+                            "description": "Indulge in our delectable Sugar-Free Vegan Date Square, a perfect blend of wholesome goodness and natural sweetness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Muffins &amp; Treats",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten free Cinnamon bun",
+                            "description": "Vegan spiral pastry filled with cinnamon and sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten free Lemon loaf slice",
+                            "description": "A lemon loaf slice is a moist, tender piece bursting with bright lemon flavour, topped with a sweet and tangy lemon glaze that perfectly complements the cake&apos;s  richness. It&apos;s a delightful treat that brings a touch of sunshine to any moment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Banana loaf - sugar free GF",
+                            "description": "Gluten free and sugar free. Moist, flavorful, and perfect for those seeking a healthier option, each bite is a delightful blend of banana richness without the added sugars. Savor the goodness of this guilt-free delight, made with care to satisfy your cravings while embracing a mindful approach to sweetness. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten free Muffin ",
+                            "description": "Mouth watering Gluten-free and dairy free muffin.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Espresso",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flavor Latte",
+                            "description": "Espresso-based latte with choice of size: large or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Chocolate Mocha",
+                            "description": "Espresso blend with white chocolate, steamed milk. Available in large, medium, small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chocolate",
+                            "description": "Rich cocoa blended with milk. Available in large or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Latte",
+                            "description": "Rich espresso blended with steamed milk. Available in large or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso",
+                            "description": "Single or double espresso shot, American style.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso Macchiato",
+                            "description": "A rich espresso &quot;marked&quot; with just a hint of steamed milk foam, allowing the espresso&apos;s bold flavors to predominate.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano",
+                            "description": "Hot water poured over finely-ground espresso beans. Choose from small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano Misto",
+                            "description": "Americano misto: Espresso blended with equal parts of hot water and milk. Available in large or small sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha",
+                            "description": "Espresso blended with rich chocolate, available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato",
+                            "description": "Espresso mixed with steamed milk and caramel topping. Available in large, medium, or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Hot Chocolate",
+                            "description": "Warm, rich hot chocolate paired with sweet caramel. Choice of large or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino",
+                            "description": "Rich espresso topped with frothy milk, available in large or small sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": " Chai Latte",
+                            "description": "Aromatic spiced tea blended with steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bubbly",
+                            "description": "Effervescent and refreshing, typically carbonated water with a variety of possible flavorings for a light and fizzy drinking experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange juice ",
+                            "description": "Classic citrus refreshment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.59"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Esther R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious baked goodies like bird&apos;s nest cookies"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Laura M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Disappointed. For the amount of $$ spent I expected a whole panini and bigger desserts. The pictures are very misleading.  My cookie certainly wasnt 4inches and it was hard as a rock."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Lucy B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "The chicken pot pie was great but I didn&apos;t know it had corn which I&apos;m allergic too so I couldn&apos;  enjoy it :("
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Margaret R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "We are from Atlanta, GA, USA and I wish we had a bakery like this near us! Delicious pot pies, and when they didn&apos;t have enough to fulfill our whole order they gave us other entrees and pumpkin cookies as compensation (which were amazing!) Thank you!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hannah C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Literally the only place I can get a gluten free wrap 10/10 &lt;3"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Catering",
+        "Gluten-Free",
+        "Dessert",
+        "Breakfast",
+        "Lunch",
+        "Cafes",
+        "Sweets",
+        "Pickup",
+        "Takeout"
+    ],
+    "url": "https://www.doordash.com/store/panne-rizo-gluten-free-bakery-vancouver-31659/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16047360885",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "9 AM - 4:40 PM"
+        ],
+        "TUESDAY": [
+            "9 AM - 5:13 PM"
+        ],
+        "WEDNESDAY": [
+            "9 AM - 5:13 PM"
+        ],
+        "THURSDAY": [
+            "9 AM - 5:13 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 4:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 4:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "9 AM - 5 PM"
+        ],
+        "TUESDAY": [
+            "9 AM - 5:33 PM"
+        ],
+        "WEDNESDAY": [
+            "9 AM - 5:33 PM"
+        ],
+        "THURSDAY": [
+            "9 AM - 5:33 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 5 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 5 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

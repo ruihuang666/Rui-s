@@ -1,0 +1,1069 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/EternalAbundance_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3c83eeff-acb7-4a92-97d9-8f3796c124e6.43"
+    ],
+    "name": "Eternal Abundance",
+    "address": "1025 Commercial Dr, Vancouver, BC V5L 3X1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.275414",
+        "longitude": "-123.06971"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Incredi-Bowl",
+                            "description": "Made with certified organic ingredients.\n\nHouse salad served with your choice of topping, avocado, brown rice or quinoa, topped with sprouts and sesame seeds. Choice of dressing: miso ginger, Caesar, turmeric-sesame.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Miso Walnut Roll",
+                            "description": "Made with certified organic ingredients.\n\nWalnut and sunflower seed, miso and smoked paprika paté, avocado, carrot, bell pepper, sprouts, sprinkle of sesame seeds, wrapped in a raw nori sheet.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kale Caesar",
+                            "description": "NOW MADE WITH NEW BAKED CROUTONS!\nCall us for any allergen information.\n\nMade with certified organic ingredients.\n\nKale, lettuce, gluten-friendly croutons or olives, and rawmesan tossed in Caesar dressing, topped with sprouts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Straight Celery",
+                            "description": "Certified organic celery",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruity Greens",
+                            "description": "Certified organic kale, celery, cucumber, collard, spinach, parsley, apple, lemon, ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrito Bowl",
+                            "description": "Made with certified organic ingredients.\n\nChoice of grain, shredded cabbage and lettuce tossed in Caesar Dressing, chili spiced tempeh and black bean mix, avocado, salsa, pickled cabbage, sunflower seed sour cream, lime, and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Alex&apos;s Special Salad",
+                            "description": "Made with certified organic ingredients.\n\nKale, nori seaweed, warm brown rice, carrot and red onion tossed in miso ginger dressing, topped with sprouts and a sprinkle of sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Ginger Cayenne",
+                            "description": "2 oz of freshly juiced lemon and ginger with a sprinkle of cayenne for a kick.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Wake",
+                            "description": "Certified organic orange, carrot, apple, turmeric, ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Kimchi Roll",
+                            "description": "Made with certified organic ingredients.\n\nBrown rice, house-made kimchi, spicy sesame mayo sauce, avocado, lettuce, cucumber, peppers, sprouts, sprinkle of sesame seeds, wrapped in a raw nori sheet.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Only Greens",
+                            "description": "Certified organic kale, celery, cucumber, collard, spinach, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Golden Curry Noodle Soup Bowl",
+                            "description": "Made with certified organic ingredients.\n\nThai curry coconut milk broth with miso and ginger, yams, carrots, broccoli, bell pepper, rice noodles, kale and tofu",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Breakfast (served till 2pm, except Chia Pudding which is served all day)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Blueberry Chia Pudding",
+                            "description": "Made with certified organic ingredients.\n\nCoconut milk chia pudding, lightly sweetened with maple syrup with a splash of orange juice, topped with crunchy almond protein granola, blueberry orange sauce, banana, fresh orange and cacao nibs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "*NEW* Quinoa Waffles",
+                            "description": "Made with certified organic ingredients.\n\nCinnamon-spiced quinoa and oat flour waffles topped with fruit compote, coconut flakes, a sprinkling of almond-protein granola, house-made buttery spread, a side of maple syrup and fresh fruit",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Tofu Benny",
+                            "description": "Made with certified organic ingredients.\n\nHouse-made caraway oat biscuits, smoked tofu, cashew hollandaise, wilted kale, avocado,  fresh tomato. Served with side slaw and roasted potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kale Caesar",
+                            "description": "NOW MADE WITH NEW BAKED CROUTONS!\nCall us for any allergen information.\n\nMade with certified organic ingredients.\n\nKale, lettuce, gluten-friendly croutons or olives, and rawmesan tossed in Caesar dressing, topped with sprouts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raw Slaw",
+                            "description": "Made with certified organic ingredients.\n\nShredded carrot and cabbage, topped with sprouts and sesame seeds. Choice of dressing: miso ginger, caesar, turmeric-sesame.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Alex&apos;s Special Salad",
+                            "description": "Made with certified organic ingredients.\n\nKale, nori seaweed, warm brown rice, carrot and red onion tossed in miso ginger dressing, topped with sprouts and a sprinkle of sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Salad",
+                            "description": "Made with certified organic ingredients.\n\nLettuce, cabbage, carrot, beet, tomato, cucumber, pepper topped with seed blend and sprouts. Choice of dressing: miso ginger, Caesar, turmeric-sesame.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrito Bowl",
+                            "description": "Made with certified organic ingredients.\n\nChoice of grain, shredded cabbage and lettuce tossed in Caesar Dressing, chili spiced tempeh and black bean mix, avocado, salsa, pickled cabbage, sunflower seed sour cream, lime, and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Incredi-Bowl",
+                            "description": "Made with certified organic ingredients.\n\nHouse salad served with your choice of topping, avocado, brown rice or quinoa, topped with sprouts and sesame seeds. Choice of dressing: miso ginger, Caesar, turmeric-sesame.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Golden Curry Noodle Soup Bowl",
+                            "description": "Made with certified organic ingredients.\n\nThai curry coconut milk broth with miso and ginger, yams, carrots, broccoli, bell pepper, rice noodles, kale and tofu",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Raw Entrées",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raw Sandwich",
+                            "description": "Made with certified organic ingredients.\n\nRaw rosemary onion bread, suncheeze, lettuce, tomato, cucumber, red onion, bell peppers, sprouts and avocado. Served with mini slaw.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Nori Rolls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Miso Walnut Roll",
+                            "description": "Made with certified organic ingredients.\n\nWalnut and sunflower seed, miso and smoked paprika paté, avocado, carrot, bell pepper, sprouts, sprinkle of sesame seeds, wrapped in a raw nori sheet.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Kimchi Roll",
+                            "description": "Made with certified organic ingredients.\n\nBrown rice, house-made kimchi, spicy sesame mayo sauce, avocado, lettuce, cucumber, peppers, sprouts, sprinkle of sesame seeds, wrapped in a raw nori sheet.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Soup / Stew",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Pumpkin Soup",
+                            "description": "Made with certified organic ingredients.\n\nThick and creamy roasted pumpkin soup with sour cream drizzle and toasted pumpkin seeds. Served with choice of gluten-free toast or crackers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Spiced Tempeh and Black Beans",
+                            "description": "Made with certified organic ingredients.\n\nHigh protein side of medium spiced chili tempeh and black beans, mixed with bell pepper, cilantro and spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raw Onion Bread 1pc",
+                            "description": "Dehydrated raw &apos;bread&apos; made from flax and sunflower seeds, onion, dates, rosemary and spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1/2 Avocado",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Caesar dressing",
+                            "description": "House-made Caesar dressing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Miso Ginger Dressing",
+                            "description": "House made miso ginger dressing ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Brown Rice",
+                            "description": "Classic side of wholesome brown rice. Perfect pairing for any dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Kimchi",
+                            "description": "Karthein&apos;s organic kimchi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Buttery Spread",
+                            "description": "A small rammie of house-made vegan butter made from whole food ingredients (palm oil-free!)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Gluten-Free Toast (2 slices)",
+                            "description": "House-made gluten-free toast with  your choice of spread. Made with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Quinoa",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Specialty Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Chai Latté (12 Oz.)",
+                            "description": "Masala spiced tea with milk and maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chaga Latte (12 Oz.)",
+                            "description": "Chaga tea, milk, maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Ginger Tea (12 Oz.)",
+                            "description": "Fresh lemon, orange, ginger, maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chaga Tea (12 Oz.)",
+                            "description": "Immune-boosting tree mushroom from Harmonic Arts\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "*NEW* Dark Hot Chocolate (12 Oz.)",
+                            "description": "A rich, dark hot chocolate made from raw cacao. Nicely balanced sweetness, slight bitterness and a hint of saltiness with an impactful cacao flavor. Sweetened with coconut sugar and maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Apple Cider",
+                            "description": "A seasonal special of BC organic apple cider simmered with spices and orange zest, and sweetened with a touch of coconut sugar.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Loose Leaf Tea (12 Oz.)",
+                            "description": "Organic loose leaf teas from Namasthe Tea Co and Gathering Place.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Masala Spiced Tea (12 Oz.)",
+                            "description": "House-made chai spice brewed with caffeine-free rooibos tea.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hojicha Latte (12oz)",
+                            "description": "Nutty roasted green tea mixed with coconut oil, vanilla, choice of milk, maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Spice Latte",
+                            "description": "Enjoy our warming housemade pumpkin spice latte. Made from roasted pumpkin, a blend of flavourful spices, coconut sugar, maple syrup, vanilla powder, and your choice of milk.\nEspresso is not included - please choose a shot as an add on.\nAll organic, vegan, and gluten-free, as ever :-)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turmeric Latté (12 Oz.)",
+                            "description": "Turmeric and spices, vanilla, coconut oil, milk of choice, maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Latte (12oz)",
+                            "description": "Organic classic Japanese matcha with vanilla, coconut oil, choice of milk and maple syrup.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Coffee",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano 12oz",
+                            "description": "Espresso diluted with hot water",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Latte 12oz",
+                            "description": "12oz Latte with choice of coconut milk, cashew-coconut-oat blend, or plain oat milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso Shot 2oz",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Juices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruity Greens",
+                            "description": "Certified organic kale, celery, cucumber, collard, spinach, parsley, apple, lemon, ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Only Greens",
+                            "description": "Certified organic kale, celery, cucumber, collard, spinach, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Straight Orange",
+                            "description": "Certified organic hand pressed oranges.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sunrise",
+                            "description": "Certified organic carrot, beet, orange, lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Wake",
+                            "description": "Certified organic orange, carrot, apple, turmeric, ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Straight Celery",
+                            "description": "Certified organic celery",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "T&apos;s Tonic",
+                            "description": "Certified organic apple, lemon, ginger, turmeric, e3 live.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Shots",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Ginger Cayenne",
+                            "description": "2 oz of freshly juiced lemon and ginger with a sprinkle of cayenne for a kick.\n\nMade with certified organic ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E3 Live",
+                            "description": "Wild grown blue-green algae, high in protein, iron, vitamins, and minerals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "*NEW* Organic Smoothies (16oz)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Goddess",
+                            "description": "Made with all certified organic ingredients.\n\nOrange, Zucchini, Apple, Spinach, Kale, Ginger, Hemp Hearts, Dates, Spirulina, Orange Juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "West Coast Blues",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Blueberries, Dates, Kale, Hemp Hearts, Lemon Zest, Orange Juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Crunch",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Dates, Oats, Chia, Almonds, Vanilla, Cinnamon, Salt, Coconut Milk. Topped with house-made cinnamon almond protein granola!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mindful Mocha",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Cold Brew Coffee, Dates, Cacao Powder, Almonds, Maca, Chaga, Salt, Vanilla, Coconut Milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mint Choco Chip ",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Dates, Hemp Hearts, Spirulina, Maca, Mint extract, Cacao Nibs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wellness Warrior ",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Carrot, Dates, Ginger, Turmeric, Black Pepper, Hemp Hearts, Goji Berries, Astragalus, Orange Juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mighty Matcha",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Dates, Matcha, Hemp Hearts, Vanilla, Maple Syrup, Coconut Milk\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iron Hero",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Dates, Almonds, Moringa, Hemp Protein, Cacao Powder &amp; Paste,  Vanilla, Salt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cashew Vanilla Chip",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Dates, Oats, Cashews, Vanilla, Coconut Milk, Cacao Paste",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Golden Glow",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Mango, Pineapple, Dates, Hemp Hearts, Turmeric,  Black Pepper, Camu Camu, Coconut Milk, Orange Juice\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry Revive  ",
+                            "description": "Made with all certified organic ingredients.\n\nBanana, Zucchini, Raspberry, Dates, Beet Powder, Hemp Hearts, Lemon Zest, Orange Juice, Coconut Milk\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "*NEW* Organic Smoothie Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "West Coast Blues Smoothie Bowl",
+                            "description": "Made with certified organic ingredients.\n\nSmoothie: Banana, Zucchini, Blueberries, Dates, Kale, Hemp Hearts, Lemon Zest, Orange Juice. \n\nTopping:  Granola, Oranges, Blueberries, Coconut Shreds, Cacao Nibs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mighty Matcha Smoothie Bowl",
+                            "description": "Made with certified organic ingredients.\n\nSmoothie: Banana, Zucchini, Dates, Matcha, Hemp Hearts, Vanilla, Maple Syrup, Coconut Milk. \n\nTopping: Granola, Strawberry, Banana, Cacao Nibs, Oats, Blueberries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry Revive Smoothie Bowl",
+                            "description": "Made with certified organic ingredients.\n\nSmoothie: Banana, Zucchini, Raspberry, Dates, Beet Powder, Hemp Hearts, Lemon Zest, Orange Juice, Coconut Milk. \n\nTopping: Granola, Almonds, Cacao Nibs, Raspberries, Cacao Paste, Coconut Flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iron Hero Smoothie Bowl",
+                            "description": "Made with certified organic ingredients.\n\nSmoothie: Banana, Zucchini, Dates, Almonds, Moringa, Hemp Protein, Cacao Powder &amp; Paste,  Vanilla, Salt.\n\nTopping: Granola, Banana, Cacao Nibs, Coconut Flakes, Cacao Paste, Almonds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Organic Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Chip Cookie",
+                            "description": "Made with certified organic ingredients.\n\nBaked gluten-friendly chocolate chip cookie. Brown rice, oat and almond based, sweetened with organic cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Zimt Brownie",
+                            "description": "Made with certified organic ingredients.\n\nDouble chocolate, gluten-friendly brownies with caramel sauce and pecans",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Molasses Cookie",
+                            "description": "Made with certified organic ingredients.\n\nBaked gluten-friendly ginger molasses cookie. Brown rice, oat and almond based, sweetened with organic cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Zimt Chocolate Bar",
+                            "description": "Zimt creates delectable organic fairtrade vegan chocolates  sweetened with coconut sugar and in biodegradable packaging. To benefit you, the animals, and the Earth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Turtle (Raw)",
+                            "description": "Made with certified organic ingredients.\n\nDate and almond butter caramel, pecans, coated in dark chocolate",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "ZIMT Macaroons (2 pack)",
+                            "description": "Made with certified organic ingredients.\n\nDense and chewy, decadent macaroons from ZIMT.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bulk Items (all are delivered COLD)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulk Caesar Dressing 250ml",
+                            "description": "Creamy Caesar dressing with a blend of Parmesan cheese, garlic, lemon juice, and anchovies, perfect for salads and dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulk Miso Ginger Dressing 250ml",
+                            "description": "Creamy blend of miso and ginger, perfect for enhancing salads, marinades, and dipping sauces. 250ml.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Dari G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "A bit pricey but always very high quality and fresh. Love this place &lt;3"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Aksana K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "More lettuce than beans or substance for this high pricing :,( not filling at  all, this ratio should cost $10 .....not $25+"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Scott B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Not worth the price. Decent taste but the salad was so small even after upgrading to the large it was almost laughable. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Chris S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "best tasting vegan, gluten free  organic sustenance in the city made by the best people. have been a customer for 12 years"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Faithe Meagan N"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "the Mint Choco Chip is tasty! Not very minty, it&apos;s a subtle coolness instead. Feels great, will order again"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Soup",
+        "Dessert",
+        "Healthy",
+        "Salads",
+        "Juice Bars &amp; Smoothies"
+    ],
+    "url": "https://www.doordash.com/store/eternal-abundance-vancouver-42673/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16047070088",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 7:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 8 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 8 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 8 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 8 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 8 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 8 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 8 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

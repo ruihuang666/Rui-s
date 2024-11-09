@@ -1,0 +1,976 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/072239dc-3dc8-46b3-bed8-cf5a8b482741.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/666ed30c-421e-4d0a-95b4-c19a391e6eeb.jpg"
+    ],
+    "name": "Greenday Vegetarian Restaurant 绿日素食",
+    "address": "2160-8888 Odlin Crescent, Richmond, BC V6X 3Z8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.18412",
+        "longitude": "-123.1263"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Tofu with Rice / 茄子豆腐飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet and Sour Gluten / 甜酸齋滷味",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buddha&apos;s Delight Stir-Fried Noodle / 羅漢齋炒麵",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Braised Pork Belly with Mustard Vegetable On Rice / 梅菜扣肉飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olive Vegetable Stir-Fried Rice / 欖菜炒飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Tomato Egg with Rice / 番茄蛋飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mini Spring Roll / 迷你炸春卷",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinated Tofu / 滷水豆腐",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken with Rice / 鹽酥雞飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Ginger Chicken with Rice / 蜜糖薑汁雞飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan-Fried Fish Steak Rice / 香煎雪魚飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tom Yum / 冬陰酸辣",
+                            "description": "Tom Yum noodle soup with choice of bean thread, vermicelli, or noodle in a spicy and sour broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer / 小食",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet and Sour Gluten / 甜酸齋滷味",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken / 鹽酥雞",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chinese Toon Pan-Fried Cake / 香椿煎餅",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mini Spring Roll / 迷你炸春卷",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cumin Spice Fries / 孜然辣薯條",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special Soy Sauce Eggs / 馳名滷水蛋",
+                            "description": "4 pieces / 4 隻。.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Konjac Tendon / 香辣蹄筋",
+                            "description": "Spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Black Fungus / 涼拌黑木耳",
+                            "description": "Spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep-Fried Fish Cake / 酥炸甜不辣",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salty Pepper Fries / 椒鹽薯條",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinated Hard Tofu / 滷水豆乾",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brine Platter / 滷水拼盤",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep-Fried Squid / 椒鹽鮮魷",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dumplings in Red Oil / 紅油炒手",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep-Fried Daikon Cake / 酥炸蘿蔔糕 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinated Tofu / 滷水豆腐",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Main / 主食",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Braised Pork Belly with Mustard Vegetable On Rice / 梅菜扣肉飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken with Rice / 鹽酥雞飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Ginger Chicken with Rice / 蜜糖薑汁雞飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Tomato Egg with Rice / 番茄蛋飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olive Vegetable Stir-Fried Rice / 欖菜炒飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Curry Shrimp Stir-Fried Rice / 咖喱蝦粒炒飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special Stir-Fried Vermicelli / 招牌炒米粉",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buddha&apos;s Delight Stir-Fried Noodle / 羅漢齋炒麵",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Tomato Egg with Macaroni / 番茄蛋通粉",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Pork Slice Veggie with Rice / 回鍋肉飯",
+                            "description": "Spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet and Sour Chicken Rice / 糖醋雞飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hua Diao Chicken Rice / 花雕雞卷飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet and Sour Fish Rice / 糖醋魚飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Dice and Corn Rice / 粟米肉粒飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Braised Tofu and Vegetable with Rice / 紅燒豆腐飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buddha&apos;s Delight with Rice / 羅漢齋飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mapo Tofu Rice / 麻婆豆腐飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Vegetable Stir-Fried Rice / 麻辣炒飯",
+                            "description": "Spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Stir-Fried Rice / 泡菜炒飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage and Egg Stir-Fried Rice / 腸仔蛋炒飯",
+                            "description": "Stir-fried rice with savory vegetarian sausage and scrambled eggs, seasoned with soy sauce and mixed vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special Stir-Fried Udon / 特色炒烏冬",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Curry Stir-Fried Udon / 咖喱炒烏冬",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Stir-Fried Udon / 泡菜炒烏冬",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan-Fried Fish Steak Rice / 香煎雪魚飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Tofu with Rice / 茄子豆腐飯",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Noodle Soup / 湯粉麵",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buddha&apos;s Delight / 羅漢上素",
+                            "description": "Assorted vegetables in a light, savory broth served with your choice of bean thread, vermicelli, or noodle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sha Cha Eggplant / 沙茶茄子",
+                            "description": "Eggplant with sha cha sauce in broth, served with choice of bean thread, vermicelli, or noodles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Tomato and Egg / 鮮番茄蛋",
+                            "description": "Fresh tomato and egg soup featuring a choice of bean thread, vermicelli, or noodle. Vegetarian.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Pork Slice with Veggies / 回鍋肉",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Popcorn Chicken / 鹽酥雞",
+                            "description": "Crispy veggie popcorn chicken noodle soup, options include bean thread, vermicelli, or noodle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tom Yum / 冬陰酸辣",
+                            "description": "Tom Yum noodle soup with choice of bean thread, vermicelli, or noodle in a spicy and sour broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pickles and Shredded Pork / 榨菜肉絲",
+                            "description": "Shredded pork and pickles in a vegetarian broth, choice of bean thread, vermicelli, or noodle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.35"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert / 甜品",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bubble Waffle / 原味雞蛋仔",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stew Papaya Fungus with Coconut Milk / 椰汁雪耳燉木瓜",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Walnut Dessert / 香濃生磨核桃糊",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Macau Pudding / 木糠布甸",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stew Papaya with Fungus / 雪耳燉木瓜",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HK Style Waffle with Peanut Butter / 港式格仔餅",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Sesame Dessert / 香濃生磨芝麻糊",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Drink / 特色飲品",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peach Green Tea / 水蜜桃綠茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lychee Green Tea / 荔枝綠茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Green Tea / 草莓綠茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Green Tea / 芒果綠茶 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Green Tea / 蜂蜜綠茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Milk Tea with Honey / 蜂蜜綠奶茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thai Milk Tea / 泰式奶茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Tea with Black Sugar / 黑糖薑母茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stew Lemon with Orange Peel / 陳皮冰糖燉檸檬",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Black Bean Soy Drink / 鮮磨黑豆漿",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Lemon Green Tea / 蜂蜜檸檬綠茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earl Gray Milk Tea / 伯爵奶茶",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverage / 飲品",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "HK Style Milk Tea / 港式奶茶",
+                            "description": "Hong Kong-style milk tea, silky smooth texture, optional served hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HK Style Coffee / 港式咖啡",
+                            "description": "Hong Kong-style coffee, available hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ovaltine / 阿華田",
+                            "description": "Ovaltine, a classic malted drink, served hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Almond Drink / 杏仁霜",
+                            "description": "Almond milk, choice of hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Tea / 檸檬茶",
+                            "description": "Choice of hot or cold lemon tea, combining zesty lemon with refreshing tea leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemonade / 檸檬水",
+                            "description": "Lemonade prepared either hot or cold, tailored to your preference.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jackson J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Love the sweet and sour gluten. "
+        }
+    ],
+    "servesCuisine": [
+        "Vegetarian",
+        "Noodles",
+        "Dessert",
+        "Soup"
+    ],
+    "url": "https://www.doordash.com/store/greenday-vegetarian-restaurant-绿日素食-richmond-2143342/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17788636923",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 7 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 6:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 6:40 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 6:40 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 6:40 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 6:40 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 6:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 7 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 7 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 7 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 7 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 7 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 7 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

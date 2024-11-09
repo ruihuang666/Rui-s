@@ -1,0 +1,980 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/69c53d57-7ec0-4371-9e4b-17706de21fa3.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/5329e066-96cd-483e-b363-3daca6e9b23a.jpg"
+    ],
+    "name": "Hi Five Chicken",
+    "address": "792 W Broadway, Vancouver, BC V5Z 1J5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.263317",
+        "longitude": "-123.12158"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homestyle Spicy Fried Chicken Sandwich Meal",
+                            "description": "Toasted brioche bun topped with spicy mayonnaise, lettuce, tomatoes, and a fried chicken patty. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gravy",
+                            "description": "Our Signature homemade gravy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "Crispy savory fries some call it, Happiness is a warm basket of Fries. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6 Pc Fried Hot Wings",
+                            "description": "Hand battered and fried to perfection hot wings. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Piece Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 3 pcs chicken include 2 drumstick &amp; 1 thigh",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hi Five Classic Chicken Sandwich Meal",
+                            "description": "Toasted brioche, fried chicken filet, mayo with sprinkle - pinch of black pepper, pickle, &amp; lettuce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Piece Chicken ",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 4 pcs chicken include 2 drumstick &amp; 2thigh",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalapeño Jack Poppers ",
+                            "description": "Real cheese with jalapeño pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homestyle Fried Chicken Sandwich",
+                            "description": "Toasted brioche bun topped with spicy mayonnaise, lettuce, tomatoes, and a fried chicken patty.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 pc  Chicken Meal                                        ",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 3 pcs chicken include 2 drumstick &amp; 1 thigh with fries and Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mac and Cheese ",
+                            "description": "Crispy Mac N cheese bites fried to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Limited Time Offer",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "8 pcs Home Spiced Roasted Chicken",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 pc Home Spiced Roasted Chicken Meal",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mac and Cheese ",
+                            "description": "Crispy Mac N cheese bites fried to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onion Rings",
+                            "description": "Sweet and tender on the inside, Crispy and Crunchy on the outside.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Pc Kickin’ Chicken Pie",
+                            "description": "Spicy, crispy pocket filled with chicken and veggies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalapeño Jack Poppers ",
+                            "description": "Real cheese with jalapeño pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canuck Poutine",
+                            "description": "Our take on a classic golden fries, cheese curds and topped with our signature gravy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.29"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Meals",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 pc Chicken Meal",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 4 pcs chicken include 2 drumstick &amp; 2 thigh with fries and Drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 pc  Chicken Meal                                        ",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 3 pcs chicken include 2 drumstick &amp; 1 thigh with fries and Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 pc  Chicken Meal",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 2 pcs chicken include 1 drumstick &amp; 1 thigh with fries and Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken - A La Carte",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Piece Chicken ",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 4 pcs chicken include 2 drumstick &amp; 2thigh",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Leg (1 pc)",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Thigh (1 pc)",
+                            "description": "Hand-breaded cooked to perfection fresh chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Piece Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 3 pcs chicken include 2 drumstick &amp; 1 thigh",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Breast (1 pc)",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken breast. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hand Held Meals",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hi Five Classic Chicken Sandwich Meal",
+                            "description": "Toasted brioche, fried chicken filet, mayo with sprinkle - pinch of black pepper, pickle, &amp; lettuce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homestyle Spicy Fried Chicken Sandwich Meal",
+                            "description": "Toasted brioche bun topped with spicy mayonnaise, lettuce, tomatoes, and a fried chicken patty. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Chicken Sandwich Meal",
+                            "description": "Toasted brioche, fried chicken filet, mayo, lettuce &amp; traditional Korean sauce. Meal comes with a side &amp; a drink. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Roasted Chicken Sandwich Meal",
+                            "description": "Toasted brioche bun topped with spicy mayonnaise, tomatoes, lettuce, and spicy roasted chicken patty. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Power Plant Sandwich Meal",
+                            "description": "Toasted brioche bun, spicy mayo, pickles, tomatoes, lettuce, and Crispy Lightlife Patty &amp; meal include regular fries &amp; drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.39"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hand Helds",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homestyle Fried Chicken Sandwich",
+                            "description": "Toasted brioche bun topped with spicy mayonnaise, lettuce, tomatoes, and a fried chicken patty.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Chicken Sandwich",
+                            "description": "Toasted brioche, fried chicken breast filet, mayo, lettuce &amp; Traditional Korean Sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Roasted Chicken Sandwich ",
+                            "description": "Toasted brioche bun topped with spicy mayonnaise, tomatoes, lettuce, and spicy roasted chicken patty.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hi Five Classic Sandwich",
+                            "description": "Toasted brioche, fried chicken breast filet, mayo with sprinkle - pinch of black pepper, pickle, &amp; lettuce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Power Plant Sandwich ",
+                            "description": "Toasted brioche bun, spicy mayo, pickles, tomatoes, lettuce, and Crispy Lightlife Patty. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.39"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Tenders and Wings Meals",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 Pc Fried Hot Wings Meal",
+                            "description": "5 pc chicken hot wings with fries and a drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Pc Chicken Tender Meal",
+                            "description": "Hand-battered and fried to perfection chicken Tenders. Meal comes with fries and a Drink. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 Pc Chicken Tender Meal",
+                            "description": "Hand-battered and fried to perfection chicken Tenders. Meal comes with fries and a Drink. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.39"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Tenders and Wings",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "6 Pc Fried Regular Wings",
+                            "description": "Hand battered and fried to perfection wings. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6 Pc Fried Hot Wings",
+                            "description": "Hand battered and fried to perfection hot wings. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 Pc  Fried Hot Wings",
+                            "description": "Hand battered and fried to perfection hot wings. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken",
+                            "description": "Hand cut chicken bites with our signature batter fried to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 Pc Fried Hot Wings",
+                            "description": "Hand battered and fried to perfection hot wings. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 Pc Chicken Tender",
+                            "description": "Hand battered and fried to perfection chicken Tenders.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 Pc Chicken Tender ",
+                            "description": "Hand battered and fried to perfection chicken Tenders. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.59"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Family Meals",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Party Meal (8 pcs)",
+                            "description": "Eight pieces of chicken party meal include three biscuits and two family size sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$51.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Party Meal (12 pcs)",
+                            "description": "Twelve pieces of chicken party meal include three biscuits and two family size sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$63.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Party Meal (10 pcs)",
+                            "description": "Ten pieces of chicken party meal include three biscuits and two family size sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$57.59"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads and Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "Crispy savory fries some call it, Happiness is a warm basket of Fries. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gravy",
+                            "description": "Our Signature homemade gravy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buttery Corn",
+                            "description": "Delicious Buttery Corn. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maple Chive Biscuit",
+                            "description": "Classic, flaky and freshly baked Biscuit, Glazed with Maple, butter and chives. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mashed Potatoes",
+                            "description": "Mashed potatoes is perfectly rich and creamy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coleslaw",
+                            "description": "A creamy medley of thinly sliced vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.19"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Churros Bites",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.69"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Pie (1 pc)",
+                            "description": "Fresh from the farm apples. One order comes with one piece.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.69"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Donuts  ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boston Cream Donut (1 pc)",
+                            "description": "The Boston cream donut with chocolate frosting and filled with cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.69"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cookies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Chunk Cookie",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Chocolate Macadamia Cookie",
+                            "description": "Soft-baked with an extra chewy center. they’re packed with white chocolate and salted macadamia nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.29"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Sauces",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hi-Five Alarm Spicy Sauce",
+                            "description": "88 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ghost Pepper Ranch Sauce",
+                            "description": "270 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet and Sour Sauce",
+                            "description": "140 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Sauce",
+                            "description": "90 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ranch Sauce",
+                            "description": "195 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Mustard Bistro Sauce",
+                            "description": "222 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop (591 ml)",
+                            "description": "260 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.09"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Juice (450 ml)",
+                            "description": "Made with real apple juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.09"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Juice (450 ml)",
+                            "description": "Made with real orange juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.09"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop (2L)",
+                            "description": "840 nutrition values.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.09"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Can Drinks",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.89"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water (500 ml)",
+                            "description": "Rehydrate with this bottled water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.09"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Nina L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "super fresh and tasty  food😋 the Churros Bites were amazing 👏 perfectly crisp and so sweet! must try ..."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Angela J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Baked chicken is flavourful and juicy without any crispy coating. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jodie M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "So excited! I have not ordered from here before and the fact it  came with gloves was AMAZING!!! I love the added touch! Food is amazing! Quick &amp; Fresh "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Fero B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Absolutely fenomenal!\nmeal perfectly prepared.\nasked for extra sauce- received plenty , plus extra spicy sachets.\nHand wipe all 100 yards!\ncustomer service 100/10 \nthank you guys !"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Courtney S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The fried chicken wings are awesome!! Crispy fries and delicious gravy. My only complaint is I could use 10 more of the signature sauce, it only comes with two small containers. Ill order an extra next time        "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "American",
+        "Fast Food",
+        "Fried Chicken",
+        "Chicken",
+        "Chicken Wings",
+        "KWB"
+    ],
+    "url": "https://www.doordash.com/store/hi-five-chicken-vancouver-24741663/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17788858937",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10:30 AM - 2:40 AM"
+        ],
+        "TUESDAY": [
+            "10:30 AM - 2:40 AM"
+        ],
+        "WEDNESDAY": [
+            "10:30 AM - 2:40 AM"
+        ],
+        "THURSDAY": [
+            "10:30 AM - 2:40 AM"
+        ],
+        "FRIDAY": [
+            "10:30 AM - 3:40 AM"
+        ],
+        "SATURDAY": [
+            "10:30 AM - 3:40 AM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 2:40 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10:30 AM - 3 AM"
+        ],
+        "TUESDAY": [
+            "10:30 AM - 3 AM"
+        ],
+        "WEDNESDAY": [
+            "10:30 AM - 3 AM"
+        ],
+        "THURSDAY": [
+            "10:30 AM - 3 AM"
+        ],
+        "FRIDAY": [
+            "10:30 AM - 4 AM"
+        ],
+        "SATURDAY": [
+            "10:30 AM - 4 AM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 3 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

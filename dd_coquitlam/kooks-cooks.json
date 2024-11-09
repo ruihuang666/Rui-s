@@ -1,0 +1,989 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/c2265a5b-4dad-480b-986d-76c5b6793dcb.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3115bb2c-3a16-4e46-a0e4-407a723ffd58.jpg"
+    ],
+    "name": "Kook’s cooks",
+    "address": "2120 Austin Ave, Coquitlam, BC V3K 3R8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.24885",
+        "longitude": "-122.83621"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Morning Plate",
+                            "description": "Two eggs any style, 2 pieces of toast (rye bread, multigrain bread or white bread), your choice of meat (bacon, sausage or ham), and choice of potato hash or seasonal fruit. Salad extra $1.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Cooks Omelette",
+                            "description": "Three eggs, potato hash, choice of toast(rye bread, multigrain bread or white bread) and any three toppings(back bacon+spinnach+hickory smoked bacon+red peppers+cheddar+mushrooms+smoked salmon, and feta cheese). Side: potato hash or fruits (salad or an additional charge).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi Beef Burrito",
+                            "description": "Sauteed onion, carrot, scrambled eggs, sweet soy marinated beef, scallion, bulgogi flakes and potato hash or fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi Beef Benedict",
+                            "description": "Topped with hollandaise sauce on toasted English muffin(or croissant 2) with choice of potato hash, fruit bowl or house green salad",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Waffle Chicken",
+                            "description": "Full size cinnamon waffle, two pieces chicken, fresh fruits, syrup, and whipping cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Cream Pasta",
+                            "description": "Grilled chicken breast, mushroom, onion, white wine, house made cream sauce, parsley, parmesan cheese, and powdered shitaki mushroom.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hickory Smoked Bacon Benedict",
+                            "description": "Hickory smoked bacon atop poached eggs, hollandaise on a choice of English muffin or croissant. Served with potato hash, seasonal fruits, green salad, or soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab &amp; Prawn Cream Pasta",
+                            "description": "Crab, olive oil, onion chop, shrimps, wine, garlic, dry parsley chop, and black peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Cooks Meringue Pancake",
+                            "description": "Served with syrup, powdered sugar, whipped cream and fresh fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6 Oz Daily Soup",
+                            "description": "Creamy soup topped with shredded cheddar cheese, crispy bacon bits, and fresh herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Salmon Benedict",
+                            "description": "Topped with hollandaise sauce on toasted English muffin(or croissant 2) with choice of potato hash, fruit bowl or house green salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chocolate",
+                            "description": "Smooth, rich chocolate drink, perfectly steamed to warm your soul.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Morning Plate",
+                            "description": "Two eggs any style, 2 pieces of toast (rye bread, multigrain bread or white bread), your choice of meat (bacon, sausage or ham), and choice of potato hash or seasonal fruit. Salad extra $1.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Cooks Meringue Pancake",
+                            "description": "Served with syrup, powdered sugar, whipped cream and fresh fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon French Toast",
+                            "description": "Served with syrup, powdered sugar, and seasonal fresh fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Healthy Parfait",
+                            "description": "Granola, almond, coconut chip, pistachio, raisin, fat free yogurt and seasonal fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Continental Breakfast",
+                            "description": "Served with seasonal fresh fruit, fat-free vanilla yogurt, and choice of croissant or toast(rye bread, multigrain bread or white bread).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bennies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi Beef Benedict",
+                            "description": "Topped with hollandaise sauce on toasted English muffin(or croissant 2) with choice of potato hash, fruit bowl or house green salad",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Salmon Benedict",
+                            "description": "Topped with hollandaise sauce on toasted English muffin(or croissant 2) with choice of potato hash, fruit bowl or house green salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hickory Smoked Bacon Benedict",
+                            "description": "Hickory smoked bacon atop poached eggs, hollandaise on a choice of English muffin or croissant. Served with potato hash, seasonal fruits, green salad, or soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lobstercake Benedict",
+                            "description": "Lobstercake atop choices of English muffin or croissant, poached eggs, hollandaise. Served with options: potato hash, fruits, salad, or soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham Benedict",
+                            "description": "Topped with hollandaise sauce on toasted English muffin(or croissant 2) with choice of potato hash, fruit bowl or house green salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Benedict",
+                            "description": "Topped with hollandaise sauce on toasted English muffin(or croissant 2) with choice of potato hash, fruit bowl or house green salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach and Feta Cheese Benedict",
+                            "description": "Poached eggs atop spinach and feta, on your choice of English muffin or croissant. Served with options of potato hash, seasonal fruits, green salad, or soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crabcake Benedict",
+                            "description": "Crab cake atop your choice of English muffin or croissant, served with hollandaise. Options for side include potato hash, seasonal fruits, green salad, or soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Kook&apos;s Specials",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi Beef Burrito",
+                            "description": "Sauteed onion, carrot, scrambled eggs, sweet soy marinated beef, scallion, bulgogi flakes and potato hash or fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Cooks Omelette",
+                            "description": "Three eggs, potato hash, choice of toast(rye bread, multigrain bread or white bread) and any three toppings(back bacon+spinnach+hickory smoked bacon+red peppers+cheddar+mushrooms+smoked salmon, and feta cheese). Side: potato hash or fruits (salad or an additional charge).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Burrito",
+                            "description": "Sauteed back bacon, jalapino, crushed pepper, two eggs, sauteed kimchi, kimchi flakes, Chinese scallion and potato hash or fruits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado Croissant",
+                            "description": "Fresh avocado, tomato slices, two scrambled eggs, swiss or cheddar cheese, fresh French croissant with potato hash or fruit bowl.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg White Frittata",
+                            "description": "Avocado, spinach, bell peppers, feta, and dijon dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.40"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two Bacon, Ham, or Sausage",
+                            "description": "Side of choice: bacon, sausage, or ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6 Oz Daily Soup",
+                            "description": "Creamy soup topped with shredded cheddar cheese, crispy bacon bits, and fresh herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruit Bowls",
+                            "description": "A vibrant mix of strawberries, blueberries, and peach slices, offering a refreshing and colorful side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruit Bowls",
+                            "description": "A vibrant mix of fresh strawberries, blueberries, and peach slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg (Any Style)",
+                            "description": "How do you want your eggs? Please specify.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Toast",
+                            "description": "Crisp, golden-brown bread, perfectly toasted for a comforting, simple pleasure.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato Hash",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "Crispy golden potatoes served as a delightful accompaniment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Salad",
+                            "description": "A mix of fresh greens, cherry tomatoes, sliced red onions, and julienned yellow bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1/2 Avocado",
+                            "description": "Smooth and creamy half avocado, sliced and accompanied by fresh green grapes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Kid&apos;s Zone",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Kids Plate",
+                            "description": "One egg, two slices (bacon, sausage or ham), 1/2 potato hash, and toast(rye bread, multigrain bread or white bread).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kid&apos;s Pancake",
+                            "description": "Served with syrup, powdered sugar, and small fruit bowl",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kids Pasta",
+                            "description": "Spaghettini with house tomato or cream sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kids&apos; Tenders",
+                            "description": "House made 3 pcs tenders, small fries, and honey mustard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Organic Green Salad",
+                            "description": "Fresh beet curls, organic greens, grape tomatoes, and dijon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Cobb Salad",
+                            "description": "Local chicken breast, organic greens, sliced egg, grape tomatoes, hickory smoked bacon, avocado, Danish blue cheese, with grainy dijon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches and Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Angus Burger",
+                            "description": "Angus beef, cheddar cheese, lettuce, onions, tomatoes, and pickle on hamburger bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon",
+                            "description": "Add bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Local Chicken Breast Burger",
+                            "description": "Cajun chicken breast, hickory smoked bacon, chipotle aioli, lettuce, fresh avocado, mango &amp; chipotle ailoli and tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Burger (Spicy)",
+                            "description": "Angus kimchi beef patty, lettuce, onion, pan fried kimchi, and kimchi flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B.L.T.",
+                            "description": "Bacon, lettuce, and tomato on toasted bread(rye bread, multigrain bread or white bread).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese Sandwich",
+                            "description": "Cheddar or swiss cheese on your choice of bread(rye bread, multigrain bread or white bread).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Sprout &amp; Prawn Pasta",
+                            "description": "Crushed pepper, anchovy ground, garlic sprout, white wine, seafood stock and katsuobushi(dried, fermented &amp; smoked tuna).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Cream Pasta",
+                            "description": "Grilled chicken breast, mushroom, onion, white wine, house made cream sauce, parsley, parmesan cheese, and powdered shitaki mushroom.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Bacon Tomato Pasta(arrabbiata Pasta)",
+                            "description": "Fresh garlic slice, grape tomato, dried hot pepper, pepper powder, onion, crushed pepper, white wine, seafood stock, house made tomato sauce, parsley, parmesan cheese and fresh basil powder.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Suicide Pasta(spicy Aglio Olio)",
+                            "description": "Jalapino, onions, anchovy, crunched peppers, fish stock, white wine, parsley, olive oil , fried garlic slice, and fresh rosemary.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab &amp; Prawn Cream Pasta",
+                            "description": "Crab, olive oil, onion chop, shrimps, wine, garlic, dry parsley chop, and black peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 Prawns",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Snowing Pizza",
+                            "description": "Sauteed shrimp, pineapple dice, pizza cheese, herb garlic, fried garlic slice, and parmasan cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "Tomato sauce, mozzarella cheese, fresh basil, and olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi Beef Pizza",
+                            "description": "Onion, mushroom, bell peppers, mozzarella cheese, scallions and sweet soy marinated beef and mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Pizza",
+                            "description": "House-made tomato sauce, spicy pepperoni, and mozallera cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Danish Blue Cheese Pizza",
+                            "description": "Honey, pizza cheese, fried garlic chop, mozzarella and Danish blue cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Potato Pizza",
+                            "description": "Made with fresh sweet potato, mozzarella cheese, arugula and parmasen cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Kook&apos;s Special Menu",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Waffle Chicken",
+                            "description": "Full size cinnamon waffle, two pieces chicken, fresh fruits, syrup, and whipping cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1/2 Waffle Chicken",
+                            "description": "Half size waffle with one piece chicken, fresh fruits, syrup, and whipping cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kook&apos;s Choice Dumpling",
+                            "description": "6 pcs bulgogi dumpling.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Size Waffle",
+                            "description": "4 pcs cinnamon waffles with seasonal fresh fruits, powdered sugar, syrup, and whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken thigh and Jalapeno Risotto(Spicy)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ice Coffee",
+                            "description": "Chilled brew, lightly sweetened, served over ice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ice Latte",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Orange Juice",
+                            "description": "Bursting with vibrant citrus flavors",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chocolate",
+                            "description": "Smooth, rich chocolate drink, perfectly steamed to warm your soul.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Choice of Pop",
+                            "description": "Choice of soda: Coca-Cola, Nestea, Root Beer, Orange Crush, Grape Crush, Seven Up, Canada Dry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tea",
+                            "description": "A soothing blend of selected leaves for a calming sipping experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Apple Juice",
+                            "description": "Juicy and refreshing bottled apple juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Fruit Smoothie",
+                            "description": "Blended with low-fat yogurt, orange jucie and mixed berries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "Pure and refreshing bottled water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Milk",
+                            "description": "Rich, creamy milk flavored with velvety smooth chocolate.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee",
+                            "description": "Freshly brewed, aromatic blend to kick-start your day.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Paul G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Always delicious. Always gets order right.  a weekly ritual (RECOMMEND POTATO HASH)"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Angelica B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Grilled Chicken Cream Pasta was disgusting"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "adam B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "always delicious"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Greek",
+        "Sandwiches",
+        "Breakfast and Lunch"
+    ],
+    "url": "https://www.doordash.com/store/kook’s-cooks-coquitlam-25282673/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6042622440",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "8:30 AM - 3:10 PM"
+        ],
+        "TUESDAY": [
+            "8:30 AM - 3:10 PM"
+        ],
+        "WEDNESDAY": [
+            "8:30 AM - 3:10 PM"
+        ],
+        "THURSDAY": [
+            "8:30 AM - 3:10 PM"
+        ],
+        "FRIDAY": [
+            "8:30 AM - 3:10 PM"
+        ],
+        "SATURDAY": [
+            "8 AM - 3:10 PM"
+        ],
+        "SUNDAY": [
+            "8 AM - 3:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "8:30 AM - 3:30 PM"
+        ],
+        "TUESDAY": [
+            "8:30 AM - 3:30 PM"
+        ],
+        "WEDNESDAY": [
+            "8:30 AM - 3:30 PM"
+        ],
+        "THURSDAY": [
+            "8:30 AM - 3:30 PM"
+        ],
+        "FRIDAY": [
+            "8:30 AM - 3:30 PM"
+        ],
+        "SATURDAY": [
+            "8 AM - 3:30 PM"
+        ],
+        "SUNDAY": [
+            "8 AM - 3:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

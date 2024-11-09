@@ -1,0 +1,1097 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/373b8fc1-b736-4879-9916-21dbf3d53abe.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/63c3fbed-63fe-4dcf-8462-47a89a49e373.jpg"
+    ],
+    "name": "DingDing Restaurant",
+    "address": "682 Seymour St, Vancouver, BC V6B 3K3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.282112",
+        "longitude": "-123.116646"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "F1. Egg Wrapped Rice with Braised Pork",
+                            "description": "A bed of rice enveloped in a soft omelette, accompanied by tender braised pork and garnished with broccoli, carrot, and boiled egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S5 Green Peppers Over Rice 尖椒肉丝盖饭",
+                            "description": "Stir-fried shredded pork with crisp green peppers and onions served over steamed rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S6 Kungpao Chicken Over Rice  宫保鸡丁盖饭",
+                            "description": "Succulent diced chicken stir-fried with peanuts, spicy chili peppers, and crisp vegetables, served over a bed of steamed rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A4. Salt and Pepper Popcorn Chicken",
+                            "description": "Bite-sized chicken pieces seasoned with salt and pepper, accompanied by fresh basil leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D7. Chill Wonton",
+                            "description": "Steamed wontons filled with seasoned minced meat, drizzled with a spicy and savory sauce, garnished with green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S2 Stri-fired Eggs &amp; Tomato Over Rice 番茄鸡蛋盖饭",
+                            "description": "A homestyle Chinese dish featuring scrambled eggs and fresh tomatoes served over a bed of steamed rice, garnished with green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D4. Pan-Fried Pork Dumplings",
+                            "description": "Pan-fried pork dumplings with a golden-brown crust and tender filling, served as a traditional dim sum selection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B4. Dinging House Special Noodles",
+                            "description": "House special noodles in a savory broth, accompanied by tender slices of meat, crisp vegetables, and garnished with crunchy peanuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A3. Cucumber Salad",
+                            "description": "Fresh cucumber chunks tossed with minced garlic and a hint of chili for a refreshing start to your meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S4 Chilli Garlic Shredded Pork Over Rice 鱼香肉丝盖饭",
+                            "description": "Shredded pork stir-fried with chili and garlic, accompanied by steamed rice and a side of broccoli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D10. Wonton Soup",
+                            "description": "Savory broth filled with delicate wontons, garnished with fresh cilantro and a sprinkle of seaweed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D8. Pan Fried Thumb Buns",
+                            "description": "Pan-fried buns filled with savory ingredients, garnished with green onion and black sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Seafood 海鲜类",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Rice 白饭",
+                            "description": "Steamed white rice, perfectly cooked to accompany any seafood dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kungpao Prawns 宫保虾球",
+                            "description": "Tender prawns stir-fried with peanuts, dried chili peppers, and scallions in a savory and slightly spicy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.96"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawns Broccoli 西兰花虾仁",
+                            "description": "Tender prawns stir-fried with crisp broccoli and vibrant carrot slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chill Garlic Prawns 干烧虾仁",
+                            "description": "Crispy prawns stir-fried with bell peppers, onions, and dried chilies in a spicy garlic sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beef 牛肉类",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Rice 白饭",
+                            "description": "Steamed white rice, a simple and essential side dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef &amp; Mixed Vegetables 什锦牛肉",
+                            "description": "Tender beef slices stir-fried with broccoli, bok choy, carrots, and snap peas.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Broccoli 百加利牛肉",
+                            "description": "Tender beef slices stir-fried with crisp broccoli in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Szechuan Broth Beef 水煮牛肉",
+                            "description": "Tender beef slices in a spicy Szechuan broth, garnished with chopped green onions and chili flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken 鸡肉类",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Sour Chicken 咕噜鸡",
+                            "description": "Crispy chicken balls coated in a tangy sweet and sour sauce, served with bell peppers, onions, and carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "General Tao’s Chicken 左宗棠鸡",
+                            "description": "Crispy chicken pieces tossed in a tangy, sweet, and slightly spicy sauce, garnished with broccoli florets and dried red chilies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Rice 白饭",
+                            "description": "Fluffy, steamed white rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kungpao Chicken 宫保鸡丁",
+                            "description": "Tender chicken cubes stir-fried with peanuts, green peppers, onions, and dried chili peppers in a savory and slightly spicy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Mixed Vegetables 什锦鸡肉",
+                            "description": "Tender chicken pieces stir-fried with crisp broccoli, bok choy, and carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Broccoli 百加利鸡肉",
+                            "description": "Tender chicken pieces stir-fried with fresh broccoli and sliced carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pork 猪肉类",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chill Garlic Shredded Pork 鱼香肉丝",
+                            "description": "Tender shredded pork stir-fried with julienned carrots, bell peppers, and wood ear mushrooms in a savory garlic chili sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Muxu Shredded Pork 木须肉",
+                            "description": "Tender pork strips stir-fried with wood ear mushrooms, bell peppers, carrots, and cabbage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Pepper Shredded Pork 尖椒肉丝",
+                            "description": "Tender pork strips stir-fried with vibrant green and red peppers, creating a savory and colorful dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Rice 白饭",
+                            "description": "Steamed white rice, fluffy and tender, perfect as a side dish for any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Place Settings",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Number of Plastic Cutlery",
+                            "description": "How many people will be eating from this order?",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lunch Special 午市简餐",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "S2 Stri-fired Eggs &amp; Tomato Over Rice 番茄鸡蛋盖饭",
+                            "description": "A homestyle Chinese dish featuring scrambled eggs and fresh tomatoes served over a bed of steamed rice, garnished with green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S6 Kungpao Chicken Over Rice  宫保鸡丁盖饭",
+                            "description": "Succulent diced chicken stir-fried with peanuts, spicy chili peppers, and crisp vegetables, served over a bed of steamed rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S1 Chilli Garlic Eggplant Over Rice 鱼香茄子盖饭",
+                            "description": "Stir-fried eggplant in a chili garlic sauce, accompanied by steamed rice and garnished with green vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S4 Chilli Garlic Shredded Pork Over Rice 鱼香肉丝盖饭",
+                            "description": "Shredded pork stir-fried with chili and garlic, accompanied by steamed rice and a side of broccoli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S5 Green Peppers Over Rice 尖椒肉丝盖饭",
+                            "description": "Stir-fried shredded pork with crisp green peppers and onions served over steamed rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S3 Crispy Tofu &amp; Vegetables Over Rice 什锦豆腐盖饭",
+                            "description": "Steamed rice topped with a mix of crispy tofu and assorted vegetables, garnished with sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "A4. Salt and Pepper Popcorn Chicken",
+                            "description": "Bite-sized chicken pieces seasoned with salt and pepper, accompanied by fresh basil leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A6. Special Fried Chicken Steak",
+                            "description": "Breaded chicken breast, deep-fried to a golden brown, sprinkled with sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A2. Zigzed Fried",
+                            "description": "Crispy fried chicken tossed with spicy peppers and scallions, sprinkled with sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A1. Fries with Garlic and Cheese",
+                            "description": "Crispy fries topped with melted cheese and a sprinkle of garlic.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A3. Cucumber Salad",
+                            "description": "Fresh cucumber chunks tossed with minced garlic and a hint of chili for a refreshing start to your meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A5. Spicy Beef Salad",
+                            "description": "Sliced beef tossed with fresh herbs, chili oil, and a tangy dressing, garnished with scallions and sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Home Make Dimsum",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "D7. Chill Wonton",
+                            "description": "Steamed wontons filled with seasoned minced meat, drizzled with a spicy and savory sauce, garnished with green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D8. Pan Fried Thumb Buns",
+                            "description": "Pan-fried buns filled with savory ingredients, garnished with green onion and black sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D10. Wonton Soup",
+                            "description": "Savory broth filled with delicate wontons, garnished with fresh cilantro and a sprinkle of seaweed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Tangy Dumplings",
+                            "description": "Delicate dumplings in a spicy, tangy sauce, garnished with sesame seeds and fresh cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D4. Pan-Fried Pork Dumplings",
+                            "description": "Pan-fried pork dumplings with a golden-brown crust and tender filling, served as a traditional dim sum selection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D2. Pork Dumplings (10 Pieces)",
+                            "description": "Ten homemade pork dumplings accompanied by a spicy dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D6. Tea Eggs (1 Pieces)",
+                            "description": "Hard-boiled egg marinated in a blend of black tea and spices, offering a unique savory taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D9. Sesame Sause Bread",
+                            "description": "Toasted bread coated with sesame seeds and a hint of savory sesame sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D1. Golden Buns (5 Pieces)",
+                            "description": "Five golden buns with a lightly crisped exterior, traditionally known as Baozi in Chinese cuisine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D3. Chive and Egg Dumplings (10 Pieces)",
+                            "description": "Handcrafted dumplings filled with a blend of fresh chives and egg, prepared in a traditional style.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Soup Noodles",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wonton Noodle Soup 云吞面",
+                            "description": "Delicate wontons and tender noodles in a savory broth, garnished with fresh green vegetables and chopped scallions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B4. Dinging House Special Noodles",
+                            "description": "House special noodles in a savory broth, accompanied by tender slices of meat, crisp vegetables, and garnished with crunchy peanuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B6. BBQ Pork Soup Noodles",
+                            "description": "Sliced BBQ pork atop a bed of noodles, accompanied by carrots, cilantro, and bean sprouts in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B1. Braised Beef Soup Noodles",
+                            "description": "Tender braised beef with noodles in a savory broth, garnished with fresh greens and sliced carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B2. Beef Tendon Soup Noodles",
+                            "description": "Beef tendons with noodles in a seasoned broth, garnished with scallions and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B3. Beef Tendon and Shank Noodles",
+                            "description": "Succulent beef tendon and shank with noodles, garnished with scallions and served with a variety of vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B5. Tomato Beef Soup Noodles",
+                            "description": "Sliced beef and tomatoes in a clear broth with noodles, garnished with carrots and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B7. Spicy Chicken Soup Noodles",
+                            "description": "Tender chicken pieces in a spicy broth with noodles, garnished with vegetables and chili peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B8. Spicy &amp; Sour Soup Noodle",
+                            "description": "A tangy and spicy broth with tender noodles, topped with succulent slices of beef and finished with fresh cilantro and green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B10. Zhajiang Noodle",
+                            "description": "Savory minced pork sauce over wheat noodles, garnished with fresh cucumber, carrots, and scallions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B11 Chongqing Spicy Noodles 重庆小面",
+                            "description": "Chongqing-style noodle soup with minced meat, leafy greens, peanuts, and scallions in a spicy broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B9. Lanzhou Beef Noodle Soup",
+                            "description": "Lanzhou-style noodle soup with sliced beef, cilantro, and radish in a clear, seasoned broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetable Soup Noodles 素汤粉",
+                            "description": "Thin noodles served in a savory broth, typically includes a medley of seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Egg Wrapped Rice",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "F5. Egg Wrapped Rice with Curry Chicken",
+                            "description": "Egg-wrapped rice accompanied by tender chicken pieces in a savory curry sauce, garnished with black sesame seeds and fresh vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F4. House Special Egg Wrapped Rice",
+                            "description": "Savory egg-wrapped rice accompanied by a mix of tender meats and vegetables, topped with a rich, glossy sauce and sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F10. Egg Wrapped Rice with Sweet and Sour Chicken",
+                            "description": "Rice enveloped in a delicate egg wrap, served with chicken tossed in a sweet and sour sauce, typically includes bell peppers, onions, and pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F7. Egg Wrapped Rice with Spicy Chicken",
+                            "description": "Egg-wrapped rice encasing a mix of tender chicken and bold spices, garnished with sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F3. Egg Wrapped Rice with Mushroom",
+                            "description": "Egg-wrapped fried rice accompanied by mushrooms and select vegetables, drizzled with a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F6. Egg Wrapped Rice with Curry Beef",
+                            "description": "Egg-wrapped rice filled with a savory mix of curry beef, typically includes onions, peas, and carrots, all encased in a delicately cooked egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F9. Egg Wrapped Rice with Beef Broccoli",
+                            "description": "Steamed rice enveloped in a tender omelette, typically includes sautéed beef and broccoli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F1. Egg Wrapped Rice with Braised Pork",
+                            "description": "A bed of rice enveloped in a soft omelette, accompanied by tender braised pork and garnished with broccoli, carrot, and boiled egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F2. Egg Wrapped Rice with Shrimps",
+                            "description": "Egg-wrapped rice accompanied by succulent shrimps, garnished with diced bell peppers and a hint of scallion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fried Rice",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "F12. Curry Chicken Fried Rice",
+                            "description": "Savory curry-infused fried rice mixed with tender chicken pieces and assorted vegetables, garnished with sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F13.Curry Beef Fried Rice",
+                            "description": "Fried rice combined with tender slices of beef, seasoned with curry spices, typically includes peas, carrots, and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F14.Yangzhou Fried Rice",
+                            "description": "Yangzhou fried rice with shrimp, peas, carrots, and scrambled eggs, garnished with green onions and sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fried Noodle",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "F17. Dingding Fried Noodle",
+                            "description": "Dingding fried noodles typically include cut noodles stir-fried with a mix of vegetables and proteins, garnished with herbs or spices common in Chinese cuisine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F15. Chicken Fried Noodle",
+                            "description": "Stir-fried noodles with chicken, typically includes a mix of vegetables such as bell peppers, onions, and bean sprouts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F16. Beef  Fried Noodle",
+                            "description": "Stir-fried noodles with slices of beef and a mixture of vegetables, typically served in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Vegtable",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chill Garlic Eggplants 鱼香茄子",
+                            "description": "Tender eggplant stir-fried with garlic and chili sauce, garnished with fresh green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mapo Tofu 麻婆豆腐",
+                            "description": "Soft tofu cubes in a spicy, savory sauce with minced vegetables, garnished with chopped green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Rice 白饭",
+                            "description": "Steamed white rice, fluffy and perfectly cooked.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V1. Shitake Mushroom &amp; Bok-choy",
+                            "description": "Stir-fried shiitake mushrooms paired with crisp bok choy, offering a simple yet classic Chinese vegetable dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V3. Garlic Bok-choy",
+                            "description": "Bok choy stir-fried with garlic, typically includes a light sauce to enhance the natural flavors of the leafy greens.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Tangy Shredded Potatoes 酸辣土豆丝",
+                            "description": "Julienne potatoes stir-fried with chili peppers and vinegar, offering a spicy and tangy taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Szechuan Spicy Green Beans 干煸四季豆",
+                            "description": "Crispy green beans stir-fried with dried red chilies, garlic, and sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Tofu &amp; Mixed Vegetables 什锦豆腐",
+                            "description": "Crispy tofu with broccoli, bok choy, and carrots in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V2. Garlic Broccoli",
+                            "description": "Stir-fried broccoli with garlic, offering a crisp and aromatic side dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Assorted sodas including Coca, Diet Coke, Coke Zero, Ginger Ale, Next Tea, and Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Xiaopei Y"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious food, I order twice this week."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Elster R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "the food didn&apos;t taste good at all! though the D7. Chill Wonton  was not bad."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Chinese",
+        "Noodles",
+        "Fried Rice"
+    ],
+    "url": "https://www.doordash.com/store/dingding-restaurant-vancouver-24625136/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6046880199",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10:30 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "10:30 AM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10:30 AM - 8:40 PM"
+        ],
+        "THURSDAY": [
+            "10:30 AM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "10:30 AM - 8:40 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10:30 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "10:30 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "10:30 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "10:30 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "10:30 AM - 9 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

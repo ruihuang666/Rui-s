@@ -1,0 +1,601 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/3b652ed0-f18f-4a22-a68f-1a6cfa68246c.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/21655.png"
+    ],
+    "name": "White Spot",
+    "address": "White Spot Kingsway, 1476 Kingsway, Vancouver, BC V5N 2R5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.24899",
+        "longitude": "-123.07421"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Hearty Breakfast - with Toast",
+                            "description": "Two eggs any style, with your choice of bacon, back bacon or sausage &amp; your choice of toast. Served with your choice of shredded hashbrowns OR Smashbrown potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesesteak Hash",
+                            "description": "Sautéed spinach, red pepper, mushrooms, green onion &amp; tender Canadian Certified Angus Beef ® over cheesy smashbrown potatoes. Topped with two poached eggs &amp; hollandaise. Toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "World Famous Milkshakes",
+                            "description": "All made with our premium rich ice cream and topped with whipped cream. Choose from Chocolate, Vanilla Bean, Strawberry, Blueberry, Chocolate Espresso or Salted Caramel Brownie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The BC Sunny Start",
+                            "description": "Crispy bacon, Cheddar cheese, grilled tomato &amp; a fried egg with our famous Triple “O” ™ sauce on our signature bun. Fresh fruit &amp; your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Hearty Breakfast - with Pancakes",
+                            "description": "Two eggs any style, with your choice of bacon, back bacon or sausage &amp; buttermilk pancakes. Served with your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Cakes",
+                            "description": "Four buttermilk pancakes served with blueberry OR fresh strawberry topping &amp; whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Denver Omelette",
+                            "description": "Four egg omelette with back bacon, cheese, sautéed mushrooms, red pepper &amp; green onion. Toast &amp; your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Smashbrowns",
+                            "description": "Our signature smashbrowns made from 100% never-frozen, Canadian nugget potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Crispy Bacon",
+                            "description": "Four strips of crispy bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Waffle",
+                            "description": "One house-made buttermilk waffle served with blueberry or fresh strawberry topping &amp; whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Hearty Breakfast - with Waffle",
+                            "description": "Two eggs any style, with your choice of bacon, back bacon or sausage &amp; a half waffle. Served with your choice of shredded hashbrowns OR Smashbrown potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Sausage",
+                            "description": "Three links of breakfast sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.19"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "CUTLERY",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Would you like to add cutlery?",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "NAT&apos;S FAVOURITES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Hearty Breakfast - with Toast",
+                            "description": "Two eggs any style, with your choice of bacon, back bacon or sausage &amp; your choice of toast. Served with your choice of shredded hashbrowns OR Smashbrown potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Denver Omelette",
+                            "description": "Four egg omelette with back bacon, cheese, sautéed mushrooms, red pepper &amp; green onion. Toast &amp; your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Hearty Breakfast - with Pancakes",
+                            "description": "Two eggs any style, with your choice of bacon, back bacon or sausage &amp; buttermilk pancakes. Served with your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Hearty Breakfast - with Waffle",
+                            "description": "Two eggs any style, with your choice of bacon, back bacon or sausage &amp; a half waffle. Served with your choice of shredded hashbrowns OR Smashbrown potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The BC Sunny Start",
+                            "description": "Crispy bacon, Cheddar cheese, grilled tomato &amp; a fried egg with our famous Triple “O” ™ sauce on our signature bun. Fresh fruit &amp; your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Waffle",
+                            "description": "One house-made buttermilk waffle served with blueberry or fresh strawberry topping &amp; whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nat&apos;s Cakes",
+                            "description": "Four buttermilk pancakes served with blueberry OR fresh strawberry topping &amp; whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oatmeal &amp; Apple Braised Farro",
+                            "description": "Served with fresh fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.39"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BENEDICTS &amp; BOWLS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesesteak Hash",
+                            "description": "Sautéed spinach, red pepper, mushrooms, green onion &amp; tender Canadian Certified Angus Beef ® over cheesy smashbrown potatoes. Topped with two poached eggs &amp; hollandaise. Toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Benedict",
+                            "description": "English muffin topped with thick-cut back bacon, two poached eggs &amp; hollandaise. Smashbrown potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn &amp; Avocado Bowl",
+                            "description": "Louisiana spiced prawns, cherry tomatoes, avocado &amp; bacon over smashbrown potatoes. Two poached eggs &amp; hollandaise sauce. Sourdough toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Charred Tomato &amp; Spinach Benedict",
+                            "description": "English muffin topped with sautéed mushrooms, spinach, green onion &amp; Louisiana dusted cherry tomatoes. Two poached eggs &amp; hollandaise. Your choice of potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado Queso Bowl",
+                            "description": "Scrambled eggs with sautéed spinach &amp; onion, cheese, avocado, red peppers, mushrooms &amp; cherry tomatoes over spicy queso smashbrown potatoes. Avocado crema.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.19"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BREAKFAST SIDES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Crispy Bacon",
+                            "description": "Four strips of crispy bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Sausage",
+                            "description": "Three links of breakfast sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Smashbrowns",
+                            "description": "Our signature smashbrowns made from 100% never-frozen, Canadian nugget potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Toast",
+                            "description": "Two pieces of buttered toast. Your choice of multigrain, white or sourdough.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "English Muffin",
+                            "description": "Crispy, buttered, toasted english muffin.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Back Bacon",
+                            "description": "Three slices of Canadian back bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Fruit",
+                            "description": "A mixed variety of fresh fruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.89"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Hollandaise",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.19"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BREAKFAST BEVERAGES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "World Famous Milkshakes",
+                            "description": "All made with our premium rich ice cream and topped with whipped cream. Choose from Chocolate, Vanilla Bean, Strawberry, Blueberry, Chocolate Espresso or Salted Caramel Brownie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke (500ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Simply Orange Juice (340ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dasani Bottled Water (500ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.30"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca-Cola (500ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gold Peak Iced Tea (547 ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite (500ml)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jonathan A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The Monty Mushroom Bigger Burger was chef&apos;s kiss. My addons and instructions were followed perfectly.  This is Still my fave burger hands down. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jason R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "That was delicious. Thanks so much. Thanks also to lovely delivery person for such a quick turnaround. Everything was delicious and just what we needed."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Robert M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Monty Mushroom Bigger Burger is the greatest!! Tons of food, done awesomely!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "MeMe M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Thank you Whitespot for the consistently delicious food and clean, organized packaging "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "ashlee h"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "everything was so perfectly cooked, the zoo  sticks were crispy, the fries were fresh, the burger was amazing, the greens were crisp. 10/10"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Breakfast",
+        "Burgers",
+        "Sandwiches",
+        "Brunch",
+        "Alcohol",
+        "Wine",
+        "Beer"
+    ],
+    "url": "https://www.doordash.com/store/white-spot-vancouver-916943/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16048746524",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "8 AM - 10 PM"
+        ],
+        "TUESDAY": [
+            "8 AM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "8 AM - 10 PM"
+        ],
+        "THURSDAY": [
+            "8 AM - 10 PM"
+        ],
+        "FRIDAY": [
+            "8 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "8 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "8 AM - 10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "8 AM - 10:20 PM"
+        ],
+        "TUESDAY": [
+            "8 AM - 10:20 PM"
+        ],
+        "WEDNESDAY": [
+            "8 AM - 10:20 PM"
+        ],
+        "THURSDAY": [
+            "8 AM - 10:20 PM"
+        ],
+        "FRIDAY": [
+            "8 AM - 10:20 PM"
+        ],
+        "SATURDAY": [
+            "8 AM - 10:20 PM"
+        ],
+        "SUNDAY": [
+            "8 AM - 10:20 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,529 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/fab0c00f-6edd-4d53-bcb3-075fd27b0e59.jpeg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/c75b0e92-58c8-4a38-b3f3-f4c9f83c2408.jpeg"
+    ],
+    "name": "MrBeast Burger Canada",
+    "address": "1445 E 41st Ave, Vancouver, BC V5P 1J8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.23284",
+        "longitude": "-123.07583"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beast Style Burger Combo",
+                            "description": "Smashed crispy beef patties with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun served with your choice of fries and a drink.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beast Style",
+                            "description": "Smashed crispy beef patties with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Crinkle Fries",
+                            "description": "Crinkle fries seasoned with spicy red pepper, garlic, paprika, sugar, and a hint of lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chandler Style ",
+                            "description": "Two smashed crispy beef patties with house seasoning, served plain with American cheese on a toasted bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Karl&apos;s Deluxe",
+                            "description": "A patty melt served Karl’s Style with a crispy seasoned beef patty, caramelized onions and cheese on a toasted inverted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beast Style Fries ",
+                            "description": "Seasoned crinkle fries loaded with caramelized onions, American cheese, pickles, mayo, ketchup and mustard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nashville Hot Chicken Tender Sandwich",
+                            "description": "with mayo, ketchup, shredded lettuce and pickles on a toasted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Sandwich Combo",
+                            "description": "A Crispy Chicken Tender Sandwich or Nashville Hot Chicken Tender Sandwich with your choice of fries and a drink. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crinkle Fries",
+                            "description": " Crinkle fries lightly seasoned with salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chicken Tender Sandwich",
+                            "description": "with mayo, shredded lettuce and pickles on a toasted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Karl&apos;s Grilled Cheese",
+                            "description": "3 slices of American cheese griddled crisp on an inverted bun",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Impossible™ Beast Style Combo",
+                            "description": "Smashed crispy Impossible™ patties  with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun served with your choice of fries and a drink.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Combos",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beast Style Burger Combo",
+                            "description": "Smashed crispy beef patties with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun served with your choice of fries and a drink.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Sandwich Combo",
+                            "description": "A Crispy Chicken Tender Sandwich or Nashville Hot Chicken Tender Sandwich with your choice of fries and a drink. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beast Style",
+                            "description": "Smashed crispy beef patties with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chandler Style ",
+                            "description": "Two smashed crispy beef patties with house seasoning, served plain with American cheese on a toasted bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Karl&apos;s Deluxe",
+                            "description": "A patty melt served Karl’s Style with a crispy seasoned beef patty, caramelized onions and cheese on a toasted inverted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Impossible™ Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Impossible™ Beast Style Combo",
+                            "description": "Smashed crispy Impossible™ patties  with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun served with your choice of fries and a drink.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Impossible™ Karl&apos;s Deluxe",
+                            "description": "A patty melt served Karl’s Style with a crispy seasoned Impossible™ patty, caramelized onions and cheese on a toasted inverted bun. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Impossible™ Beast Style ",
+                            "description": "Smashed crispy Impossible™ patties with house seasoning, American cheese, pickles, diced onion, mayo, ketchup, and brown mustard on a toasted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Impossible™ Chandler Style ",
+                            "description": "Two smashed crispy Impossible™ patties with house seasoning, served plain with American cheese on a toasted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Karl&apos;s Grilled Cheese",
+                            "description": "3 slices of American cheese griddled crisp on an inverted bun",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chicken Tender Sandwich",
+                            "description": "with mayo, shredded lettuce and pickles on a toasted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nashville Hot Chicken Tender Sandwich",
+                            "description": "with mayo, ketchup, shredded lettuce and pickles on a toasted bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Crinkle Fries",
+                            "description": "Crinkle fries seasoned with spicy red pepper, garlic, paprika, sugar, and a hint of lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beast Style Fries ",
+                            "description": "Seasoned crinkle fries loaded with caramelized onions, American cheese, pickles, mayo, ketchup and mustard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crinkle Fries",
+                            "description": " Crinkle fries lightly seasoned with salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Enjoy coca-cola&apos;s crisp, delicious taste with meals, on the go, or to share. serve ice cold for maximum refreshment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dasani Bottled Water",
+                            "description": "As delicious as our sandwiches are, they are even better when paired with the perfect side and drink or even adding a little something extra. with such a variety to choose from, there&apos;s truly something for every taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Cool off with the refreshing mcdonald&apos;s sprite®—the classic and delicious lemon-lime fountain drink. now, you might be asking does sprite® have caffeine? no, sprite® is a caffeine-free soda that makes the perfect addition to any mcdonald’s combo meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "Try a refreshing, icy cold diet coke® from mcdonald’s there are zero calories and zero sugar in diet coke® which makes it a perfect staple to any mcdonald&apos;s meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Please select single use items you&apos;d like added to your order",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Utensils",
+                            "description": "Utensils",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Napkins",
+                            "description": "Napkins",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Anamaria B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Wow the Beast Style burger and the Karl&apos;s Deluxe burgers are so tasty and good. The buns are fresh and there is lots of toppings on the burgers. The Beast Style Fries are very good. I added bacon to my order and it was soo tasty. Love the pickles on top of the Beast Style Fries.       "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Morgan M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Tasty smash burger and seasoned fries!  This location (east Van / 41st &amp; knight) is great, wanted to mention it as we tried the other location near Olympic village once and it was bad, not the same at all.   I would order from this one again and again.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "L Q"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Very bad, fries were no edible, soggy and wet. Very disappointed."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Dylan P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "banging burger for sure. surprised."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Scott R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "This location specifically has always had good quality burgers and fries I hope you guys don&apos;t get shut down from the whole controversy going on right now"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Burgers",
+        "Cheeseburger",
+        "Sandwiches",
+        "Hamburgers",
+        "Fries"
+    ],
+    "url": "https://www.doordash.com/store/mrbeast-burger-canada-vancouver-23219019/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+14075023975",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 7:55 PM\",\"9:15 PM - 11:10 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 8:10 PM\",\"9:15 PM - 11:10 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 4:10 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 7:55 PM\",\"9:15 PM - 11:10 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 4:40 PM\",\"9 PM - 11:25 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 4:40 PM\",\"9 PM - 11:25 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 11:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 8:15 PM\",\"9:15 PM - 11:30 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 8:30 PM\",\"9:15 PM - 11:30 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 4:30 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 8:15 PM\",\"9:15 PM - 11:30 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 5 PM\",\"9 PM - 11:45 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 5 PM\",\"9 PM - 11:45 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 11:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

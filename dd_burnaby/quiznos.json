@@ -1,0 +1,736 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/e2e2f136-2be3-4fd0-836c-89198b441dcd.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/e2edfc03-637e-4a1c-bc31-a27db1f351f6.jpg"
+    ],
+    "name": "Quiznos",
+    "address": "4192 Dawson St, Burnaby, BC V5C 0A4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.264404",
+        "longitude": "-123.011826"
+    },
+    "priceRange": "$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BROCCOLI AND CHEESE",
+                            "description": "Cup 150 Cals. Bowl 250 Cals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.80+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHICKEN CARBONARA",
+                            "description": "Bacon, Mozzarella, Sautéed Mushrooms, Parmesan Alfredo Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CLASSIC ITALIAN",
+                            "description": "Capicola, Salami, Ham, Pepperoni, Mozzarella, Tomato, Lettuce, Onion, Olives, Red Wine Vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "MESQUITE CHICKEN",
+                            "description": "Bacon, Cheddar, Tomato, Lettuce, Onion, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY BACON CLUB",
+                            "description": "Turkey, Ham, Bacon, Swiss, Tomato, Lettuce, Onion, Honey French Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TURKEY RANCH &amp; SWISS",
+                            "description": "Turkey, Lettuce, Tomatoes, Onion, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "VEGGIE GUACAMOLE",
+                            "description": "Mozzarella, Cheddar, Tomato, Lettuce, Onion, Sautéed Mushrooms, Olives, Red Wine Vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BEEF SWISS MELT",
+                            "description": "Sautéed Mushrooms, Parmesan Alfredo Sauce, Served on Garlic Toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BUILD YOUR OWN DELI SUB",
+                            "description": "Select a deli meat, bread, cheese, veggies, sauce, and more to create your own unique sub.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "NANAIMO BAR",
+                            "description": "A popular canadian dessert. 510 - 560 cals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BAJA CHICKEN",
+                            "description": "Bacon, Cheddar, Onion, BBQ Sauce, Chipotle Mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TURKEY BACON GUACAMOLE",
+                            "description": "Mozzarella, Tomato, Lettuce, Onion, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.60+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SEASONAL",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHEESY GARLIC BREAD",
+                            "description": "Garlic &amp; herb butter with melted mozzarella cheese on toasted rosemary parmesan bread served with a side of warm marinara sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.20+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "CLASSICS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "CLASSIC ITALIAN",
+                            "description": "Capicola, Salami, Ham, Pepperoni, Mozzarella, Tomato, Lettuce, Onion, Olives, Red Wine Vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TURKEY RANCH &amp; SWISS",
+                            "description": "Turkey, Lettuce, Tomatoes, Onion, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BUILD YOUR OWN DELI SUB",
+                            "description": "Select a deli meat, bread, cheese, veggies, sauce, and more to create your own unique sub.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY BACON CLUB",
+                            "description": "Turkey, Ham, Bacon, Swiss, Tomato, Lettuce, Onion, Honey French Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "SIGNATURE TUNA",
+                            "description": "Cheddar, Lettuce, Tomato, Red Wine Vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.60+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "MEATBALL",
+                            "description": "Meatballs, mozzarella, Marinara Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CLASSIC CLUB",
+                            "description": "Turkey, Ham, Bacon, Cheddar, Tomato, Lettuce, Mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TRADITIONAL",
+                            "description": "Black Angus, Ham, Turkey, Cheddar, Tomato, Lettuce, Onion, Olives, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "VEGGIE GUACAMOLE",
+                            "description": "Mozzarella, Cheddar, Tomato, Lettuce, Onion, Sautéed Mushrooms, Olives, Red Wine Vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TURKEY BACON GUACAMOLE",
+                            "description": "Mozzarella, Tomato, Lettuce, Onion, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.60+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "CHICKEN",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHICKEN CARBONARA",
+                            "description": "Bacon, Mozzarella, Sautéed Mushrooms, Parmesan Alfredo Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "MESQUITE CHICKEN",
+                            "description": "Bacon, Cheddar, Tomato, Lettuce, Onion, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BAJA CHICKEN",
+                            "description": "Bacon, Cheddar, Onion, BBQ Sauce, Chipotle Mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY MUSTARD CHICKEN",
+                            "description": "Bacon, Swiss Cheese, Lettuce, Tomato, Onion, Honey Mustard Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BUILD YOUR OWN CHICKEN SUB",
+                            "description": "Add to our grilled chicken by selecting bread, cheese, veggies, sauce and more to create your own unique sub.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY BOURBON CHICKEN",
+                            "description": "Tomato, Lettuce, Onion, Honey Bourbon Mustard, Zesty Grille Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.20+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "STEAK",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BUILD YOUR OWN STEAK SUB",
+                            "description": "Add to our Black Angus Steak by selecting bread, cheese, veggies, sauce and more to create your own unique sub.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.80+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "PEPPERCORN STEAK",
+                            "description": "Mozzarella, Sautéed Onion, Mild Peppercorn Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHIPOTLE STEAK",
+                            "description": "Sautéed Green Peppers, Sautéed Onion, Jalapeño Peppers, Cheddar Cheese, Chipotle Mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLACK ANGUS STEAK",
+                            "description": "Mozzarella, Cheddar Sautéed Onion, Sautéed Mushrooms, Honey Bourbon Mustard, Zesty Grille Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.40+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BEEF SWISS MELT",
+                            "description": "Sautéed Mushrooms, Parmesan Alfredo Sauce, Served on Garlic Toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.40+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SALADS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "MEDITERRANEAN CHICKEN SALAD",
+                            "description": "Mozzarella, Tomato, Onion, Olives, Red Wine Vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY MUSTARD CHICKEN SALAD",
+                            "description": "Bacon, Cheddar, Tomato, Onion, Honey Mustard Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.20+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY CHEF SALAD",
+                            "description": "Turkey, Ham, Bacon, Swiss, Tomato, Cucumber, Honey French Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.20+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SAMMIES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ STEAK SAMMIE",
+                            "description": "Black Angus Steak, Onion, Lettuce, Green Peppers, BBQ Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "COOL RANCH CHICKEN SAMMIE",
+                            "description": "Chicken, Bacon, Cheddar, Tomato, Lettuce, Ranch Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHIPOTLE CHICKEN SAMMIE",
+                            "description": "Chicken, Cheddar, Lettuce, Jalapeño Peppers, Chipotle Mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.80"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SOUPS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BROCCOLI AND CHEESE",
+                            "description": "Cup 150 Cals. Bowl 250 Cals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.80+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "FLATBREAD PIZZA",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BIG PEPPERONI PIZZA",
+                            "description": "Pepperoni, Cheddar, Mozzarella, Sautéed Mushrooms, Marinara Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ CHICKEN PIZZA",
+                            "description": "Bacon, Mozzarella, Cheddar, Onions, BBQ Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "ITALIAN PIZZA",
+                            "description": "Pepperoni, salami, capicola, ham, mozzarella, cheddar, marinara sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.60"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SIDES AND DESSERTS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "NANAIMO BAR",
+                            "description": "A popular canadian dessert. 510 - 560 cals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHIPS",
+                            "description": "Choose from a wide selection of chips. 120-220 cal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "COOKIES",
+                            "description": "Fresh baked cookies, served in your choice of flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BROWNIE",
+                            "description": "Toasty tip: pop it in the microwave for 20-30 seconds for an ooey-gooey experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.80"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "DRINKS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BOTTLED DRINK",
+                            "description": "Coca-cola 20oz.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.35+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "KIDS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "KIDS CHEESY CHEESE",
+                            "description": "Mozzarella, Cheddar On Your Choice Of Bread.  Meal includes juice and snack. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "KIDS TURKEY &amp; CHEESE",
+                            "description": "Turkey and Cheese On Your Choice Of Bread.  Meal includes juice and snack. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "KIDS HAM &amp; CHEESE",
+                            "description": "Ham and Cheese On Your Choice Of Bread. \r\n Meal includes juice and snack. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Eydie B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Very carefully and thoughtfully prepared.\nGreat product.\nHighly recommend."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mo G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Terrible sandwiches, I got the Chicken Carbonara Sub a a. No sauce, no flav , chicken was dry. They don&apos;t care. Meatball Subl was the same. Dry, no flavor. Last time, better off with subway"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Pav S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "I took a pic of the sandwich because it was 5 inches.  LOL  couldn&apos;t believe it. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Angelica L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "The Chicken Carbonara Sub was not up to par, seems like they forgot the sauce so it was VERY dry and I didn&apos;t finish it. I&apos;ve had quiznos many times and this is my regular order so I am very disappointed. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Gwen L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Soup was great but quite a small portion for a bowl of soup. The sun was not what I hoped very very little peppercorn. \nI will order 2 soup bowls next time and try a different sub  Not sure how my order got to be just over 30.00 for a 15$ sub and"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "American",
+        "Deli"
+    ],
+    "url": "https://www.doordash.com/store/quiznos-burnaby-155008/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16042987849",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 6:45 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 6:45 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 6:45 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 6:45 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 6:45 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 4:45 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 4:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 7 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 7 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 7 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 7 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 7 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 5 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 5 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

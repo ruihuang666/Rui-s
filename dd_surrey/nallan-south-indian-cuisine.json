@@ -1,0 +1,984 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/e5da3b17-0ee5-4c45-90b8-80dd38fe2344.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/5431bab5-63e7-45d2-a85f-8435e40422a5.jpg"
+    ],
+    "name": "Nallan south indian cuisine",
+    "address": "5680 198 St, Langley, BC V3A 7C7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.10574",
+        "longitude": "-122.67287"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Dum Biryani (Chennai Style)",
+                            "description": "Marinated chicken, and rice cooked with Indian-style masala.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Goat Biryani",
+                            "description": "Goat meat, cooked with Indian-style masala rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken 65 Biryani (Chennai Style)",
+                            "description": "Special spice-cooked rice with battered and deep-fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Idiyappam",
+                            "description": "Delicate steamed rice noodle cakes, intricately woven into soft, fluffy nests, traditionally served with curry or coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepper Chicken",
+                            "description": "Boned chicken cooked with onion, tomato, and spices and finished with fresh black pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Halwa",
+                            "description": "Soft, sweet bread pudding infused with ghee, garnished with cashews, almonds, and raisins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken 65",
+                            "description": "Spicy, Boneless chicken cubes marinated with exotic spices and deep fried.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Pachadi",
+                            "description": "Smoky roasted eggplant blended with yogurt, spices, and herbs, garnished with fresh cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pondicherry /fish Curry",
+                            "description": "Sliced pampano fish cooked with south Indian based tangy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thalapakatti Chicken Biryani (Seeraga Samba rice)",
+                            "description": "Seeraga samba rice, a distinctive small-grain variety, is slow-cooked with tender chicken and a blend of traditional spices, embodying the unique Thalapakatti style.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Chettinad",
+                            "description": "Boneless chicken cooked with aromatic freshly made chettinad masala. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg Puffs (3 Pcs)",
+                            "description": "Hard boiled eggs coated in flavourful masala, wrapped up in golden crispy and flaky puff pastry",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Family Pack Biryani (serving for 4-5 persons)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mutton Dum Biryani (4-5 People)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$62.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Dum Biryani (4-5 People)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$56.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken 65 Biryani (4-5 People)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$57.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer 65 Biryani (Serving for 4-5 People)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$49.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Dum Biryani (4-5 people)",
+                            "description": "Paneer Biryani is a delicious vegetarian layered dish of paneer, dum cooked with spices, and basmati rice. \nServed with Raita, Eggplant pachadi and a dessert.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$49.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veg Biryani (Serving for 4-5 person)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$49.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Family Pack Biryani (serving for 6-7 persons)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Dum Biryani (Serving for 6-7  person)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$66.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Biryani (Serving for 6-7  persons)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$62.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer 65 biryani (Serving for 6-7 persons)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$61.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg Biryani (Serving for 6-7 persons)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$62.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken 65 Biryani (Serving for 6-7 People)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$66.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mutton Dum Biryani (Serving for 6-7 People)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$74.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veg Biryani (Serving for 6-7  Persons)",
+                            "description": "Served with onion raita, dessert, and eggplant pachadi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$60.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Snacks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg Puffs (3 Pcs)",
+                            "description": "Hard boiled eggs coated in flavourful masala, wrapped up in golden crispy and flaky puff pastry",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Puffs (3 Pcs)",
+                            "description": "Golden puff pastry filled with a spiced mixture of chicken, typically includes onions and herbs, baked in a set of three pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg Bonda (6 Pcs)",
+                            "description": "Cut boiled eggs are dipped in a spiced masala batter and deep fried",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers (Veg)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cut Mirchi",
+                            "description": "Masala coated deep fried jalapenos",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gobi 65",
+                            "description": "Masala coated deep fried crispy cauliflower",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onion Bajji",
+                            "description": "Thinly sliced onions coated in a spiced batter and deep fried.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Chilli",
+                            "description": " Cubes of fried crispy paneer are tossed in a spicy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chilli Gobi",
+                            "description": " cubes of fried crispy gobi are tossed in a spicy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onion Pakora",
+                            "description": "Crispy onion fritters seasoned with aromatic spices and fresh herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Road side Mushroom",
+                            "description": "Unique street chaat recipe made with finely chopped mushroom and indo chinese sauces",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Masala Poori",
+                            "description": "Crushed puris are soaked in hot masala gravy made up of puffed rice, green peas masala. Toppings of small slices of onion, coriander leaves and sev are then added, before the dish is served",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Curries - Veg",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Chettinad Masala",
+                            "description": "Maninated paneer cubes cooked with fresh aromatic ground chettinad masala",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Tikka Masala",
+                            "description": "Paneer cubes cooked with tikka masala, tomato and butter sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veg Chettinad Masala",
+                            "description": "Garden veggies cooked with fresh ground chettinad masala.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Tangy curry",
+                            "description": "Eggplant cooked in south Indian style tamarind sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer pepper masala",
+                            "description": "Cottage cheese cubes tempered with black pepper and cooked in a masala of onions, tomatoes, and select spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Mater Masala",
+                            "description": "Paneer and peas simmered in a masala sauce, typically includes tomatoes, onions, spices, and a touch of cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Butter Masala",
+                            "description": "Paneer cubes cooked with tomato and creamy butter sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Mater Masala",
+                            "description": "Mushrooms and peas simmered in a savory onion and tomato masala sauce, subtly enhanced with traditional Indian spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Curries - Non Veg",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Goat Chettinad",
+                            "description": "Bone-in goat simmered in a robust Chettinad masala, incorporating coconut, curry leaves, and a variety of traditional South Indian spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pondicherry /fish Curry",
+                            "description": "Sliced pampano fish cooked with south Indian based tangy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Chettinad",
+                            "description": "Boneless chicken cooked with aromatic freshly made chettinad masala. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn Curry",
+                            "description": "Shirmp cooked with south Indian based tangy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken Masala",
+                            "description": "Boneless chicken cubes cooked in a creamy tomato and butter sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Pallipalayam",
+                            "description": "Chicken Pallipalayam is a dish made with bone chicken, copious amounts of shallots, red chillies and coconut that is added to the dish as small bits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tikka Masala",
+                            "description": "Boneless chicken cubes cooked with tomato and butter sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers (Non Veg)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apollo Fish",
+                            "description": "Boneless cubes of fish marinated with exotic spices and deep fried.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken 65",
+                            "description": "Spicy, Boneless chicken cubes marinated with exotic spices and deep fried.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chilli Ckicken",
+                            "description": "Marinated Chicken pieces golden fried and tossed in an Indo-Chinese inspired sauce with sautéed green peppers and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Single Biryani (serve for 1-2 Poeple)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Dum Biryani (Chennai Style)",
+                            "description": "Marinated chicken, and rice cooked with Indian-style masala.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Goat Biryani",
+                            "description": "Goat meat, cooked with Indian-style masala rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken 65 Biryani (Chennai Style)",
+                            "description": "Special spice-cooked rice with battered and deep-fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thalapakatti Chicken Biryani (Seeraga Samba rice)",
+                            "description": "Seeraga samba rice, a distinctive small-grain variety, is slow-cooked with tender chicken and a blend of traditional spices, embodying the unique Thalapakatti style.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Biryani",
+                            "description": "Aromatic basmati rice and exotic spices and layered with fried paneer cubes. Served with a side of gravy and raita.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Idiyappam",
+                            "description": "Delicate steamed rice noodle cakes, intricately woven into soft, fluffy nests, traditionally served with curry or coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Parotta",
+                            "description": "Layered flatbread with a golden-brown exterior, garnished with fresh mint leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kushka(Plain Biryani)",
+                            "description": "Basmati cooked with special spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shrimp Biryani",
+                            "description": "Basumati rice cooked with indian spices and layered with Shrimp.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thalapakatti Mutton Biryani (Seeraga Samba rice)",
+                            "description": "Seeraga samba rice cooked with tender mutton pieces and a blend of traditional spices, following the Thalapakatti style from Tamil Nadu.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veg Biryani",
+                            "description": "Fresh garden vegetables, cooked with basumati rice, onion, tomato and other spices and served with eggplant pachadi and onion raita",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ambur Mutton Biryani (Seeraga samba Rice)",
+                            "description": "Ambur biryani is a delightful one-pot meal with succulent pieces of meat cooked to perfection along with the aromatic jeera samba rice, mint leaves, coriander leaves and whole spices. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ambur Chicken Biryani (Seeraga Samba Rice)",
+                            "description": "Ambur biryani is a delightful one-pot meal with succulent pieces of meat cooked to perfection along with the aromatic jeera samba rice, mint leaves, coriander leaves and whole spices. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Halwa",
+                            "description": "Soft, sweet bread pudding infused with ghee, garnished with cashews, almonds, and raisins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "GulabJamun (4 PCS)",
+                            "description": "Soft, spongy milk solids soaked in sweet syrup and garnished with almond slices. Four pieces per serving.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "GulabJamun (2 PCS)",
+                            "description": "Soft, spongy milk-solid dumplings soaked in sugar syrup, garnished with almond slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn Thokku - Semi dry gravy",
+                            "description": "Spicy semi gravy prawn thokku made with onion, tomato and other spices",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice",
+                            "description": "Fluffy basmati rice, steamed to perfection, offering a light and aromatic complement to any main dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onion Raita",
+                            "description": "Creamy yogurt mixed with finely chopped onions, tomatoes, and fresh cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepper Chicken",
+                            "description": "Boned chicken cooked with onion, tomato, and spices and finished with fresh black pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Pachadi",
+                            "description": "Smoky roasted eggplant blended with yogurt, spices, and herbs, garnished with fresh cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke 355ml",
+                            "description": "A carbonated cola drink in a convenient can size, offering a classic and refreshing taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rose Milk",
+                            "description": "Cooling and refreshing rose milk made with rose syrup, milk, sugar and sabja seeds",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi 355ml",
+                            "description": "A carbonated soft drink offering a refreshing cola flavor with a mix of sweet and caramel notes in a 355ml serving.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ankita A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Awesome taste. Have tried chicken biryani. Idyiapam and coconut gravy. Everything was finger licking. Proper indian taste. Also he custimized as per our instructions for spice level and cooking. \nIf you&apos;re a biryani lover then I would recommend this restaurant. I will try rest of his dishes soon."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sri S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "goat pieces are full of fat and Meat quantity is less!!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Prem A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "This is the best South Indian style briyani I ever tasted. Also their bread halwa was amazing."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "AL G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great briyani , perfect Chennai type! \nGreat customization based on needs.\nBread halwa &amp; Brinjal Gravy was exceptional. Will keep trying!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mohamed R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "I had Chicken 65 Biryani (Chennai Style)  last week and it was amazing, Gulab Jamun was the dessert. I had the same dish today, it was good but not as good as last time, kesari was the dessert which didn&apos;t work out for me."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4
+    },
+    "servesCuisine": [
+        "Indian Curry",
+        "Indian pick up",
+        "Indian Cuisine",
+        "Indian",
+        "Traditional Indian Restaurant",
+        "Dosa",
+        "Biryani",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/nallan-south-indian-cuisine-langley-25081477/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6047738641",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 8:55 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 8:55 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 8:55 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 8:55 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 9:30 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9:30 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9:30 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

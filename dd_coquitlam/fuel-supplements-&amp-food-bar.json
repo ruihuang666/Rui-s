@@ -1,0 +1,821 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/165cb5ca-b5c7-4ab2-858a-a1af5a25aaa5.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/df961aa0-ac37-46a5-a302-b023694badf2.jpg"
+    ],
+    "name": "Fuel Supplements &amp; Food Bar",
+    "address": "138-3000 Lougheed Hwy, Coquitlam, BC V3B 1C5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.273254",
+        "longitude": "-122.79358"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chunky Monkey",
+                            "description": "Unsweetened chocolate almond milk, choco whey protein, natural peanut butter, banana and ice. 420 calories, 25 grams carbohydrates, 20 grams fat, 38 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "California",
+                            "description": "Chicken, brown rice, cucumber, avocado, pesto, low-fat mayo and udo&apos;s oil.\nBOWL calories: 735\n30g protein, 44g fat, 55g carbs\nWRAP: 764\n32g protein, 48g fat, 70g carb",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Classic Breakfast",
+                            "description": "Eggs, chicken bacon, avocado, corn, beans, tomato, cheese, chipotle sauce and mayo served as a wrap, or a bowl with brown rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Jerk",
+                            "description": "Chicken, brown rice, peppers, corn, jerk sauce, low-fat mayo and avocado.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Southwestern Chipotle",
+                            "description": "Chicken, brown rice, black beans, corn, red pepper, cheddar cheese, chipotle sauce and low-fat ranch.\nBOWL Calories: 694\n39g protein, 25g fat, 78g carbs\nWRAP Calories: 731\n41g protein, 28g fat, 110g carbs ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "Chicken, brown rice, chicken bacon, tomato, avocado, sweet chili sauce and low-fat mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cold-Brew Almond Mocha",
+                            "description": "Cold-brew coffee, chocolate almond milk, almond butter, low-fat frozen yogurt, dates and chocolate protein. 530 calories, 49 grams carbohydrates, 23 grams fat, 37 gramsprotein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Skinny Mocha",
+                            "description": "Cold-brew coffee, unsweetened chocolate almond milk, dark chocolate stevia extract, banana and chocolate whey protein isolate. 200 calories. 16 grams carbohydrates, three grams fat, 29 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Antioxidant",
+                            "description": "Organic maple water, acai berry, black blackberry, vanilla whey protein, blueberries and banana. 380 calories, 64 grams carbohydrates, three grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Perfect Matcha",
+                            "description": "Unsweetened vanilla almond milk, banana, matcha powder, French vanilla stevia and vanilla whey protein. 220 calories, 21 grams carbohydrates, four grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Wrap or Bowl",
+                            "description": "Served as a Wrap or Bowl (Wraps contain a Half cup of Brown Rice, Bowls have a full cup of Brown Rice) with your choice of any 3 Veggies, 2 Sauces, and choice of protein between Tuna, Chicken, Hormone Free Beef, Beyond Meat, or Black Beans!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Breakfast",
+                            "description": "Scrambled Eggs, chicken bacon, your choice of three veggies, any two sauces and served either as a wrap or bowl with brown rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Wraps &amp; Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Wrap or Bowl",
+                            "description": "Served as a Wrap or Bowl (Wraps contain a Half cup of Brown Rice, Bowls have a full cup of Brown Rice) with your choice of any 3 Veggies, 2 Sauces, and choice of protein between Tuna, Chicken, Hormone Free Beef, Beyond Meat, or Black Beans!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "Chicken, brown rice, chicken bacon, tomato, avocado, sweet chili sauce and low-fat mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Southwestern Chipotle",
+                            "description": "Chicken, brown rice, black beans, corn, red pepper, cheddar cheese, chipotle sauce and low-fat ranch.\nBOWL Calories: 694\n39g protein, 25g fat, 78g carbs\nWRAP Calories: 731\n41g protein, 28g fat, 110g carbs ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "California",
+                            "description": "Chicken, brown rice, cucumber, avocado, pesto, low-fat mayo and udo&apos;s oil.\nBOWL calories: 735\n30g protein, 44g fat, 55g carbs\nWRAP: 764\n32g protein, 48g fat, 70g carb",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Teriyaki",
+                            "description": "Chicken, brown rice, cucumber, peppers, shredded carrots, cheddar cheese and teriyaki sauce.\nBOWL calories: 574\n35g protein, 18g fat, 57 carbs\nWRAP: 611\n37g protein, 22g fat, 69g carbs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Run for the Border",
+                            "description": "Chicken, brown rice, peppers, black beans, cheddar cheese, salsa and low-fat ranch.\nBOWL calories: 837\n44g protein, 27g fat, 80g carb\nWRAP: 880\n47g protein, 30g fat, 109g carbs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Jerk",
+                            "description": "Chicken, brown rice, peppers, corn, jerk sauce, low-fat mayo and avocado.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Taste of Thai",
+                            "description": "Chicken, brown rice, chicken bacon, tomato, peanut butter and sweet chili sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Beef Burger",
+                            "description": "Organic beef patty, brown rice, tomato, onions, black beans, corn, chipotle sauce and low-fat mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beyond Meat",
+                            "description": "Beyond meat patty, brown rice, onions, black beans, corn, tomatoes, chipotle sauce and low-fat mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Tuna",
+                            "description": "Tuna, grilled onion, peppers, shredded carrots, cheese, sweet chili and low-fat mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Vegetarian",
+                            "description": "A Veggie Wrap or Bowl with Brown rice, Black beans, any three veggies, and up to two choices of sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chunky Monkey",
+                            "description": "Unsweetened chocolate almond milk, choco whey protein, natural peanut butter, banana and ice. 420 calories, 25 grams carbohydrates, 20 grams fat, 38 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Perfect Matcha",
+                            "description": "Unsweetened vanilla almond milk, banana, matcha powder, French vanilla stevia and vanilla whey protein. 220 calories, 21 grams carbohydrates, four grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green with Envy",
+                            "description": "Unsweetened almond milk, frozen spinach, sliced almonds, vanilla whey protein, banana, honey and ice. 340 calories, 41 grams carbohydrate, nine grams fat, 29 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Colada",
+                            "description": "Organic maple water, orange juice, banana, vanilla whey protein, coconut, pineapple, spinach and ice. 360 calories, 53 grams carbohydrates, six grams at, 28 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie Monster",
+                            "description": "Unsweetened almond milk, Oreos, low-fat frozen yogurt, chocolate sauce and vanilla whey protein. 390 calories, 45 grams carbohydrates, 12 grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Bun Smoothie",
+                            "description": "Unsweetened almond milk, cinnamon, low-fat frozen yogurt, almond butter and vanilla whey protein. Make it keto-friendly by adding mct oil and taking out the low-fat frozen yogurt. 380 calories, 35 grams carbohydrates, 12 grams fat, 35 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Antioxidant",
+                            "description": "Organic maple water, acai berry, black blackberry, vanilla whey protein, blueberries and banana. 380 calories, 64 grams carbohydrates, three grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Berry Burst",
+                            "description": "Organic maple water, black berry, blueberry, raspberry, vanilla whey protein and banana 280 calories, 43 grams carbohydrates , two grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Tropics",
+                            "description": "Organic maple water, vanilla whey protein, mango, banana and pineapple. 300 calories, 48 grams carbohydrates, two grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peach Dream",
+                            "description": "Organic maple water, peaches, banana, apricot and pear purée, vanilla whey protein and ice. 340 calories, 45 grams carbohydrates, four grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pina Colada",
+                            "description": "Organic maple water, vanilla whey protein, coconut, pineapple, banana, and ice 320 calories, 44 grams carbohydrates, six grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hurricane",
+                            "description": "Organic maple water, vanilla whey protein, strawberries and banana 260 calories, 39 grams carbohydrates, two grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Java Almond Mocha",
+                            "description": "Unsweetened almond milk, chocolate sauce, instant coffee, sliced almonds, chocolate protein, low-fat frozen yogurt and ice. 320 calories, 29 grams carbohydrates, eight grams fat, 32 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Summer Splash",
+                            "description": "Organic maple water, raspberries, mango, banana and vanilla protein. 320 calories, 51 grams carbohydrates, two grams fat, 27 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Premium Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Skinny Monkey",
+                            "description": "Unsweetened chocolate almond milk, banana, nutri-nut powdered peanut butter, dark chocolate stevia extract and chocolate whey protein isolate. 260 сalories, 22 grams carbohydrates, six grams fat, 35 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cold-Brew Almond Mocha",
+                            "description": "Cold-brew coffee, chocolate almond milk, almond butter, low-fat frozen yogurt, dates and chocolate protein. 530 calories, 49 grams carbohydrates, 23 grams fat, 37 gramsprotein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mint Madness",
+                            "description": "Unsweetened chocolate almond milk, dates, almond butter, peppermint extract, banana and chocolate protein. 520 calories, 50 grams carbohydrates, 23 grams fat, 38 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Pb &amp; J",
+                            "description": "Organic maple water, natural peanut butter, strawberries, banana and vanilla protein. 460 calories, 46 grams carbohydrates, 17 grams fat, 34 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Skinny PB &amp; J",
+                            "description": "Organic maple water, strawberries, banana, nutrient powdered pb and vanilla whey protein isolate. 290 calories, 38 grams carbohydrates, three grams fat, 33 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Skinny Mocha",
+                            "description": "Cold-brew coffee, unsweetened chocolate almond milk, dark chocolate stevia extract, banana and chocolate whey protein isolate. 200 calories. 16 grams carbohydrates, three grams fat, 29 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Almond Bliss",
+                            "description": "Unsweetened almond milk, dates, almond butter, banana and vanilla protein. 550 calories, 50 grams carbohydrates , 23 grams fat, 37 grams protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Healthy Snacks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "HMC Monster Protein Cookies",
+                            "description": "Three cookies per yellow baggie.  Each cookie is made in Cloverdale, British Columbia, using a wheat oatmeal mix, quick oats, flake oats, natural sweet coconut, natural dark chocolate, 100% natural peanut butter, and ISO whey protein powder.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quest Chips",
+                            "description": "The Quest Protein Chips provide all the crunch and satisfying taste of a regular potato chip. They are made with complete, dairy-based proteins to provide your body with 9 essential amino acids. Seasoned to perfection and contain no added soy ingredients; BAKED, NEVER FRIED; keto friendly!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Built Puffs ",
+                            "description": "These are the first and only protein puffs on the market made with marshmallows and infused with protein. Covered in 100% dark chocolate!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lenny &amp; Larry Complete Cookie",
+                            "description": "16g Protein\n8g Fiber\n0 Trans Fat\nVegan\nNon GMO\nNo Soy ingredients\nNo Dairy ingredients\nNo Cholesterol",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homemade Energy Bites",
+                            "description": "Dates, peanut butter, oatmeal, chocolate protein powder and shredded coconut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yumy Bear Plant-Based Candy",
+                            "description": "Yumy Bears are a plant based, naturally sweetened delicious treat that will help conquer your sweet tooth! With only 3 grams of sugar per bag this snack is a no brainer!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quest Protein Cookie",
+                            "description": "Quest Protein Cookies have 15g of protein, at least 9g of fiber and 3g of sugar or less. These are the perfect way to feed your cookie cravings without putting aside your nutrition goals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quest Protein Bar",
+                            "description": "20-21 grams of Protein\nLots of fibre\nGluten free\nSoy free\nNo added sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Built Bars",
+                            "description": "All Natural Flavoring\nNO Artificial Coloring\nNO Artificial Preservatives\nZero Guilt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "ONE Bar",
+                            "description": "Your Anytime Guilt-Free Indulgence.\nWith 20 grams of protein and 1 gram of sugar delivered in deliciously decadent too-good-to-be-true flavors, we’re the protein bar you didn’t think was possible.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grenade Protein Bar",
+                            "description": "23g Protein\n2g Impact Carbohydrates\n6.7g Fiber\n2g Sugar\nNon-GMO",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quest Peanut Butter Cups (2 cups)",
+                            "description": "11g Protein\n1g Net Carbs\nLess than 1g Sugar\n4g Fiber\nGluten-Free",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grenade Carb Killa High Protein Bars",
+                            "description": "Each high protein bar is triple layered and coated in chocolate for ultimate indulgence. They’re the perfect way to curb those sugar cravings while also providing a punch of protein. They’re low in sugar and carbs but high in protein and fibre.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Classic Breakfast",
+                            "description": "Eggs, chicken bacon, avocado, corn, beans, tomato, cheese, chipotle sauce and mayo served as a wrap, or a bowl with brown rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Breakfast",
+                            "description": "Scrambled Eggs, chicken bacon, your choice of three veggies, any two sauces and served either as a wrap or bowl with brown rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lovers Breakfast",
+                            "description": "Eggs, chicken bacon, beef patty, tomatoes, grilled onions, corn, beans, chipotle sauce and mayo served as a wrap, or a bowl with brown rice. Substitute beef for beyond meat at no extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Energy Bites",
+                            "description": "Dates, peanut butter, oatmeal, chocolate protein powder and shredded coconut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Energy &amp; Protein Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Redcon1 MRE Whole Food Protein Shake",
+                            "description": "40g of animal based protein\nMade from Real whole food\n3 great flavours",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prime Hydration and Electrolyte Drink",
+                            "description": "A delicious and refreshing hydration and electrolyte drink, with just 2 grams of sugar and 25 calories!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Protein 2o, Protein Infused Water Beverage",
+                            "description": "Instead of drinking a protein shake, try this protein infused water with 15 grams of protein and delicious flavours!\nTastes like juice and full of protein!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "AlaniNu Energy Drink 355ml",
+                            "description": "AlaniNu Energy Drinks contain 0g of sugar, and only 10 calories per can.  Each can has 200mg of caffeine! This energy drink will help give you the extra jolt your busy day needs. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BioX Power Whey to Go Drink",
+                            "description": "20g of protein per 473ml\nZero sugar and only 80 calories\nTwo great flavours",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.39"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Saida M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great staff. Consistent quality food and really good smoothies. It&apos;s honestly my go to when I&apos;m undecided as to what to eat for lunch."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Carol H"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Mostly tasteless except for the excessive amount of brown rice"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Sandwiches",
+        "Smoothies",
+        "Snacks",
+        "Wraps"
+    ],
+    "url": "https://www.doordash.com/store/fuel-supplements-&-food-bar-coquitlam-956494/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17782161614",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 7:10 PM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 7:10 PM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 7:10 PM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 7:10 PM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 7:10 PM"
+        ],
+        "SATURDAY": [
+            "9:30 AM - 5:10 PM"
+        ],
+        "SUNDAY": [
+            "9:30 AM - 5:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 7:30 PM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 7:30 PM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 7:30 PM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 7:30 PM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 7:30 PM"
+        ],
+        "SATURDAY": [
+            "9:30 AM - 5:30 PM"
+        ],
+        "SUNDAY": [
+            "9:30 AM - 5:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

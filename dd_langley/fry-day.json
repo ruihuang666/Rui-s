@@ -1,0 +1,295 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/ac0e6bb5-4166-4599-8b12-f3fe9074d215.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/0bd50025-e7a4-4dd3-8b31-ecc428fc8ec7.jpg"
+    ],
+    "name": "Fry-Day",
+    "address": "26426 Fraser Hwy Unit A130, Langley Twp, BC V4W 0C2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.0591",
+        "longitude": "-122.492"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Chicken A- La Carte",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "2-Pc Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3-Pc Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 3 pcs chicken include 2 drumstick &amp; 1 thigh",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4-Pc Chicken",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken. 4 pcs chicken include 2 drumstick &amp; 2 thigh",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1-Pc Chicken Leg",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1-Pc Chicken Thigh",
+                            "description": "Hand-breaded cooked to perfection fresh chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Boneless",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken (Half)",
+                            "description": "Hand-breaded and cooked to perfection fresh chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Boneless Full",
+                            "description": "Hand-breaded cooked to perfection fresh chicken - skinless and boneless",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Meal",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Meal",
+                            "description": "Hand-breaded cooked to perfection fresh chicken. Comes with Fries and Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boneless Meal",
+                            "description": "Crispy Chicken, fries and choice of drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mini Vegetable Spring Rolls (6Pc)",
+                            "description": "Delightfully crispy mini spring rolls filled with a medley of fresh vegetables, perfect for snacking or sharing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Sauce",
+                            "description": "Side Sauce with Options",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Potato Fries",
+                            "description": "Crispy sweet potato fries, seasoned to perfection and served hot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Crispy Fries Feast: Our fires are golden and perfectly seasoned, creating a side that&apos;s crispy, hot, and absolutely satisfying.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Liter",
+                            "description": "(serves 5-8)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cans",
+                            "description": "Serves 1",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.29"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kanika N"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great food. Reason prices. It is actually amazing"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kanika N"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great food with reasonably priced "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Rebekah F"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Was super disappointed in this place had high hopes but it was terrible"
+        }
+    ],
+    "servesCuisine": [
+        "American",
+        "Fast Food"
+    ],
+    "url": "https://www.doordash.com/store/fry-day-langley-township-27682057/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6046253237",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10:40 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10:40 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 11 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,877 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/16654f6c-d523-4aa7-ad2d-81687b7c647a.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/f1b91228-d07b-45a1-a655-140b6ba79c03.jpg"
+    ],
+    "name": "GREEN AND OAK MALAYSIAN RESTAURANT",
+    "address": "3760 E Hastings St, 3760 Hastings St, Burnaby, BC V5C 2H5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28099",
+        "longitude": "-123.02189"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Chicken Set Meal",
+                            "description": "Gluten free. Steam chicken is cooked perfect in rich chicken stock and serving with red chili and ginger dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roti Canai",
+                            "description": "Two pieces. Grill fresh made Malaysian flatbread. Serving with very own curry dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Satay Skewers",
+                            "description": "Spicy. Traditional grill meat in southeast Asia and it comes with peanut dipping sauce. Set of six skewers. Choice of Protein: chicken, pork, beef or mixed (minimum of six skewers).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Char Kuey Teow",
+                            "description": "Spicy, vegan, vegetarian and gluten free. Fried rice noodle with shrimp, tofu, pork, bean sprouts, egg, chili, and soya sauce. Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malaysian Beef Curry On Rice",
+                            "description": "Spicy. Rich coconut curry made with lemon grass, shallot, onion, and other difference herbs. Serve with steam rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mee Goreng",
+                            "description": "Spicy, vegan, vegetarian. Pan fried egg noodle with pork, shrimp, tofu, and bean sprouts. Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Fried Rice",
+                            "description": "Vegan, vegetarian and gluten free. Fried rice with fresh pineapple, shrimp, bbq pork, egg, and vegetable.  Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Chicken Laksa Soup",
+                            "description": "Spicy. A curry based soup with tofu, bean sprouts, egg, lemongrass, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Four pieces. Deep fried whole chicken wings with own recipes and dip with garlic lemon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Noodle Soup",
+                            "description": "Gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Half Chicken",
+                            "description": "Gluten free. With two rice and soups. Steam chicken is cooked perfect in rich chicken stock and serving with red chili and ginger dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spring Roll",
+                            "description": "Vegan and vegetarian. Three rolls. Crispy vegetable spring roll. Served with sweet chili sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Durian Bombs (4 PCS)",
+                            "description": "Deep fried mochi stuffed with fresh Durian. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Egg Custard Sesame Balls (4 PCS)",
+                            "description": "Deep Fried Sesame Mochi stuffed with Salted Egg Custard",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appertizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Satay Skewers",
+                            "description": "Spicy. Traditional grill meat in southeast Asia and it comes with peanut dipping sauce. Set of six skewers. Choice of Protein: chicken, pork, beef or mixed (minimum of six skewers).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roti Canai",
+                            "description": "Two pieces. Grill fresh made Malaysian flatbread. Serving with very own curry dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Four pieces. Deep fried whole chicken wings with own recipes and dip with garlic lemon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spring Roll",
+                            "description": "Vegan and vegetarian. Three rolls. Crispy vegetable spring roll. Served with sweet chili sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish Cakes",
+                            "description": "Three pieces. Pan fried fish cakes, served with sweet chili sauce. Crispy outside and moist inside.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steam Yellow Chicken Rice",
+                            "description": "Tender steamed chicken paired with fragrant yellow rice, garnished with fresh herbs and accompanied by a side of savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steamed Jasmine Rice",
+                            "description": "Vegan and vegetarian.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penang Tofu",
+                            "description": "Vegan, vegetarian and gluten free. Deep fried tofu topped with onion, cucumber, and sweet chili sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Daily Soup",
+                            "description": "Chicken soup with veggies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Dishes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Chicken Set Meal",
+                            "description": "Gluten free. Steam chicken is cooked perfect in rich chicken stock and serving with red chili and ginger dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Whole Chicken",
+                            "description": "Gluten free. With four rice and soups. Steam chicken is cooked perfect in rich chicken stock and serving with red chili and ginger dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$47.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Half Chicken",
+                            "description": "Gluten free. With two rice and soups. Steam chicken is cooked perfect in rich chicken stock and serving with red chili and ginger dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malaysian Beef Curry On Rice",
+                            "description": "Spicy. Rich coconut curry made with lemon grass, shallot, onion, and other difference herbs. Serve with steam rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malaysian Chicken Curry On Rice",
+                            "description": "Spicy. Rich coconut curry made with lemon grass, shallot, onion, and other difference herbs. Serve with steam rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malaysian Pork Curry On Rice",
+                            "description": "Spicy. Rich coconut curry made with lemon grass, shallot, onion, and other difference herbs. Serve with steam rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malaysian Veggies &amp; Tofu Curry On Rice",
+                            "description": "Spicy, vegan and vegetarian. Rich coconut curry made with lemon grass, shallot, onion, and other difference herbs. Serve with steam rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malaysian Seafood Curry On Rice",
+                            "description": "Spicy. Rich coconut curry made with lemon grass, shallot, onion, and other difference herbs. Serve with steam rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "From the Wok",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mee Goreng",
+                            "description": "Spicy, vegan, vegetarian. Pan fried egg noodle with pork, shrimp, tofu, and bean sprouts. Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Fried Rice",
+                            "description": "Vegan, vegetarian and gluten free. Fried rice with fresh pineapple, shrimp, bbq pork, egg, and vegetable.  Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Belachan Fried Rice",
+                            "description": "Spicy, vegan, vegetarian and gluten free. Fried rice with dried shrimp, chili pepper, pork, shrimp, egg, and hints of soya sauce. Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Char Kuey Teow",
+                            "description": "Spicy, vegan, vegetarian and gluten free. Fried rice noodle with shrimp, tofu, pork, bean sprouts, egg, chili, and soya sauce. Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Singapore Style Vermicelli",
+                            "description": "Spicy, vegan, vegetarian and gluten free. Pan fried thin rice noodle with shrimp, bbq pork, bean sprout, red pepper, egg, onion, and curry sauce. Substitute pork to chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan Fried Eggplant &amp; Green Bean with Laksa Paste",
+                            "description": "\n\n\nSpicy, vegan, vegetarian and gluten free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Curry Seafood Fried Rice",
+                            "description": "Spicy, vegan, vegetarian and gluten free. Fried rice with scallop, shrimp, fish, egg, chili, vegetable, and curry sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan Fried Vegetable with Garlic Sauce",
+                            "description": "Vegan, vegetarian and dairy free. Market fresh vegetable: Brussel sprouts, broccoli, carrot and Kai-Lan stired fried with garlic sauce. Add chicken, pork or egg noodle for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Beans &amp; Minced Pork with Brown Shrimp Sauce",
+                            "description": "Spicy, vegan, vegetarian and gluten free. Market fresh vegetable: green beans and minced pork stired fried in the Asian big wok. Add chicken, pork or egg noodle for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan Fried Vegetable with Spicy Shrimp Paste",
+                            "description": "Spicy, vegan, vegetarian and gluten free.  Market Fresh Vegetable:: Broccoli, carrot and Kai-lan stir friend in the Asian big wok. Add chicken, pork or egg noodle for an extra charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Veggies with Oyster Sauce",
+                            "description": "Stir-fried fresh vegetables in savory oyster sauce, served with crispy lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Noodle Soup",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Noodle Soup",
+                            "description": "Gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hainanese Chicken Laksa Soup",
+                            "description": "Spicy. A curry based soup with tofu, bean sprouts, egg, lemongrass, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Laksa Soup",
+                            "description": "Spicy. A curry based soup with tofu, bean sprouts, egg, lemongrass, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Laksa Soup",
+                            "description": "Spicy. A curry based soup with tofu, bean sprouts, egg, lemongrass, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Tom Yum Soup",
+                            "description": "Spicy and gluten free. A traditional Thai hot and sour soup cooked with lemongrass, hot red chili, tomato, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Laksa Soup",
+                            "description": "Spicy. A curry based soup with tofu, bean sprouts, egg, lemongrass, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tom Yum Soup",
+                            "description": "Spicy and gluten free. A traditional Thai hot and sour soup cooked with lemongrass, hot red chili, tomato, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggies &amp; Tofu Tom Yum Soup",
+                            "description": "Spicy, vegetarian, vegan and gluten free. A traditional Thai hot and sour soup cooked with lemongrass, hot red chili, tomato, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggies &amp; Tofu Laksa Soup",
+                            "description": "Spicy. A curry based soup with tofu, bean sprouts, egg, lemongrass, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Noodle Soup",
+                            "description": "Gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Noodle Soup",
+                            "description": "Gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fishball Noodle Soup",
+                            "description": "Gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggies &amp; Tofu Noodle Soup",
+                            "description": "Vegetarian, vegan and gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Tom Yum Soup",
+                            "description": "Spicy and gluten free. A traditional Thai hot and sour soup cooked with lemongrass, hot red chili, tomato, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fishball Tom Yum Soup",
+                            "description": "Spicy and gluten free. A traditional Thai hot and sour soup cooked with lemongrass, hot red chili, tomato, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Tom Yum Soup",
+                            "description": "Spicy and gluten free. A traditional Thai hot and sour soup cooked with lemongrass, hot red chili, tomato, lime juice, and hints of coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Noodle Soup",
+                            "description": "Gluten free. Clear broth is made with chicken, carrot, onion, ginger, and other herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverage",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Choice of Coke, Diet Coke, Gingle Ale, Sprite",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Milo",
+                            "description": "Hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Ginger Honey",
+                            "description": "Ginger ale infused with lemon and honey, available hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon &amp; Lime Ribena",
+                            "description": "A refreshing blend of Ribena blackcurrant with zesty lemon and lime, garnished with lemon slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Juice (Lychee or Pineapple)",
+                            "description": "Freshly prepared juice available in pineapple or lychee flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soy Milk",
+                            "description": "Rich and creamy plant-based milk made from whole soybeans.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry &amp; Banana Smoothies",
+                            "description": "A creamy blend of strawberries and bananas, typically mixed with milk or yogurt for a smooth and refreshing drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Honey",
+                            "description": "Hot or cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Lime Soda",
+                            "description": "A refreshing blend of pineapple and lime, offering a sweet and tangy soda experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lychee Soda",
+                            "description": "Lychee soda combines the sweet and aromatic essence of lychee with sparkling soda water for a refreshing beverage experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tracy A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Yummy food and excellent customer service!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Janine B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "The Lhaksa brothis  not the best. Ive had better but the ingredients were great.i ordered veggies instead of noodles and all of the ingredients jncludng seafood tasted good.  The Roti Canai was good but the dippings  sauce was disappointing. The Pan Fried Eggplant &amp; Green Bean with Laksa Paste was good. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Rachel Y"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Items are listed as vegan but contain shrimp and meat with no way to specify you actually want it vegan. Please fix this as it is false advertising right now which is not acceptable."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Roshini C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "some of the chicken pieces weren&apos;t cooked properly"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Graham O"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "All excellent but the veggies if there was Brussels sprouts not bean sprouts I didn&apos;t see any abd well it was advertised as market fresh etc, again still good. "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.7
+    },
+    "servesCuisine": [
+        "Fried Rice",
+        "Chicken",
+        "Malaysian",
+        "Singaporean"
+    ],
+    "url": "https://www.doordash.com/store/green-and-oak-malaysian-restaurant-burnaby-253390/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17785892668",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 8:45 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 8:45 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 8:45 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

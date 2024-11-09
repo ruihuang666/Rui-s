@@ -1,0 +1,848 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/36be7cb2-f6b0-4342-8232-ae4467c5e977.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3ab94a80-1f59-4211-bf33-4f00d280f0fb.jpg"
+    ],
+    "name": "Dolce Amore",
+    "address": "6011 Hastings St, Burnaby, BC V5B 1R8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.280563",
+        "longitude": "-122.97653"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "GTL: Gangsta Toffee Life",
+                            "description": "A former monthly feature flavour that our customers would not let us take away. Vanilla bean gelato swirled with chunks of our MafiaMade butter toffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cherry Mania",
+                            "description": "Sweet and sour amarena cherry gelato swirled with cherry and chocolate chunks.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Pints for $54.95",
+                            "description": "Buy 4 Pints and Save Over 15%! Select any 4 Gelato Pints of your choosing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$54.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - Salted Brown Butter Toffee",
+                            "description": "Limit of four per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gianduia (Hazelnut Chocolate)",
+                            "description": "Our rocher gelato has always been a fan favourite, and we’ve taken it to another level with our own homemade version! We’ve made our own chocolate hazelnut spread from organic Mediterranean hazelnuts, and blended it into a creamy gelato, topped with a chocolate hazelnut crunch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blueberry Mangia Cake",
+                            "description": "#MafiaMashup ! You&apos;ve tried our Mangia Cake gelato. You&apos;ve tried our Blueberry Cheesecake gelato. Well, now you get to try them combined. Flavour Bomb! Lemon-zested cream cheese gelato, organic BC blueberry coulis, and chunks of our #MafiaMade ooey gooey butter cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - Chocolate Chip",
+                            "description": "Limit of four per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "DoD: Dons of Dough",
+                            "description": "You love our cookies; you love our gelato; so we&apos;ve combined them. Salted brown sugar brown butter gelato with two types of #MafiaMade cookie dough: double chocolate and our signature salted brown butter toffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - More, More, More",
+                            "description": "Limit of four per customer. Marshmallows, chocolate chips, pretzels, coffee grounds, and butterfinger, all in one cookie!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pistachio Padrino",
+                            "description": "Our NEW pistachio gelato. Why are we messing with a good thing? Because now it&apos;s even better! We&apos;ve just launched our new #MafiaMade Pure Pistachio Butter, and we use this decadent indulgence to make our gelato for a smoother, creamier, richer, and more full-flavoured taste. Pistachios are the godfather of nuts, so we&apos;ve BOSSED up on this one.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Gianduia (Hazelnut Chocolate)",
+                            "description": "Chocolate and Hazelnut equal Perfection. MafiaMade organic Hazelnut Mylk, 72% chocolate, cocoa powder, and chunks of chocolate-covered roasted organic hazelnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C+C: Crooks + Cream",
+                            "description": "We love improving upon a classic, and showing that we can make it from scratch. Oreos are great, but #MafiaMade &quot;Crookies&quot; are better! Organic BC milk and cream, vanilla, and our Crookie chocolate biscuits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Feature Gelato Pints (500ml)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Venetian Fog",
+                            "description": "London Fog? Nah. The mist in Venice is more beautiful. This is our take on the classic London Fog. Organic Earl Grey with Calabrian Bergamot, organic Madagascar Vanilla Beans, and the cutest little #MafiaMade &quot;Venetian&quot; pistachio amaretti cookies. It&apos;s tea and cookies, but Italian style.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Chocolate Cardamom",
+                            "description": "Our signature white chocolate gelato, spiced with cardamom for these colder end of summer nights.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha (V)",
+                            "description": "Vegan Matcha gelato (using #MafiaMade cashew mylk), with premium grade organic matcha.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maple Pecan Pie",
+                            "description": "Organic Maple Syrup gelato with chunks of #MafiaMade pecan pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Bun",
+                            "description": "We&apos;ve been wanting to make this flavour for a while now, and we&apos;re so happy that we did! Cinnamon cream cheese gelato, swirls of cinnamon honey icing, and chunks of #MafiaMade cinnamon buns.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Top",
+                            "description": "Carrot Cake is such an under-rated dessert; or so we feel at least. We&apos;ve brought you our signature cream cheese gelato, topped with #MafiaMade carrot cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Almond Joy (V)",
+                            "description": "Vegan toasted almond gelato (made with #MafiaMade Almond Milk) layered with coconut caramel and #MafiaMade Almond Coconut Chocolate Bites.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Omerta (V)",
+                            "description": "Freshly squeezed organic orange sorbetto for a taste so rich and pure you&apos;d think you were biting into an orange. After one bite, you&apos;ll be pledging your loyalty to #TheGelatoMafia. If you haven&apos;t had a chance to try this in our Negroni and Aperol Sprtiz Congelato Cocktails at our new LoLo Lounge in North Van, you are seriously missing out.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butterscotch Bourbon",
+                            "description": "#MafiaMade butterscotch gelato, spiked with a generous dousing of bourbon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Pie a la Grippo",
+                            "description": "September means apple season, and we&apos;ve whipped up a goodie for you, compliments of the Grippo&apos;s! An apple pie gelato using apples from Nonno Ted&apos;s giardino and Nonna Susan&apos;s pie recipe, spiced with cinnamon and nutmeg, and layered with a #MafiaMade dough crumble. (Disclaimer: Nonno&apos;s garden may not be able to keep up with demand, so we most likely will be supplementing them with organic apples from Discovery Organics).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blueberry Honey",
+                            "description": "Certified Organic BC blueberries from our friends at Hazelmere &amp; Ridgedale Organic Farms, sweetened with luscious honey, for the perfect pairing. Think of the best blueberry shake you’ve ever had, &amp; it doesn’t come close to this flavour bomb.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon (V)",
+                            "description": "Tart, sour, &amp; sweet, all in one bite. Lemon sorbet, or sorbetto al limone, is an Italian classic. Ours features Organic Californian lemons with accents of lemon zest.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sticky Toffee Pudding",
+                            "description": "Ooey gooey goodness! Our signature vanilla gelato is doused with sticky toffee date pudding cake chunks, and lathered with butterscotch sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Party of Five (V)",
+                            "description": "Frutti di Bosco (&quot;Fruits of the Forest&quot;), or Mixed Berry, is a classic Italian sorbetto, but we&apos;ve taken it to the next level. Featuring 5 BC local organic fruits (blackberries, blueberries, raspberries, strawberries, and black currants), this vegan fruity wonder will certainly create a party with your tastebuds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gelato Pints (500 ml)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "GTL: Gangsta Toffee Life",
+                            "description": "A former monthly feature flavour that our customers would not let us take away. Vanilla bean gelato swirled with chunks of our MafiaMade butter toffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pistachio Padrino",
+                            "description": "Our NEW pistachio gelato. Why are we messing with a good thing? Because now it&apos;s even better! We&apos;ve just launched our new #MafiaMade Pure Pistachio Butter, and we use this decadent indulgence to make our gelato for a smoother, creamier, richer, and more full-flavoured taste. Pistachios are the godfather of nuts, so we&apos;ve BOSSED up on this one.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cherry Mania",
+                            "description": "Sweet and sour amarena cherry gelato swirled with cherry and chocolate chunks.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "DoD: Dons of Dough",
+                            "description": "You love our cookies; you love our gelato; so we&apos;ve combined them. Salted brown sugar brown butter gelato with two types of #MafiaMade cookie dough: double chocolate and our signature salted brown butter toffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C+C: Crooks + Cream",
+                            "description": "We love improving upon a classic, and showing that we can make it from scratch. Oreos are great, but #MafiaMade &quot;Crookies&quot; are better! Organic BC milk and cream, vanilla, and our Crookie chocolate biscuits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tipsy Tiramisu",
+                            "description": "Everyone has their own &quot;secret recipe&quot; when it comes to Tiramisu. Some use Marsala, others use coffee liqueur, and still others use dark rum. When it comes to baking with alcohol, we say, the more the merrier! Three types of booze, creamy mascarpone, egg yolks, and espresso. Tipsy Tiramisu by #TheGelatoMafia.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stracciatella",
+                            "description": "An Italian classic our luscious organic grass-fed milk shines in this simple, clean flavour, with ribbons of chocolate.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Caramel",
+                            "description": "A classic, done our way. #MafiaMade caramel gelato + sea salt = deliciousness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brown Butter Brownie",
+                            "description": "Our infamous salted brown butter gelato with #MafiaMade chocolate brownies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cioccolato",
+                            "description": "Our go-to chocolate gelato: 72% single-origin dark chocolate and cocoa powder combine with our grass-fed milk to create the perfect milk/dark chocolate blend.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Malted Chocolate Cookie Dough",
+                            "description": "Malted milk chocolate gelato with chunks of #MafiaMade chocolate chip cookie dough, and gobs of fudge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla",
+                            "description": "Vanilla bean gelato; you can&apos;t go wrong.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nocciola (Roasted Hazelnut)",
+                            "description": "Nocciola, or Hazelnut, is an Italian gelato staple. We roast, peel, and grind our nuts into our own #MafiaMade hazelnut butter to make the finest Nocciola gelato around.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Spice",
+                            "description": "We’re all a little basic sometimes. Get out your plaid and Hunter boots, and come celebrate fall with us! This pumpkin gelato is full of spice, and full of REAL ingredients. We mix together pumpkin puree and our own special blend of spices, and you’ll be transported to your Thanksgiving dinner table wanting seconds and thirds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Irish Coffee",
+                            "description": "Spiked coffee is the best coffee. Cafe latte gelato spiked with Irish Cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gianduia (Hazelnut Chocolate)",
+                            "description": "Our rocher gelato has always been a fan favourite, and we’ve taken it to another level with our own homemade version! We’ve made our own chocolate hazelnut spread from organic Mediterranean hazelnuts, and blended it into a creamy gelato, topped with a chocolate hazelnut crunch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blueberry Mangia Cake",
+                            "description": "#MafiaMashup ! You&apos;ve tried our Mangia Cake gelato. You&apos;ve tried our Blueberry Cheesecake gelato. Well, now you get to try them combined. Flavour Bomb! Lemon-zested cream cheese gelato, organic BC blueberry coulis, and chunks of our #MafiaMade ooey gooey butter cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Vegan Gelato Pints (500 ml)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango (V)",
+                            "description": "This isn&apos;t your average mango. We use only the finest Organic Mango Alphonso, and you&apos;d swear you were taking a bite of the fruit itself. Oh yeah, it&apos;s all vegan, and all delicious.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra-Dark Chocolate (V)",
+                            "description": "Extra-Dark Chocolate sorbetto! This vegan treat is so rich, so creamy, and so smooth, that you&apos;d never know it was a sorbet. A dark chocolate lover&apos;s dream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Gianduia (Hazelnut Chocolate)",
+                            "description": "Chocolate and Hazelnut equal Perfection. MafiaMade organic Hazelnut Mylk, 72% chocolate, cocoa powder, and chunks of chocolate-covered roasted organic hazelnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry Lemonade (V)",
+                            "description": "Certified Organic BC raspberries from Hazelmere Organic Farms, combined with Organic Californian lemons, will leave you wanting to drink up this delicious vegan sorbetto with a straw.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "4 Pints for $54.95",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Pints for $54.95",
+                            "description": "Buy 4 Pints and Save Over 15%! Select any 4 Gelato Pints of your choosing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$54.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cones",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Waffle Cone",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten-Friendly Cone",
+                            "description": "Gluten-Free cone which we call gluten-friendly, because we are not a gluten-free facility.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bakery",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "#MafiaMade Tiramisu.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Four-Inch Cheesecake - Cherry",
+                            "description": "4-inch no-bake cheesecake. Limit 2 per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Four-Inch Cheesecake - Blueberry",
+                            "description": "4-inch no-bake cheesecake. Limit 2 per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - Chocolate Chip",
+                            "description": "Limit of four per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - More, More, More",
+                            "description": "Limit of four per customer. Marshmallows, chocolate chips, pretzels, coffee grounds, and butterfinger, all in one cookie!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - Peanut Butter",
+                            "description": "Limit of four per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie - Salted Brown Butter Toffee",
+                            "description": "Limit of four per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Four-Inch Cheesecake - Oreo",
+                            "description": "4-inch no-bake cheesecake. Limit 2 per customer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Grocery",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lurisia Italian Sodas",
+                            "description": "Premium Italian sodas.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Organic Cashew Butter (250g)",
+                            "description": "The newest addition to our #NotoriousNuts line. This 1-ingredient spread is so smooth that you wouldn&apos;t believe it is just 100% organic dry-roasted cashews. That&apos;s it. Simple, yet divine. It&apos;s what we use to make many of our vegan gelati, and it&apos;s on our breakfast toasts every morning. Enjoy!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pure Pistachio Butter (250g)",
+                            "description": "Our new line of natural and organic nut butters is headlined by this masterpiece: creamy, velvety smooth pistachio butter. Made with over 99% roasted pistachios and just a pinch of sea salt, this luxurious spread can be eaten on toast, sprinkled over desserts, or consumed straight from the jar. No sugar, no fillers, just pure pistachio goodness. Wonder why our pistachio gelato is so good? Because we make it using this beauty of product. Enjoy!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Organic Peanut Butter (375g)",
+                            "description": "Your pantry staple just got better thanks to yours truly. This 1-ingredient smooth peanut butter hits the spot. Just 100% organic dry-roasted peanuts. That&apos;s it. Simple, yet divine. It&apos;s what we use to make our Peanut Butter Paesano gelato, and it&apos;s on our breakfast toasts every morning. Enjoy!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Merchandise",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolce Amore Gelato Scoop",
+                            "description": "Serve yourself and your guests as though you&apos;re in our shop with this Dolce Amore Gelato Scoop!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolce Amore Thermal Cooler Bag",
+                            "description": "Keep your pints (both gelato and otherwise) nice and cold, or keep your food warm, with this Dolce Amore Thermal Cooler Bag! Fit up to 6 pints of gelato, perfect to take to any gathering! (No gelato included).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "R F"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I love this store so much. They&apos;ve been truly awesome towards me and I appreciate it more than I could ever say. Worth every penny, their food is absolutely unbelievably delicious. Zero complaints (except that banana caramel is sadly only seasonal 😭)"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Serena L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The bluebery mangia cake gelato is the gelato of my dreams. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kristina R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "A bit disappointed in the size as the price is high. But damn was it delicious 😋"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Melanie S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "This is the most delicious gelato I have ever had! It&apos;s addicting "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ekaterina W"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Im Vegan and all of the vegan flavours  are absolutely amazing"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.8
+    },
+    "servesCuisine": [
+        "Ice Cream",
+        "Gelato",
+        "Canadian",
+        "Bakery",
+        "Ice Cream Store",
+        "Dessert",
+        "Vegan",
+        "Ice Cream &amp; Frozen Yogurt",
+        "Italian Ice"
+    ],
+    "url": "https://www.doordash.com/store/dolce-amore-burnaby-356967/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16042059110",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 11 PM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 11 PM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 11 PM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 11 PM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 11 PM"
+        ],
+        "SATURDAY": [
+            "9:30 AM - 11 PM"
+        ],
+        "SUNDAY": [
+            "12:30 PM - 11 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 11:10 PM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 11:10 PM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 11:10 PM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 11:10 PM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 11:10 PM"
+        ],
+        "SATURDAY": [
+            "9:30 AM - 11:10 PM"
+        ],
+        "SUNDAY": [
+            "12:30 PM - 11:10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

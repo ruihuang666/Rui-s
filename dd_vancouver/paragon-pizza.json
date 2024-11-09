@@ -1,0 +1,736 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/79030195-4d1c-4050-a5f6-9183d8d63781.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/4dc35f43-9b9c-4e82-89f5-29530f458ea0.png"
+    ],
+    "name": "Paragon Pizza",
+    "address": "6942 Victoria Dr, Vancouver, BC V5P 3Y8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.22082",
+        "longitude": "-123.06572"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Pizza",
+                            "description": "Pizza with two toppings. Add toppings for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Pizza",
+                            "description": "Pepperoni pizza with choice of size: small to x-large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Pizza",
+                            "description": "Cheese Pizza: Offered in small, medium, large, and x-large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza of the Day",
+                            "description": "Try new pizza flavours, on each day of the week from Monday to Sunday to bolder options like Cheese, Hawaiian, Creamy, Tandoori, Pepperoni, Spinach, and Meat. Enjoy the Pizza&apos;s versatility and deliciousness to make your favourite food.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Pizza",
+                            "description": "Pineapple and ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Best Eaters combo ",
+                            "description": "Order two pizzas, Six wings, and Two sodas to quickly satisfy your hunger without spending too much money.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Creamy Paneer Pizza\n",
+                            "description": "Vegetarian. Creamy sauce, onion, green pepper, red bell peppers, banana pepper, and paneer.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shahi Paneer Pizza",
+                            "description": "Vegetarian. Special sauce, mushrooms, onions, green peppers, banana peppers, and shahi paneer.\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Paneer Pizza",
+                            "description": "Vegetarian. Onion, mushroom, green pepper, fresh tomato, and tandoori paneer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken Pizza\n",
+                            "description": "Special sauce, onion, mushroom, green pepper, banana pepper, and butter chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Chicken Pizza\n",
+                            "description": "Onion, mushroom, green pepper, fresh tomato, and tandoori chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special Pizza",
+                            "description": "Onion, green pepper, mushroom, black olives, ham, and pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Paragon Deals",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Best Eaters combo ",
+                            "description": "Order two pizzas, Six wings, and Two sodas to quickly satisfy your hunger without spending too much money.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Family Special Deal",
+                            "description": "Spending time with family, enjoying pizza and watching a movie will be an unforgettable experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$56.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Friends Combo",
+                            "description": "Would you like to take advantage of our unbeatable party combo deal? You&apos;ll get 3 delicious pizzas, 6 mouth-watering wings, and 3 refreshing pops.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$60.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza of the Day",
+                            "description": "Try new pizza flavours, on each day of the week from Monday to Sunday to bolder options like Cheese, Hawaiian, Creamy, Tandoori, Pepperoni, Spinach, and Meat. Enjoy the Pizza&apos;s versatility and deliciousness to make your favourite food.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kids&apos; Special",
+                            "description": "Three large pizzas consisting of one cheese pizza, one pepperoni pizza, and one Hawaiian pizza.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Party Special",
+                            "description": "Three X-large pizzas and 2L coke.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$68.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Super Fast Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Pizza",
+                            "description": "Pepperoni pizza with choice of size: small to x-large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Pizza",
+                            "description": "Pineapple and ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Pizza",
+                            "description": "Cheese Pizza: Offered in small, medium, large, and x-large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Specialty Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Creamy Paneer Pizza\n",
+                            "description": "Vegetarian. Creamy sauce, onion, green pepper, red bell peppers, banana pepper, and paneer.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special Pizza",
+                            "description": "Onion, green pepper, mushroom, black olives, ham, and pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken Pizza\n",
+                            "description": "Special sauce, onion, mushroom, green pepper, banana pepper, and butter chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Paneer Pizza",
+                            "description": "Vegetarian. Onion, mushroom, green pepper, fresh tomato, and tandoori paneer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Chicken Pizza\n",
+                            "description": "Onion, mushroom, green pepper, fresh tomato, and tandoori chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Italian Special Pizza",
+                            "description": "Green pepper, black olives, pepperoni, salami, capocollo, Italian sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian Pizza",
+                            "description": "Vegetarian. Onion, mushroom, green pepper, fresh tomatoes, black olives, and pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Eater Special Pizza",
+                            "description": "Ham, pepperoni, salami, beef, bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Special Pizza",
+                            "description": "Mushroom, pineapple, and ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Paneer Pizza",
+                            "description": "Vegetarian. Onion, mushroom, green pepper, fresh tomatoes, and paneer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mediterranean Pizza",
+                            "description": "Vegetarian. Onion, green pepper, fresh tomatoes, black olives, and feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shahi Paneer Pizza",
+                            "description": "Vegetarian. Special sauce, mushrooms, onions, green peppers, banana peppers, and shahi paneer.\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Feta Pizza",
+                            "description": "Vegetarian. Spinach, onions, sun-dried tomatoes, olives, feta cheese, and red bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pesto Veggie Pizza",
+                            "description": "Vegetarian. Pesto sauce, sun-dried tomatoes, baby spinach, red bell peppers, and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earth Apple Pizza",
+                            "description": "Vegetarian. Potato, onion, spinach, broccoli, and red bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken Pizza",
+                            "description": "Special barbecue sauce, onions, green peppers, tomatoes, mushrooms, and barbecue chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Chicken Pizza\n",
+                            "description": "Creamy sauce, onion, green pepper, red bell pepper, and creamy chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pesto Chicken Pizza",
+                            "description": "Pesto sauce, onion, sun-dried tomato, red bell pepper, and chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Capocollo Special Pizza",
+                            "description": "Pepperoni, capocollo, banana peppers, red onions, and Italian sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paragon Supreme",
+                            "description": "Onion, green pepper, pepperoni, chicken, and Italian sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Healthy Chicken Pizza",
+                            "description": "Onion, spinach, broccoli, red bell pepper, banana pepper, and chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical Hawaiian Pizza",
+                            "description": "\nSpecial BBQ sauce, pineapple, ham, and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Create Your Own Pizza\n",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Create Your Own Pizza",
+                            "description": "Pizza with two toppings. Add toppings for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side Orders",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onion Rings\n",
+                            "description": "Slices of onion coated in a batter and deep-fried until crisp.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine\n",
+                            "description": "Beef/ chicken/ veggie/ butter chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries\n",
+                            "description": "Deep-fried until golden brown, these French fries offer a crunchy exterior with a tender inside, typically seasoned for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Toast\n",
+                            "description": "Toasted bread generously topped with melted cheese, offering a simple yet satisfying side to complement any pizza meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Sticks\n",
+                            "description": "Oven-baked, slender sticks of dough, often seasoned with garlic, herbs, and sometimes sprinkled with parmesan, designed for dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings (8 pcs)",
+                            "description": "Side orders: Chicken wings, 8 pcs - Choose from honey garlic, hot, or BBQ.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Toast\n",
+                            "description": "Crispy slice of bread infused with garlic and sprinkled with parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop (2L)\n",
+                            "description": "2L soda options including Coca-Cola, Diet Coke, Canada Dry, Sprite, Orange Crush, and Root Beer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Dip",
+                            "description": "Our garlic dip is crafted with a blend of creamy ingredients and infused with a generous amount of garlic, offering a rich and savory complement to your pizza.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop (355 ml)\n",
+                            "description": "Soda selection in 355 ml size. Choose from Coca-Cola, Diet Coke, Sprite, Orange Crush, Mug Root Beer, Dr. Pepper, or Canada Dry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ranch",
+                            "description": "House-made ranch dressing, often served as a complement to a variety of dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Monika N"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "We ordered a build-your-own pizza and paneer was one of the two free toppings. But there was no paneer at all. The pizza however was still very tasty but the topping was missing.\nThe onion rings were over-fried, soggy and very oily. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Neet B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Worst pizza ever I had . I ordered Tandoori Paneer Pizza and there was only four five small cubes of pa in whole pizza . "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Serena M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Awe! You guys drew a butterfly on our pizza box. So cute thanks :) made our night. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tracey S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Absolutely love their Shahi Paneer Pizza. It&apos;s a hit every time!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ez A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "food took an hour and a half. Arrived Luke warm at best, on top of being very mediocre quality. Not worth any money IMO"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.2
+    },
+    "servesCuisine": [
+        "Pizza",
+        "Salads",
+        "Italian"
+    ],
+    "url": "https://www.doordash.com/store/paragon-pizza-vancouver-23572867/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7788222399",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 10:35 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 10:35 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 10:35 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 10:35 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11:34 PM"
+        ],
+        "SUNDAY": [
+            "12 AM - 11:35 PM\",\"12 PM - 10:35 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 11 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 11 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 11 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 11 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11:59 PM"
+        ],
+        "SUNDAY": [
+            "12 AM - 12 AM\",\"12 PM - 11 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

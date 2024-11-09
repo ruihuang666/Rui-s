@@ -1,0 +1,758 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/32090e37-698e-4a16-abc1-79744e95acce.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3d8f9dd8-8e82-4e03-9ce3-855fe3dfcb84.JPG"
+    ],
+    "name": "Hens up Chicken (Prairie Ave)",
+    "address": "1475 Prairie Ave, Port Coquitlam, BC V3B 1T3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.271465",
+        "longitude": "-122.75574"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original",
+                            "description": "Classic and crispy chicken fried to golden perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesling French Fries",
+                            "description": "Crispy French fries topped with a generous sprinkle of cheese, creating a savory and satisfying side dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original French Fries",
+                            "description": "Crispy golden potato fries, lightly salted and perfectly cut for a satisfying crunch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Half &amp; Half (Large) (2-3people)",
+                            "description": "Two flavours in a single box",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Onion Chicken",
+                            "description": "Fresh sliced onions and refreshing white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thriple Threat boneless(2-3poople)",
+                            "description": "Three flavours in a single box",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork dumpling ",
+                            "description": "Pork dumpling",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yangnyeom ",
+                            "description": "Original chicken glazed in our signature Korean sweet chili sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original Chicken sandwich",
+                            "description": "Big chicken original sandwich ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese sticks",
+                            "description": "Golden-fried cheese sticks with a crispy coating, perfect for a savory side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soy garlic",
+                            "description": "Our original chicken tossed in a savory soy garlic glaze",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Variety Combo",
+                            "description": "Original+Yangnyeom+Honey garlic+Onion+Soy garlic green onion+French fries+Onion ring",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$68.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwich &amp; Meal",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original Chicken sandwich",
+                            "description": "Big chicken original sandwich ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Yangnyeom Chicken Sandwich Combo",
+                            "description": "Spicy chicken sandwich with french fries and a drink of your choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soy Garlic Chicken Sandwich Combo",
+                            "description": "Soy garlic chicken sandwich with french fries and a drink of your choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yangnyeom Chicken Sandwich",
+                            "description": "Crispy fried chicken coated in a sweet and spicy Korean sauce, served on a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Meal",
+                            "description": "Fried chicken 4 pieces, french fries and pop.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original Chicken sandwich combo",
+                            "description": "Crispy chicken sandwich with french fries and a drink of your choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yangnyeom Chicken Sandwich Combo",
+                            "description": "Spicy chicken sandwich with french fries and a drink of your choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soy Garlic Chicken Sandwich",
+                            "description": "Crispy fried chicken thigh coated in soy garlic sauce, nestled in a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Yangnyeom chicken Sandwich",
+                            "description": "Crispy fried chicken coated in a sweet and spicy Korean sauce, served on a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Half &amp; Half",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Half &amp; Half (Large) (2-3people)",
+                            "description": "Two flavours in a single box",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Triple Threat",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Thriple Threat boneless(2-3poople)",
+                            "description": "Three flavours in a single box",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Original",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original",
+                            "description": "Classic and crispy chicken fried to golden perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hens up chicken : Bone In or Boneless *",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yangnyeom ",
+                            "description": "Original chicken glazed in our signature Korean sweet chili sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soy garlic",
+                            "description": "Our original chicken tossed in a savory soy garlic glaze",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesling",
+                            "description": "Original chicken coated with our secret black pepper dry rub reasoning",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original",
+                            "description": "Our classic recipe: crispy and bold",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey garlic",
+                            "description": "Our original chicken tossed in a sweet honey garlic glaze",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepper(Au Poivre)",
+                            "description": "Original chicken coated with our secret black pepper dry rub reasoning",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Snow yangnyeom",
+                            "description": "Yangnyeom chicken with a drizzle of our delicious snow onion sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy yangnyeom",
+                            "description": "Yangnyeom chicken with an extra spicy kick",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Combo",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Variety Combo",
+                            "description": "Original+Yangnyeom+Honey garlic+Onion+Soy garlic green onion+French fries+Onion ring",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$68.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Special boneless",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Padak",
+                            "description": "Original chicken with spring onion &amp; sweet soy-mustard sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soy garlic green onion",
+                            "description": "Our Soy Garlic chicken with finesse-topped with julienned green onions",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Onion Chicken",
+                            "description": "Fresh sliced onions and refreshing white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Boneless",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "K-namite",
+                            "description": "Spicy garlic fried chicken stir fried with vegetables and a sweet, sour, spicy sauce\nAllergy Warning: contains peanuts",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$43.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Bang",
+                            "description": "Fried chicken stir fried with vegetables &amp; pineapple and sweet &amp; sour sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$43.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Original French Fries",
+                            "description": "Crispy golden potato fries, lightly salted and perfectly cut for a satisfying crunch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesling French Fries",
+                            "description": "Crispy French fries topped with a generous sprinkle of cheese, creating a savory and satisfying side dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese sticks",
+                            "description": "Golden-fried cheese sticks with a crispy coating, perfect for a savory side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork dumpling ",
+                            "description": "Pork dumpling",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "onion ring",
+                            "description": "Crispy, golden-fried onion rings with a perfect crunch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chees ball 6pcs",
+                            "description": "Six cheese-filled balls with a crispy exterior and a soft, cheesy center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hotteok(koreans sweet pancake)",
+                            "description": "Korean sweet pancake 2pcs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet potato fries",
+                            "description": "Crispy, golden sweet potato fries with a hint of natural sweetness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice",
+                            "description": "Flavorful rice dish prepared to perfection, showcasing an ideal complement for any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sauce",
+                            "description": "Yangnyeom, Spicy yangyeom,Soy garlic, Honey garlic, Snow onion, Maxi ranch, Red hot",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pickled Radish",
+                            "description": "Radishes, thinly sliced and marinated in a vinegar-based solution, offering a tangy and crisp texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coleslaw",
+                            "description": "Crisp shredded cabbage in a creamy, tangy dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drink",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rootbeer (A&amp;W)",
+                            "description": "A&amp;W root beer with a distinct blend of sassafras, vanilla, and other aromatic flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Zero Coke",
+                            "description": "Enjoy the classic cola taste with zero sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadadry",
+                            "description": "Effervescent ginger ale with a crisp, refreshing taste, typically made with real ginger. Ideal for quenching your thirst or enjoying on its own.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nestea",
+                            "description": "Typically includes iced tea powder mixed with water for a refreshing drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Cola selection including Coca-Cola, Nestea iced tea, and Canada Dry ginger ale.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "A crisp, refreshing cola with zero calories.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sidney P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The best chicken store ive ever tried. I come here all time after work. I love the additional pickled radishes on the side."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Richard O"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Gas best chicken in bc no other chicken place is better "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Bryan V"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Their chicken is fresh, the breading isn&apos;t too heavy and it isn&apos;t super greasy. Great flavours too!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Steven P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Fire chicken"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.7
+    },
+    "servesCuisine": [
+        "American",
+        "Chicken",
+        "Fried Chicken"
+    ],
+    "url": "https://www.doordash.com/store/hens-up-chicken-(prairie-ave)-port-coquitlam-24627304/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044640856",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 9:25 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 9:25 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 9:25 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 11:25 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 11:25 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 11:25 PM"
+        ],
+        "SUNDAY": [
+            "1 PM - 9:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 9:45 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 9:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 9:45 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 11:45 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 11:45 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 11:45 PM"
+        ],
+        "SUNDAY": [
+            "1 PM - 9:45 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

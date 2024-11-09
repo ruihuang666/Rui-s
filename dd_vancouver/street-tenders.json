@@ -1,0 +1,391 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/889e8bda-16c2-44f8-9d2d-ea809d1eafad.38",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/824d89de-bd29-4564-8148-57be5dbdb4f1.jpg"
+    ],
+    "name": "Street Tenders",
+    "address": "601 Stamp'S Landing, Vancouver BC V5Z 3Z1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.26908",
+        "longitude": "-123.11871"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Mac &amp; Cheese",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buffalo Chicken Mac",
+                            "description": "Crispy buffalo chicken, cheese sauce, cheddar, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalapeño Bacon Mac",
+                            "description": "Smoky bacon, spicy jalapeño, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Retro Mac",
+                            "description": "Everyone&apos;s favorite mac and cheese. Chopped hot dogs ketchup, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Mac",
+                            "description": "Sliced pepperoni, marinara, melted cheddar, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken Mac",
+                            "description": "Tangy BBQ chicken, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parm Mac",
+                            "description": "Crispy chicken, cheddar, marinara, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lovers Mac",
+                            "description": "Chopped hot dogs, bacon, pepperoni cheddar, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Traditional Mac",
+                            "description": "Cheese sauce with twisted cavatappi noodles, melted cheddar, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Ranch Mac",
+                            "description": "Smoky bacon, ranch, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac &amp; Cheese Combo",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buffalo Chicken Mac Combo",
+                            "description": "Crispy buffalo chicken, cheese sauce, cheddar, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalapeño Bacon Mac Combo",
+                            "description": "Smoky bacon spicy jalapeño, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Retro Mac Combo",
+                            "description": "Everyone&apos;s favorite mac and cheese chopped hot dogs, ketchup, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Mac Combo",
+                            "description": "Sliced pepperoni, marinara, melted cheddar, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken Mac Combo",
+                            "description": "Tangy BBQ chicken, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parm Mac Combo",
+                            "description": "Crispy chicken, cheddar, marinara cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lovers Mac Combo",
+                            "description": "Chopped hot dogs, bacon pepperoni, cheddar, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Traditional Mac Combo",
+                            "description": "Cheese sauce with twisted cavatappi noodles, melted cheddar, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Ranch Mac Combo",
+                            "description": "Smoky bacon, ranch drizzle, cheese sauce, and Parmesan breadcrumbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Strips &amp; Fries",
+                            "description": "Crispy chicken tenders, fries, and honey mustard dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Fries",
+                            "description": "Kosher salted fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dips",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Ketchup",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Ranch",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Hot Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "1 Chocolate Chip Cookie",
+                            "description": "Baked fresh in-house.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.85"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "American",
+        "Street Food",
+        "Fast Food",
+        "Chicken Tenders",
+        "Wraps",
+        "Burgers",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/street-tenders-vancouver-31376049/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6048625620",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 8:40 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 8:40 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 10 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 10 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

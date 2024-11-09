@@ -1,0 +1,374 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/3798f2cf-ee70-424d-9d98-c58ac27ab266.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/4f0fc75a-6524-47e8-b0dd-2668654e063b.JPG"
+    ],
+    "name": "Menchie&apos;s Frozen Yogurt",
+    "address": "7155 Kingsway #138, Burnaby, BC V5E 2V1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.218536",
+        "longitude": "-122.95574"
+    },
+    "priceRange": "$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Frozen Yogurt (8 Oz.)",
+                            "description": "Creating your own dessert has never been so easy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Frozen Yogurt (16 Oz.)",
+                            "description": "Creating your own dessert has never been so easy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shake",
+                            "description": "400-540 calories.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Large Frozen Yogurt (32 Oz.)",
+                            "description": "Creating your own dessert has never been so easy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese factory cheese cake slice",
+                            "description": "Oreo cookies and cream  cheese cake \n Reese’s cheese cake \nMango key lime cheese cake \n Dulce de leche cheese cake \n Wild strawberry cheese cake \n White chocolate raspberry cheese cake \nFudge\n Cinnabon cheese cake \n Classic cheese cake \n Godiva double chocolate cheese cake \nRed valet cake cheese \n ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Tropics Smoothie",
+                            "description": "The sweet taste of real mango.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Banana Smoothie",
+                            "description": "A classic combination.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8-Inch Frozen Yogurt Cake",
+                            "description": "A frozen yogurt cake of your choosing. Serves eight to ten people.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Shake",
+                            "description": "550-850 calories.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Paradise Smoothie",
+                            "description": "Pineapple lovers rejoice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Frozen Yogurt Cakes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "8-Inch Frozen Yogurt Cake",
+                            "description": "A frozen yogurt cake of your choosing. Serves eight to ten people.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Frozen Yogurt",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Frozen Yogurt (8 Oz.)",
+                            "description": "Creating your own dessert has never been so easy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Frozen Yogurt (16 Oz.)",
+                            "description": "Creating your own dessert has never been so easy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Large Frozen Yogurt (32 Oz.)",
+                            "description": "Creating your own dessert has never been so easy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fruit Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Banana Smoothie",
+                            "description": "A classic combination.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Tropics Smoothie",
+                            "description": "The sweet taste of real mango.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Paradise Smoothie",
+                            "description": "Pineapple lovers rejoice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Shakes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Shake",
+                            "description": "550-850 calories.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shake",
+                            "description": "400-540 calories.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cheese factory cheese cake",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese factory cheese cake slice",
+                            "description": "Oreo cookies and cream  cheese cake \n Reese’s cheese cake \nMango key lime cheese cake \n Dulce de leche cheese cake \n Wild strawberry cheese cake \n White chocolate raspberry cheese cake \nFudge\n Cinnabon cheese cake \n Classic cheese cake \n Godiva double chocolate cheese cake \nRed valet cake cheese \n ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Lisa M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "this place is my go-to for dessert. the best"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sarah S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Problems again -This is the LAST time we order from Menchies - they only filled the container half full - ugh"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sarah S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Usually happy with Menchies - today not so much - When you pay $13 for a large that&apos;s supposed to weigh 16oz ,.... you expect to get it.  We knew immediately that whoever filled the container didn&apos;t seem to care because the container wasn&apos;t even close to being full - (see pics) the food scale weight came to 11oz - Menchies you can do better  :-(. :-("
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jason H"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "No way to choose topping quantity. Really part of the fun."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Frozen Yogurt",
+        "Cakes",
+        "Dessert",
+        "Sweets"
+    ],
+    "url": "https://www.doordash.com/store/menchie's-frozen-yogurt-burnaby-442505/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16045532811",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12:30 PM - 9:45 PM"
+        ],
+        "TUESDAY": [
+            "12:30 PM - 9:45 PM"
+        ],
+        "WEDNESDAY": [
+            "12:30 PM - 9:45 PM"
+        ],
+        "THURSDAY": [
+            "12:30 PM - 9:45 PM"
+        ],
+        "FRIDAY": [
+            "12:30 PM - 9:45 PM"
+        ],
+        "SATURDAY": [
+            "1 PM - 9:45 PM"
+        ],
+        "SUNDAY": [
+            "12:30 PM - 9:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12:30 PM - 10 PM"
+        ],
+        "TUESDAY": [
+            "12:30 PM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "12:30 PM - 10 PM"
+        ],
+        "THURSDAY": [
+            "12:30 PM - 10 PM"
+        ],
+        "FRIDAY": [
+            "12:30 PM - 10 PM"
+        ],
+        "SATURDAY": [
+            "1 PM - 10 PM"
+        ],
+        "SUNDAY": [
+            "12:30 PM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

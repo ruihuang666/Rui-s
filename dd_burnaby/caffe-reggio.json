@@ -1,0 +1,366 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/7a9b6e01-fa5a-4704-a5be-2b1d8937f7d1.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/80d85f27-b819-43c8-b1e6-b81ebe078c50.jpeg"
+    ],
+    "name": "Caffe Reggio",
+    "address": "930 Brunette Ave, Coquitlam, BC V3K 1C9, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.236988",
+        "longitude": "-122.87057"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Top Guy",
+                            "description": "Spicy. Sliced oven-roasted turkey, calabrese salami, banana peppers, shredded lettuce, calabrese, and chili mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salami &amp; Mozza",
+                            "description": "Genoa salami, calabrese salami, mozza, shredded lettuce, and olive oil balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Goodfella",
+                            "description": "Spicy. Calabrese salami, capicola, banana peppers, shredded lettuce, mozzarella and calabrese chili mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "La Donna",
+                            "description": "Thin sliced mortadella, fresh mozza, pesto mayo, arugula, olive oil, and balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLTC",
+                            "description": "Crispy bacon, tomatoes, Cheddar cheese, shredded lettuce, and mayo, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese &amp; Bacon",
+                            "description": "Grilled cheese with Cheddar, mozzarella, and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Club",
+                            "description": "Sliced oven-roasted turkey, crispy bacon, tomato, shredded lettuce, and mayo, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prosciutto &amp; Arugula",
+                            "description": "Prosciutto, fresh mozzarella, red pepper jelly, arugula, olive oil, and balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Avocado",
+                            "description": "Sliced oven-roasted turkey, avocado, tomatoes, shredded lettuce, and mayo, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Veggie",
+                            "description": "Eggplant, red peppers, tomatoes, mozzarella, shredded lettuce, balsamic glaze, and pesto, grilled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Pesto",
+                            "description": "Sliced oven-roasted turkey, tomatoes, red pepper, shredded lettuce, and pesto mayo, grilled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Toasted Veggie",
+                            "description": "Avocado, cream cheese, tomatoes, cucumber, red onion, shredded lettuce, and yellow mustard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Signature Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Avocado",
+                            "description": "Sliced oven-roasted turkey, avocado, tomatoes, shredded lettuce, and mayo, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Pesto",
+                            "description": "Sliced oven-roasted turkey, tomatoes, red pepper, shredded lettuce, and pesto mayo, grilled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham &amp; Cheddar",
+                            "description": "Sliced ham, Cheddar cheese, tomatoes, shredded lettuce, and yellow mustard, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese &amp; Bacon",
+                            "description": "Grilled cheese with Cheddar, mozzarella, and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLTC",
+                            "description": "Crispy bacon, tomatoes, Cheddar cheese, shredded lettuce, and mayo, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Club",
+                            "description": "Sliced oven-roasted turkey, crispy bacon, tomato, shredded lettuce, and mayo, toasted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Vegetarian Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Veggie",
+                            "description": "Eggplant, red peppers, tomatoes, mozzarella, shredded lettuce, balsamic glaze, and pesto, grilled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Toasted Veggie",
+                            "description": "Avocado, cream cheese, tomatoes, cucumber, red onion, shredded lettuce, and yellow mustard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Italian Panino&apos;s",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Top Guy",
+                            "description": "Spicy. Sliced oven-roasted turkey, calabrese salami, banana peppers, shredded lettuce, calabrese, and chili mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prosciutto &amp; Arugula",
+                            "description": "Prosciutto, fresh mozzarella, red pepper jelly, arugula, olive oil, and balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caprese",
+                            "description": "Fresh mozzarella, tomatoes, fresh basil, olive oil, balsamic glaze, salt and pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salami &amp; Mozza",
+                            "description": "Genoa salami, calabrese salami, mozza, shredded lettuce, and olive oil balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "La Donna",
+                            "description": "Thin sliced mortadella, fresh mozza, pesto mayo, arugula, olive oil, and balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Goodfella",
+                            "description": "Spicy. Calabrese salami, capicola, banana peppers, shredded lettuce, mozzarella and calabrese chili mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Justin E"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "the don, the soups, absolutely delicious, still order from my favorite sandwich shop, I usually go a panini and a soup, so I get chips, soup and a sandwich.\n\nfavorites so far good fellas, and the don"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Justin E"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "soup and panini combo is stellar. my favorite shop to order lunch from"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Joe G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The quality and taste are incredible with each menu item.  The team at Caffe Reggio cares about what they serve and how their customers feel after every bite.  A go-to place to order for staff meetings! "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 5
+    },
+    "servesCuisine": [
+        "Italian",
+        "American",
+        "Fast Food",
+        "Cafe"
+    ],
+    "url": "https://www.doordash.com/store/caffe-reggio-coquitlam-27502767/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6045443550",
+    "doordashOperationHourInfo": {},
+    "storeOperationHourInfo": {},
+    "merchant_cuisine": "Not found"
+}

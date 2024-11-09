@@ -1,0 +1,699 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/CatchKitchenBar3866RichmondBC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/67e3e795-33b5-4f33-9752-fc4ef3274f72.24"
+    ],
+    "name": "Catch Kitchen + Bar",
+    "address": "3866 Bayview St, Richmond BC V7E 4R7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.12382",
+        "longitude": "-123.18355"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chill Chicken",
+                            "description": "Chunks of juicy chicken tossed in a sweet &amp; spicy chili sauce topped with crispy wontons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Catch Roast Beef Dip",
+                            "description": "Slow-roasted beef, thinly sliced on a garlic toasted baguette, au jus &amp; fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab Corn Chowder",
+                            "description": "Succulent crab, double smoked bacon, roasted corn, potatoes &amp; loaded with veggies, served with oven-toasted bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peppercorn New York Steak",
+                            "description": "10 oz center cut AAA strip loin flame-grilled, topped with peppercorn sauce served with a warm potato salad &amp; seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$47.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lobster Mac &amp; Cheese",
+                            "description": "Lobster &amp; macaroni noodles, tossed in a three-cheese sauce topped with crispy onions served with rosemary focaccia.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean BBQ Bowl",
+                            "description": "Sliced NY steak stir fried with wok vegetables in our Korean BBQ sauce served with rice and topped with crispy won tons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steak &amp; Mushroom Salad",
+                            "description": "NY strip grilled, grape tomatoes, sautéed mushrooms on a bed of arugula topped with crispy onions, feta cheese &amp; tossed with a champagne dijon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Santa Fe Chicken Salad",
+                            "description": "Citrus pepper chicken breast, avocado, feta cheese, black beans, dates, and corn, drizzled with a cilantro lime vinaigrette &amp; topped with tortilla strings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baja Fish Tacos",
+                            "description": "Fresh cod, coated in our crispy beer batter, spicy avocado &amp; cilantro dressing finished with pico de gallo served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab,spinach and Artichoke Dip",
+                            "description": "Crab, spinach, and artichoke hearts combined with a mixture of cheeses topped with pico de gallo served with tortilla chips for dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Burger",
+                            "description": "6 oz house-made beef patty hand-pressed, grilled &amp; topped with lettuce, tomato, onions, pickle &amp; served on a toasted sesame bun with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tequila and Lime Prawns",
+                            "description": "Succulent prawns pan-seared with tequila fresh lime and spicy chipotle, topped with fresh cilantro. Served in a tortilla shell with pico de gallo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Soups and Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steak &amp; Mushroom Salad",
+                            "description": "NY strip grilled, grape tomatoes, sautéed mushrooms on a bed of arugula topped with crispy onions, feta cheese &amp; tossed with a champagne dijon vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Santa Fe Chicken Salad",
+                            "description": "Citrus pepper chicken breast, avocado, feta cheese, black beans, dates, and corn, drizzled with a cilantro lime vinaigrette &amp; topped with tortilla strings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach &amp; Strawberry Salad",
+                            "description": "Baby spinach, strawberries, pickled beets, candied walnuts, lime onions, and cranberries, topped with caramelized goat cheese, and sweet balsamic dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Warm Seafood Salad",
+                            "description": "Mixed seafood medley, potatoes, cherry tomatoes, red onion on a bed of mixed greens served with a raspberry vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Catch House Salad",
+                            "description": "Mixed greens, cucumber, tomato, onion, shredded carrots &amp; beets, accompanied with a balsamic &amp; dijon dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab Corn Chowder",
+                            "description": "Succulent crab, double smoked bacon, roasted corn, potatoes &amp; loaded with veggies, served with oven-toasted bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Prawn Caesar",
+                            "description": "Sautéed prawns in Cajun spice, crisp romaine, double smoked bacon, garlic focaccia croutons &amp; shaved Parmesan, tossed with house-made Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Start and Share",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chill Chicken",
+                            "description": "Chunks of juicy chicken tossed in a sweet &amp; spicy chili sauce topped with crispy wontons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tequila and Lime Prawns",
+                            "description": "Succulent prawns pan-seared with tequila fresh lime and spicy chipotle, topped with fresh cilantro. Served in a tortilla shell with pico de gallo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Calamari",
+                            "description": "Line-caught squid served with house-made tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet &amp; Spicy Sticky Chicken Wings (1 Lb)",
+                            "description": "Spicy. Chicken wings in our honey bourbon chilli sauce topped with sesame seeds served with celery and blue cheese dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Mussels &amp; Clams",
+                            "description": "Steamed with white wine, fresh herbs &amp; grape, and tomatoes, accompanied with oven-toasted, rosemary focaccia bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Catch Sliders",
+                            "description": "Your choice of 3: Southern Fried Chicken, blackened, salmon, traditional burger, pulled pork.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab Cakes",
+                            "description": "Succulent crab meat combined with peppers, and green onions, pan-seared until golden topped with spicy avocado. Served with a smoky chipotle aioli dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Edamame",
+                            "description": "Lightly glazed with soy sauce &amp; chilies garnished with toasted sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Parmesan Garlic Truffle Yam Fries",
+                            "description": "Yam fries tossed with fresh garlic, Parmesan and truffle oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crab,spinach and Artichoke Dip",
+                            "description": "Crab, spinach, and artichoke hearts combined with a mixture of cheeses topped with pico de gallo served with tortilla chips for dipping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mediterranean Flatbread",
+                            "description": "Vine-ripened tomatoes, caramelized onions, olives, roasted red peppers &amp; artichokes, with hummus, and topped with crumbled feta, drizzled with a sweet balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Casual Favourites",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Catch Roast Beef Dip",
+                            "description": "Slow-roasted beef, thinly sliced on a garlic toasted baguette, au jus &amp; fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baja Fish Tacos",
+                            "description": "Fresh cod, coated in our crispy beer batter, spicy avocado &amp; cilantro dressing finished with pico de gallo served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Burger",
+                            "description": "6 oz house-made beef patty hand-pressed, grilled &amp; topped with lettuce, tomato, onions, pickle &amp; served on a toasted sesame bun with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Burger",
+                            "description": "Blackened West Coast salmon with lemon caper, aioli, tomato, arugula, and onions, served on a sesame bun with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Bacon Cheese Burger",
+                            "description": "6 oz house-made beef patty hand-pressed, &amp; topped with double-smoked bacon, onion ring, havarti cheese, lettuce, tomato &amp; our house-made tangy BBQ sauce, served on a toasted sesame bun with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Burger",
+                            "description": "Grilled chicken breast, with lettuce, tomato, onion, pickle &amp; citrus mayo on an brioche bun served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Cod Burger",
+                            "description": "Crispy beer-battered cod loin served on a brioche bun with tartar sauce lettuce, tomato &amp; onions served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steak Sandwich",
+                            "description": "NY striploin on an open-faced toasted garlic ciabatta with arugula &amp; caramelized onions served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pulled Pork Sandwich",
+                            "description": "Toasted ciabatta bun loaded with pulled pork, crispy onions, smokey coleslaw &amp; BBQ sauce served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Catch Fish and Chips",
+                            "description": "Crispy beer-battered fresh cod, served with Catch Kitchen + Bar&apos;s house-made tartar sauce and coleslaw with hand-cut sea-salted fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garden Burger",
+                            "description": "Chargrilled plant-based burger patty with lettuce, tomato, onions, pickle, and red pepper relish, served on sesame bun with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mains",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peppercorn New York Steak",
+                            "description": "10 oz center cut AAA strip loin flame-grilled, topped with peppercorn sauce served with a warm potato salad &amp; seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$47.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Citrus Chipotle Halibut",
+                            "description": "Ocean-wise halibut herb crusted &amp; pan seared with a citrus chipolte butter served with rice, and seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$44.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Mushroom Chicken",
+                            "description": "French cut chicken breast pan roasted topped in a cream, garlic white wine sauce served with roasted herb potatoes &amp; seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rack of Lamb",
+                            "description": "Roasted rack of lamb &amp; drizzled with a red wine rosemary reduction served with garlic mashed potatoes &amp; seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$55.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Herb Crusted Pork Chop",
+                            "description": "Catch signature 12 oz center cut pork chop, served with warm potato salad &amp; seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chilli Lime Mahi Mahi",
+                            "description": "Pan-seared with chilli lime &amp; ginger served with rice and seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Miso Glazed Black Cod",
+                            "description": "Pan-seared fillet topped with a miso glaze served with rice, bok choy &amp; seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey &amp; Garlic Ginger Salmon",
+                            "description": "Wild sockeye salmon pan-seared in honey garlic &amp; ginger topped toasted sesame seeds and served with rice and seasonal vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta &amp; Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lobster Mac &amp; Cheese",
+                            "description": "Lobster &amp; macaroni noodles, tossed in a three-cheese sauce topped with crispy onions served with rosemary focaccia.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean BBQ Bowl",
+                            "description": "Sliced NY steak stir fried with wok vegetables in our Korean BBQ sauce served with rice and topped with crispy won tons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettuccine Bolognese",
+                            "description": "Our homemade tomato meat sauce topped with lemon ricotta cheese, served with garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine Vongole",
+                            "description": "Fresh clams cooked with white wine &amp; extra virgin olive oil garlic, scallions, grape tomatoes &amp; fresh herbs served with garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$30.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn &amp; Scallops Linguine",
+                            "description": "Succulent prawns &amp; scallops, tomatoes, onions, garlic, and fresh basil, served with garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$30.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Teriyaki Chicken Bowl",
+                            "description": "Chicken, mixed vegetables stir-fried with house-made teriyaki sauce served on a bed of white rice topped with crispy wontons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Poke Bowl",
+                            "description": "Sesame, garlic, ahi tuna, sticky rice, edamame, avocado, pineapple, pickled carrots, drizzled with cilantro wasabi aioli topped with crispy wonton.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Fettuccine Puttanesca",
+                            "description": "Mixed seafood medley, olives, green peppers, capers in a spicy tomato sauce served with garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Catch Spaghetti",
+                            "description": "Olives, artichokes, cherry tomatoes, onions, baby spinach &amp; roasted peppers topped with crumbled feta, accompanied with garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Carbonara",
+                            "description": "Double smoked bacon, cream, egg, and fresh Parmesan served on spaghetti noodles, accompanied with garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "American",
+        "Seafood Restaurant",
+        "Casual Dining",
+        "sports bars",
+        "Seafood"
+    ],
+    "url": "https://www.doordash.com/store/catch-kitchen-+-bar-richmond-31376033/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6042841222",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

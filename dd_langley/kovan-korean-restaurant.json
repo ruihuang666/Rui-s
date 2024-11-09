@@ -1,0 +1,525 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Kovan_Korean_Restaurant_Langley.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/7fa46f80-da69-4508-8125-3577bd38e89b.jpg"
+    ],
+    "name": "Kovan Korean Restaurant",
+    "address": "Kovan Korean Restaurant, 6339 200 St #804, Langley City, BC V2Y 1A2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.1186",
+        "longitude": "-122.670006"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soft Tofu Soup with Seafood",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Bone Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy BBQ Pork",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Short Rib Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Beef",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Vegetable with Rice",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Croquette",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stir-Fried Glass Noodle",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Pancake",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinated Beef Short Rib",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Beef Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Dumplings",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stir-Fried Glass Noodle",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet &amp; Sour Deep-Fried Chicken",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Dumplings",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Croquette",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Pancake",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Pancake",
+                            "description": "*Sides and Rice Excluded.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stir-Fried Kimchi Udon",
+                            "description": "*Sides and Rice Excluded. Spicy udon noodle with kimchi and pork belly.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Meal",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Short Rib Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Beef Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Bone Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Vegetable with Rice",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Intestine Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bean Paste Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Mackerel with Bean Paste Soup",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soft Tofu Soup with Seafood",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Fish Stew",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BBQ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Beef",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinated Boneless Pork Rib ",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinated Beef Short Rib",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy BBQ Pork",
+                            "description": "*Comes with Complimentary Rice and Sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Plate",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Stir Fried Pork",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Stir-Fried Squid with Pork Belly",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$44.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Stir-Fried Baby Octopus",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Pot",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice",
+                            "description": "Flavorful rice dish prepared to perfection, showcasing an ideal complement for any meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Intestine Hot Pot",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Bone Hot Pot",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Back Bone And Kimchi Hot Pot",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Hot Pot",
+                            "description": "*Comes with Complimentary Rice and Sides. Recommended 2 people per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Korean",
+        "Hot Pot",
+        "Barbecue"
+    ],
+    "url": "https://www.doordash.com/store/kovan-korean-restaurant-langley-city-952937/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+18254503193",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 8:55 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 8:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 9:10 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

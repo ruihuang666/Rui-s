@@ -1,0 +1,521 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/eed06145-05d7-4f57-908d-bd538e2adfba.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/7a6cf60d-e353-4fe3-b39d-13cd4ac5508a.49"
+    ],
+    "name": "K.R&apos;s",
+    "address": "5755 Beresford St., Burnaby, BC V5J 1J9, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.21864",
+        "longitude": "-122.97983"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Shorty",
+                            "description": "Strawberry compote and vanilla custard nestled between layers of delicious vanilla cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Velvet Cake",
+                            "description": "2 slices of moist red velvet cake filled with dark chocolate pieces and frosted with cream cheese vanilla icing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "From Bavaria",
+                            "description": "Cherry compote, vanilla and chocolate custard nestled between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "El Chocomello",
+                            "description": "Caramel custard nestled between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Blue Meow",
+                            "description": "Lemon custard and blueberry compote nestled between layers of delicious vanilla cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Take a Break",
+                            "description": "Signature chocolate chip dough cookie bar filled with loads of smooth Kit Kat ganache.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Nutty Professor",
+                            "description": "Peanut butter, chocolate, and caramel drizzle custard nestled between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Applet",
+                            "description": "Mouth watering shortbread cookie dough filled with cinnamon caramel apple pie compote.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Planet Mars",
+                            "description": "Signature chocolate chip cookie bar filled with Mars bar ganache, it&apos;s literally out of this world.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sneaky",
+                            "description": "Signature chocolate chip cookie bar filled with Snickers chocolate bar pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Limonetta",
+                            "description": "Mouth watering shortbread cookie dough filled with delicious lemon curd center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresa Rhu",
+                            "description": "Mouth watering shortbread cookie bar filled with a strawberry rhubarb compote center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Oc&apos;s Line Up",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "S&apos;mores",
+                            "description": "Our signature chocolate cookie dough filled with smooth rich chocolate ganache, graham cracker crumbs and mini-marshmallows.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Chunky Monkey",
+                            "description": "Our signature chocolate chip cookie dough loaded with huge chunks of rich chocolate chips.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Birthday Cake",
+                            "description": "Delicious white chocolate chip and macadamia nut cookie bar filled with funfetti, it&apos;s basically a party in a cookie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cookie Bars",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Take a Break",
+                            "description": "Signature chocolate chip dough cookie bar filled with loads of smooth Kit Kat ganache.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sneaky",
+                            "description": "Signature chocolate chip cookie bar filled with Snickers chocolate bar pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mr. Nutty",
+                            "description": "Our signature chocolate chip cookie bar packed and filled with M&amp;M peanuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Planet Mars",
+                            "description": "Signature chocolate chip cookie bar filled with Mars bar ganache, it&apos;s literally out of this world.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cake Slices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Velvet Cake",
+                            "description": "2 slices of moist red velvet cake filled with dark chocolate pieces and frosted with cream cheese vanilla icing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$9.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cookie Pies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cherry Blaster",
+                            "description": "Mouth watering shortbread cookie dough filled with cherry compote.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresa Rhu",
+                            "description": "Mouth watering shortbread cookie bar filled with a strawberry rhubarb compote center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Applet",
+                            "description": "Mouth watering shortbread cookie dough filled with cinnamon caramel apple pie compote.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Limonetta",
+                            "description": "Mouth watering shortbread cookie dough filled with delicious lemon curd center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert Jars",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "From Bavaria",
+                            "description": "Cherry compote, vanilla and chocolate custard nestled between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Nutty Professor",
+                            "description": "Peanut butter, chocolate, and caramel drizzle custard nestled between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Blue Meow",
+                            "description": "Lemon custard and blueberry compote nestled between layers of delicious vanilla cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Shorty",
+                            "description": "Strawberry compote and vanilla custard nestled between layers of delicious vanilla cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Party Time",
+                            "description": "Funfetti and vanilla custard nestled between layers of delicious vanilla cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "El Chocomello",
+                            "description": "Caramel custard nestled between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pick Me Up",
+                            "description": "Coffee custard nestled and caramel drizzle between layers of decadent chocolate cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gluten-free/Vegan Cookies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peanut Butter Chocolate Chunk",
+                            "description": "Rich peanut butter cookie studded with generous chunks of chocolate and crunchy nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Roll",
+                            "description": "Soft, gluten-free, vegan cookie topped with a swirl of cinnamon icing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oatmeal Raisin and Date",
+                            "description": "A hearty oatmeal cookie packed with raisins and dates, providing a chewy and satisfying bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Chunk",
+                            "description": "Chunks of rich dark chocolate embedded in a golden-brown, gluten-free, vegan cookie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Chocolate Chunk Walnut",
+                            "description": "Rich double chocolate cookie with chunks of walnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peanut Butter",
+                            "description": "Crunchy peanut pieces embedded in a soft, gluten-free, vegan peanut butter cookie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Gluten-free/Vegan Dessert Jars",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peanut Butter Jar",
+                            "description": "Layers of rich chocolate cake, creamy peanut butter, and crunchy nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Birthday Cake",
+                            "description": " ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Birthday Cake",
+                            "description": "Layers of rich chocolate cake and creamy chocolate frosting, topped with colorful sprinkles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Adrienne K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "This is a hidden gem. These little cup cakes are so amazing! "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jodie B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "awesome idea ....had to try some.....they did not disappoint!\ndelicious.....we had the snow white and oozing lava. wilaljl"
+        }
+    ],
+    "servesCuisine": [
+        "Sweets",
+        "Cakes",
+        "Dessert",
+        "Pie"
+    ],
+    "url": "https://www.doordash.com/store/k.r's-burnaby-23906195/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16043291788",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "1 PM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "1 PM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "1 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

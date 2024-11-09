@@ -1,0 +1,783 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/PrataManRestaurant1809020RichmondBC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/0e903cc8-2460-4126-8ddd-ee980c9f9d92.19"
+    ],
+    "name": "Prata Man Restaurant",
+    "address": "9060 Capstan Way, Richmond, BC V6X, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.186775",
+        "longitude": "-123.12428"
+    },
+    "priceRange": "$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "海南雞 - 一只 / Hainanese Chicken - Whole",
+                            "description": "Serve with 5 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "冻柠檬茶/Ice Lemon Tea",
+                            "description": "Brewed tea infused with slices of lemon, served chilled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "一客海南雞加一碗油飯 / Single Order of Hainanese Chicken with Rice",
+                            "description": "Poached chicken served with fragrant rice, typically includes cucumber, chili sauce, and a ginger-infused soy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "香酥薄餅配咖喱汁 / Roti with Curry Sauce",
+                            "description": "Pan-fried roti served with a side of curry sauce, typically including a blend of spices and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "海南雞 - 半只 / Hainanese Chicken - Half",
+                            "description": "Serve with 3 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "爐燒沙爹 - 豬，牛，雞 / BBQ Satay - Pork, Beef, Chicken Half Dozen",
+                            "description": "BBQ satay skewers with choices of pork, beef, or chicken, served by the half dozen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "走地海南雞 - 半只 / Free Range Hainanese Chicken - Half",
+                            "description": "Serve with 3 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "走地海南雞 - 一只 / Free Range Hainanese Chicken - Whole",
+                            "description": "Serve with 5 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$46.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩飯 / Curry Beef Rice Nasi Rendang",
+                            "description": "Beef slow-cooked in a curry sauce with a blend of spices and coconut milk, typically served over rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "蒜茸炒時菜 / Stir Fried Vegetable",
+                            "description": "Stir-fried seasonal vegetables, typically including a variety of fresh greens, prepared with garlic, following traditional Asian cooking techniques.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩 / Curry Beef Rendang - Small",
+                            "description": "Tender beef slow-cooked in a traditional curry sauce, typically includes a blend of spices and coconut milk, served in a small portion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩魚蛋 / Curry Fish Ball - 5 Pieces",
+                            "description": "Five pieces of curry fish balls, typically served with a homemade curry sauce, incorporating a blend of spices and occasionally accompanied by vegetables for added texture and flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Menu",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "海南雞 - 一只 / Hainanese Chicken - Whole",
+                            "description": "Serve with 5 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "海南雞 - 半只 / Hainanese Chicken - Half",
+                            "description": "Serve with 3 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "走地海南雞 - 半只 / Free Range Hainanese Chicken - Half",
+                            "description": "Serve with 3 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "走地海南雞 - 一只 / Free Range Hainanese Chicken - Whole",
+                            "description": "Serve with 5 bowls of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$46.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "一客海南雞加一碗油飯 / Single Order of Hainanese Chicken with Rice",
+                            "description": "Poached chicken served with fragrant rice, typically includes cucumber, chili sauce, and a ginger-infused soy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "爐燒沙爹 - 豬，牛，雞 / BBQ Satay - Pork, Beef, Chicken Half Dozen",
+                            "description": "BBQ satay skewers with choices of pork, beef, or chicken, served by the half dozen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩 / Curry Beef Rendang - Large",
+                            "description": "Tender beef slow-cooked in a rich curry sauce, typically includes coconut milk and a blend of traditional spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "爐燒沙爹 - 豬，牛，雞 / BBQ Satay - Pork, Beef, Chicken Per Dozen",
+                            "description": "BBQ Satay skewers: choice of pork, beef, or chicken, served per dozen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "蒜茸炒時菜 / Stir Fried Vegetable",
+                            "description": "Stir-fried seasonal vegetables, typically including a variety of fresh greens, prepared with garlic, following traditional Asian cooking techniques.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "香酥薄餅配咖喱汁 / Roti with Curry Sauce",
+                            "description": "Pan-fried roti served with a side of curry sauce, typically including a blend of spices and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩飯 / Curry Beef Rice Nasi Rendang",
+                            "description": "Beef slow-cooked in a curry sauce with a blend of spices and coconut milk, typically served over rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "一鸡全脾/whole chicken in dark meat",
+                            "description": "A whole chicken, prepared in a style that highlights the darker cuts of meat, typically includes a rich, savory sauce to complement the dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩 / Curry Beef Rendang - Small",
+                            "description": "Tender beef slow-cooked in a traditional curry sauce, typically includes a blend of spices and coconut milk, served in a small portion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "特製肉骨茶 附白飯 / Baku Teh Served with Steam Rice",
+                            "description": "Tender pork ribs simmered in a fragrant herbal broth, served with steamed white rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "馬拉炒麵 / Mee Goreng",
+                            "description": "Mee goreng, or 馬拉炒麵, is a dish consisting of stir-fried noodles typically accompanied by a mix of chicken, seafood, tofu, and vegetables, seasoned with a blend of spices and sauces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "星州炒米粉 / Fried Rice Noodle",
+                            "description": "Stir-fried rice noodles, often enhanced with a mix of shrimp, bbq pork, and vegetables like bean sprouts and onions, seasoned with curry for a distinctive taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "ROTI 2片 跟咖喱牛 / Prata Bread with Curry Beef",
+                            "description": "Two pieces of roti bread served with beef simmered in a traditional curry sauce, often including a blend of aromatic spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖喱雞 / Curry Chicken - Large",
+                            "description": "Tender chicken pieces simmered in a rich, aromatic curry sauce, typically includes potatoes and onions, reflecting traditional Asian flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "半鸡全脾/Half chicken in dark meat",
+                            "description": "Tender half chicken with dark meat, sliced and served with its natural juices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "星州特色薄餅跟咖喱牛 / Prata Bread with Curry Beef",
+                            "description": "Prata bread, a flaky and tender flatbread, served alongside curry beef, which typically includes tender pieces of beef simmered in a rich and aromatic curry sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "星州炒蝦面 / Fried Prawn Noodle",
+                            "description": "Stir-fried noodles typically include prawns, often accompanied by various vegetables and seasoned for a well-rounded taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩魚肚魚蛋 / Curry Fish Balls &amp; Fish Maw",
+                            "description": "Fish balls and fish maw served in a rich, aromatic curry sauce, typically accompanied by a selection of vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "冻柠檬茶/Ice Lemon Tea",
+                            "description": "Brewed tea infused with slices of lemon, served chilled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩魚蛋 / Curry Fish Ball - 5 Pieces",
+                            "description": "Five pieces of curry fish balls, typically served with a homemade curry sauce, incorporating a blend of spices and occasionally accompanied by vegetables for added texture and flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "香酥薄餅配咖喱汁 / Roti with Curry Sauce",
+                            "description": "Pan-fried roti served with a side of curry sauce, typically includes a blend of spices and herbs in the curry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "马来西亚奶茶/Malaysian Style Milk Tea",
+                            "description": "A blend of strong black tea and creamy milk, creating a rich and smooth Malaysian-style milk tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "鸡汤",
+                            "description": "鸡汤 (Chicken Soup) typically includes a clear broth made from chicken, often enhanced with various vegetables and sometimes garnished with herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "淨薄餅 / Prata Bread - 2 Pieces",
+                            "description": "Prata bread, a type of Asian flatbread, typically includes two pieces per order. This bread is often pan-fried to achieve its characteristic texture and served as a versatile accompaniment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "油飯 / Hainanese Rice",
+                            "description": "Hainanese rice, also known as 油飯, is a dish where rice is typically cooked with chicken stock and infused with garlic and ginger, often garnished with spring onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "冻柠乐/Ice Lemon Coke",
+                            "description": "Cola with slices of fresh lemon, offering a citrus twist.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "白飯 / Steam Rice",
+                            "description": "Steamed white rice, typically served as a versatile accompaniment to various dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖喱雞 / Curry Chicken - Small",
+                            "description": "Chicken pieces cooked in a traditional Asian curry sauce, typically including potatoes and onions, presented in a small serving size.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖喱雞飯 / Curry Chicken Rice",
+                            "description": "Tender chicken pieces in a savory curry sauce, served with aromatic rice. Accompanied by a side of spicy dipping sauce and fresh herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "星州特色薄餅跟咖喱雞 / Prata Bread with Curry Chicken",
+                            "description": "Prata bread, a flaky and buttery flatbread, is served alongside a curry chicken, which typically includes tender chicken pieces simmered in a rich, aromatic curry sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "ROTI 2片 跟咖喱雞 / Prata Bread with Curry Chicken",
+                            "description": "Two pieces of prata bread served with a side of curry chicken, which typically includes tender chicken pieces simmered in a rich, aromatic curry sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "喇沙米粉 / Laksa",
+                            "description": "Laksa typically consists of rice vermicelli served in a spicy coconut-curry soup, often accompanied by tofu, bean sprouts, and various meats or seafood.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩湯麵 / Curry Mee",
+                            "description": "Curry mee, or 咖哩湯麵, typically includes noodles served in a rich coconut curry broth, often accompanied by ingredients such as tofu, seafood, or chicken, and garnished with bean sprouts and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩湯米粉 / Curry Beef Vermicelli in Soup",
+                            "description": "This noodle soup features tender beef and vermicelli noodles in a rich, aromatic curry broth, often accompanied by select vegetables and herbs for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩牛腩湯面 / Curry Beef Noodle in Soup",
+                            "description": "Curry beef noodle in soup typically includes tender beef and egg noodles in a savory curry broth, garnished with vegetables like carrots and scallions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩雞湯米粉 / Curry Chicken Vermicelli in Soup",
+                            "description": "Vermicelli noodles served in a curry-flavored broth, typically includes tender slices of chicken and is garnished with fresh herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩雞湯麵 / Curry Chicken Noodle in Soup",
+                            "description": "Thin egg noodles served in a curry-infused broth, typically includes tender chicken pieces, with common additions of bean sprouts, cilantro, and a hint of lime.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "清湯雞肉米粉 / Chicken Meat Soup Rice Noodle",
+                            "description": "Rice noodles in a clear broth, accompanied by chicken and typically garnished with green onions and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩魚蛋米粉 / Curry with Fish Ball Vermicelli",
+                            "description": "Vermicelli noodles served in a rich curry base, typically including tender fish balls. Common additions may encompass vegetables and herbs to complement the flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "咖哩魚蛋面 / Curry with Fish Ball Noodle",
+                            "description": "A serving of noodles accompanied by fish balls, immersed in a savory curry sauce, which typically includes a blend of spices and herbs unique to Asian cuisine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "清湯魚蛋面 / Chicken Broth with Fish Ball Noodle",
+                            "description": "Egg noodles served in a clear chicken broth, typically includes fish balls, garnished with spring onions and possibly other vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "海鮮馬拉炒麵 / Seafood Mee Goreng",
+                            "description": "Thick egg noodles wok-tossed with prawns, squid, and various seafood, typically includes tofu and mixed vegetables in a Malay curry sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "星州炒飯 / Fried Rice",
+                            "description": "Stir-fried rice, typically includes a mix of eggs, vegetables, and a variety of meats or seafood, seasoned with Asian flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "香酥榴莲球/Crispy Durian Ball",
+                            "description": "New Item",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "星州沙爹豆腐",
+                            "description": "Satay tofu, typically includes tofu marinated in a blend of satay spices, then grilled or pan-fried. Served with a peanut sauce that often contains garlic and chili.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "清湯魚蛋米粉 / Chicken Broth with Fish Ball Vermicelli",
+                            "description": "Vermicelli noodles served in a clear chicken broth, typically includes fish balls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ryan S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Everything was delicious.  Chicken was tender. Prata is store bought but gravy is good .  One star off as sauces aren&apos;t good at all .   Wish they had actual ginger scallion sauce and the chilli sauce was spicy and more than bottles sweet chilli chicken sauce . Still their HCR is better than most places in Vancouver. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Cassie D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "We really enjoyed the satay and the laksa was pretty decent too but I gotta say, as a Malaysian I gotta say the rendang is very much not what I know as rendang. My Irish husband called it a yummy stew"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Melissa H"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious amazing fried rice and fried rice noodles and satay"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "ST I"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "smaller portion that I was hoping for but still tasty"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Dianne Grace S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Always our favorite Hainanese takeout place. large servings, juicy chicken, yum!"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Singaporean",
+        "Chicken",
+        "Curry",
+        "Seafood",
+        "Fried Rice"
+    ],
+    "url": "https://www.doordash.com/store/prata-man-restaurant-richmond-191450/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6042781348",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 7:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 7:40 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 7:40 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 7:40 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 7:40 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 7:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 8 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 8 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 8 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 8 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 8 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

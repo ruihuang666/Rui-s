@@ -1,0 +1,829 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/73aa2dd5-9ed0-415c-8d72-4806def02f78.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/33d17853-b0b1-4d95-9cfe-9efd41ded146.JPG"
+    ],
+    "name": "Kuan Zhai Road Restaurant",
+    "address": "3488 Kingsway, Vancouver, BC V5R 5L7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.23185",
+        "longitude": "-123.02997"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "S08 奥尔良烤鸡腿堡 Orleans Baked Chicken Burger ",
+                            "description": "Tender baked chicken thigh with crisp lettuce and creamy mayonnaise, all nestled in a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S06 香辣鸡腿堡  Spicy Chicken Burger",
+                            "description": "Crispy fried chicken thigh topped with fresh lettuce and creamy mayonnaise in a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "K01 招牌胡椒猪肚鸡汤饭 Pepper Pork Belly Chicken Soup with Rice",
+                            "description": "Pepper pork belly and chicken soup served over rice, typically includes a rich broth seasoned with pepper for a warming meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V06 暴打鲜柠檬百香(酸爽) Lemon Passion Fruit",
+                            "description": "Fresh lemon slices and passion fruit seeds, paired with Thai tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S09 辣韩式嫩烤鸡腿堡  Spicy Korean Grilled Chicken Burger",
+                            "description": "Tender grilled chicken thigh with spicy Korean sauce, topped with fresh coleslaw and pickles, served in a soft bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A01 南翔小笼包6PC  Pork xiao longbao",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D05 香辣韭菜鸡蛋煎饼  Spicy Chive Egg Pancake",
+                            "description": "Golden-brown pancake filled with spicy chives and scrambled eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V03 生椰拿铁M(冷）Raw Coconut Latte",
+                            "description": "A harmonious blend of raw coconut milk and robust coffee, creating a creamy and aromatic latte.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F02 招牌香辣牛肉面 Spicy beef noodles",
+                            "description": "Beef noodles in a spicy broth, typically includes tender slices of beef, vegetables, and a blend of spices to achieve a fragrant and spicy flavor profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E07 三鲜猪肉水饺12PC   Pork Dumpling ",
+                            "description": "Boiled dumplings filled with a savory mix of pork and select vegetables, served in a set of 12 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S01 招牌黑椒牛柳炒饭(必点)·卤鸡腿·暴打泰式柠檬茶",
+                            "description": "Stir-fried signature black pepper beef served with braised chicken leg and Thai-style smashed lemon tea, typically includes onions and bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "J02 日式滑蛋咖喱鸡柳饭+韩式烤猪五花串5串+暴打柠檬百香Japanese Egg Curry Chicken Fillet Rice Meal",
+                            "description": "Japanese egg curry with tender chicken fillet over rice, accompanied by Korean-style grilled pork belly skewers (5 skewers) and a refreshing lemon passionfruit drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "跨界·新早餐",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "生椰拿铁·日式煎饺6PC·香葱烧饼 Raw Coconut Latte・Japanese Gyoza 6PC・Scallion Pancake",
+                            "description": "Raw coconut latte paired with six pan-fried Japanese gyoza filled with a mix of meats and vegetables, and a crispy scallion pancake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "生椰美式·蜜汁叉烧包3PC·茶叶蛋2PC Raw Coconut Americano·Honey Sauce Barbecued Pork Bun 3PC·Tea Egg 2PC",
+                            "description": "Enjoy a unique blend of flavors with raw coconut americano, accompanied by three honey sauce barbecued pork buns and two tea-infused eggs, offering a delightful fusion of tastes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": " Panda 24 Thai tea&amp;coffee",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "V02 网红袋装·泰式奶红XL(冷） Thai milk tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V03 生椰拿铁M(冷）Raw Coconut Latte",
+                            "description": "A harmonious blend of raw coconut milk and robust coffee, creating a creamy and aromatic latte.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V01 招牌黑糖珍珠鲜奶茶L(冷）Brown Sugar Pearl Fresh Milk Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V04 超级水果茶L(热带甜味）Super Fruit Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V05 手工暴打香水柠檬红(夜市NO.1）Lemon tea",
+                            "description": "Handcrafted and vigorously shaken, this lemon tea, a favorite at night markets, combines freshly squeezed lemon with a robust tea base for a refreshing experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "V06 暴打鲜柠檬百香(酸爽) Lemon Passion Fruit",
+                            "description": "Fresh lemon slices and passion fruit seeds, paired with Thai tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "新鼎鸡·三汁海南鸡腿饭",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "U06 香葱鸡油饭 Chives Chicken Oil Rice",
+                            "description": "Rice infused with chives and chicken oil, typically includes tender chicken pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "好福记 Happy Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "A01 南翔小笼包6PC  Pork xiao longbao",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A03 蟹肉小笼包10PC Crab pork xiaolongbao",
+                            "description": "Steamed dumplings filled with a combination of crab meat and pork, traditionally prepared and served in a set of 10 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E09 白菜猪肉水饺12PC Cabbage Pork Dumpling   ",
+                            "description": "Minced pork and cabbage encased in a delicate dough, traditionally prepared and served in a set of 12 dumplings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E10 韭菜猪肉水饺12PC  Leek Pork Dumplings ",
+                            "description": "Twelve pieces of boiled dumplings, filled with a mixture of minced pork and finely chopped leek, seasoned with traditional spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D04 麻辣小龙虾鸡蛋煎饼  Spicy Crawfish Egg Pancake ",
+                            "description": "Spicy crawfish and scrambled egg folded into a traditional Chinese pancake, typically seasoned with green onions and coriander.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C07 香菇滑鸡粥  Mushroom Chicken Porridge",
+                            "description": "A traditional Chinese rice porridge, gently simmered with tender chicken and aromatic mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E08 香菇猪肉水饺12PC  Mushroom Pork Dumpling ",
+                            "description": "Steamed dumplings filled with a savory mix of mushroom and pork, typically includes 12 pieces in one order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D05 香辣韭菜鸡蛋煎饼  Spicy Chive Egg Pancake",
+                            "description": "Golden-brown pancake filled with spicy chives and scrambled eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D01 传统油条鸡蛋煎饼  You Tiao Egg Pancake",
+                            "description": "Crispy pancake wrapped around a deep-fried dough stick (you tiao), complemented with scrambled eggs, typically includes green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E11 大葱猪肉水饺12PC  Green Onion Pork Dumpling",
+                            "description": "Steamed dumplings filled with a mixture of ground pork and green onions, typically accompanied by traditional seasonings. Served in a set of 12 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E07 三鲜猪肉水饺12PC   Pork Dumpling ",
+                            "description": "Boiled dumplings filled with a savory mix of pork and select vegetables, served in a set of 12 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D03 烤肠鸡蛋煎饼  Sausage Egg Pancake ",
+                            "description": "Sausage and egg pancake is a savory Chinese breakfast item, combining grilled sausage and egg, typically served within a crispy, thinly rolled pancake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A11 蜜汁叉烧包3PC  Barbecued Pork Bun",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A16 迷你香葱花卷4PC Mini Chive Rolls",
+                            "description": "Soft and fluffy rolls infused with fresh chives, offering a savory and aromatic bite. Four pieces per serving.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C01 白米粥+咸鸭蛋+榨菜  White rice porridge · salted duck egg · mustard",
+                            "description": "White rice porridge served with a salted duck egg and accompanied by pickled mustard greens.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D02 芝士培根鸡蛋煎饼  Cheese Bacon Egg Pancake",
+                            "description": "A savory pancake filled with cheese, pieces of bacon, and egg, offering a hearty start to the day.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D07 白糖黑芝麻手抓烧饼   White Sugar Black Sesame Biscuits",
+                            "description": "Hand-torn biscuits with a blend of white sugar and black sesame seeds, offering a sweet and nutty taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "D08 麻辣小龙虾烧饼  Spicy Crayfish Pork Biscuits",
+                            "description": "Spicy crayfish and pork encased in a crispy biscuit, offering a unique blend of textures and bold flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.85"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E12 荠菜猪肉水饺12PC  Shepherd&apos;s Purse Pork Dumplings ",
+                            "description": "Shepherd&apos;s purse and pork dumplings, encased in a delicate wrapper, typically include a blend of minced pork and finely chopped shepherd&apos;s purse.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E13 京葱牛肉水饺12PC  Beijing Scallion Beef Dumpling ",
+                            "description": "Beijing scallion beef dumplings, 12 pieces, feature a mix of ground beef and finely chopped scallions encased in a tender dough, traditionally boiled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E15 迷你韭菜鸡蛋水饺20PC  Mini Leek Egg Dumpling",
+                            "description": "Mini leek and egg dumplings, typically includes a mix of finely chopped leek and egg encased in a wheat wrapper, served as 20 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "C04 皮蛋瘦肉粥  Preserved Egg Lean Pork Porridge",
+                            "description": "Rice porridge simmered until creamy, featuring lean pork and preserved egg, often garnished with green onions for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "B07 紫菜鱼丸例汤  Laver Fish Ball Soup",
+                            "description": "Laver and fish balls served in a clear broth, typically including subtle flavors from various traditional Chinese ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A10 小兔奶黄包4PC  Steamed Creamy Custard Bun",
+                            "description": "Steamed buns filled with a sweet and creamy custard, typically presented with adorable rabbit designs. Four pieces per order.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SUN CHICKEN 韩式炸鸡·美式汉堡",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "S08 奥尔良烤鸡腿堡 Orleans Baked Chicken Burger ",
+                            "description": "Tender baked chicken thigh with crisp lettuce and creamy mayonnaise, all nestled in a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S06 香辣鸡腿堡  Spicy Chicken Burger",
+                            "description": "Crispy fried chicken thigh topped with fresh lettuce and creamy mayonnaise in a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S09 辣韩式嫩烤鸡腿堡  Spicy Korean Grilled Chicken Burger",
+                            "description": "Tender grilled chicken thigh with spicy Korean sauce, topped with fresh coleslaw and pickles, served in a soft bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S10 6oz夏威夷菠萝牛堡 6oz Hawaiian Pineapple Beef Burger",
+                            "description": "Juicy beef patty topped with a slice of pineapple, fresh lettuce, and tomato, all nestled in a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S11 12oz三层芝士培根牛堡 Triple Cheese Bacon Beef Burger",
+                            "description": "Three beef patties layered with cheddar cheese, crispy bacon, and a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S01 人气NO.1双拼无骨炸鸡6PC(韩国甜辣·蜂蜜芥末）Popular NO.1 double fried chicken 6PC (Korean sweet and spicy honey mustard)",
+                            "description": "Boneless chicken pieces double-fried and coated in a combination of Korean sweet and spicy sauce and honey mustard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "S07 SUN脆鸡堡 SUNChicken Burger",
+                            "description": "Crispy chicken breast nestled in a soft bun, typically includes lettuce, tomato, and a special sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "每日两款特惠套餐",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "J02 日式滑蛋咖喱鸡柳饭+韩式烤猪五花串5串+暴打柠檬百香Japanese Egg Curry Chicken Fillet Rice Meal",
+                            "description": "Japanese egg curry with tender chicken fillet over rice, accompanied by Korean-style grilled pork belly skewers (5 skewers) and a refreshing lemon passionfruit drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "胡同·潮汕胡椒猪肚鸡汤饭",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "K01 招牌胡椒猪肚鸡汤饭 Pepper Pork Belly Chicken Soup with Rice",
+                            "description": "Pepper pork belly and chicken soup served over rice, typically includes a rich broth seasoned with pepper for a warming meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "K05 (人气NO.1)竹荪椰子鸡汤饭 No.1 Dictyophora Coconut Chicken Soup Rice",
+                            "description": "Tender chicken and bamboo fungus simmered in a rich coconut broth, served over rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "K03 竹荪胡椒猪肚鸡汤饭 Bamboo Fungus Pepper Pork Belly Chicken Soup Rice",
+                            "description": "Rice served in a savory soup made from chicken, pork belly, and bamboo fungus, seasoned with pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "K02 老坛酸菜胡椒猪肚鸡汤饭 Sauerkraut Pepper Pork Belly&amp;Chicken Soup with Rice",
+                            "description": "Tender pork belly, chicken, and sauerkraut in a pepper-infused broth, garnished with fresh cilantro, served with rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "K05 老坛酸菜黑鱼片米饭 Sauerkraut Black Fish Fillet Rice",
+                            "description": "Sliced black fish fillet served over rice, complemented by a tangy sauerkraut, offering a balance of sour and delicate flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "K06 老坛酸菜脆皖鱼片米饭Sauerkraut Crispy Fish Fillet Rice",
+                            "description": "Crispy fish fillets served atop a bed of rice, complemented by tangy sauerkraut, typically includes a mix of traditional spices and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "王品·私房牛肉面",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "F02 招牌香辣牛肉面 Spicy beef noodles",
+                            "description": "Beef noodles in a spicy broth, typically includes tender slices of beef, vegetables, and a blend of spices to achieve a fragrant and spicy flavor profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "F01 红烧牛肉面 Braised beef noodles",
+                            "description": "Noodle soup with tender chunks of braised beef in a savory broth, typically accompanied by traditional Chinese seasonings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "炒饭套餐",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "S01 招牌黑椒牛柳炒饭(必点)·卤鸡腿·暴打泰式柠檬茶",
+                            "description": "Stir-fried signature black pepper beef served with braised chicken leg and Thai-style smashed lemon tea, typically includes onions and bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "David A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "100% recommend, taste so good!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Joy B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "I tasted bitterness from the chicken sandwich, the lettuce did not taste fresh. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Cyrus L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Tastes good, so I ordered it two days in a row and on the second day the burger had become at least 1/3 smaller than when I ordered the first time. Dishonest business."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Vivek S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "The mango coconut was really bad. Smelled worse."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Graham O"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "Garlic vegetablesnothing but bok choy and light oily garlic sauce for $17.00. aRegsrdjes of inflation that is nuts .  The price would be okay if there were some more assorted veggies like zucchini onion celery yes veggies ridiculously expensive \n\nThe other items ribs pork noodle and lamb all very good to fair butvthecvrgguecdushvwas a complete rip off sorry, "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Chinese",
+        "Barbecue",
+        "Fish",
+        "Fried Rice",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/kuan-zhai-road-restaurant-vancouver-2417112/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044303488",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "All day"
+        ],
+        "TUESDAY": [
+            "9 AM - 12:30 AM"
+        ],
+        "WEDNESDAY": [
+            "12 AM - 12:30 AM"
+        ],
+        "THURSDAY": [
+            "All day"
+        ],
+        "FRIDAY": [
+            "All day"
+        ],
+        "SATURDAY": [
+            "All day"
+        ],
+        "SUNDAY": [
+            "All day"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "All day"
+        ],
+        "TUESDAY": [
+            "9 AM - 1 AM"
+        ],
+        "WEDNESDAY": [
+            "12 AM - 1 AM"
+        ],
+        "THURSDAY": [
+            "All day"
+        ],
+        "FRIDAY": [
+            "All day"
+        ],
+        "SATURDAY": [
+            "All day"
+        ],
+        "SUNDAY": [
+            "All day"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

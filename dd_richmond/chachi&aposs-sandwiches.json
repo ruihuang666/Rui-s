@@ -1,0 +1,618 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/b0c68a8e-af9c-443f-883a-b5f8ecad1a5f.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/c9019a94-90a4-4c40-b4f9-e79ccaaf6bbc.jpg"
+    ],
+    "name": "Chachi&apos;s Sandwiches",
+    "address": "McArthurGlen Designer Outlet Vancouver, 1000-7899 Templeton Station Rd, Richmond, BC V7B 0B7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.196747",
+        "longitude": "-123.13997"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soup",
+                            "description": "Tomato, roasted red pepper, and crostini.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mac &apos;n&apos; Cheese",
+                            "description": "Mac &apos;n&apos; Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Italian",
+                            "description": "Spicy. Calabrese salami, dry-cured capicola, jalapeño jack cheese, garlic aioli, red pepper spread, red onion, lettuce, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubbin’ ",
+                            "description": "Double smoked bacon, roast turkey breast, cheddar, garlic aioli, spicy mayo, lettuce, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Chicken",
+                            "description": "Cajun chicken breast, cheddar, mayo, romaine, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Craft Bevvies Flavour Choice",
+                            "description": "Craft Bevvies",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Meat",
+                            "description": "Thin sliced,, provolone, pickle, dijonnaise, marble rye",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cali",
+                            "description": "Chicken breast, roast turkey breast, double smoked bacon, cheddar, house-made guacamole, spicy mayo, romaine, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Philly ",
+                            "description": "Steak, provolone, garlic aioli, spicy mayo, bell peppers, red onion, and jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Banh Mi ",
+                            "description": "Chicken breast, hoisin marinade, spicy Asian sesame sauce, garlic aioli, pickled carrot, red onion, cilantro, and jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cran &amp; Brie",
+                            "description": "Cranberry chutney, turkey, brie, granny smith apples, arugula, mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Ranch",
+                            "description": "Chicken breast, double smoked bacon, herbs, dill ranch, lettuce, tomato, and onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bagels ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Italian Bagel ",
+                            "description": "Capicollo, provolone, red pepper spread, red onion, tomato, lettuce, garlic aioli ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLT Bagel ",
+                            "description": "Bacon, butter, mayo, tomato, romaine ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Ranch Bagel",
+                            "description": "Turkey, Cheddar, Ranch, Lettuce, Tomato\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubbin’ ",
+                            "description": "Double smoked bacon, roast turkey breast, cheddar, garlic aioli, spicy mayo, lettuce, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Meat",
+                            "description": "Thin sliced,, provolone, pickle, dijonnaise, marble rye",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Italian",
+                            "description": "Spicy. Calabrese salami, dry-cured capicola, jalapeño jack cheese, garlic aioli, red pepper spread, red onion, lettuce, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Chicken",
+                            "description": "Cajun chicken breast, cheddar, mayo, romaine, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Philly ",
+                            "description": "Steak, provolone, garlic aioli, spicy mayo, bell peppers, red onion, and jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cran &amp; Brie",
+                            "description": "Cranberry chutney, turkey, brie, granny smith apples, arugula, mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Banh Mi ",
+                            "description": "Chicken breast, hoisin marinade, spicy Asian sesame sauce, garlic aioli, pickled carrot, red onion, cilantro, and jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Ranch",
+                            "description": "Chicken breast, double smoked bacon, herbs, dill ranch, lettuce, tomato, and onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork with Mac ",
+                            "description": "Tender pulled pork, sweet chili BBQ sauce, topped with mac ‘n cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLT Bagel ",
+                            "description": " bacon, butter, mayo, tomato, romaine ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cali",
+                            "description": "Chicken breast, roast turkey breast, double smoked bacon, cheddar, house-made guacamole, spicy mayo, romaine, and tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Italian Bagel ",
+                            "description": "capicollo, provolone, red pepper spread, red onion, tomato, lettuce, garlic aioli ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vedge",
+                            "description": "Goat cheese, provolone, red pepper spread, balsamic crema, sundried tomato, artichoke, Italian roasted red pepper, and arugula.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Holiday Turkey",
+                            "description": "Turkey breast, stuffing, cranberry chutney, gravy, herb mayo, green apple, arugula\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Crisp Greens",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Chicken Caesar ",
+                            "description": "Romaine, double smoked bacon, garlic crostini, Asiago Caesar dressing, Parmesan with Cajun chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chachi&apos;s Cobb Salad",
+                            "description": "Romaine, peppers, red onion, double smoked bacon, chicken breast, tomato, cheddar, dill ranch",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mac",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carbonara",
+                            "description": "W/ Bacon, and parmesan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Mac",
+                            "description": "W/ Capicola.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mac &apos;n&apos; Cheese",
+                            "description": "Mac &apos;n&apos; Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chips",
+                            "description": "Chips",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Toast",
+                            "description": "Ciabatta, cheddar, and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Pickle",
+                            "description": "Big Pickle",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soup",
+                            "description": "Tomato, roasted red pepper, and crostini.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookie",
+                            "description": "Cookie",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.60"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flavoured Pellegrino&apos;s",
+                            "description": "Flavoured Pellegrino&apos;s",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop Shoppe Soda",
+                            "description": "Pop Shoppe Soda",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Craft Bevvies Flavour Choice",
+                            "description": "Craft Bevvies",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canned Soda",
+                            "description": "Canned Soda",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "Bottled Water",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Caden L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "￼Clubbin&apos; was very good and I would definitely get again. Brie and cranberry not as much. Tasted a bit off compared to normal."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kianna B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "I love ordering from Chachi&apos;s when I receive the CORRECT order. The Spicy Italian Bagel is delicious but half the time I have ordered it, it has come as a complete \n different sandwich (which is always a comple surprise as they just throw ingredients together and make whatever) or they dont have the ingredients to make it and change it to a sandwich and charge me more. Despite the problems with the handhelds, they&apos;ve got delicious Mac &apos;n&apos; Cheese which is always a must when ordering.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Bijan M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "If you like your sandwich with no filling and all bread this is your place! \n\n1/10"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tenby L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Flavour was decent but not worth the price. Sandwich was mostly just bread with very little filling. "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Sandwiches",
+        "Salads",
+        "Sausage"
+    ],
+    "url": "https://www.doordash.com/store/chachi's-sandwiches-richmond-1026854/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16042422786",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 7:25 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 7:25 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 7:25 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 7:25 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 7:25 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 7:25 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 7:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 7:45 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 7:45 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

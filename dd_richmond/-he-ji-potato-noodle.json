@@ -1,0 +1,397 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/1c6d8c50-67aa-4b91-903c-020d5b434323.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/312add93-16cb-4fb0-b55e-0542b0131d2a.jpg"
+    ],
+    "name": "禾記砂鍋土豆粉 He Ji Potato Noodle",
+    "address": "5744 Fraser St, Vancouver BC V5W 2Z5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.23239",
+        "longitude": "-123.09039"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Rib Potato Noodles 排骨土豆粉",
+                            "description": "Tender pork ribs with chewy potato noodles, complemented by leafy greens, quail eggs, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Potato Noodles 肥牛土豆粉",
+                            "description": "Tender beef slices with chewy potato noodles, fresh greens, quail eggs, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Meatball Potato Noodles 牛肉丸土豆粉",
+                            "description": "Tender beef meatballs, chewy potato noodles, fresh spinach, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomato Potato Noodles 番茄土豆粉",
+                            "description": "Thick potato noodles in a savory tomato broth, topped with diced tomatoes, fish balls, fresh spinach, and enoki mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Fish Slice Potato Noodles 鲜鱼片土豆粉",
+                            "description": "Tender fish slices with chewy potato noodles, complemented by leafy greens, quail eggs, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Shank Potato Noodles 牛腱土豆粉",
+                            "description": "Tender beef shank slices with chewy potato noodles, fresh greens, enoki mushrooms, and quail eggs in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sesame Potato Noodles 麻酱土豆粉",
+                            "description": "Soft potato noodles in sesame sauce, accompanied by spinach, quail eggs, and enoki mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Knuckles Potato Noodles 猪脚土豆粉",
+                            "description": "Tender pork knuckles with chewy potato noodles, complemented by fresh spinach, enoki mushrooms, and quail eggs in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tofu with Preserved Eggs 皮蛋豆腐",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Main 土豆粉",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Rib Potato Noodles 排骨土豆粉",
+                            "description": "Tender pork ribs with chewy potato noodles, complemented by leafy greens, quail eggs, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Meatball Potato Noodles 牛肉丸土豆粉",
+                            "description": "Tender beef meatballs, chewy potato noodles, fresh spinach, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomato Potato Noodles 番茄土豆粉",
+                            "description": "Thick potato noodles in a savory tomato broth, topped with diced tomatoes, fish balls, fresh spinach, and enoki mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Fish Slice Potato Noodles 鲜鱼片土豆粉",
+                            "description": "Tender fish slices with chewy potato noodles, complemented by leafy greens, quail eggs, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Knuckles Potato Noodles 猪脚土豆粉",
+                            "description": "Tender pork knuckles with chewy potato noodles, complemented by fresh spinach, enoki mushrooms, and quail eggs in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sesame Potato Noodles 麻酱土豆粉",
+                            "description": "Soft potato noodles in sesame sauce, accompanied by spinach, quail eggs, and enoki mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Potato Noodles 海鲜土豆粉",
+                            "description": "Thick potato noodles with shrimp, crab sticks, mussels, fish balls, enoki mushrooms, and fresh greens.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chicken Potato Noodles 炸鸡土豆粉",
+                            "description": "Tender potato noodles topped with crispy fried chicken, fresh greens, enoki mushrooms, and quail eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chinese Sausage Potato Noodles 腊肠土豆粉",
+                            "description": "Thick potato noodles with slices of Chinese sausage, leafy greens, enoki mushrooms, and quail eggs in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Luncheon Meat Potato Noodles 午餐肉土豆粉",
+                            "description": "Tender potato noodles topped with savory luncheon meat, fresh spinach, quail eggs, and enoki mushrooms in a rich broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetable Potato Noodles 蔬菜土豆粉",
+                            "description": "Soft potato noodles with enoki mushrooms, leafy greens, and quail eggs in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Potato Noodles 肥牛土豆粉",
+                            "description": "Tender beef slices with chewy potato noodles, fresh greens, quail eggs, and enoki mushrooms in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Shank Potato Noodles 牛腱土豆粉",
+                            "description": "Tender beef shank slices with chewy potato noodles, fresh greens, enoki mushrooms, and quail eggs in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Snack 小吃",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan Fried Beef Wraps 牛肉卷饼",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tofu with Preserved Eggs 皮蛋豆腐",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Crispy Chicken滇缅椒麻鸡",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drink 飲料",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "加多宝",
+                            "description": "Made from prime herbal ingredients, this traditional Chinese herbal tea drink offers a unique and refreshing taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "康師傅冰紅茶",
+                            "description": "Master Kong bottled iced black tea, offering a classic and refreshing taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "椰树椰汁",
+                            "description": "Imported from Hainan, typically without added additives or artificial flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ice Tea 檸檬紅茶",
+                            "description": "House-brewed black tea with a splash of lemon, typically sweetened.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca Cola 可口可樂",
+                            "description": "Classic cola with a refreshing, crisp taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Chinese",
+        "Fast Casual",
+        "Seafood Restaurant"
+    ],
+    "url": "https://www.doordash.com/store/禾記砂鍋土豆粉-he-ji-potato-noodle-vancouver-30828321/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6048250588",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10:30 AM - 10:25 PM"
+        ],
+        "TUESDAY": [
+            "10:30 AM - 1:25 AM"
+        ],
+        "WEDNESDAY": [
+            "10:30 AM - 1:25 AM"
+        ],
+        "THURSDAY": [
+            "10:30 AM - 1:25 AM"
+        ],
+        "FRIDAY": [
+            "10:30 AM - 1:25 AM"
+        ],
+        "SATURDAY": [
+            "10:30 AM - 1:25 AM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 1:25 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10:30 AM - 10:45 PM"
+        ],
+        "TUESDAY": [
+            "10:30 AM - 1:45 AM"
+        ],
+        "WEDNESDAY": [
+            "10:30 AM - 1:45 AM"
+        ],
+        "THURSDAY": [
+            "10:30 AM - 1:45 AM"
+        ],
+        "FRIDAY": [
+            "10:30 AM - 1:45 AM"
+        ],
+        "SATURDAY": [
+            "10:30 AM - 1:45 AM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 1:45 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,976 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/LaurasCoffeeCorner15259WhiteRockBC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/f98de3a4-6f4a-4dc5-b05d-3117ececc0f3.jpg"
+    ],
+    "name": "Laura&apos;s Coffee Corner",
+    "address": "15259 Pacific Ave, White Rock, BC V4B 1P8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.02352",
+        "longitude": "-122.79922"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Bagel",
+                            "description": "🌞 Start Your Day Right with Our Breakfast Bagel! 🌟\nIndulge in the perfect morning bite delivered straight to your door! Our breakfast bagel is a delightful blend of ham/bacon or avocado and egg, cheese, and mayonnaise topped with your choice of additional ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.24"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Set Breakfast",
+                            "description": "🌞🍳 Experience Breakfast Bliss: Dive into Our Full Set Breakfast! 🍽️✨\nElevate your morning ritual with our Full Set Breakfast, a culinary symphony that brings together all your breakfast favorites for a truly indulgent start to the day. Choice of eggs, protein, hashbrowns, and bread is included.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "English Muffin Breakfast",
+                            "description": "🌅🍳 Elevate Your Morning with Our English Muffin Breakfast! 🍽️✨\nAwaken your senses to a breakfast symphony that&apos;s both comforting and indulgent. Savor the soft, toasted perfection of our English muffins — the foundation for a breakfast masterpiece that promises a delightful crunch with every bite of ham/bacon or avocado with cheese, fried egg, and mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Wrap",
+                            "description": "🌅 Rise and Shine with Our Irresistible Breakfast Wrap! 🌯✨\nEmbark on a flavor-packed journey right from your doorstep! Our Breakfast Wrap is a delicious marriage of freshness and heartiness, carefully crafted to kickstart your day includes ham/bacon or avocado with a scrambled egg, mayonnaise, tomato and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.14"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Melt",
+                            "description": "🐟🧀 Tuna Melt Temptation: Dive into Gooey Goodness! 🍽️✨\nEmbark on a tantalizing journey with our Tuna Melt — a symphony of flavors that combines the rich, savory goodness of tuna with the irresistible allure of melted cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Latte",
+                            "description": "Chilled latte with choice of espresso roast (regular or decaf), available in small, medium, or large. Select from %3.25 milk, non-fat, almond, oat, or soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "London Fog",
+                            "description": "Earl Grey tea infused with vanilla, steamed milk. Sizes: 12oz, 16oz, 20oz. Milk: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Latte",
+                            "description": "Latte: Choice of espresso roast (regular or decaf), available in small, medium, or large. Milk options include 3.25%, non-fat, almond, oat, and soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.44"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Tea Latte",
+                            "description": "Matcha tea latte with selected size: 12oz, 16oz, 20oz. Choice of milk: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLT",
+                            "description": "🥓🍅 BLT Bliss: Savor the Classic Crunch! 🍽️✨\nDive into a symphony of flavors with our BLT sandwich — a classic masterpiece that celebrates the simplicity of bacon, lettuce, and tomato, delivering a satisfying crunch in every bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caramel Macchiato",
+                            "description": "Layered iced coffee with caramel, options for size, regular or decaf espresso. Choice of %3.25, non-fat, almond, oat, or soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hashbrowns",
+                            "description": "🥔🌟 Crispy Goodness Awaits: Dive into Our Irresistible Hash Browns! 🍽️✨\nWake up your taste buds with a breakfast sensation that&apos;s pure comfort and crunch. Our Hash Browns are crafted to perfection, delivering a symphony of crispy goodness in every bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Coffees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "London Fog",
+                            "description": "Earl Grey tea infused with vanilla, steamed milk. Sizes: 12oz, 16oz, 20oz. Milk: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano",
+                            "description": "Hot Americano, available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.18"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Chai Latte",
+                            "description": "Pumpkin chai latte with options for size, espresso roast, and milk variety including dairy and plant-based alternatives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.26"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha",
+                            "description": "Mocha with espresso in regular or decaf. White or dark chocolate. Sizes: 12oz, 16oz, 20oz. Milk variants: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Pie Latte",
+                            "description": "Creamy latte with pumpkin pie spices, espresso regular or decaf. Three size options, choice of various milks including dairy and plant-based.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.61"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Spice Caramel Latte",
+                            "description": "Creamy pumpkin spice caramel latte with choice of size, espresso roast, and various milk options including regular, non-fat, almond, oat, and soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.74"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Drip Coffee",
+                            "description": "Drip coffee available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.23"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato",
+                            "description": "Hot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Espresso",
+                            "description": "Rich, bold double shot espresso, perfectly concentrated for a robust coffee experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.68"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Latte",
+                            "description": "Latte: Choice of espresso roast (regular or decaf), available in small, medium, or large. Milk options include 3.25%, non-fat, almond, oat, and soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.44"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino ",
+                            "description": "Cappuccino: Choice of sizes (12oz-20oz), espresso regular or decaf, customizable milk selection including 3.25%, non-fat, almond, oat, and soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.44"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Single Espresso",
+                            "description": "A single shot of espresso, typically made with a carefully selected blend of coffee beans, extracted to produce a rich and concentrated flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.23"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Coffees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caramel Macchiato",
+                            "description": "Layered iced coffee with caramel, options for size, regular or decaf espresso. Choice of %3.25, non-fat, almond, oat, or soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Latte",
+                            "description": "Chilled latte with choice of espresso roast (regular or decaf), available in small, medium, or large. Select from %3.25 milk, non-fat, almond, oat, or soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Mocha",
+                            "description": "Iced mocha with options for white or dark chocolate. Choose from espresso regular or decaf. Available in sizes: small, medium, large. Milk choices: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced London Fog",
+                            "description": "Iced London Fog: Earl Grey tea, vanilla syrup, ice. Choice of small, medium, or large. Milk options: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Americano",
+                            "description": "Iced americano: Espresso and water, chilled. Available in small, medium, large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.63"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Apple Cold Brew",
+                            "description": "3.25% Milk, Non-Fat, Almond, Oat, or Soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.83"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cold Brew 16oz",
+                            "description": "Cold brew, steeped for 24 hours, made with house coffee and served over ice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.05"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Set Breakfast",
+                            "description": "🌞🍳 Experience Breakfast Bliss: Dive into Our Full Set Breakfast! 🍽️✨\nElevate your morning ritual with our Full Set Breakfast, a culinary symphony that brings together all your breakfast favorites for a truly indulgent start to the day. Choice of eggs, protein, hashbrowns, and bread is included.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Bagel",
+                            "description": "🌞 Start Your Day Right with Our Breakfast Bagel! 🌟\nIndulge in the perfect morning bite delivered straight to your door! Our breakfast bagel is a delightful blend of ham/bacon or avocado and egg, cheese, and mayonnaise topped with your choice of additional ingredients.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.24"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Wrap",
+                            "description": "🌅 Rise and Shine with Our Irresistible Breakfast Wrap! 🌯✨\nEmbark on a flavor-packed journey right from your doorstep! Our Breakfast Wrap is a delicious marriage of freshness and heartiness, carefully crafted to kickstart your day includes ham/bacon or avocado with a scrambled egg, mayonnaise, tomato and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.14"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "English Muffin Breakfast",
+                            "description": "🌅🍳 Elevate Your Morning with Our English Muffin Breakfast! 🍽️✨\nAwaken your senses to a breakfast symphony that&apos;s both comforting and indulgent. Savor the soft, toasted perfection of our English muffins — the foundation for a breakfast masterpiece that promises a delightful crunch with every bite of ham/bacon or avocado with cheese, fried egg, and mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hashbrowns",
+                            "description": "🥔🌟 Crispy Goodness Awaits: Dive into Our Irresistible Hash Browns! 🍽️✨\nWake up your taste buds with a breakfast sensation that&apos;s pure comfort and crunch. Our Hash Browns are crafted to perfection, delivering a symphony of crispy goodness in every bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bagel and Cream Cheese",
+                            "description": "🥯🧀 Elevate Your Morning: Bagel and Cream Cheese Delight! 🍽️✨\nStart your day on a delicious note with our Bagel and Cream Cheese, a timeless breakfast classic that marries simplicity with indulgence for the perfect morning treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chorizo and Potato Hash",
+                            "description": "🥔🔥 Savor the Flavor: Chorizo and Potato Hash Extravaganza! 🔥🥔\nIndulge in the perfect marriage of crispy golden potatoes and sizzling chorizo, creating a symphony of savory goodness with each bite.\nRed peppers, red onion, and kali are included.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lox of Love Bagel",
+                            "description": "🥯💖 Lox of Love Bagel: A Symphony of Flavors! 💕🍽️\nExperience a love affair with breakfast through our exquisite &quot;Lox of Love Bagel,&quot; a divine creation that brings together the finest ingredients for a morning embrace. Indulge in the allure of silky smoked salmon, thinly sliced to perfection. Each bite unveils a symphony of oceanic flavors that dance on your taste buds of cream cheese, red onion, dill, and capers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado on Toast",
+                            "description": "🥑🍞 Elevate Your Breakfast with Our Avocado on Toast with two poached eggs! 🍽️✨\nIndulge in the velvety richness of ripe, smashed avocado generously spread over each slice, poached eggs that&apos;s as flavorful as it is nutritious.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.37"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "🥪🍅 Clubhouse Elegance: Elevate Your Bite! 🍽️✨\nSavor the perfection of premium turkey slices, expertly seasoned and stacked generously to provide a delicious foundation for your sandwich adventure",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado Bacon Grilled Cheese",
+                            "description": "🥑🥓🧀 Avocado Bacon Grilled Cheese: A Gourmet Symphony! 🍽️✨\nEmbark on a gourmet journey with our Avocado Bacon Grilled Cheese — a harmonious blend of creamy avocado, crispy bacon, and melted cheese that transforms a classic into a culinary masterpiece.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham, Apple &amp; Havarti",
+                            "description": "🍏🐖🧀 Savor the Symphony: Ham, Apple &amp; Havarti Delight! 🍽️✨\nEmbark on a flavor journey with our Ham, Apple &amp; Havarti sandwich — a culinary masterpiece that marries savory, sweet, and creamy for an unforgettable bite.(includes mustard)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese Sandwich",
+                            "description": "🧀🍞 Grilled Cheese Bliss: Indulge in Gooey Goodness! 🍽️✨\nMelt into a world of flavor with our Grilled Cheese Sandwich – a symphony of gooey, golden perfection that turns a simple sandwich into a culinary delight of cheddar, havarti, mozzarella, and mayonnaise. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$15.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLT",
+                            "description": "🥓🍅 BLT Bliss: Savor the Classic Crunch! 🍽️✨\nDive into a symphony of flavors with our BLT sandwich — a classic masterpiece that celebrates the simplicity of bacon, lettuce, and tomato, delivering a satisfying crunch in every bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Reuben",
+                            "description": "🥪🍖 Reuben Revelry: Unleash the Flavorful Feast! 🍽️✨\nSavor the succulence of tender corned beef, slow-cooked to perfection, creating a rich and savory foundation that defines the heart of the Reuben experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.48"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey &amp; Cheese",
+                            "description": "🦃🧀 Turkey &amp; Cheese Delight: A Classic Reimagined! 🍽️✨\nIndulge in the timeless pairing of savory turkey and melty cheese with our Turkey &amp; Cheese sandwich — a classic reimagined for an elevated, satisfying bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Melt",
+                            "description": "🐟🧀 Tuna Melt Temptation: Dive into Gooey Goodness! 🍽️✨\nEmbark on a tantalizing journey with our Tuna Melt — a symphony of flavors that combines the rich, savory goodness of tuna with the irresistible allure of melted cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie",
+                            "description": "🌱🥪 Veggie Bliss: A Symphony of Fresh Flavors! 🍽️✨\nEmbark on a garden-fresh adventure with our Veggie Sandwich — a delightful medley of vibrant vegetables and savory delights that promises a satisfying bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.48"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Paninis",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Italian Panini",
+                            "description": "🇮🇹🥖🌶️ Hot Italian Panini: A Sizzle of Mediterranean Flavors! 🍽️✨\nTake your taste buds on a journey to the heart of Italy with our Hot Italian Panini — a sizzling creation that brings together bold flavors and savory delights in every mouthwatering bite of salami, capocollo, prosciutto.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.97"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Panini",
+                            "description": "🍗🧀🥖 Chicken Panini Perfection: A Grilled Delight! 🍽️✨\nIndulge in the savory satisfaction of our Chicken Panini — a culinary masterpiece that brings together succulent grilled chicken, melted cheese, and perfectly toasted bread for a mouthwatering experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caprese Panini",
+                            "description": "🍅🧀🌿 Caprese Panini: A Taste of Mediterranean Elegance! 🍽️✨\nEmbark on a journey to the Mediterranean with our Caprese Panini — a culinary masterpiece that harmonizes the classic trio of ripe tomatoes, fresh mozzarella, and basil, all embraced by perfectly toasted bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.80"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Teas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mighty Leaf Tea ",
+                            "description": "A selection of handpicked teas, including Earl Grey, Green Tea, Peppermint, and English Breakfast, each offering its unique aroma and taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.55"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tea Misto 16 oz",
+                            "description": "16 oz tea with choice of 2% milk, non-fat, almond, oat, or soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.48"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Latte",
+                            "description": "Chai Latte: Spiced black tea blended with your choice of milk. Available in small, medium, or large sizes, with options including 3.25% milk, non-fat, almond, oat, or soy milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Tea Latte",
+                            "description": "Matcha tea latte with selected size: 12oz, 16oz, 20oz. Choice of milk: 3.25%, non-fat, almond, oat, soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Teas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Matcha Tea Latte",
+                            "description": "Iced matcha tea latte with customizable size and milk selection. Choose from small to large, with dairy or plant-based milks like almond, oat, or soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Chai Latte",
+                            "description": "Chilled chai tea blend with options for 3.25% milk, non-fat, almond, oat, or soy milk. Available in small (12oz), medium (16oz), large (20oz) sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Laura&apos;s Garden Salad",
+                            "description": "🥗🍅 Garden Salad: A Symphony of Freshness! 🍽️✨\nIndulge in a burst of garden-fresh flavors with our Garden Salad — a harmonious medley of crisp greens, colorful vegetables, and a tantalizing dressing that transforms every bite into a celebration of freshness. (seasonal berries)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar Salad",
+                            "description": "🥗🍗 Chicken Caesar Salad: A Fresh Symphony of Flavors! 🍽️✨\nEmbark on a culinary adventure with our Chicken Caesar Salad — a harmonious blend of crisp greens(cucumber, lettuce, red onion), succulent grilled chicken, and savory Caesar dressing that transforms a salad into a delightful feast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Pear, Pecan, &amp; Feta Salad",
+                            "description": "🍐🥬 Spinach Pear, Pecan, &amp; Feta Salad: A Harvest of Flavor! 🍽️✨\nEmbark on a culinary journey with our Spinach Pear, Pecan, &amp; Feta Salad — a delightful medley of fresh spinach, sweet pears, crunchy pecans, and creamy feta that transforms your salad into a celebration of flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.43"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chocolate",
+                            "description": "Rich cocoa drink topped with a swirl of whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.31"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steam Milk",
+                            "description": "Steam milk with choice of %3.25, non-fat, almond, oat, or soy milk options.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.59"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fridge Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke/Pepsi Diet",
+                            "description": "A diet cola, typically Coke or Pepsi, offering a crisp and refreshing taste with no calories or sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sanpellegrino-Aranciata",
+                            "description": "Sanpellegrino Aranciata is a sparkling orange beverage from Italy, made with real orange juice, offering a refreshing citrus taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kids Juice-Oasis- Orange",
+                            "description": "A delightful blend designed for kids, combining the sweet essence of orange in a refreshing juice format.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Water 500ml",
+                            "description": "A 500ml bottle of water, offering pure and simple hydration.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.13"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke/Pepsi",
+                            "description": "A cola, either Coke or Pepsi, offering a classic and refreshing cola taste that&apos;s carbonated and sweet.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sanpellegrino-Lemonata",
+                            "description": "A sparkling lemon beverage that captures the essence of Italian lemons with a refreshing, dry finish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sanpellegrino-Pompelmo",
+                            "description": "A sparkling beverage blending the tartness of grapefruit juice with the effervescence of sparkling water, capturing the essence of Italian refreshment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sanpellegrino-Melogramo&amp;Arancia",
+                            "description": "Sanpellegrino Melogranato &amp; Arancia combines the sweet taste of pomegranate with the crispness of orange, infused into sparkling water for a refreshing Italian beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Crisp, Refreshing Lemon-Lime Carbonated Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Club Soda",
+                            "description": "Effervescent Club Soda: Crisp, Refreshing, Perfectly Carbonated",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A&amp;W",
+                            "description": "A&amp;W typically includes a blend of fruits and vegetables, offering a refreshing and sweet taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "A&amp;W Diet",
+                            "description": "A&amp;W Diet is a calorie-reduced version of the classic A&amp;W root beer, offering the same smooth taste with less sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kids Juice-Oasis- Apple Grape",
+                            "description": "A blend of apple and grape juices, this kids&apos; favorite is a refreshing and sweet beverage choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Perrier Spring Water",
+                            "description": "Naturally carbonated mineral water sourced from the Perrier spring, offering a refreshing and crisp taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.38"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canada Dry",
+                            "description": "Effervescent Ginger Ale, Refreshingly Crisp with a Hint of Citrus",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kids Juice-Oasis- Apple",
+                            "description": "Apple juice tailored for kids, often featuring a blend of sweet and tart apple varieties for a refreshing taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "John M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The breakfast sandwiches are amazing. Highly recommend everything in this cafe."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Cassie D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Fantastic food"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kelly C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Love this place so much. "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Coffee",
+        "Sandwiches",
+        "Breakfast",
+        "Coffee &amp; Tea",
+        "Sandwich"
+    ],
+    "url": "https://www.doordash.com/store/laura's-coffee-corner-white-rock-26082459/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16045386600",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "7 AM - 3:45 PM"
+        ],
+        "TUESDAY": [
+            "7 AM - 3:45 PM"
+        ],
+        "WEDNESDAY": [
+            "7 AM - 3:45 PM"
+        ],
+        "THURSDAY": [
+            "7 AM - 3:45 PM"
+        ],
+        "FRIDAY": [
+            "7 AM - 3:45 PM"
+        ],
+        "SATURDAY": [
+            "7 AM - 3:45 PM"
+        ],
+        "SUNDAY": [
+            "9 AM - 2:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "7 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "7 AM - 4 PM"
+        ],
+        "WEDNESDAY": [
+            "7 AM - 4 PM"
+        ],
+        "THURSDAY": [
+            "7 AM - 4 PM"
+        ],
+        "FRIDAY": [
+            "7 AM - 4 PM"
+        ],
+        "SATURDAY": [
+            "7 AM - 4 PM"
+        ],
+        "SUNDAY": [
+            "9 AM - 3 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

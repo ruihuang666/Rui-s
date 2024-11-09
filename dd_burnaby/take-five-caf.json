@@ -1,0 +1,747 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/ef35b35e-3211-43b1-8be3-34cbba8a1f7d.jpeg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/b504198f-8325-49a3-80e3-e33a75436066.jpg"
+    ],
+    "name": "Take Five Café",
+    "address": "Dreamjohn, 202 Columbia St E, New Westminster, BC V3L 0G7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.22378",
+        "longitude": "-122.89271"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Muffins",
+                            "description": "We also have gluten-friendly and vegan options.\nCall the location for current availability\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.92"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "Moist carrot cake with grated carrots, nuts, and raisins, topped with a layer of creamy frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Sandwich",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dessert Bars",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caramel Macchiato",
+                            "description": "Iced caramel macchiato: espresso, milk options include dairy and plant-based, caramel swirl, chocolate choices. Sizes: small, medium, large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lunch Wraps",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Tea Latte",
+                            "description": "Chai tea latte: Spiced black tea blend with warm milk options including regular, skim, oat, almond, lactose-free, soy, or coconut. Available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Croissants",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "London Fog",
+                            "description": "Earl Grey tea steeped with vanilla, choice of milk: regular, skim, oat, almond, lactose-free, soy, coconut; available in small, medium, large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lavender Latte",
+                            "description": "Lavender-infused espresso and steamed milk. Options for size and choice of milk including dairy and plant-based varieties.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino",
+                            "description": "Rich, creamy cappuccino. Size options: small, medium, large. Milk variations: regular, skim, oat, almond, lactose-free, soy, coconut. Add-ons: extra espresso shot or decaf espresso.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.74"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Latte",
+                            "description": "Matcha latte with choice of size: 10 oz, 12 oz, 16 oz. Options for milk include regular, skim, oat, almond, lactose-free, soy, or coconut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Coffee &amp; Espresso Based",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Drip Coffee",
+                            "description": "Drip coffee with size options of 10 oz, 12 oz, 16 oz. Choose between medium or dark roast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.58"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso Macchiato",
+                            "description": "A concentrated shot of espresso with a small amount of foamed milk on top.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.14"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano",
+                            "description": "Espresso diluted with hot water. Options: small, medium, large sizes; add extra espresso or decaf shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano Misto",
+                            "description": "American misto - hot water, espresso blend, choice of milk (regular, skim, oat, almond, lactose-free, soy, coconut). Optional: extra espresso or decaf shot. Sizes: small, medium, large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.04"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha",
+                            "description": "Espresso blend with choices of dark, white, or zebra chocolate. Available in 10 oz, 12 oz, 16 oz. Optional regular, skim, oat, almond, lactose-free, soy, coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato",
+                            "description": "Espresso with caramel, available in 10, 12, 16 oz. Choice of regular, skim, oat, almond, lactose-free, soy, coconut milk. Options for extra espresso or decaf shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso",
+                            "description": "Rich, flavorful cup of espresso brewed to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.54"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pour Over Coffee",
+                            "description": "Hand-brewed pour over coffee available in sizes: small (10 oz), medium (12 oz), large (16 oz), x-large (20 oz).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cafe Latte",
+                            "description": "Steamed milk gently poured over espresso. Options: small, medium, large; milk: 7 types including oat, almond, soy; add-ons: extra espresso or decaf shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.74"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino",
+                            "description": "Rich, creamy cappuccino. Size options: small, medium, large. Milk variations: regular, skim, oat, almond, lactose-free, soy, coconut. Add-ons: extra espresso shot or decaf espresso.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.74"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Teas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Loose Tea Leaves",
+                            "description": "Loose tea leaves in four sizes: 10 oz to 20 oz. Choose from Earl Grey, English Breakfast, various green teas, decaf rooibos, chai, and more.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.78"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "London Fog",
+                            "description": "Earl Grey tea steeped with vanilla, choice of milk: regular, skim, oat, almond, lactose-free, soy, coconut; available in small, medium, large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Latte",
+                            "description": "Matcha latte with choice of size: 10 oz, 12 oz, 16 oz. Options for milk include regular, skim, oat, almond, lactose-free, soy, or coconut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rooibos Latte (Decaf)",
+                            "description": "Rooibos latte, decaf, with size options from small to large. Choose from seven milk varieties including dairy and non-dairy alternatives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Tea Latte",
+                            "description": "Chai tea latte: Spiced black tea blend with warm milk options including regular, skim, oat, almond, lactose-free, soy, or coconut. Available in small, medium, or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jasmine Tea Latte",
+                            "description": "Jasmine tea blended with choice of milk. Options: small to large sizes, regular, skim, oat, almond, lactose-free, soy, or coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Chocolate",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Hot Chocolate",
+                            "description": "Rich hot chocolate, available in small, medium, or large. Choose from dark, white, or mixed chocolate. Milk options include regular, skim, oat, almond, lactose-free, soy, or coconut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.38"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Featured Hot Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lavender Latte",
+                            "description": "Lavender-infused espresso and steamed milk. Options for size and choice of milk including dairy and plant-based varieties.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Caramel Bourbon Latte",
+                            "description": "Salted Caramel Bourbon Latte: Rich espresso merged with sweet and salty caramel, infused with a hint of bourbon. Choose from small to large, and seven milk alternatives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.88"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Coffees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Frappini",
+                            "description": "A drink served with ice to a slushy consistency.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Latte",
+                            "description": "Iced latte with size options from small to large. Milk choices include regular, skim, oat, almond, lactose-free, soy, and coconut. Add-ons: extra espresso or decaf shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.74"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Mocha",
+                            "description": "Iced mocha with options for sizes ranging from 10 oz to 16 oz. Choice of seven milks, including plant-based. Dark, white, or zebra chocolate options available.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caramel Macchiato",
+                            "description": "Iced caramel macchiato: espresso, milk options include dairy and plant-based, caramel swirl, chocolate choices. Sizes: small, medium, large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Can of Pop",
+                            "description": "Choose from various flavours.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Coffee",
+                            "description": "Chilled coffee available in small (14 oz), medium (16 oz), large (20 oz).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.74"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Americano",
+                            "description": "Chilled, refreshing espresso over ice—a classic Americano served cold.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruit Smoothies",
+                            "description": "Various flavours - mango, peach and strawberry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.66"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "Pure and refreshing bottled water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.15"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bakery",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Scones",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Muffins",
+                            "description": "We also have gluten-friendly and vegan options.\nCall the location for current availability\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.92"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Croissants",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Loave Slice",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Crostata",
+                            "description": "Rustic tart featuring thinly sliced apples and cinnamon, baked within a flaky pastry crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dessert Bars",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookies",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bagels",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.54"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "Moist carrot cake with grated carrots, nuts, and raisins, topped with a layer of creamy frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha Coffee Cake",
+                            "description": "A rich blend of chocolate and coffee flavors, typically topped with a mocha-infused crumble.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.94"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Sandwich",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Roll",
+                            "description": "Savory pastry filled with seasoned, minced pork.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Roll",
+                            "description": "Wrapped in a soft dough, the veggie roll is filled with a medley of sautéed vegetables, typically including spinach, mushrooms, and peppers, complemented by a lightly fried egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Banana",
+                            "description": "A simple, ripe banana, known for its natural sweetness and nutritional benefits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yoghurt &amp; Granola Cup",
+                            "description": "Greek yogurt layered with house-made granola, typically includes a variety of fresh fruits and a drizzle of honey.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oatmeal",
+                            "description": "Hearty, warm cereal made from oats",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Lunch",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soup",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lunch Wraps",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lunch Special (Pairing)",
+                            "description": "call the location for current availability",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.54"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Ice Cream Treats",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ice Cream Frappini",
+                            "description": "Ice cream frappini with choice of vanilla, strawberry, chocolate, pink bubblegum, cappuccino cookies, mango sorbet, or maple walnut. Optional extra espresso or decaf shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.34"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ice Cream",
+                            "description": "Ice cream in 1 or 2 scoops. Choose from vanilla, strawberry, chocolate, mango sorbet, maple walnut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.74"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Affagato",
+                            "description": "Hot espresso poured over a scoop of ice cream. Choose from vanilla, strawberry, chocolate, pink bubblegum, cappuccino cookies, mango sorbet, or maple walnut flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.34"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Breakfast",
+        "Coffee",
+        "Wraps"
+    ],
+    "url": "https://www.doordash.com/store/take-five-café-new-westminster-24175873/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6045259050",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "7 AM - 5:40 PM"
+        ],
+        "TUESDAY": [
+            "7 AM - 5:40 PM"
+        ],
+        "WEDNESDAY": [
+            "7 AM - 5:40 PM"
+        ],
+        "THURSDAY": [
+            "7 AM - 5:40 PM"
+        ],
+        "FRIDAY": [
+            "7 AM - 5:40 PM"
+        ],
+        "SATURDAY": [
+            "8 AM - 4:40 PM"
+        ],
+        "SUNDAY": [
+            "8 AM - 3:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "7 AM - 6 PM"
+        ],
+        "TUESDAY": [
+            "7 AM - 6 PM"
+        ],
+        "WEDNESDAY": [
+            "7 AM - 6 PM"
+        ],
+        "THURSDAY": [
+            "7 AM - 6 PM"
+        ],
+        "FRIDAY": [
+            "7 AM - 6 PM"
+        ],
+        "SATURDAY": [
+            "8 AM - 5 PM"
+        ],
+        "SUNDAY": [
+            "8 AM - 4 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,845 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/ef67c9da-c622-44a1-a03a-a89342287daf.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/a5c01d9b-6277-4c2b-8aeb-1829dd75a7f0.jpg"
+    ],
+    "name": "Sandeul Korean Restaurant",
+    "address": "6019 West Blvd, Vancouver BC V6M 3X2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.2316",
+        "longitude": "-123.15606"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jajang Noodles",
+                            "description": "Black bean sauce with noodles, onions, zucchini, cabbage, and pork (cannot take out ingredients). Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ttukbaegi Gamjatang",
+                            "description": "Spicy. Pork bones and potatoes in spicy soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimbob (Beef)",
+                            "description": "Seasoned rice, beef, pickled radish, carrots, and spinach wrapped in seaweed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi",
+                            "description": "Thin marinated beef slices in sweet say, miso soup. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seolleongtang",
+                            "description": "Oxbone soup with beef and sweet potato noodles. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Dumplings",
+                            "description": "Crispy fried dumplings filled with seasoned vegetables and savory meat, served with a side of dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Japchae Noodle",
+                            "description": "Stir-fried sweet potato noodles with vegetables, beef, and mushrooms. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Fried Rice",
+                            "description": "Spam, sunny-side egg,kimchi fried rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bibimbap",
+                            "description": "Traditional style bibimbap with a sunny-side of assorted vegetables and beef, miso soup. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tofu Soup",
+                            "description": "Spicy. Beef, vegetables, and yolk, soft tofu soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimbob (Vege)",
+                            "description": "Rice rolls filled with carrots, spinach, pickled radish, and tofu, wrapped in seaweed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "La Gahlbee",
+                            "description": "Thin-cut ribs marinated with sweet so. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tteok-bokki",
+                            "description": "Spicy. Korean spicy stir-fried rice cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimbob (Beef)",
+                            "description": "Seasoned rice, beef, pickled radish, carrots, and spinach wrapped in seaweed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Dumplings",
+                            "description": "Crispy fried dumplings filled with seasoned vegetables and savory meat, served with a side of dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steamed Dumplings",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimbob (Vege)",
+                            "description": "Rice rolls filled with carrots, spinach, pickled radish, and tofu, wrapped in seaweed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Fries",
+                            "description": "Cheese seasoning fries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Takoyaki",
+                            "description": "Savory octopus-filled dough balls topped with drizzled mayonnaise and bonito flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Corn Cheese",
+                            "description": "Sweet corn kernels topped with melted cheese and garnished with herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Special Tteok-bokki",
+                            "description": "Tteock-bokki, deep fried foods and ramen noodles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jajang Tteock-bokki",
+                            "description": "Stir-fried rice cakes with black bean sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steamed Egg",
+                            "description": "Served with Green Onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato Croquette",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Special Dish",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tansuyuk",
+                            "description": "Sweet and sour fried pork. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kanpoongi",
+                            "description": "Sweet and sour stir-fried chicken. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$30.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Pancake",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bossam",
+                            "description": "Boiled pork belly. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Main Dish",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ttukbaegi Gamjatang",
+                            "description": "Spicy. Pork bones and potatoes in spicy soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seolleongtang",
+                            "description": "Oxbone soup with beef and sweet potato noodles. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tofu Soup",
+                            "description": "Spicy. Beef, vegetables, and yolk, soft tofu soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Cutlet",
+                            "description": "With rice, salad and miso soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bibimbap",
+                            "description": "Traditional style bibimbap with a sunny-side of assorted vegetables and beef, miso soup. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Fried Rice",
+                            "description": "Spam, sunny-side egg,kimchi fried rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimchi Tofu Soup",
+                            "description": "Spicy. Kimchi, vegetables and yolk, soft tofu soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ttukbaegi Bulgogi",
+                            "description": "Marinated tender prime beef soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dduck Mandu Soup",
+                            "description": "Rice cake &amp; dumplings in beef bone soup. No rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Cutlet",
+                            "description": "With rice, salad, miso soup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Add rice",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Tofu Soup",
+                            "description": "Spicy. Seafood, vegetables, and yolk soft tofu soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Tofu Soup",
+                            "description": "Spicy. Mushrooms, vegetables, and yolk soft tofu soup. Served with one bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Noodles",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Buckwheat Noodles",
+                            "description": "Spicy. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jajang Noodles",
+                            "description": "Black bean sauce with noodles, onions, zucchini, cabbage, and pork (cannot take out ingredients). Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Japchae Noodle",
+                            "description": "Stir-fried sweet potato noodles with vegetables, beef, and mushrooms. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Off the Grill",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "La Gahlbee",
+                            "description": "Thin-cut ribs marinated with sweet so. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bulgogi",
+                            "description": "Thin marinated beef slices in sweet say, miso soup. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Pork Belly",
+                            "description": "Samgyeopsal with fried kimchi (for 2 people, no rice).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Yangnyeom Galbee (M)",
+                            "description": "Marinated pork shoulder blade (for 2-3 people, no rice).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jaeyook Bul-baeg",
+                            "description": "Thin marinated pork slices in sweet soy, miso soup. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Osam Bulgogi",
+                            "description": "Spicy. Spicy stir-fried pork belly and squids, miso soup. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jaeyook Bokk-eum",
+                            "description": "Spicy. Spicy stir-fried pork with veggies, and miso soup. Food may contain sesame seeds. Served with one bowl of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Add rice",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Add Lettuce Set",
+                            "description": "Lettuce, Garlic, Pepper",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Yangnyeom Galbee (S)",
+                            "description": "Marinated pork shoulder blade.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fried Chicken",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yangyeom Chicken",
+                            "description": "Spicy. Deep-fried boneless chicken with spicy and sweet sauce. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Half &amp; Half Chicken",
+                            "description": "Deep-fried &amp; yangnyeom chicken. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Garlic Chicken",
+                            "description": "Deep-fried boneless chicken with honey and garlic sauce. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boneless Deep Fried Chicken",
+                            "description": "Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Padak",
+                            "description": "Boneless deep-fried chicken with Green Onions and sweet soy sauce. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese-ring Chicken",
+                            "description": "Deep-fried boneless chicken with cheese powder. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rainbow Chicken",
+                            "description": "Deep-fried, yangnyeom, Padak, cheese-ring, and fries. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$65.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Ale",
+                            "description": "Refreshing, crisp ginger-flavored carbonated soft drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca-Cola",
+                            "description": "Classic, refreshing soda with a timeless taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Pot",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gamjatang",
+                            "description": "Spicy pork back-bone stew with potatoes. Served with two bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$47.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Budae-jjigae",
+                            "description": "Kimchi and sausage stew with ramen noodles, and cheese. Served with two bowl of rice. Food may contain sesame seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$43.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Combo",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimbob (Beef) and Tteockbokki",
+                            "description": "Korean seaweed roll with Korean stir-fried spicy rice cakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kimbob (Vege) and Tteockbokki",
+                            "description": "Korean seaweed roll with Korean stir-fried spicy rice cakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Dexter D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Very good, tasty food. Comes well packaged and hot. Seolleongtang and Steamed Egg are very comforting paired together on a cold day. 10/10 will recommend this place to friends and family!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "재진 유"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "Taste is good, but it doesn&apos;t include rice with this price. I think it must be included or cheaper or at least explained."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Korean",
+        "Asian Fusion",
+        "Casual Dining"
+    ],
+    "url": "https://www.doordash.com/store/sandeul-korean-restaurant-vancouver-29482460/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044283388",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:25 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:25 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:25 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:25 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9:25 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9:25 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9:45 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:45 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

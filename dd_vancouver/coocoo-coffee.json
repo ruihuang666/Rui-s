@@ -1,0 +1,782 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/808655a8-436d-4e11-9c15-f9c229d244c2.jpeg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/d47b6f1f-ae78-468d-8709-2e30184b1114.jpg"
+    ],
+    "name": "CooCoo Coffee",
+    "address": "477 Davie St, Vancouver, BC V6B 2G2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.275723",
+        "longitude": "-123.12388"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chorizo Breakfast Wrap",
+                            "description": "Spanish chorizo, seasoned egg, cheddar + mozzarella cheese,  red cabbage,  hot sauce and vegetable tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Breakfast Wrap",
+                            "description": "Seasoned egg, cheddar + mozzarella cheese, bell pepper, red cabbage, sun dried tomato pesto, vegetable tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon and egg Breakfast English Muffin Sandwich ",
+                            "description": "Seasoned egg, bacon, havarti cheese, mayo and English muffin ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Pour Over Drip Coffee",
+                            "description": "Individually ground and brewed coffee. Choose medium or dark roast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "NY Levain Chocolate Walnut Cookies ",
+                            "description": "Soft and chewy cookie featuring chunks of rich chocolate and crunchy walnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz London Fog Latte",
+                            "description": "Stone ground Earl Grey with cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Pesto Wrap",
+                            "description": "Seasoned breast of chicken, bacon,  cheese, red cabbage slaw, pesto.\n\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Americano",
+                            "description": "Triple or quad shots espresso and hot water (your choice)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Bullet Coffee + Collagen ",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil. Incl. collagen ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Vanilla Matcha Latte",
+                            "description": "Stone ground green tea and cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Spanish Latte",
+                            "description": "Cafe latte + sweet condensed milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Cafe Latte with steamed milk",
+                            "description": "Triple or quad shot espresso with steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.60"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Espresso",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double shot espresso",
+                            "description": "Rich and robust espresso with a double shot of finely ground coffee, delivering a bold and intense flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Americano",
+                            "description": "Triple or quad shots espresso and hot water (your choice)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Americano Misto",
+                            "description": "Triple or quad shot Americano with choice of steamed milk, soy milk, almond milk, or oat milk (your choice).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Cafe Latte with steamed milk",
+                            "description": "Triple or quad shot espresso with steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Flat White with milk",
+                            "description": "Triple or quad shot espresso with no foam steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Americano",
+                            "description": "Double shot espresso and hot water",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Americano Misto",
+                            "description": "Double shot Americano with choice of steamed milk, soy milk, almond milk, or oat milk (your choice).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Cafe Latte with steamed milk",
+                            "description": "Double shot espresso with steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Cafe Latte with steamed soy, almond, or oat milk (your choice)",
+                            "description": "Double shot espresso with your choice of steamed soy, almond, or oat milk, offering a smooth and creamy texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Cafe Latte with steamed soy, almond, or oat milk (your choice)",
+                            "description": "Triple or quad shot espresso typically includes your choice of steamed soy, almond, or oat milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Flat White with milk",
+                            "description": "Double shot espresso with no foam steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Flat White with soy, almond, or oat milk (your choice)",
+                            "description": "Double shot espresso with your choice of steamed soy, almond, or oat milk, crafted to create a smooth and rich texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Cappuccino with milk",
+                            "description": "Double espresso with frothy steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Cappuccino with milk",
+                            "description": "Triple or quad shot espresso with frothy steamed milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Cappuccino with soy, almond, or oat milk",
+                            "description": "Double shot espresso with frothy steamed soy, almond, or oat milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Cappuccino with soy, almond, or oat milk",
+                            "description": "Triple or quad shot espresso with frothy steamed soy, almond, or oat milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso Macchiato ",
+                            "description": "Double shot espresso with steamed foam milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cortado",
+                            "description": "8oz double shot espresso with choice of steamed milk,  almond milk, soy milk, or oat milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.35"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Specialty Coffee",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Pour Over Drip Coffee",
+                            "description": "Individually ground and brewed coffee. Choose medium or dark roast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Bullet Coffee + Peanut Butter",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil. Incl. peanut butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Salty Caramel Latte",
+                            "description": "Cafe latte + caramel sauce + pink Himalayan salt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Spanish Latte",
+                            "description": "Cafe latte + sweet condensed milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Bullet Coffee",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Bullet Coffee",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Bullet Coffee + Collagen ",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil. Incl collagen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Bullet Coffee + Peanut Butter",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil. Incl. peanut butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Dark Chocolate (mocha) Latte",
+                            "description": "Cafe latte + dark chocolate sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Dark Chocolate (mocha) Latte",
+                            "description": "Cafe latte + dark chocolate sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Salty Caramel Latte",
+                            "description": "Cafe latte + caramel sauce + pink Himalayan salt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Spanish Latter",
+                            "description": "Cafe latte + sweet condensed milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Bullet Coffee + Collagen ",
+                            "description": "High octane blend of espresso, grass fed butter, organic virgin coconut oil and pure MCT oil. Incl. collagen ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Pour Over Drip Coffee",
+                            "description": "Individually ground and brewed coffee. Choose medium or dark roast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Baked Goods",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pecan Banana Bread",
+                            "description": "Studded with pecans, this moist banana bread offers a delightful blend of banana and nut flavors in every slice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Protein Bites (organic)",
+                            "description": "Packed with oats and chocolate chips, these organic protein bites offer a nutritious start to your day.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "NY Levain Chocolate Walnut Cookies ",
+                            "description": "Soft and chewy cookie featuring chunks of rich chocolate and crunchy walnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fudgy Fudge Brownie ",
+                            "description": "Rich, dense brownie with a fudgy texture and a deep chocolate flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwich ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chorizo Breakfast Wrap",
+                            "description": "Spanish chorizo, seasoned egg, cheddar + mozzarella cheese,  red cabbage,  hot sauce and vegetable tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon and egg Breakfast English Muffin Sandwich ",
+                            "description": "Seasoned egg, bacon, havarti cheese, mayo and English muffin ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Breakfast Wrap",
+                            "description": "Seasoned egg, cheddar + mozzarella cheese, bell pepper, red cabbage, sun dried tomato pesto, vegetable tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Pesto Wrap",
+                            "description": "Seasoned breast of chicken, bacon,  cheese, red cabbage slaw, pesto.\n\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chill (Ice Drinks)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Latte",
+                            "description": "Double espresso with milk over ice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Salty Caramel",
+                            "description": "Caramel, pink Himalayan salt, espresso, milk over ice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Vanilla Matcha",
+                            "description": "Vanilla matcha, milk over ice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Vietnamese Coffee",
+                            "description": "Espresso, sweet condensed milk over ice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Americano",
+                            "description": "Double shot espresso over ice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Mocha ",
+                            "description": "Double espresso with milk and chocolate over ice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Non Coffee Favourites ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Turmeric Ginger Chi Latte (organic)",
+                            "description": "Unsweetened stone ground black tea, ginger root, cardamom, cloves, cinnamon, black pepper, and tapioca root.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz London Fog Latte",
+                            "description": "Stone ground Earl Grey with cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Vanilla Matcha Latte",
+                            "description": "Stone ground green tea and cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz London Fog Latte",
+                            "description": "Stone ground Earl Grey with cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Golden Mylk",
+                            "description": "Maca, turmeric  and black pepper ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Golden Mylk",
+                            "description": "Maca, turmeric and black pepper ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12oz Turmeric Ginger Chai Latte (organic)",
+                            "description": "Unsweetened stone ground black tea, ginger root, cardamom, cloves, cinnamon, black pepper, and tapioca root.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.35"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16oz Vanilla Matcha Latte",
+                            "description": "Stone ground green tea and cane sugar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Andy K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Amazing coffee, delicious food, and great service. Recommend the bullet coffee for athletes. "
+        }
+    ],
+    "servesCuisine": [
+        "Breakfast",
+        "Coffee",
+        "Sandwiches"
+    ],
+    "url": "https://www.doordash.com/store/coocoo-coffee-vancouver-24597253/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7788399988",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "7:30 AM - 3:40 PM"
+        ],
+        "TUESDAY": [
+            "7:30 AM - 3:40 PM"
+        ],
+        "WEDNESDAY": [
+            "7:30 AM - 3:40 PM"
+        ],
+        "THURSDAY": [
+            "7:30 AM - 3:40 PM"
+        ],
+        "FRIDAY": [
+            "7:30 AM - 3:40 PM"
+        ],
+        "SUNDAY": [
+            "8:30 AM - 3:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "WEDNESDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "THURSDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "FRIDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "SUNDAY": [
+            "8:30 AM - 4 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

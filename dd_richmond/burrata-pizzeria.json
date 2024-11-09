@@ -1,0 +1,804 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/c17db302-bd1d-46a9-8425-74b484c8ea94.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/970d1078-be74-4dad-accc-a4cbbb8c2620.jpg"
+    ],
+    "name": "Burrata Pizzeria",
+    "address": "2104 W 41st Ave, Vancouver, BC V6M 1Z2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.234615",
+        "longitude": "-123.156"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata",
+                            "description": "Vegetarian. Tomato sauce, burrata cheese, mozzarella, cherry tomatoes, roasted red peppers, Fresh garlic, basil, sea salt, black pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sicilian",
+                            "description": "Spicy. Tomato sauce, mozzarella, chorizo sausage, Italian sausage, bacon, mushrooms, sprinkle of red chili flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni",
+                            "description": "Tomato sauce, mozzarella, pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "Vegetarian.  Tomato sauce,  mozzarella, fior di latte, basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Garden",
+                            "description": "Vegetarian.  Tomato sauce,  mozzarella, green peppers. Mushrooms, roasted red peppers, roasted garlic, red onions, black olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Italian Quattro Meat Lover",
+                            "description": "Capicola, Salami, Pepperoni, Italian Sausage, Ricotta topped with Shredded Basil after cooking.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pesto",
+                            "description": "Vegetarian. Pesto Sauce, Mozzarella, Cherry Tomatoes, Fior Di Latte, Italian Blend",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Cheese Bread",
+                            "description": "Fresh Garlic Bread topped with Mozzarella Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian",
+                            "description": "Tomato sauce, mozzarella, ham, pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Build Your Own (14&quot;)",
+                            "description": "Build your own 14&quot; pizza with the toppings and dough of your choice. The first 3 toppings are free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Heaven",
+                            "description": "Vegetarian. Tomato sauce, mozzarella, Italian blend, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Canadian",
+                            "description": "Tomato Sauce, Mozzarella, Bacon, Pepperoni, Mushrooms, Cheddar Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Meat &amp; Chicken Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni",
+                            "description": "Tomato sauce, mozzarella, pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sicilian",
+                            "description": "Spicy. Tomato sauce, mozzarella, chorizo sausage, Italian sausage, bacon, mushrooms, sprinkle of red chili flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian",
+                            "description": "Tomato sauce, mozzarella, ham, pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Italian Quattro Meat Lover",
+                            "description": "Capicola, Salami, Pepperoni, Italian Sausage, Ricotta topped with Shredded Basil after cooking.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gandalf",
+                            "description": "Chicken, alfredo sauce, mozzarella, fior di latte, Italian blend, red onions, spinach.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Spicy Chorizo",
+                            "description": "Spicy. Tomato sauce, Mozzarella, Smoked chorizo sausage, Italian sausage, Red Onion, Sprinkle of chili flakes , Arugula",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Luck Of the Irish",
+                            "description": "Pesto sauce, mozzarella, Italian cheese blend, grilled chicken, grape tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carne",
+                            "description": "Tornato sauce, mozzarella, ham, Italian sausage, bacon, cheddar, Italian blend.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chipotle Chicken",
+                            "description": "Spicy. Spicy Chipotle Sauce. Fresh Mozzarella Cheese, Grilled Chicken, Red Onion, Roasted Red Pepper, Fresh Cilantro After Cook.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raincoast",
+                            "description": "Tomato Sauce, Mozzarella Cheese, Grilled Chicken, Spinach, Cherry Tomato, Feta Cheese, Fior Di Latte, Arugula",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Canadian",
+                            "description": "Tomato Sauce, Mozzarella, Bacon, Pepperoni, Mushrooms, Cheddar Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Capricciosa",
+                            "description": "Tomato Sauce, Mozzarella, Fior Di Latte, Mushrooms, Artichoke, Ham, Black Olives.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmo Mania",
+                            "description": "Afredo sauce, Smoked Seasoned Salmon, Fior Di Latte, Grana Padano, Capers, Red Onions and Parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Bulgogi",
+                            "description": "No Base Sauce, Mozzarella, Fior Di Latte, Grana Padano, Sliced Korean Beef, Red Onions, Mushrooms, Olive Oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Mushroom",
+                            "description": "Tomato Sauce, Mozzarella, Bacon, Mushroom, Cheddar Cheese\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Basic Calabrese",
+                            "description": "Tomato Sauce. Mozzarella, Italian Salami, Fresh Basil Leaves and a Drizzle of Olive Oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken Pizza",
+                            "description": "Butter Chicken Sauce, Mozzarella, Chicken, Green Onions and Cilantro",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dipping (Hot Sauce or Garlic Ranch)",
+                            "description": "Topped with hot sauce or garlic ranch, this pizza combines traditional Chinese flavors with a unique twist, typically including chicken as a primary topping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chef ",
+                            "description": "Spicy. Tomato Sauce, Mozzarella, Spicy Chicken, Spinach, Red Onions, Roasted Red Peppers, Banana Peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Blues",
+                            "description": "Chicken, Italian blend, bbq sauce, bacon, cheddar, parsley,",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Veggie &amp; Vegan Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata",
+                            "description": "Vegetarian. Tomato sauce, burrata cheese, mozzarella, cherry tomatoes, roasted red peppers, Fresh garlic, basil, sea salt, black pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "Vegetarian.  Tomato sauce,  mozzarella, fior di latte, basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pesto",
+                            "description": "Vegetarian. Pesto Sauce, Mozzarella, Cherry Tomatoes, Fior Di Latte, Italian Blend",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Heaven",
+                            "description": "Vegetarian. Tomato sauce, mozzarella, Italian blend, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Artichoke And Spinach",
+                            "description": "Vegetarian. Tomato Sauce, Mozzarella, Spinach, Artichoke, Tomato, Drizzle Of Pesto, Feta Cheese And Fresh Basil After Cook",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Garden",
+                            "description": "Vegetarian.  Tomato sauce,  mozzarella, green peppers. Mushrooms, roasted red peppers, roasted garlic, red onions, black olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Aragorn",
+                            "description": "Vegetarian. Tomato sauce, mozzarella, arugula, ricotta cheese, sundried tomatoes, roasted red peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Greek",
+                            "description": "Vegetarian. Tomato sa mozzarella, grape artichoke, black olives, red onions, feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Bianca",
+                            "description": "Vegetarian. No Base Sauce,Olive Oil, Pinch of Salt, Mozzarella, Fior Di Latte, Grana Padano, Grape Tomatoes, Ricotta Cheese, Roasted Garlic, Topped with Fresh Basil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Pepperoni",
+                            "description": "Spicy. Vegetarian.  Vegan. San Marzano Sauce, Vegan Cheese, Vegan Pepperoni",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caprese",
+                            "description": "Vegetarian.  Pesto sauce, mozzarella, tomatoes,  basil, fior di latte, balsamic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinaci",
+                            "description": "Vegetarian. Tomato Sauce, Mozzarella, Fior Di Latte, Spinach, Ricotta Cheese, Black Olives, Drizzle of Pesto",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dipping  (Hot Sauce or Garlic Ranch)",
+                            "description": "Hot sauce or garlic ranch pizza typically includes a base of vegan cheese, with a choice between spicy hot sauce or creamy garlic ranch dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinara",
+                            "description": "Vegetarian. Vegan. Tomato Sauce, Vegan Cheese, Roasted Garlic, Basil, Oregano and a Drizzle of Olive Oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Salad",
+                            "description": "Vegetarian. Tomato Sauce, Mozzarella, Spinach, Arugula, Roasted Red Peppers, Ricotta",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Veggie",
+                            "description": "Vegetarian. Bbq Sauce , Mozzarella Cheese , Roasted Red Pepper , Green Pepper , Red Onion , Pineapple , Black Olives, Mushroom ,",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Vegan",
+                            "description": "Tomato Sauce, Vegan Cheese, Red Onions, Mushrooms, Kalamata Olives, Cherry Tomatoes, Jalapenos, Cilantro after cooking.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan House Special",
+                            "description": "Tomato Sauce, Vegan Cheese, Artichoke, Roasted Red Peppers, Kalamata Olives, Sundried tomatoes after cooking.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Delight",
+                            "description": "Vegetarian.  Vegan. Organic tomato sauce, vegan cheese, beyond meat. Roasted peppers, kalamata olives, spinach, roasted garlic, banana peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Deluxe",
+                            "description": "Tomato Sauce, Vegan Cheese, Vegan Pepperoni, Green Peppers, Mushrooms, Red Onions.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad ",
+                            "description": "Vegetarian. Lettuce, Croutons, Caesar Dressing, Sprinkled with Parmesan",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arugula Salad",
+                            "description": "Vegetarian. Spinach, Arugula, Grape Tomato, Sprinkle with Parmesan, Balsamic Vinegar and Olive Oil Dressing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata Salad",
+                            "description": "Vegetarian. Arugula, Grape Tomatoes, Burrata, House Vinaigrette Dressing, Sprinkled with Kosher Salt",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Build Your Own",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Build Your Own (14&quot;)",
+                            "description": "Build your own 14&quot; pizza with the toppings and dough of your choice. The first 3 toppings are free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Rolls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Cheese Bread",
+                            "description": "Fresh Garlic Bread topped with Mozzarella Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nestea Iced Tea",
+                            "description": "A chilled, branded iced tea offering a refreshing beverage experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Crush",
+                            "description": "Bright, citrus-flavored carbonated beverage with a refreshing orange taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi ",
+                            "description": "Classic, refreshing cola soda.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "R B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "The pizzas were tasty, but they are very small for the high prices.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sharnese C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Posted after tucking in and both pizzas were fresh and had nice cheese pull along with very tender pieces of meat. special shout out to the Italian Quattro Meat Lover, the ricotta was super creamy and rich"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer T"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "I thought Birrata Salad was a flavor of pizza since the photo clearly indicates a pizza. Imagine my surprise when a salad arrived!  Haha. But it was very tasty. Next time I&apos;ll order the Burrata PIZZA \nlol "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jennifer T"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The Beefacon was delicious. The right amount of meat and the pineapple added a welcome bit of sweetness to the overall taste. Well done. \nBurrata pizzas are always tasty, and you get a larger size for your money than other pizza places. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "John S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Their Margherita is the best. The beeeessst."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Delivery",
+        "Italian",
+        "Pizzeria",
+        "Pizza",
+        "Takeout"
+    ],
+    "url": "https://www.doordash.com/store/burrata-pizzeria-vancouver-750461/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16049018888",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 7:55 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 7:55 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 7:55 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 7:55 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 8:55 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 8:55 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 7:55 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 8:15 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 8:15 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 8:15 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 8:15 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9:15 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9:15 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8:15 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

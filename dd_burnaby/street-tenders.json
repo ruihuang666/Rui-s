@@ -1,0 +1,557 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/889e8bda-16c2-44f8-9d2d-ea809d1eafad.38",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/824d89de-bd29-4564-8148-57be5dbdb4f1.jpg"
+    ],
+    "name": "Street Tenders",
+    "address": "1370 Georgia St E, Vancouver BC V5L 2A8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.27853",
+        "longitude": "-123.0758"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oh Honey Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders with honey mustard, honey garlic, and green onions. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Backyard BBQ Burger",
+                            "description": "Crispy fried chicken tenders, BBQ sauce, bacon, and coleslaw on a brioche bun. Served with a side of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Bacon Ranch Chicken Burger",
+                            "description": "Crispy fried chicken tenders, bacon, ranch, lettuce, and green onions are fresh on a brioche bun. Served with a side of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tots and Tenders",
+                            "description": "4 pieces of crispy fried chicken tenders, a side of tater tots, and a choice of sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep-Fried Pickles (5 pcs)",
+                            "description": "5 pieces of deep-fried pickle spears.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Dill Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders tossed with Parmesan and topped with mayo and pickles. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tater Tots",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Dill Chicken Burger",
+                            "description": "Crispy fried chicken tenders tossed with Parmesan, lettuce, mayo, and pickles on a brioche bun. Served with a side of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun BBQ Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders, topped with BBQ sauce and fresh coleslaw. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders loaded with gravy and cheese curds. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Tender Box",
+                            "description": "Crispy fried chicken tenders with classic bacon, ranch, and green onions. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Street Tender Boxes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oh Honey Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders with honey mustard, honey garlic, and green onions. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Tender Box",
+                            "description": "Crispy fried chicken tenders with classic bacon, ranch, and green onions. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders loaded with gravy and cheese curds. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Dill Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders tossed with Parmesan and topped with mayo and pickles. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun BBQ Chicken Tender Box",
+                            "description": "Crispy fried chicken tenders, topped with BBQ sauce and fresh coleslaw. Served on a bed of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tots and Tenders",
+                            "description": "4 pieces of crispy fried chicken tenders, a side of tater tots, and a choice of sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$19.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep-Fried Pickles (5 pcs)",
+                            "description": "5 pieces of deep-fried pickle spears.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$11.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Street Tender Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Bacon Ranch Chicken Burger",
+                            "description": "Crispy fried chicken tenders, bacon, ranch, lettuce, and green onions are fresh on a brioche bun. Served with a side of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Backyard BBQ Burger",
+                            "description": "Crispy fried chicken tenders, BBQ sauce, bacon, and coleslaw on a brioche bun. Served with a side of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Dill Chicken Burger",
+                            "description": "Crispy fried chicken tenders tossed with Parmesan, lettuce, mayo, and pickles on a brioche bun. Served with a side of tater tots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides and Dips",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tater Tots",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gravy",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Mustard",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ranch",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Garlic",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Tea",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "7Up",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gingerale",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Crush",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rootbeer",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke Zero",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Pepsi",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "James R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Oh Honey Chicken Tender Box was so delicious I ate it so fast! only gripe is that the portions are small, but so tasty!!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Blake D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Frozen ones from the grocery store are better"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Chad B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "Ordered the BBQ tender burger with tots. Food tasted good, but for almost $20 the  portions were pretty small. Thankfully they had the buy one get one, if it wasnt for that, I wouldn&apos;t order it again. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Veronica A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Serving frozen chicken nuggets and tater tots as a store called &quot;street tenders&quot; is embarrassing."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 3.6
+    },
+    "servesCuisine": [
+        "American",
+        "Street Food",
+        "Fast Food",
+        "Chicken Tenders",
+        "Wraps",
+        "Burgers",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/street-tenders-vancouver-28973826/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7786365675",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "5 PM - 11:39 PM"
+        ],
+        "TUESDAY": [
+            "5 PM - 11:39 PM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 11:39 PM"
+        ],
+        "THURSDAY": [
+            "5 PM - 11:39 PM"
+        ],
+        "FRIDAY": [
+            "5 PM - 11:39 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 11:39 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 11:39 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "5 PM - 11:59 PM"
+        ],
+        "TUESDAY": [
+            "5 PM - 11:59 PM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 11:59 PM"
+        ],
+        "THURSDAY": [
+            "5 PM - 11:59 PM"
+        ],
+        "FRIDAY": [
+            "5 PM - 11:59 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 11:59 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 11:59 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

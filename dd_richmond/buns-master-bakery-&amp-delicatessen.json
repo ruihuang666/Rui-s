@@ -1,0 +1,701 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/a975cccf-0718-49db-9b17-cbec105b036f.122",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/ab1a5d14-eb25-4eff-9be0-d6e10faf6d34.jpg"
+    ],
+    "name": "Buns Master Bakery &amp; Delicatessen",
+    "address": "Buns Master Deli, 5960 No 6 Rd, Richmond, BC V6V 1Z1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.170708",
+        "longitude": "-123.06687"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Reuben Sandwich",
+                            "description": "Layers of corned beef, tangy sauerkraut, and creamy dressing between slices of marbled rye bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Ball sandwich",
+                            "description": "Juicy meatballs nestled in a crusty roll, topped with rich marinara sauce and melted cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Pesto Chicken",
+                            "description": "Grilled chicken with pesto, fresh lettuce, sliced tomatoes, and melted cheese on a bakery roll.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Roll ",
+                            "description": "pack of 5",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg salad",
+                            "description": "Creamy egg salad with crisp lettuce, sandwiched between slices of soft bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pancakes ",
+                            "description": "Fluffy stack of pancakes drizzled with syrup and topped with a pat of melting butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese Panini ",
+                            "description": "Golden-brown grilled cheese panini with melted cheddar and mozzarella between crispy, toasted bread slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey &amp; Cheese  Sandwich ",
+                            "description": "choice of Smoked or Sundried Tomato Turkey ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef &amp; Cheese Sandwich ",
+                            "description": "Choice of Roast Beef or Corned/Smoked Beef ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salami &amp; Cheese Sandwich ",
+                            "description": "Salami and cheese on your choice of bun. Options for bun include multigrain or whole wheat varieties. Customize with black pepper or salt, multiple sauce selections, and fresh toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Dip Sandwich",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie &amp; Cheese",
+                            "description": "Sautéed veggies and choice of cheese. Options: Multigrain or white buns, seasoning, 10 sauces, various veggie toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot lunch",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken (Halal)",
+                            "description": "Mouthwatering Halal Butter Chicken with 2 Naan. Order to have a delicious lunch available on Every Tuesday 11.00 AM to 2.30 PM.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Breakfast ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese avocado Panini",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pancakes ",
+                            "description": "Fluffy stack of pancakes drizzled with syrup and topped with a pat of melting butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese Panini ",
+                            "description": "Golden-brown grilled cheese panini with melted cheddar and mozzarella between crispy, toasted bread slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese omelette on wrap",
+                            "description": "Fluffy cheese omelette wrapped in a soft tortilla, garnished with fresh chives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg salad",
+                            "description": "Creamy egg salad with crisp lettuce, sandwiched between slices of soft bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Omelette on kaiser",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.97"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Featured Items ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Samosa",
+                            "description": "Crispy golden pastry filled with spiced chicken and vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.24"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Roll",
+                            "description": "Pack of 5",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Samosa ",
+                            "description": "Crispy pastry filled with spiced potatoes, peas, and carrots, served with fresh mint.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwich Specials",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef &amp; Cheese Sandwich ",
+                            "description": "Choice of Roast Beef or Corned/Smoked Beef ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken &amp; Cheese Sandwich",
+                            "description": "Chicken sandwich with cheese, choice of multigrain or white, whole wheat bun. Options for black pepper, salt. Sauces range from BBQ to whole grain mustard. Includes cucumbers, lettuce, tomatoes, and more.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salami &amp; Cheese Sandwich ",
+                            "description": "Salami and cheese on your choice of bun. Options for bun include multigrain or whole wheat varieties. Customize with black pepper or salt, multiple sauce selections, and fresh toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie &amp; Cheese",
+                            "description": "Sautéed veggies and choice of cheese. Options: Multigrain or white buns, seasoning, 10 sauces, various veggie toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey &amp; Cheese  Sandwich ",
+                            "description": "choice of Smoked or Sundried Tomato Turkey ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Sandwich",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Dip Sandwich",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Ball sandwich",
+                            "description": "Juicy meatballs nestled in a crusty roll, topped with rich marinara sauce and melted cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Reuben Sandwich",
+                            "description": "Layers of corned beef, tangy sauerkraut, and creamy dressing between slices of marbled rye bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Pesto Chicken",
+                            "description": "Grilled chicken with pesto, fresh lettuce, sliced tomatoes, and melted cheese on a bakery roll.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Burger Sandwich",
+                            "description": "Juicy beef patties layered with fresh lettuce, tomato slices, and creamy sauce on a sesame seed bun.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SALADS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawns&apos; salad",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cream Pesto Chicken salad",
+                            "description": "Tender chicken chunks mixed with crisp lettuce, cherry tomatoes, and a creamy pesto dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rainbow salad",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sweet Treats ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nanaimo bar",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Bun",
+                            "description": "Soft and fluffy pastry, laced with cinnamon and topped with icing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tarts",
+                            "description": "Tarts: Choose between pecan or raisin.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Muffins",
+                            "description": "Muffins available in banana, blueberry, carrot, and chocolate chip varieties.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "cookies ",
+                            "description": "Crunchy macadamia nuts. Sweet treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastry",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese stick",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Pretzel",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Frozen Items",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Dough ",
+                            "description": "Frozen pizza dough, available in white or whole wheat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Puff Pastry",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sausage Roll ",
+                            "description": "pack of 5",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Aloo Tikki",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken",
+                            "description": "Creamy tomato-based curry with tender chicken, infused with a delicate blend of aromatic Indian spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "frozen Cookies",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Frozen Sausage Rolls(5 pices)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottle Drinks",
+                            "description": "Bottled beverages selection: Dr. Pepper, Mtn Dew, Orange Crush, Pepsi.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Soda selection: Coke or Pepsi.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Debra M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Samosas, chicken pockets and sausage roll were good. They were out of quite a few things, so didn&apos;t get to try the Cornish pasties. Prawn Salad was Cabbage, which is fine, but I don&apos;t like raw onion in salad, my preference."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Moaad H"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Beef &amp; Cheese was Great, don&apos;t recommend the pancakes.. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Chrissy S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "We received the wrong order. The pictures they have on doordash do not match what they send. We did try the cheese stick and it tasted stale and not good. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Heather K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "I was mistakenly thinking that I was paying $8.49 for a package of 5 frozen sausage rolls.  It seems rather pricey for only 1. The rest of the order looked as if it was tossed into the bag from a distance"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 3.8
+    },
+    "servesCuisine": [
+        "Bakery",
+        "Sweets",
+        "Sandwiches",
+        "Breakfast",
+        "Pastries"
+    ],
+    "url": "https://www.doordash.com/store/buns-master-bakery-&-delicatessen-richmond-982779/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16042788231",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "TUESDAY": [
+            "8:30 AM - 1:40 PM"
+        ],
+        "WEDNESDAY": [
+            "8:30 AM - 1:40 PM"
+        ],
+        "THURSDAY": [
+            "8:30 AM - 1:40 PM"
+        ],
+        "FRIDAY": [
+            "8:30 AM - 1:40 PM"
+        ],
+        "SATURDAY": [
+            "8:30 AM - 1:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "TUESDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "WEDNESDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "THURSDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "FRIDAY": [
+            "8:30 AM - 2 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,1054 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/JugoJuice_601_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/6e5b2c84-5646-4861-a13b-7c066532d86a.png"
+    ],
+    "name": "Jugo Juice",
+    "address": "Jugo Juice, 4700 Kingsway Unit 2245, Burnaby, BC V5H 4M1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.226282",
+        "longitude": "-123.002012"
+    },
+    "priceRange": "$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Beverages with Pearls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Moka Fusion",
+                            "description": "Black tea, chocolate almond milk, cold brew, cream powder, tapioca pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Twilight Black Tea",
+                            "description": "Black tea, oat milk, black sugar, cream powder, tapioca pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Caramel Bliss",
+                            "description": "Black tea, oat milk, salted caramel, cream powder, tapioca pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Lemonade",
+                            "description": "Green tea, lemonade, mango, strawberry popping pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Heart Guava",
+                            "description": "Green tea, guava, coconut jelly.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Champagne Grape",
+                            "description": "Green tea, grape, coconut jelly.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shimmering Lemonade",
+                            "description": "Lemonade, sparkling water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cran Fizz",
+                            "description": "Cranberry, sparkling water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mystical Mango",
+                            "description": "Mango, sparkling water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Made in Heaven",
+                            "description": "Oat milk, vanilla, hot water, matcha.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Taro Fantasy",
+                            "description": "Black tea, oat milk, vanilla syrup, hot water, taro, cream powder.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Tea Guava &amp; Dragon Fruit",
+                            "description": "Green tea, lemonade, guava, passionfruit, dragonfruit pulp, strawberry popping pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dragon Fruit Coconut Dream",
+                            "description": "Dragonfruit pulp, coconut milk, blue curacao, orange juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Passion Lemonade",
+                            "description": "Green tea, lemonade, passion fruit, passion fruit popping pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blue Sky Lemonade",
+                            "description": "Blue curacao, lemonade, sparkling water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Classic Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jugo Classico®",
+                            "description": "Strawberries, banana, apple juice, orange juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Magic®",
+                            "description": "Mango, orange juice, tropical juices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blushing Mango®",
+                            "description": "Mango, raspberries, tropical juices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peanut Butter &amp; Chocolate™",
+                            "description": "Contains peanuts. Banana, no added sugar frozen yogurt, unsweetened chocolate almond milk, all natural peanut butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry Rush®",
+                            "description": "Raspberries, strawberries, cranberry juice, low-fat yogurt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Berry Banana™",
+                            "description": "Strawberries, blueberries, banana, low-fat yogurt, apple juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Frosted Lemonade",
+                            "description": "Pineapple, mango, fresh lemon, and lemonade.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh Energy Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blue Crush",
+                            "description": "Pineapple, banana, blue spirulina, Greek yogurt, lemon, apple juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dragon Force",
+                            "description": "Dragon fruit, strawberries, ginger, no added sugar frozen yogurt, cranberry juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "New Vanilla Matcha",
+                            "description": "Banana, pineapple, matcha green tea, vanilla, oat milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mighty Kale",
+                            "description": "Kale, spinach, mango, pineapple, orange juice, apple juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Glow",
+                            "description": "Avocado, kale, pineapple, banana, coconut water, tropical juices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kalebunga",
+                            "description": "Fresh kale, fresh spinach, peaches, mango, cauliflower, tropical juices, apple juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jugo Cold Brew",
+                            "description": "Cold brew coffee, banana, dates, coconut milk, almond milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lavender Lover",
+                            "description": "Blueberries, banana, lavender, frozen yogurt, oat milk, orange juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Protein Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Acai Protein",
+                            "description": "vanilla whey protein, acai, strawberry, frozen yogurt, apple juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Blueberry Protein ",
+                            "description": "Vanilla whey protein, blueberries, banana, no added sugar frozen yogurt, apple juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical Green Protein ",
+                            "description": "Vanilla whey protein, kale, mango, pineapple, tropical juices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pink Power Protein",
+                            "description": "Vanilla whey protein, dragonfruit, strawberry, frozen yogurt, apple juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Morning Blend Protein",
+                            "description": "Vanilla whey protein, strawberry, banana, dates, granola, cinnamon, oat milk, apple juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha Protein",
+                            "description": "Cold brew coffee, chocolate whey protein, banana, dates, chocolate almond milk",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Peanut Butter Protein ",
+                            "description": "Contains peanuts. Chocolate whey protein, all natural peanut butter, banana, unsweetened chocolate almond milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.45"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Immunity Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Abundant Acai",
+                            "description": "acai, blueberry, mango, banana, cranberry juice, MAX+ immunity",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gold Digger",
+                            "description": "Mango, peaches, turmeric,ginger, lemon,cauliflower, unsweetened almond milk, tropical juice",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Super Green",
+                            "description": "Swiss chard, spinach, peaches, pineapple, fresh lime, orange juice, apple juice, max+ immunity",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Liquid Gold",
+                            "description": "Fresh carrot juice, orange, mango, pineapple, ginger, turmeric, tropical juices, max+ immunity",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.45"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Smoothie Bowls",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blue Heaven",
+                            "description": "Banana, pineapple, mango, blue spiriluna, honey, coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Golden Sunrise",
+                            "description": "Banana, pineappele, mango, honey, coconut milk.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Dream",
+                            "description": "Banana, pineapple, mango, spinach, honey, coconut milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "PB Delight",
+                            "description": "Banana, chocolate, peanut butter, almond milk.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Purple Paradise",
+                            "description": "Banana, pineapple, strawberries, blueberry, açaí, coconut milk.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pink Oasis",
+                            "description": "Dragonfruit, pineapple, mango, strawberry, oat milk.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Fresh Pressed Juices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple ",
+                            "description": "Fresh apples",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange ",
+                            "description": "Fresh, juicy oranges",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Triple Charged",
+                            "description": "Orange, Carrot, Apple",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Good Shot",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": " Kale Aid",
+                            "description": "Kale, red apple, spinach, celery, lemon, and ginger \n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stay Up-Beet",
+                            "description": "Beet, apple, carrot, lemon, ginger",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Wraps",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken Wrap",
+                            "description": "Chicken, romaine lettuce, provolone, BBQ sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Chicken Wrap",
+                            "description": "Chicken, spinach, red pepper, provolone, sweet chili sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Wrap",
+                            "description": "Falafels, cucumber, tomato, spinach, hummus, house-made GOA dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkey Bacon Club Wrap",
+                            "description": "Turkey, bacon, tomato, romaine lettuce, Dijon &amp; mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar Wrap",
+                            "description": "Chicken, bacon, kale, mozzarella, caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Italiano Wrap",
+                            "description": "Spinach , Red Pepper, Egg Bite, Pesto sauce, Cheddar Cheese, Spinach Tomato and whole wheat tortilla",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Grilled Cheese",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Melt Grilled Cheese",
+                            "description": "Chicken, mozzarella, spinach, caramelized onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Jalapeño Grilled Cheese",
+                            "description": "Bacon, cream cheese, cheddar cheese, jalapeño, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Three Cheese Grilled Cheese",
+                            "description": "Provolone, mozzarella, cheddar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cranberry Turkey ",
+                            "description": "Turkey, provolone, cranberry salsa, pesto.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Summer Berry Salad 32oz",
+                            "description": "Spinach, blueberries, strawberries, walnuts, feta, house dressing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jugo House Salad 32oz",
+                            "description": "Romaine, carrots, tomato, cucumber, radish, avocado, house dressing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Greek Salad 32oz",
+                            "description": "Romaine, arugula, falafels, tomato, cucumber, olives, red onion, hummus, GOA dressing, house dressing",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vega Snack Bar",
+                            "description": "A plant-based, vegan snack bar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wheatgrass",
+                            "description": "Give yourself an extra boost of vitamins, minerals, and amino acids.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Little tuck Energy ball",
+                            "description": "Salted caramel",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Little tucker energy ball",
+                            "description": "Crunchy peanut butter",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Love good fats Leto bars",
+                            "description": "Chocolate coconut",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Skinny Pop Popcorn Orinigal",
+                            "description": "Premium popcorn with the mouth watering cheddar taste you crave, but can even be enjoyed by vegans! From there, &quot;Nothing Artificial&quot; says it all. SkinnyPop is a tasty, guilt-free snack with a number of flavours to choose from.  Only 150 calories in a serving",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Skinny Pop Popcorn White Cheddar",
+                            "description": "Premium popcorn with the mouth watering cheddar taste you crave, but can even be enjoyed by vegans! From there, &quot;Nothing Artificial&quot; says it all. SkinnyPop is a tasty, guilt-free snack with a number of flavours to choose from.  Only 150 calories in a serving",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gluten-Friendly Fudge Brownie",
+                            "description": "A rich, gluten-friendly chocolate fudge brownie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Go Macro Bar",
+                            "description": "A tasty vegan bar with zero gmos.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple ",
+                            "description": "Fresh apples ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange ",
+                            "description": "Fresh, juicy oranges ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemoncocco (Bevanda Fresca Italiana )",
+                            "description": "Non Carbonated Bevanda Fresca Italiana Lemoncocco.   A Natually Flavoured Lemon &amp; Coconut Beverage. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.79"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quinoa Chips",
+                            "description": "Gluten friendly. Flavoured gourmet quinoa snack.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Love good fats keto bars",
+                            "description": "Peanut butter",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.15"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Bottled Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smart Water",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.65"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Bull",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sparkling Ice Orange",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sparkling Ice Grape ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sparkling Ice Kiwi &amp; Strawberry",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vitamin Water",
+                            "description": "Choose from - acai blueberry pomegranate -lemonade",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dasani Water",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.45"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Grab n Go",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pudding chia lagon bleu / Blue Lagoon Chia Pudding",
+                            "description": "Graines de chia, lait d&apos;amande, spiruline bleue, yogourt à la vanille, bleuets, graines de chanvre. / Chia seeds, almond milk, blue spirulina, vanilla yogurt, blueberries, hemp seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pudding chia banane et beurre d&apos;arachides / Banana Peanut Butter Chia Pudding",
+                            "description": "Graines de chia, lait d&apos;amande, vanille, granola, banane, beurre d’arachides. / Chia seeds, almond milk, vanilla, granola, banana, peanut butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coupe de fruits - melon d&apos;eau / Fruit Cup - Watermelon",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coupe de fruits - melon &amp; raisins / Fruit Cup - Melon and Grapes",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Smoothies",
+        "Protein Shakes",
+        "Wraps",
+        "Sandwiches",
+        "Juice &amp; Smoothie"
+    ],
+    "url": "https://www.doordash.com/store/jugo-juice-burnaby-31575421/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044383336",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 8:40 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 7:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 9 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 9 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

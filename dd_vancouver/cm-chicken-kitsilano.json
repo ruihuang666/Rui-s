@@ -1,0 +1,639 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/1dd9cfb8-8e24-4ea8-afb3-cc5b7f950076.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/4f3a4370-e646-47ea-bc39-0d635565f7ad.png"
+    ],
+    "name": "CM CHICKEN KITSILANO",
+    "address": "1629 Yew St, Vancouver, BC V6K 3E6, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.271255",
+        "longitude": "-123.15517"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "10. Garlic Spicy Chicken (Boneless)",
+                            "description": "Medium. Sweet and spicy chicken, perfect for garlic lovers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6. CM Fried Chicken (Boneless)",
+                            "description": "Classic and crispy chicken fried to golden perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12. Garlic Soy Chicken (Boneless)",
+                            "description": "Our signature crispy chicken tossed in a soy-garlic glaze. You love this if you like Honey Garlic ^^ ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "9. Snow + Garlic Spicy Chicken (Boneless)",
+                            "description": "Mild Spicy. CM signature sweet &amp; spicy chicken.\n\n *Allergy warning: snow sauce contains peanut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "11. Red Hot Pepper Chicken (Boneless)",
+                            "description": "Spicy. Crispy and tender chicken tossed in our addictive red pepper paste sweet sauce. *** Please don&apos;t forget !  This is Korean Spicy~ ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice Cake Skewers",
+                            "description": "Deep-fried rice cake with garlic spicy sauce.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1. Snow Onion Chicken",
+                            "description": "Fresh sliced onions and refreshing white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean fried dumpling(7pcs)",
+                            "description": "Crispy Korean fried dumplings filled with seasoned chicken, vegetables, and spices. Seven pieces per serving.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Variety Combo",
+                            "description": "Garlic Soy, Snow Onion, Spicy Garlic, Lemon Green Onion and Curry boneless chicken with taster tot potato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$64.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3. Curry Snow Onion Chicken",
+                            "description": "Fresh sliced onions and refreshing curry and white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Chicken Rice Bowl",
+                            "description": "Crispy fried chicken pieces on a bed of rice, topped with sliced green onions and drizzled with creamy mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Taster Tot Potato (Bite)",
+                            "description": "Crispy, crispy~   Please try our crispy PEI potato bites.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Snow",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "1. Snow Onion Chicken",
+                            "description": "Fresh sliced onions and refreshing white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3. Curry Snow Onion Chicken",
+                            "description": "Fresh sliced onions and refreshing curry and white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2. Hot Snow Onion Chicken",
+                            "description": "Spicy. Fresh sliced onions and refreshing white sauce on top of crispy fried chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eco",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4. Lemon Green Onion Chicken",
+                            "description": "Crispy chicken topped with sliced green onions mixed in our signature lemon dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5. Soy Garlic Green Onion Chicken",
+                            "description": "Crispy chicken smothered in a soy glaze and topped with sliced green onions mixed in our soy garlic dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Original",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "6. CM Fried Chicken (Boneless)",
+                            "description": "Classic and crispy chicken fried to golden perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Special",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "8. Cheese Monster Chicken",
+                            "description": "Rich Canadian cheddar cheese powder.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "7. Bacon Spinach Chicken",
+                            "description": "Fried chicken with bacon, spinach, tomato and onion. Sensational flavor! All local produced.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Spicy",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "9. Snow + Garlic Spicy Chicken (Boneless)",
+                            "description": "Mild Spicy. CM signature sweet &amp; spicy chicken.\n\n *Allergy warning: snow sauce contains peanut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "11. Red Hot Pepper Chicken (Boneless)",
+                            "description": "Spicy. Crispy and tender chicken tossed in our addictive red pepper paste sweet sauce. *** Please don&apos;t forget !  This is Korean Spicy~ ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10. Garlic Spicy Chicken (Boneless)",
+                            "description": "Medium. Sweet and spicy chicken, perfect for garlic lovers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Holic",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "12. Garlic Soy Chicken (Boneless)",
+                            "description": "Our signature crispy chicken tossed in a soy-garlic glaze. You love this if you like Honey Garlic ^^ ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "13. Curry Chicken (Boneless)",
+                            "description": "Our signature crispy chicken tossed in a soy-garlic glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "CM COMBO",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Variety Combo",
+                            "description": "Garlic Soy, Snow Onion, Spicy Garlic, Lemon Green Onion and Curry boneless chicken with taster tot potato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$64.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TRIPLE COMBO ",
+                            "description": "TRIPLE COMBO  \n1. Garlic Soy CM CHICKEN + \n2. Snow Onion CM CHICKEN + \n3. Spicy Garlic CM CHICKEN + \n4. Vancouver House Salads + \n5. Korean Spicy Rice Cake Bowl\n6. Korean Radish Pickles",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$64.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice Cake Skewers",
+                            "description": "Deep-fried rice cake with garlic spicy sauce.  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean fried dumpling(7pcs)",
+                            "description": "Crispy Korean fried dumplings filled with seasoned chicken, vegetables, and spices. Seven pieces per serving.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Taster Tot Potato (Bite)",
+                            "description": "Crispy, crispy~   Please try our crispy PEI potato bites.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Pepper Spicy Rice Cake",
+                            "description": "Stir rice cake with sweet red chilli sauce and black pepper rice cake, fish cake, cabbage, onion, green onion, and boiled egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Chicken Rice Bowl",
+                            "description": "Crispy fried chicken pieces on a bed of rice, topped with sliced green onions and drizzled with creamy mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rice",
+                            "description": "Fluffy steamed white rice, ideal for pairing with a variety of main dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pickled Radish",
+                            "description": "This is Korean style radish pickles !  ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Chicken Salad",
+                            "description": "Fried chicken served atop a blend of lettuce, tomatoes, onions, and cheese, typically accompanied by dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Homemade dumpling p3cs",
+                            "description": "Three pieces of homemade dumplings, fried to achieve a crispy exterior, typically filled with a savory chicken mixture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Salad (local produces)",
+                            "description": "Spring mix with snow onion dressing. We only use daily local produces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean fish cake soup",
+                            "description": "A light broth with assorted fish cakes, garnished with green onions and vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CM Chicken Sauces(8 different flavors)",
+                            "description": "Garlic spicy, garlic soy, wasabi lemon, snow onion, hot red pepper cheese monster, curry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drink",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Carbonated cola beverage with a refreshing, sweet taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Perrier Sparkling Water(Italy)",
+                            "description": "Perrier Sparkling Water(Italy)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "A cola-flavored soft drink, offering a crisp and refreshing taste without sugar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Crisp, Refreshing Lemon-Lime Carbonated Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jason L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The Soy garlic chicken is to die for. I absolutely recommend. The portions are usually good, the taste is out of this world. It&apos;s too expensive to eat all the time but when you want to treat yourself, this is a great choice."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sue J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Love their fried chickens and sauces. It&apos;s crispy and always hit the spot."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Daeun S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Chicken and sauce are really great though my favorite is your tteokkbokki, you should add your menu \nSazangnim zzang bb"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tar M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "great new addition to yew street, totally hits that  fried chicken spot better than anything else ive tried in the area which often lacks flavor. Asian fried chicken is the best kind and you should  definitely check out dishes like the curry snow chicken or the soy garlic glaze!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mary V"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "Lots of chicken but it is cold and not crispy. Lack of flavor."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Chicken",
+        "Curry",
+        "Fried Chicken",
+        "Beer",
+        "Fast Food"
+    ],
+    "url": "https://www.doordash.com/store/cm-chicken-kitsilano-vancouver-24474412/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6047275878",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "3 PM - 12:40 AM"
+        ],
+        "TUESDAY": [
+            "3 PM - 12:40 AM"
+        ],
+        "WEDNESDAY": [
+            "3 PM - 12:40 AM"
+        ],
+        "THURSDAY": [
+            "3 PM - 12:40 AM"
+        ],
+        "FRIDAY": [
+            "3 PM - 12:40 AM"
+        ],
+        "SATURDAY": [
+            "3 PM - 12:40 AM"
+        ],
+        "SUNDAY": [
+            "3 PM - 12:40 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "3 PM - 1 AM"
+        ],
+        "TUESDAY": [
+            "3 PM - 1 AM"
+        ],
+        "WEDNESDAY": [
+            "3 PM - 1 AM"
+        ],
+        "THURSDAY": [
+            "3 PM - 1 AM"
+        ],
+        "FRIDAY": [
+            "3 PM - 1 AM"
+        ],
+        "SATURDAY": [
+            "3 PM - 1 AM"
+        ],
+        "SUNDAY": [
+            "3 PM - 1 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,94 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/02fb9bde-bb37-4c9e-a974-9264aec7aac5.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/d1c68a68-5ea3-4549-88a5-8a913de43c8a.jpg"
+    ],
+    "name": "Yam Bai Chngang Khmer Restaurant",
+    "address": "7771 Westminster Hwy #170, Richmond, BC V6X 3Y5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.17053",
+        "longitude": "-123.13959"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Menu",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Garlic Chicken Wings - Salap Muon Jean Ktoum Saul",
+                            "description": "Common allergens: barley, egg, fish, milk, oyster, soy, wheat",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Noodle Stew (1/10 spicy) - Mee Kaw Go",
+                            "description": "Common allergens: barley, egg, fish, milk, oyster, soy, wheat",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Khmer Noodle in Chicken Curry Soup (1/10 spicy) - Noem Bunjok Somlaw Curry Sak Muon",
+                            "description": "Common allergens: barley, egg, fish, milk, shrimp, soy, sulphite, wheat",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Amy C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Absolutely delicious! Also good portion size too! "
+        }
+    ],
+    "servesCuisine": [
+        "Cambodian",
+        "Casual Dining"
+    ],
+    "url": "https://www.doordash.com/store/yam-bai-chngang-khmer-restaurant-richmond-28281397/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6725152939",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 1:15 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 12:55 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 1:15 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

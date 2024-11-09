@@ -1,0 +1,536 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/pizzapzazz.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/febc2eb8-6459-4598-a35f-9794167ae0d4.jpg"
+    ],
+    "name": "Pizza Pzazz",
+    "address": "1689 Johnston St, Vancouver, BC V6H 3R9, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.272778",
+        "longitude": "-123.135155"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni",
+                            "description": "Our signature pizza, perfect pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Island",
+                            "description": "Classic! A generous topping of ham and pineapple, topped with mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesy Cheese",
+                            "description": "A creamy blend of cream cheese, pesto\nAnd tomato sauce, topped with generous amounts of mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Super Hawaiian",
+                            "description": "Ham, real crumbled bacon, pepperoni, and pineapple. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Mushroom",
+                            "description": "A favorite combination.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sicilian",
+                            "description": "Onion, mushroom, green peppers, and tomatoes, topped with pepperoni slices and black olives. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadian",
+                            "description": "Mushroom, our famous pepperoni, real crumbled bacon pieces. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Market fresh Romaine lettuce, tossed with crunchy croutons and creamy Caesar dressing. Topped with Parmesan  and served with a slice of our pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken",
+                            "description": "A perfectly loaded pizza starting with our BBQ sauce, roasted chicken, onion, a blend of red, green, and yellow bell peppers, topped with mozzarella and cheddar cheeses.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Tomato Penne",
+                            "description": "For those that can&apos;t decide between our sauces, blend them for a unique flavor experience. Topped with parmesan and served with a slice of pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti &amp; Meatballs",
+                            "description": "Spaghetti and meatballs smothered in our homemade tomato sauce, topped with parmesan cheese and a wedge of our pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Build Your Own",
+                            "description": "Customizable pizza with choice of size (10&quot;-18&quot;). Variety of toppings: four cheeses, meats like chicken, pepperoni, bacon, ham, and vegetarian options including mushrooms, spinach, artichokes, and sauces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Caesar Salad",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Market fresh Romaine lettuce, tossed with crunchy croutons and creamy Caesar dressing. Topped with Parmesan  and served with a slice of our pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni",
+                            "description": "Our signature pizza, perfect pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Island",
+                            "description": "Classic! A generous topping of ham and pineapple, topped with mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Mushroom",
+                            "description": "A favorite combination.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margarita  (Vegetarian Pizza)",
+                            "description": "Thick-cut slices of fresh tomatoes on a bed of mozzarella and Parmesan cheese. Finished with fresh basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Build Your Own",
+                            "description": "Customizable pizza with choice of size (10&quot;-18&quot;). Variety of toppings: four cheeses, meats like chicken, pepperoni, bacon, ham, and vegetarian options including mushrooms, spinach, artichokes, and sauces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadian",
+                            "description": "Mushroom, our famous pepperoni, real crumbled bacon pieces. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Super Hawaiian",
+                            "description": "Ham, real crumbled bacon, pepperoni, and pineapple. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Granville Island  (Vegetarian Pizza)",
+                            "description": "Sun-dried tomato, artichoke hearts, and feta cheese, roasted garlic. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken",
+                            "description": "A perfectly loaded pizza starting with our BBQ sauce, roasted chicken, onion, a blend of red, green, and yellow bell peppers, topped with mozzarella and cheddar cheeses.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Chicken",
+                            "description": "Our own Cajun-style marinated chicken, onion, green pepper, and whole roasted garlic. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sicilian",
+                            "description": "Onion, mushroom, green peppers, and tomatoes, topped with pepperoni slices and black olives. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smokey Mountain",
+                            "description": "A staff favorite. Onions, mushrooms, and real crumbled bacon pieces on top of our BBQ sauce. Sweet and savory.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mediterranean",
+                            "description": "Onion, mixed peppers, chorizo, whole\nRoasted garlic, black olives and Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Greek  (Vegetarian Pizza)",
+                            "description": "Fresh baby spinach and whole roasted garlic with onions, tomatoes, and black olives.\nMozzarella and feta cheeses.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesy Cheese",
+                            "description": "A creamy blend of cream cheese, pesto\nAnd tomato sauce, topped with generous amounts of mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Market Garden (Vegetarian Pizza)",
+                            "description": "A selection of fresh garden veggies, onion, mushroom, mixed peppers and tomato, topped with mozzarella and feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Whatchamacallit",
+                            "description": "Chorizo, mixed peppers, onion, spinach, banana peppers, and feta cheese. Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti &amp; Meatballs",
+                            "description": "Spaghetti and meatballs smothered in our homemade tomato sauce, topped with parmesan cheese and a wedge of our pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Pesto Penne",
+                            "description": "A cheese lover&apos;s delight. Penne pasta tossed in our signature creamy pesto sauce, topped off with parmesan and served with a slice of our pan\nBread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Tomato Penne",
+                            "description": "For those that can&apos;t decide between our sauces, blend them for a unique flavor experience. Topped with parmesan and served with a slice of pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomato Penne",
+                            "description": "Penne pasta tossed in our fresh tomato basil sauce, topped with parmesan and served with a slice of pan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canned Pop ",
+                            "description": "Selection of canned soda: Coke, Diet Coke, Coke Zero, Sprite, Ginger Ale, Root Beer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "Pure and refreshing bottled water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Will G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Great thick pizza always left overs and amazing re air fired later ! "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ermis C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Caesar Salad is on point, real saucy. Cheesy Cheese Pizza is on point, real cheesy."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Nicholas C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "proper cheesy greasy pizza without being overkill. a new favorite"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Alex M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Awful! This place should not even be in business. The pizza was burnt.. mushrooms were literally charred..had to throw it away!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Carrie B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The cheese pizza is fantastic! Bought on Granville Island and then ordered more a few days later!"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Salads",
+        "Pizza",
+        "Gelato"
+    ],
+    "url": "https://www.doordash.com/store/pizza-pzazz-vancouver-969448/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16046899002",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 5:10 PM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 5:10 PM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 5:10 PM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 5:10 PM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 5:10 PM"
+        ],
+        "SUNDAY": [
+            "9:30 AM - 5:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "9:30 AM - 5:30 PM"
+        ],
+        "TUESDAY": [
+            "9:30 AM - 5:30 PM"
+        ],
+        "WEDNESDAY": [
+            "9:30 AM - 5:30 PM"
+        ],
+        "THURSDAY": [
+            "9:30 AM - 5:30 PM"
+        ],
+        "FRIDAY": [
+            "9:30 AM - 5:30 PM"
+        ],
+        "SUNDAY": [
+            "9:30 AM - 5:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

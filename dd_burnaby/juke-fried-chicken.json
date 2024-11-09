@@ -1,0 +1,877 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/986cae3b-300e-4c1c-b29e-e557849a6374.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/8cb6ae90-d338-4a96-96f5-6569339d8f24.jpg"
+    ],
+    "name": "Juke Fried Chicken",
+    "address": "182 Keefer St, Vancouver, BC V6A 1X4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.27944",
+        "longitude": "-123.10035"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Small Fry",
+                            "description": "Twice cooked, golden perfection fries. Tossed in our fry seasoning. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 pc Regular Nuggets",
+                            "description": "Hand cut, all white meat nuggets, with a tangy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken",
+                            "description": "Crunchy Bite Size pieces of Chicken, so much better than regular popcorn, in our humble opinion. can be added to our Mac and Cheese, or our All dressed fries to complete your meal!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Fry",
+                            "description": "Twice cooked, golden perfection fries. Tossed in our fry seasoning. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 pc Regular Nuggets",
+                            "description": "Hand cut, all white meat nuggets with a tangy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Asian Peanut Slaw",
+                            "description": "Shredded cabbage, carrot and red onion, tossed in a southeast-Asian style peanut and herb sauce, topped with roasted peanuts.  The perfect light, fresh, &amp; crunchy counterpoint to our tender fried chicken &amp; sticky ribs. \n\n*Peanut-free option available - please select peanut allergy ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 pc Spicy Nuggets",
+                            "description": "Hand cut, all white meat nuggets, with a spicy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 pc Chicken",
+                            "description": "Our crispy gluten free chicken thighs and drumsticks. \n\nLocally sourced from Rossdown Farms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Jukebox",
+                            "description": "Can&apos;t decide? Juke&apos;s classic combo gives you a bit of everything, 2-PC fried chicken, 3-PC of our featured flavour Ribs, and a side of your choice. A feast for one, or a fun snack for two!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hush Puppies",
+                            "description": "Shhhhhh..... puppy. A Southern classic. Crispy cornmeal based fritters made with jalapeños and cheese. Tender and chewy on the inside, and a perfect little snack. Gluten free; contains dairy and eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 pc Chicken",
+                            "description": "Our crispy gluten free chicken thighs and drumsticks. \n\nLocally sourced from Rossdown Farms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Big Chicken Sando",
+                            "description": "Our classic but bigger and better! Crispy-fried, local free-range boneless chicken thigh on a brioche bun, with house-made coleslaw and our own tasty bun sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Restaurant Gratuity ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "$11 Restaurant Gratuity",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "$7 Restaurant Gratuity",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "$5 Restaurant Gratuity",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Add Cutlery",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken and Ribs",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 pc Regular Nuggets",
+                            "description": "Hand cut, all white meat nuggets, with a tangy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 pc Chicken",
+                            "description": "Our crispy gluten free chicken thighs and drumsticks. \n\nLocally sourced from Rossdown Farms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 pc Spicy Nuggets",
+                            "description": "Hand cut, all white meat nuggets, with a spicy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 pc Chicken",
+                            "description": "Our crispy gluten free chicken thighs and drumsticks. \n\nLocally sourced from Rossdown Farms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 pc Regular Nuggets",
+                            "description": "Hand cut, all white meat nuggets with a tangy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 pc Chicken",
+                            "description": "Our crispy gluten free chicken thighs and drumsticks. \n\nLocally sourced from Rossdown Farms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10 pc Feature Ribs",
+                            "description": "Say hello once again to our secret staff favourite, Nuoc Cham Ribs! Vietnamese inspired sweet and spicy sauce, topped with thai chili, peanuts, sesame seed, green onion and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$41.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 pc Spicy Nuggets",
+                            "description": "Hand cut, all white meat nuggets, with a spicy seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 pc Chicken",
+                            "description": "Our crispy gluten free chicken thighs and drumsticks. \n\nLocally sourced from Rossdown Farms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet n Spicy Wings",
+                            "description": "10 pieces deep fried and tossed in sweet &amp; spicy *sauce. Topped with sesame seeds, cilantro, green onion, and Thai basil. *Contains GF Soy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Wings",
+                            "description": "10 pieces deep fried and tossed in our signature Juke hot sauce with a spicy kick. Topped with Bread &amp; Butter pickles. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5 pc Feature Ribs",
+                            "description": "Say hello once again to our secret staff favourite, Nuoc Cham Ribs! Vietnamese inspired sweet and spicy sauce, topped with thai chili, peanuts, sesame seed, green onion and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 pc Feature Ribs",
+                            "description": "Say hello once again to our secret staff favourite, Nuoc Cham Ribs! Vietnamese inspired sweet and spicy sauce, topped with thai chili, peanuts, sesame seed, green onion and cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "GF Big Chicken Sando",
+                            "description": "Our classic but bigger, better and Gluten free! Crispy-fried, local free-range boneless chicken thigh on a brioche bun, with house-made coleslaw and our own tasty bun sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jr Juke",
+                            "description": "House-made crispy chicken patty (GF), miso-garlic mayo, shredded Iceberg lettuce, and bread &amp; butter pickles on a potato bun.\n\nAdd American cheese for $1. GF bun option available.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jr Juke spicy",
+                            "description": "House-made crispy chicken patty (GF), miso-garlic mayo, shredded Iceberg lettuce, and bread &amp; butter pickles on a potato bun.\n\nAdd American cheese for $1. GF bun option available.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Big Chicken Sando",
+                            "description": "Our classic but bigger and better! Crispy-fried, local free-range boneless chicken thigh on a brioche bun, with house-made coleslaw and our own tasty bun sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parm Sando",
+                            "description": "Warm and cozy!! Panko-crusted chicken breast, marinara sauce, basil, melted mozzarella, pesto-mayo, garlic butter on a brioche bun. Gluten Free with Bun substitution.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides and Snacks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Fry",
+                            "description": "Twice cooked, golden perfection fries. Tossed in our fry seasoning. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Small Fry",
+                            "description": "Twice cooked, golden perfection fries. Tossed in our fry seasoning. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken",
+                            "description": "Crunchy Bite Size pieces of Chicken, so much better than regular popcorn, in our humble opinion. can be added to our Mac and Cheese, or our All dressed fries to complete your meal!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mac n Cheese",
+                            "description": "Velvety cheese sauce, topped with our cornbread crumble and baked to perfection. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brussels Sprouts",
+                            "description": "These brussels are a staff and customer favourite! \r\nDeep fried brussels sprouts with lemon vinaigrette and topped with spicy furikake., what&apos;s not to like?",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hush Puppies",
+                            "description": "Shhhhhh..... puppy. A Southern classic. Crispy cornmeal based fritters made with jalapeños and cheese. Tender and chewy on the inside, and a perfect little snack. Gluten free; contains dairy and eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Asian Peanut Slaw",
+                            "description": "Shredded cabbage, carrot and red onion, tossed in a southeast-Asian style peanut and herb sauce, topped with roasted peanuts.  The perfect light, fresh, &amp; crunchy counterpoint to our tender fried chicken &amp; sticky ribs. \n\n*Peanut-free option available - please select peanut allergy ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "All Dressed Fries",
+                            "description": "The beloved all dressed flavour in the form of spicy garlic mayo, house pickles, parmesan and crunchy fried onions. Made for your in a whopping 20oz (that&apos;s big!)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Skins",
+                            "description": "Exactly what they sound like. Fried Chicken Skins seasoned with a light dust of Tajin spice and Sriracha honey drizzle. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Miso Corny Cookie",
+                            "description": "A soft and delicious blend of toffee, corn crackle, and white chocolate cookie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gravy - Reg",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gravy - Large",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepper Ranch Side",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chipotle Maple Side",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Siracha Honey Side",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Sauce Side",
+                            "description": "Juke&apos;s Classic mild hot sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Side",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Omega Side",
+                            "description": "She Spicy!! Our habanero hot sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ketchup Side",
+                            "description": "the good ol&apos; reliable pairing for our fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Mustard Side",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Birds &amp; Bees Beta 5 Bar",
+                            "description": "Juke &amp; Beta 5 collab, get it while supplies last!!!\r\nCaramelized white chocolate, honey-schmaltz caramel, crispy chicken skin.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Meals and Combos",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Jukebox",
+                            "description": "Can&apos;t decide? Juke&apos;s classic combo gives you a bit of everything, 2-PC fried chicken, 3-PC of our featured flavour Ribs, and a side of your choice. A feast for one, or a fun snack for two!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jr Juke Box",
+                            "description": "Grab some of our Jr. Jukes for you and your pals! 4 Jr. Jukes in each box. Choose from: Regular, Spicy, or Half &amp; Half. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 pc Chicken n Waffles",
+                            "description": "Two House-made GF Belgian-style waffles and two crispy fried chicken pieces with pickled jalapeños and maple-chipotle drizzle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Juke Salad",
+                            "description": "Iceberg lettuce, cubed cheddar, cherry tomatoes, shaved fennel, red onion, radish, and sunflower seeds with your choice of Sesame dressing OR Ranch dressing on the side\n\nContains dairy and eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meal for Four",
+                            "description": "Family Movie night? Sharing with friends? Don&apos;t want to meal prep for the week? Get our Meal for Four combo; 8 pieces of our classic fried chicken, 10 hot wings, large fry, large gravy, a choice of slaw or brussels sprouts and two dipping sauces. All items are gluten free. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$72.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "GF Jr Juke Box",
+                            "description": "Grab some of our Jr. Jukes for you and your pals, all gluten free! 4 Jr. Jukes in each box. Choose from: Regular, Spicy, or Half &amp; Half. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meal for Two",
+                            "description": "Date night? Sharing with a friend? Are you just super duper hungry? Get our Meal for two combo; 5 pieces of our classic fried chicken, mac n cheese, hush puppies, a choice of slaw or brussels sprouts and two dipping sauces. All items are gluten free. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$43.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Popcorn Chicken Salad",
+                            "description": "Iceberg lettuce, cubed cheddar, cherry tomatoes, shaved fennel, red onion, radish, and sunflower seeds with your choice of Sesame dressing OR Ranch dressing on the side, topped with Popcorn Chicken\n\nContains Dairy, Gluten Free",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Non-Alc Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet Coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Root Beer",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange Crush",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coca Cola",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "7-Up",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Casey B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "The ribs are INSANELY good, best I&apos;ve ever had. the fried chicken is really good, the high puppies are fire. I&apos;m obsessed with this place!!! and the best part is that almost everything on their menu is gluten free!!!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Graham L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Forgot my sauce I ordered. Chicken is good, hush puppies too doughy. Still great gluten free offering ,"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Theo J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious. Juke is my go-to place for chicken nuggets. Highly recommend the chipotle maple dip"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "YARDIECRAY G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "THE FOOD IS TO DIE FOR I THINK ABOUT HOW DELICIOUS THE CHIKEN IS AND THE CORN ON THE COBB, OUT OF THIS WORLD"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tim H"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Juke is the best fried chicken. It&apos;s worth every penny. It&apos;s straight up lunacy to save a buck or two and end up with nasty ancient oil and gnarly chicken rather than buy this stuff. They can send me 100% of the chicken they would otherwise have to throw out and I will eat that up no probalo."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Fried Chicken",
+        "Chicken",
+        "Ribs",
+        "Fries",
+        "Sandwiches",
+        "Waffles",
+        "Salad",
+        "#blackfoodenergy"
+    ],
+    "url": "https://www.doordash.com/store/juke-fried-chicken-vancouver-65012/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16043365853",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 11:25 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 11:25 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 11:25 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 11:25 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11:25 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 11:25 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 11:25 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 11:45 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 11:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 11:45 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 11:45 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11:45 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 11:45 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 11:45 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

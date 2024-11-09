@@ -1,0 +1,751 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/80956531-e19e-476f-a3e7-11228beccd84.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/cb2ebdc7-c0aa-452a-8619-cf35ce4807d7.jpg"
+    ],
+    "name": "New Brandiz Fast Food",
+    "address": "100 Hastings St E, Vancouver, BC V6A 4J1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.281254",
+        "longitude": "-123.10214"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jumbo 100% Beef Hot Dog (with Mozzarella Cheese)",
+                            "description": "Comes with your choice of ketchup, mustard, relish and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Beef Lasagna",
+                            "description": "Layers of seasoned ground beef, cheese and pasta baked into individual tins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shepherd&apos;s Pie",
+                            "description": "Ground beef cooked in gravy with onions, peas, celery and carrots, and finally, topped with a layer of mashed potatoes. Cut and served in individual portions. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cherry Pie ",
+                            "description": "One slice of our home-made cherry pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese",
+                            "description": "Two toasted grilled cheddar cheese sandwiches served with a side of ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry New York Style Cheesecake",
+                            "description": "One slice of our sky-high New York-style cheesecake served with our raspberry compote. Double the size of our previous portions, this cheesecake slice is filling! Each order comes with one slice. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Meringue Pie ",
+                            "description": "One slice of our home-made lemon meringue pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fried Rice and Caesar Salad",
+                            "description": "Chicken fried rice paired with Caesar salad. Choose from small, medium, or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine (Regular Size)",
+                            "description": "Baked french fries topped with homemade gravy and shredded mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon-Cheese Smokies (with Melted Mozzarella Cheese)",
+                            "description": "Your choice of ketchup, mustard, relish and onions on a toasted smokie containing cheddar cheese and bacon bits. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Dog and Fries",
+                            "description": "Juicy, grilled hot dog served with crispy golden fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry-Rhubarb Pie (Seasonal)",
+                            "description": "One slice of our home-made strawberry-rhubarb pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Place Settings",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Number of Plastic Cutlery",
+                            "description": "How many people will be eating from this order?",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot and Special Eats",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shepherd&apos;s Pie",
+                            "description": "Ground beef cooked in gravy with onions, peas, celery and carrots, and finally, topped with a layer of mashed potatoes. Cut and served in individual portions. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Beef Lasagna",
+                            "description": "Layers of seasoned ground beef, cheese and pasta baked into individual tins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Baked Seasoned Chicken Leg",
+                            "description": "Oven-baked chicken legs seasoned with a dozen house spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine (Regular Size)",
+                            "description": "Baked french fries topped with homemade gravy and shredded mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "4 Spring Rolls ",
+                            "description": "Baked meat spring rolls, served with plum and soy sauce. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries&amp;gravy",
+                            "description": "Oven-baked fries. Available with seasoning on the side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon-Cheese Smokies (with Melted Mozzarella Cheese)",
+                            "description": "Your choice of ketchup, mustard, relish and onions on a toasted smokie containing cheddar cheese and bacon bits. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad  (Large Size)",
+                            "description": "A large portion of a classic favourite including greens, croutons, parmesan and ranch dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Macaroni with Alfredo Sauce ",
+                            "description": "Macaroni pasta served with fresh Alfredo sauce  made in-house with cream, parmesan cheese and spices. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 x Baked Chicken Legs",
+                            "description": "Two oven-baked chicken legs seasoned with a dozen house spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine (Large Size)",
+                            "description": "Baked french fries topped with homemade gravy and shredded mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad (Regular Size)",
+                            "description": "A regular or medium portion of a classic favourite including greens, croutons, parmesan and ranch dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fried Rice",
+                            "description": "Seasoned rice filled with mixed vegetables and marinated diced chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese",
+                            "description": "Two toasted grilled cheddar cheese sandwiches served with a side of ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Perogies with Sour Cream",
+                            "description": "Cheese and potato-filled boiled Perogies served with seasoned onions and bacon bits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Brandiz Hamburgers and Hot Dogs",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brandiz Bacon Cheeseburger ",
+                            "description": "Bacon cheeseburgers come with melted mozzarella cheese and bacon bits on our delicious burger patties, which are made fresh in house daily. Served with your choice of ketchup, mustard, mayonnaise, lettuce, tomato and onion. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brandiz Double Cheeseburger",
+                            "description": "Double cheeseburgers come with melted mozzarella cheese on two delicious burger patties, which are made fresh in house daily. Served with your choice of ketchup, mustard, mayonnaise, lettuce, tomato and onion. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jumbo 100% Beef Hot Dog (with Mozzarella Cheese)",
+                            "description": "Comes with your choice of ketchup, mustard, relish and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brandiz Cheeseburger",
+                            "description": "Cheeseburgers come with melted mozzarella cheese on our delicious burger patties, which are made fresh in house daily. Served with your choice of ketchup, mustard, mayonnaise, lettuce, tomato and onion. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Build Your Own Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Small Two-Topping Pizza",
+                            "description": "Small two-topping pizza with extra mozzarella cheese. Available toppings listed below.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Triple Cheese Pizza (with White Sauce)",
+                            "description": "The perfect option for anyone who loves cheese and despises tomatoes. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Two-Topping Pizza",
+                            "description": "Large two-topping pizza with extra mozzarella cheese. Available toppings listed below.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large All Meat Pizza",
+                            "description": "Our fully-loaded, extra large All Meat Pizza contains piles of ham, beef bits, pepperoni, and bacon bits, on top of an extra helping of mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Medium Two-Topping Pizza",
+                            "description": "Medium two-topping pizza with extra mozzarella cheese. Available toppings listed below.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "X-Large Two-Topping Pizza",
+                            "description": "Extra large two-topping pizza with extra mozzarella cheese. Available toppings listed below.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Combos",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smokie and Fries",
+                            "description": "Crispy fries topped with smoked sausage slices, typically includes a blend of melted cheeses and a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Dog and Fries",
+                            "description": "Juicy, grilled hot dog served with crispy golden fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fried Rice and Caesar Salad",
+                            "description": "Chicken fried rice paired with Caesar salad. Choose from small, medium, or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Leg and Chicken Fried Rice",
+                            "description": "Tender chicken leg paired with seasoned fried rice, mixed with peas and carrots. Served with soy sauce and hot sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheeseburger and Fries",
+                            "description": "Juicy beef patty topped with melted cheese, creamy mayo, and shredded lettuce, served with crispy fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Leg and Fries",
+                            "description": "Juicy chicken leg paired with crispy fries, accompanied by two dipping sauces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two Chicken Legs and Chicken Fried Rice",
+                            "description": "Two chicken legs paired with chicken fried rice. Available in medium or large.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Leg and Caesar Salad  ",
+                            "description": "Roasted chicken leg paired with a classic Caesar salad, typically consisting of romaine lettuce, croutons, and parmesan cheese, all tossed in a Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two Chicken Legs and Caesar Salad",
+                            "description": "Juicy, seasoned chicken legs paired with a crisp Caesar salad, featuring romaine lettuce, croutons, and creamy Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two Chicken Legs and Fries",
+                            "description": "Two fried chicken legs accompanied by golden fries, prepared Italian-style.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fried Rice and Shepard&apos;s Pie ",
+                            "description": "A combination of savory chicken fried rice paired with shepherd&apos;s pie, which typically includes ground meat and vegetables topped with mashed potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canned Pop",
+                            "description": "Variety of canned pop options including Pepsi, Coca Cola, diet options, and a selection of Crush and classic flavors like ginger ale and 7up.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canned Arizona Drinks",
+                            "description": "Including the half and half flavor and Mucho mango.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Pop (710 mL)",
+                            "description": "710 ml bottled soda in choices of Pepsi, Coca Cola, Orange Crush, Dr. Pepper, Canada Dry Ginger Ale, or Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Water",
+                            "description": "A 500 mL bottle of Nestle PureLife water.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bottled Pop (2 L)",
+                            "description": "2 L bottled soda. Choice of Pepsi, Coca Cola, Mug Root Beer, Ginger Ale, or Orange Crush.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Meringue Pie ",
+                            "description": "One slice of our home-made lemon meringue pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blueberry Pie",
+                            "description": "One slice of our home-made blueberry pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry-Rhubarb Pie (Seasonal)",
+                            "description": "One slice of our home-made strawberry-rhubarb pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cherry Pie ",
+                            "description": "One slice of our home-made cherry pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Banana Coconut Cream Pie",
+                            "description": "One slice of our home-made banana coconut cream pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raspberry New York Style Cheesecake",
+                            "description": "One slice of our sky-high New York-style cheesecake served with our raspberry compote. Double the size of our previous portions, this cheesecake slice is filling! Each order comes with one slice. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry New York Style Cheesecake ",
+                            "description": "One slice of our sky-high New York-style cheesecake served with our strawberry compote. Double the size of our previous portions, this cheesecake slice is filling! Each order comes with one slice. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Pie",
+                            "description": "Once slice of our home-made apple pie.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hillary D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Jim bo 100% Beef Hot Dog (with Mozzarella Cheese) is some yummy realness. Big portions and great, HOT food. Will be ordering again!! Thanks for the new local food joint of my choice!"
+        }
+    ],
+    "servesCuisine": [
+        "Italian",
+        "Pizza",
+        "Burgers",
+        "Hot Dogs"
+    ],
+    "url": "https://www.doordash.com/store/new-brandiz-fast-food-vancouver-24072392/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6047161315",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 12 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 11:40 AM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 11:40 AM"
+        ],
+        "THURSDAY": [
+            "11 AM - 11:40 AM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11:39 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 11:10 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 11:40 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 12 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 12 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 12 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 12 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 11:59 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 11:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

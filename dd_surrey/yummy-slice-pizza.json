@@ -1,0 +1,927 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/5c27f715-f3ee-4526-8aef-2a95ab6bfdd2.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/1d5a9c74-984e-4bef-9d5a-1d9a05009d1f.jpg"
+    ],
+    "name": "Yummy Slice Pizza",
+    "address": "8245 120 St, Delta, BC V4C 6R1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.15327",
+        "longitude": "-122.89086"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesy Sticks",
+                            "description": "8 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Paneer ",
+                            "description": "Creamy white garlic sauce, cilantro, ginger, mozzarella, tandoori paneer, green pepper, red pepper, red onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shahi Paneer",
+                            "description": "Creamy garlic sauce, mozzarella, cilantro, ginger, paneer, green peppers, red peppers, red onions, jalapeño, shahi paneer sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Chicken ",
+                            "description": "Creamy white garlic sauce, cilantro, ginger, mozzarella, tandoori chicken, green pepper, red onion, black olives and jalapeños.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Paneer",
+                            "description": "Creamy white garlic sauce, cilantro, ginger, mozzarella, paneer, green pepper, red onion, butter Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie",
+                            "description": "Tomato sauce, mozzarella, green peppers, red onion, grape tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese ",
+                            "description": "Creamy white garlic sauce, mozzarella, cheddar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chipotle Chicken ",
+                            "description": "Creamy white garlic, sauce, mozzarella, chicken, and chipotle sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni ",
+                            "description": "Tomato sauce, mozzarella, pepperoni",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken",
+                            "description": "Creamy garlic sauce, mozzarella, chicken, red peppers, red onions, Cheddar and butter chicken sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CYO - Medium (12&quot;)",
+                            "description": "Price includes the base sauce and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Fries",
+                            "description": "Crispy, golden fries served with tangy ketchup and creamy dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Specials",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "8 XL Classic Slices",
+                            "description": "Choose any eight extra-large classic slices. Upgrade to signature slice for an additional charge per slice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two 16&quot; Extra Large Yummy Signature Pizzas",
+                            "description": "Choose any two Extra Large 16&quot; Yummy Signature Pizzas",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$44.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two 10&quot; Small Yummy Signature Pizzas",
+                            "description": "Two 10&quot; pizzas from a selection including meat, chicken, veggie options, and global flavors like Greek, Italian, and Butter Chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two 12&quot; Medium Yummy Signature Pizzas",
+                            "description": "Choose any two medium 12&quot; Yummy Signature Pizzas",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizza by the Slice",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "XL Signature Slice",
+                            "description": "XL Signature Slice: Choice of yummy meat, butter chicken, or BBQ chicken and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "XL Classic Slice",
+                            "description": "XL slice with options: pepperoni, Hawaiian, beef, vegetarian, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Customize Your Own Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "CYO - X-Large (16&quot;)",
+                            "description": "Price includes the base sauce and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cyo - Small (10&quot;)",
+                            "description": "Price includes the base sauce and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CYO - Medium (12&quot;)",
+                            "description": "Price includes the base sauce and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CYO - Gluten Free (10&quot;)",
+                            "description": "Price includes the base sauce and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Yummy Classsic Pizza ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese ",
+                            "description": "Creamy white garlic sauce, mozzarella, cheddar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni ",
+                            "description": "Tomato sauce, mozzarella, pepperoni",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chipotle Chicken ",
+                            "description": "Creamy white garlic, sauce, mozzarella, chicken, and chipotle sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Meat",
+                            "description": "Creamy white garlic sauce, mozzarella, bacon, sausage, and cheddar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian ",
+                            "description": "Tomato sauce, mozzarella, ham, pineapple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Tomato Feta",
+                            "description": "\nTomato sauce, mozzarella, spinach, grape tomato, feta",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Mushroom ",
+                            "description": "Tomato sauce, mozzarella, pepperoni, mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Mushroom ",
+                            "description": "Tomato sauce, mozzarella, bacon, mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef",
+                            "description": "Tomato sauce, mozzarella, beef, and white sauce drizzled.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pesto Cheese ",
+                            "description": "Creamy white garlic sauce, mozzarella, cheddar, pesto sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato Bacon",
+                            "description": "Creamy white garlic sauce, mozzarella, potato, bacon, cheddar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Sausage",
+                            "description": "Tomato sauce, mozzarella, pepperoni, sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie",
+                            "description": "Tomato sauce, mozzarella, green peppers, red onion, grape tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pesto Chicken",
+                            "description": "Creamy white garlic sauce, mozzarella, chicken, cheddar, pesto sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Yummy Signature Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shahi Paneer",
+                            "description": "Creamy garlic sauce, mozzarella, cilantro, ginger, paneer, green peppers, red peppers, red onions, jalapeño, shahi paneer sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Paneer ",
+                            "description": "Creamy white garlic sauce, cilantro, ginger, mozzarella, tandoori paneer, green pepper, red pepper, red onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tandoori Chicken ",
+                            "description": "Creamy white garlic sauce, cilantro, ginger, mozzarella, tandoori chicken, green pepper, red onion, black olives and jalapeños.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Paneer",
+                            "description": "Creamy white garlic sauce, cilantro, ginger, mozzarella, paneer, green pepper, red onion, butter Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken",
+                            "description": "Creamy garlic sauce, mozzarella, chicken, red peppers, red onions, Cheddar and butter chicken sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Meat",
+                            "description": "Tomato sauce, mozzarella, ham, pepperoni, bacon, beef and sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken &amp; Bacon",
+                            "description": "Creamy garlic sauce, mozzarella, chicken, bacon, Cheddar and BBQ sauce drizzle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Works",
+                            "description": "Creamy garlic sauce, pineapple, jalapeño, red onions, chicken, cilantro and ginger.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Chicken",
+                            "description": "Creamy garlic sauce, mozzarella, chicken, mushrooms, spinach, pesto sauce and Cheddar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Spicy",
+                            "description": "Creamy garlic sauce, pepperoni, green peppers, banana peppers, red onions, jalapeño and sun-dried tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadian",
+                            "description": "Tomato sauce, mozzarella, ham, pepperoni, bacon and mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deluxe",
+                            "description": "Tomato sauce, mozzarella, pepperoni, green peppers, red onions, sausage and mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek",
+                            "description": "Tomato sauce, mozzarella, sun-dried tomatoes, green peppers, red onions, black olives, feta and tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Italian",
+                            "description": "Tomato sauce, Capocollo, ham, pepperoni and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy BBQ Chicken",
+                            "description": "Ch, rp, ro, bbq sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Potato ",
+                            "description": "Creamy white garlic sauce, cilantro, ginger,  mozzarella, potato, green pepper, red pepper, red onion. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Cheese Pizza",
+                            "description": "White garlic sauce, double mozzarella, cheddar, and parmesan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garden Pesto",
+                            "description": "Tomato sauce, mozzarella, spinach, mushrooms, red onions, pesto sauce and Cheddar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Veggie",
+                            "description": "Creamy garlic sauce, mozzarella, ginger, cilantro, jalapeño, tomatoes, green peppers, mushrooms and red onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Lovers",
+                            "description": "Tomato sauce, mozzarella, green peppers, red peppers, tomatoes, spinach, red onions, mushrooms and black olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "YUMMY SIGNATURE PASTAS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinara Meat",
+                            "description": "Tomato Sauce, Mozzarella, Beef, Bacon, Sausage &amp; Cheddar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Chicken",
+                            "description": "Creamy Garlic Sauce, Mozzarella, Chicken, Mushrooms, Red Onions &amp; Cheddar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Italian",
+                            "description": "Creamy Garlic Sauce, Mozzarella, Bacon, Sausage, Capicola &amp; Cheddar",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SIDES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesy Sticks",
+                            "description": "8 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "Choice of buffalo, BBQ, plain.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dips",
+                            "description": "Dip options include tangy marinara, smoky ancho chipotle, and creamy roasted garlic.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Macaroni Cheese Bites (6 Pieces)",
+                            "description": "Golden, crispy bites filled with creamy macaroni and cheese, offering a delightful blend of textures and flavors. Six pieces per serving.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Waffle Potato Wedge (One-Size)",
+                            "description": "Crispy waffle-cut potato wedges seasoned with a spicy blend.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yummy Fries",
+                            "description": "Crispy, golden fries served with tangy ketchup and creamy dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boneless Chicken (One-Size)",
+                            "description": "Flavour Dip Sauce: Honey Garlic, BBQ, Hot",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "DESSERTS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sundae Cup",
+                            "description": "Flavours: vanilla, double chocolate, butterscotch ripple, strawberry",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brownie",
+                            "description": "Chocolate brownie, available in 1 or 5 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Choclate Chunk Cookie",
+                            "description": "Chocolate chunk cookies, available in single or five-piece options.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "500 ml",
+                            "description": "Contains 500 ml of a carbonated energy drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "355ml Cans",
+                            "description": "355ml can of classic soda.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.78"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dasani Water 591ml",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Nikita G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": " honestly the best place for fresh,tasty and amazing pizza.Every pizza lover who wants to taste awesome pizza in Delta or surrey should come here.Love my order and i will definitely buy it again. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hitesh G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Grabbed a slice, really fresh and tasty!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Aryaa V"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Best service, best food. Nothing is wrong with this place. BEST."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Gurleen K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I ordered shahi paneer pizza a few days ago, and its perfect balance of sweet and spicy.    "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Apinderdeep K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I ordered half and half veggie pizza it&apos;s awesome . "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Pizza",
+        "Dessert",
+        "Barbecue"
+    ],
+    "url": "https://www.doordash.com/store/yummy-slice-pizza-delta-25041423/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6045931222",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 2:25 AM"
+        ],
+        "TUESDAY": [
+            "11 AM - 3:25 AM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 3:25 AM"
+        ],
+        "THURSDAY": [
+            "11 AM - 3:25 AM"
+        ],
+        "FRIDAY": [
+            "11 AM - 3:25 AM"
+        ],
+        "SATURDAY": [
+            "11 AM - 3:25 AM"
+        ],
+        "SUNDAY": [
+            "11 AM - 2:25 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 2:45 AM"
+        ],
+        "TUESDAY": [
+            "11 AM - 3:45 AM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 3:45 AM"
+        ],
+        "THURSDAY": [
+            "11 AM - 3:45 AM"
+        ],
+        "FRIDAY": [
+            "11 AM - 3:45 AM"
+        ],
+        "SATURDAY": [
+            "11 AM - 3:45 AM"
+        ],
+        "SUNDAY": [
+            "11 AM - 2:45 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

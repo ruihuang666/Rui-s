@@ -1,0 +1,1027 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/73d29b85-3316-416a-8c7d-5c4f2ca06a4b.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/4ca3af50-2077-4203-9ac2-bfa8d9892040.png"
+    ],
+    "name": "Starbucks",
+    "address": "20151 Fraser Hwy, Langley, BC V3A 4E4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.10644",
+        "longitude": "-122.66258"
+    },
+    "priceRange": "$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato",
+                            "description": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double-Smoked Bacon, Cheddar &amp; Egg Sandwich",
+                            "description": "Bacon smoked for six hours over hickory wood chips, stacked with a cage-free fried egg patty and topped with a melted slice of sharp Cheddar cheese on our signature butter croissant bun.\n-HIGH-PROTEIN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Brown Sugar Oat Shaken Espresso",
+                            "description": "First we shake Starbucks Blonde® espresso, brown sugar and cinnamon together, and then top it off with an oat beverage and ice for a cool lift to power you through your day.\n\nIf Starbucks® Blonde Espresso Roast is not available, Signature Espresso Roast will be substituted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Americano",
+                            "description": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance. \n Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caramel Macchiato",
+                            "description": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Sweet Cream Cold Brew",
+                            "description": "Just before serving, our slow-steeped custom blend Starbucks® Cold Brew Coffee is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Latte",
+                            "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg White &amp; Roasted Red Pepper Egg Bites",
+                            "description": "Cage-free egg whites combined with Monterey Jack cheese, spinach and fire-roasted red peppers and cooked using the French “sous vide” to create a velvety texture that’s full of flavour.\n\n-VEGETARIAN\n-HIGH-PROTEIN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Starbucks Blonde® Vanilla Latte",
+                            "description": "Extra-smooth Starbucks Blonde® Espresso, velvety steamed milk and vanilla syrup come together to create a delightful new twist on a beloved espresso classic. An ideal cup for those who prefer a lighter-roasted coffee.\n\nIf Starbucks® Blonde Espresso Roast is not available, Signature Espresso Roast will be substituted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Banana Loaf",
+                            "description": "Sweet, ripe bananas and a hint of cinnamon spice mixed into a moist, classic banana bread.\n\n-VEGETARIAN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Latte",
+                            "description": "Black tea, infused with cinnamon, clove and other warming spices, is combined with steamed milk and topped with foam for the perfect balance of sweet and spicy. An iconic chai cup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach, Feta and Cage Free Egg White Wrap",
+                            "description": "Cage-free egg whites are combined with spinach, feta cheese and sun-dried tomato cream cheese inside a whole-wheat wrap.\n\n-VEGETARIAN\n-HIGH-PROTEIN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Coffees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato",
+                            "description": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle for an oh-so-sweet finish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Spice Latte",
+                            "description": "Our signature espresso and steamed milk with the celebrated flavour combination of pumpkin, cinnamon, nutmeg and clove. Enjoy it topped with whipped cream and real pumpkin-pie spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Americano",
+                            "description": "Espresso shots topped with hot water create a light layer of crema culminating in this wonderfully rich cup with depth and nuance. \n Pro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Chocolate Mocha",
+                            "description": "Our signature espresso meets white chocolate sauce and steamed milk, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Starbucks Blonde® Vanilla Latte",
+                            "description": "Extra-smooth Starbucks Blonde® Espresso, velvety steamed milk and vanilla syrup come together to create a delightful new twist on a beloved espresso classic. An ideal cup for those who prefer a lighter-roasted coffee.\n\nIf Starbucks® Blonde Espresso Roast is not available, Signature Espresso Roast will be substituted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oat Latte",
+                            "description": "Our dark, rich signature espresso made with a steamed oat beverage for a creamy and perfectly balanced tasting sip of earthiness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cinnamon Dolce Latte",
+                            "description": "We add freshly steamed milk and cinnamon dolce-flavored syrup to our classic espresso, topped with sweetened whipped cream and a cinnamon dolce topping to bring you specialness in a treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flat White",
+                            "description": "Smooth ristretto shots of espresso get the perfect amount of steamed whole milk to create a not-too-strong, not-too-creamy, just-right flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano Misto",
+                            "description": "Bold Starbucks® Espresso shots layered with hot water then steamed milk for an authentic, handcrafted espresso beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.55"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brown Sugar Oat Americano",
+                            "description": "Starbucks Blonde® espresso, brown-sugar syrup and water topped with a steamed oat beverage and dashes of cinnamon for an energizing treat to power you through your day.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Mocha",
+                            "description": "Our rich, full-bodied espresso combined with bittersweet mocha sauce and steamed milk, then topped with sweetened whipped cream. The classic coffee drink that always sweetly satisfies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Misto",
+                            "description": "A one-to-one combination of fresh-brewed coffee and steamed milk add up to one distinctly delicious coffee drink remarkably mixed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso Macchiato",
+                            "description": "Our rich espresso marked with dollop of steamed milk and foam. A European-style classic.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Featured Dark Roast",
+                            "description": "This full-bodied dark roast coffee with bold, robust flavors showcases our roasting and blending artistry—an essential blend of balanced and lingering flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Featured Medium Roast - Pike Place® Roast",
+                            "description": "From our first store in Seattle’s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you—a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it’s served fresh every day at a Starbucks® store near you.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Decaf Pike Place® Roast",
+                            "description": "From our first store in Seattle’s Pike Place Market to our coffeehouses around the world, customers requested a freshly brewed coffee they could enjoy throughout the day. In 2008 our master blenders and roasters created this for you—a smooth, well-rounded blend of Latin American coffees with subtly rich flavors of chocolate and toasted nuts, it’s served fresh every day at a Starbucks® store near you. (Decaf as you like it.)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Featured Blonde Roast - True North Blend™",
+                            "description": "Lightly roasted coffee that&apos;s soft, mellow and flavourful. Easy-drinking and delicious with milk, sugar or flavours like vanilla, caramel or hazelnut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Traveller - Pike Place® Roast",
+                            "description": "A convenient carrier filled with 96 fl oz of our featured brewed medium roast coffee (equivalent of twelve 8 fl oz cups)—a perfect pick-me-up for meetings, picnics or whatever occasion calls for coffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Traveller - Dark Roast",
+                            "description": "A convenient carrier filled with 96 fl oz of brewed Starbucks® Dark Roast coffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Traveller - Starbucks Blonde® Roast",
+                            "description": "A convenient carrier filled with 2.8 L of our brewed Veranda Blend® Starbucks Blonde® Roast coffee (equivalent of twelve 236 mL cups), perfectly suited for meetings, picnic gatherings or whatever occasion calls for coffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Traveller - Decaf Pike Place® Roast",
+                            "description": "A convenient carrier filled with 96 fl oz of our featured brewed decaf coffee (equivalent of twelve 8 fl oz cups)—a perfect companion for meetings, picnics or whatever occasion calls for coffee.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino",
+                            "description": "Dark, rich espresso lies in wait under a smoothed and stretched layer of thick milk foam. An alchemy of barista artistry and craft.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Latte",
+                            "description": "Our dark, rich espresso balanced with steamed milk and a light layer of foam. A perfect milk-forward warm-up.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.45"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Coffees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Sweet Cream Cold Brew",
+                            "description": "Just before serving, our slow-steeped custom blend Starbucks® Cold Brew Coffee is topped with a delicate float of house-made vanilla sweet cream that cascades throughout the cup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Brown Sugar Oat Shaken Espresso",
+                            "description": "First we shake Starbucks Blonde® espresso, brown sugar and cinnamon together, and then top it off with an oat beverage and ice for a cool lift to power you through your day.\n\nIf Starbucks® Blonde Espresso Roast is not available, Signature Espresso Roast will be substituted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caramel Macchiato",
+                            "description": "We combine our rich, full-bodied espresso with vanilla-flavored syrup, milk and ice, then top it off with a caramel drizzle for an oh-so-sweet finish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Cream Cold Brew",
+                            "description": "Starbucks® Cold Brew sweetened with vanilla syrup and topped with pumpkin cream cold foam and a dusting of pumpkin-spice topping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Hazelnut Oat Shaken Espresso",
+                            "description": "Starbucks Blonde® espresso combined with notes of roasted hazelnut, shaken together with ice and topped with oat beverage delivers delicious layers of flavour for an energizing pick-me-up.\n\nIf Starbucks® Blonde Espresso Roast is not available, Signature Espresso Roast will be substituted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Starbucks Blonde® Vanilla Latte",
+                            "description": "Extra smooth Starbucks® Blonde Espresso, milk, ice and vanilla syrup come together to create a delightful new twist on a beloved espresso classic. Blonde Espresso is an ideal alternative for those who prefer a lighter roasted coffee.\n\nIf Starbucks® Blonde Espresso Roast is not available, Signature Espresso Roast will be substituted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caffè Latte",
+                            "description": "Our dark, rich espresso combined with milk and served over ice. A perfect milk-forward cooldown.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Pumpkin Spice Latte",
+                            "description": "Our signature espresso and milk—with the celebrated flavour combination of pumpkin, cinnamon, nutmeg and clove—served over ice. Enjoy it topped with whipped cream and real pumpkin-pie spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Cream Cold Brew",
+                            "description": "Starbucks® Cold Brew sweetened with vanilla syrup and topped with a silky, chocolaty cream cold foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Shaken Espresso",
+                            "description": "Made with the rich, full-bodied espresso you love—then shaken, chilled and mellowed with sweetness and a touch of milk to create a delightfully and deliciously convenient on-the-go drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caffè Americano",
+                            "description": "Espresso shots topped with cold water produce a light layer of crema, then served over ice. The result: a wonderfully rich cup with depth and nuance. \nPro Tip: For an additional boost, ask your barista to try this with an extra shot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nondairy Vanilla Cold Brew",
+                            "description": "Our slow-steeped custom blend of Starbucks® Cold Brew coffee accented with vanilla and topped with a delicate float of nondairy vanilla coffee enhancer that cascades throughout the cup. It&apos;s over-the-top and super-smooth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced White Chocolate Mocha",
+                            "description": "Our signature espresso meets white chocolate sauce, milk and ice, and then is finished off with sweetened whipped cream to create this supreme white chocolate delight.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salted Caramel Cream Cold Brew",
+                            "description": "Here&apos;s a savoury-meets-sweet refreshing beverage certain to delight: our signature, super-smooth cold brew, sweetened with a touch of caramel and topped with a salted, rich cold foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Starbucks® Cold Brew Coffee",
+                            "description": "Our custom blend of beans are grown to steep long and cold for a super-smooth flavor. Starbucks® Cold brew is handcrafted in small batches daily, slow-steeped in cool water for 20 hours, without touching heat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Starbucks® Iced Coffee Blend",
+                            "description": "Our freshly brewed Starbucks® Iced Coffee Blend is served chilled and unsweetened over ice. It’s approachable and refreshing with notes of malted milk chocolate and a brown-sugar sweetness. This blend of washed and sun-dried Latin American coffees was created to be enjoyed unsweetened or customized to your liking.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Caffè Mocha",
+                            "description": "Our rich, full-bodied espresso combined with bittersweet mocha sauce, milk and ice, then topped with sweetened whipped cream. The classic iced coffee drink that always sweetly satisfies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Elphaba’s Cold Brew",
+                            "description": "A thrillifying creation inspired by the film WICKED. Starbucks® signature Cold Brew sweetened with peppermint-flavoured syrup, topped with silky-smooth, nondairy matcha cold foam and finished with an Oz-dusting of magic (colourful candy sprinkles).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cold Brew with Nondairy Vanilla Cold Foam",
+                            "description": "Our slow-steeped custom blend of Starbucks® Cold Brew coffee accented with vanilla and topped with a creamy, silky, nondairy vanilla cold foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Flat White",
+                            "description": "Smooth ristretto shots of espresso get the perfect amount of whole milk and ice to create a not-too-strong, not-too-creamy, just-right flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nondairy Chocolate Cold Brew",
+                            "description": "Our slow-steeped custom blend of Starbucks® Cold Brew coffee accented with vanilla and topped with a silky, chocolaty, nondairy cold foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nondairy Salted Caramel Cold Brew",
+                            "description": "Here&apos;s a savoury-meets-sweet refreshing beverage certain to delight: our signature, super-smooth cold brew, sweetened with a touch of caramel and topped with a nondairy salted caramel cold foam",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Starbucks Refreshers® Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Açaí Lemonade Starbucks Refreshers® Beverage",
+                            "description": "Sweet strawberry flavours, passion fruit and açaí notes balanced with the delightful zing of lemonade, served over ice with freeze-dried strawberry pieces. The ultimate pick-me-up your afternoon is calling for.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Dragonfruit Starbucks Refreshers® Beverage",
+                            "description": "A tropical-inspired pick-me-up—crafted with a refreshing combination of sweet mango and dragonfruit flavours and hand-shaken with ice plus a scoop of real diced dragonfruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Dragonfruit Lemonade Starbucks Refreshers® Beverage",
+                            "description": "This tropical-inspired pick-me-up—crafted with a clever combination of vibrant lemonade, sweet mango and refreshing dragonfruit flavours and hand-shaken with ice plus a scoop of real diced dragonfruit.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Passionfruit Lemonade Starbucks Refreshers® Beverage",
+                            "description": "Tropical flavours of pineapple and passionfruit combine with diced pineapple and refreshing lemonade to create a taste of sunshine in a cup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dragon DrinkTM/MC Starbucks Refreshers® Beverage",
+                            "description": "This tropical-inspired pick-me-up—crafted with sweet mango and dragonfruit flavours and hand-shaken with a creamy coconut beverage, ice and a scoop of real diced dragonfruit—creates a refreshing and surprising delight in the fall.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paradise Drink Starbucks Refreshers® Beverage",
+                            "description": "Tropical flavours of pineapple and passionfruit combine with diced pineapple and creamy coconut beverage to create a delicious island escape.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Açaí Starbucks Refreshers® Beverage",
+                            "description": "Sweet strawberry flavours accented by passion fruit and açaí notes, shaken with ice and real strawberry pieces—a welcoming sweet spot of refreshment.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Glinda’s Pink Potion",
+                            "description": "A fantabulous creation inspired by the film WICKED. A Starbucks Refreshers® beverage crafted with sweet mango and dragonfruit flavours and hand-shaken with creamy coconut beverage, ice and a scoop of real dragonfruit. Topped with silky-smooth, nondairy strawberry cold foam and finished with an Oz-dusting of magic (colourful candy sprinkles).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pink Drink Starbucks Refreshers® Beverage",
+                            "description": "Our crisp, Strawberry Açaí Refreshers® Beverage, with its accents of passion fruit, is combined with a creamy coconut beverage. A fruity and refreshing sip of spring, no matter what time of year.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Passionfruit Starbucks Refreshers® Beverage",
+                            "description": "Tropical flavours of pineapple and passionfruit mix with diced pineapple to create an island escape—oh so refreshing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Frappuccino® Blended Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Spice Frappuccino® Blended Beverage",
+                            "description": "Pumpkin plus traditional fall spice flavours, blended with coffee, milk and ice and topped with whipped cream and pumpkin-pie spice. Think of it as the ultimate fall care package.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha Cookie Crumble Frappuccino® Blended Beverage",
+                            "description": "Frappuccino® Roast coffee, mocha sauce and Frappuccino® chips blended with milk and ice, layered on top of whipped cream and chocolate cookie crumble and topped with vanilla whipped cream, mocha drizzle and even more chocolate cookie crumble. Each sip is as good as the last . . . all the way to the end.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Ribbon Crunch Frappuccino® Blended Beverage",
+                            "description": "Buttery caramel syrup blended with coffee, milk and ice, then topped with a layer of dark caramel sauce, whipped cream, caramel drizzle and a crunchy caramel-sugar topping—oh-so-beautifully delicious.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Cookie Crumble Crème Frappuccino®",
+                            "description": "Mocha sauce and Frappuccino® chips are blended with milk and ice, layered on top of whipped cream and chocolate cookie crumble and topped with vanilla whipped cream, mocha drizzle and even more chocolate cookie crumble. These layers ensure each sip is as good as the last; all the way to the end.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Ribbon Crunch Crème Frappuccino® Blended Beverage",
+                            "description": "Dark caramel sauce is blended with milk and ice, layered on top of whipped cream and dark caramel sauce and topped with vanilla whipped cream, caramel drizzle and more crunchy caramelized topping. These layers ensure each sip is as good as the last; all the way to the end.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Crème Frappuccino® Blended Beverage",
+                            "description": "Summer&apos;s favourite berry is the star of this delicious Frappuccino® Blended Beverage—a blend of ice, milk and strawberry puree layered on top of a splash of strawberry puree and finished with vanilla whipped cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Matcha Crème Frappuccino® Blended Beverage",
+                            "description": "This blend of sweetened premium matcha green tea, milk and ice—topped off with sweetened whipped cream—inspires a delicious boost and good green vibes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Chocolate Crème Frappuccino® Blended Beverage",
+                            "description": "A smooth blend of white chocolate sauce, milk and ice topped with whipped cream for a remarkable flavour that surprisingly wows.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pumpkin Spice Crème Frappuccino® Blended Beverage",
+                            "description": "Pumpkin blended with traditional fall spice flavours, milk and ice, topped with whipped cream and pumpkin-pie spice. Helllloooooo, fall!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso Frappuccino® Blended Beverage",
+                            "description": "Coffee is combined with a shot of espresso and milk, then blended with ice to give you a nice little jolt and lots of sipping joy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Frappuccino® Blended Beverage",
+                            "description": "Caramel syrup meets coffee, milk and ice for a rendezvous in the blender, while whipped cream and buttery caramel sauce layer the love on top. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Vanilla Frappuccino® Blended Beverage",
+                            "description": "We take Frappuccino® roast coffee and vanilla bean powder, combine them with milk and ice, topped with whipped cream. Tastes like happiness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Java Chip Frappuccino® Blended Beverage",
+                            "description": "We blend mocha sauce and Frappuccino® chips with coffee, milk and ice, then top it off with whipped cream and a mocha drizzle to bring you endless java joy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Bean Crème Frappuccino® Blended Crème",
+                            "description": "This rich and creamy blend of vanilla bean, milk and ice topped with whipped cream takes va-va-vanilla flavor to another level. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Double Chocolaty Chip Crème Frappuccino® Blended Beverage",
+                            "description": "Rich mocha-flavored sauce meets up with chocolaty chips, milk and ice for a blender bash. Top it off with sweetened whipped cream and mocha drizzle for a real party in your mouth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Crème Frappuccino® Blended Beverage",
+                            "description": "A creamy blend of spicy classic chai, milk and ice. Topped with sweetened whipped cream and a dash of cinnamon. Spice up your afternoon treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "White Chocolate Mocha Frappuccino® Blended Beverage",
+                            "description": "White chocolate sauce &amp; Frappuccino® Roast coffee, along with milk and ice form what might be the best thing that happens to you all day. Oh, and there&apos;s whipped cream on top.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha Frappuccino® Blended Beverage",
+                            "description": "Mocha sauce, Frappuccino® Roast coffee, milk and ice all come together for a mocha flavor that&apos;ll leave you wanting more. To change things up, try it affogato-style with a hot espresso shot poured right over the top.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee Frappuccino® Blended Beverage",
+                            "description": "Coffee meets milk and ice in a blender for a rumble-and-tumble togetherness to create one of our most-beloved original Frappuccino® blended beverages.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.15"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Iced Tea &amp; Lemonade",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Chai Latte",
+                            "description": "Black tea, infused with cinnamon, clove and other warming spices, is combined with milk and ice for the perfect balance of sweet and spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Pumpkin Cream Chai",
+                            "description": "A rich and creamy Iced Chai - a blend of black tea infused with cinnamon, other warming spices and milk, topped with a sweet pumpkin cream cold foam and a dusting of pumpkin spice topping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Matcha Tea Latte",
+                            "description": "Smooth and creamy matcha sweetened just right and served with milk over ice. Green has never tasted so good.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Strawberry Oat Matcha Latte",
+                            "description": "Strawberry-flavoured syrup combined with matcha and oat beverage to create a creamy drink with real pieces of strawberry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Iced Black Tea Lemonade",
+                            "description": "Premium black tea is sweetened just right, then shaken with refreshing lemonade and ice for this Arnold Palmer-inspired beverage. A distinguished satisfying treat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Coffee",
+        "Breakfast",
+        "Cafe",
+        "Latte",
+        "Ice Coffee"
+    ],
+    "url": "https://www.doordash.com/store/starbucks-langley-27877947/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16046289568",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "5:30 AM - 6:30 PM"
+        ],
+        "TUESDAY": [
+            "5:30 AM - 6:30 PM"
+        ],
+        "WEDNESDAY": [
+            "5:30 AM - 6:30 PM"
+        ],
+        "THURSDAY": [
+            "5:30 AM - 6:30 PM"
+        ],
+        "FRIDAY": [
+            "5:30 AM - 6:30 PM"
+        ],
+        "SATURDAY": [
+            "6 AM - 6:30 PM"
+        ],
+        "SUNDAY": [
+            "6 AM - 6:30 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "5 AM - 7 PM"
+        ],
+        "TUESDAY": [
+            "5 AM - 7 PM"
+        ],
+        "WEDNESDAY": [
+            "5 AM - 7 PM"
+        ],
+        "THURSDAY": [
+            "5 AM - 7 PM"
+        ],
+        "FRIDAY": [
+            "5 AM - 7 PM"
+        ],
+        "SATURDAY": [
+            "6 AM - 7 PM"
+        ],
+        "SUNDAY": [
+            "6 AM - 7 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

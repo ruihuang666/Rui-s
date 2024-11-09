@@ -1,0 +1,497 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/fb8e4f5c-3d74-4550-a3fd-ef8ed1942a27.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/c373abaa-64dd-4841-8a13-d22d343d33ca.jpeg"
+    ],
+    "name": "Steveston Bakery",
+    "address": "12231 No. 1 Rd, Richmond BC V7E 1T6, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.12479",
+        "longitude": "-123.18165"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "All Day Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "All Day Breakfast ",
+                            "description": "Bacon or Sausage, Eggs, Hashbrowns, Toast, and Fresh Fruit.\n\nPlease write in instructions for the type of meat, if not selected, bacon will be served. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.38"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggs and Toast ",
+                            "description": "2 Eggs and 2 slices of Toast.\n\nWrite in instruction for Whole Wheat or White Bread. Either could be sent if not mentioned in instructions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Omelette ",
+                            "description": "Eggs, Roasted Vegetables, Mushrooms, Onions, Spinach, and Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.69"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Sandwich ",
+                            "description": "Roasted Vegetables, Mushrooms, Onions, Egg, and Cheese on your choice of Bagel, Whole Wheat Bread, White Bread, Bun, or Croissant.\n\nPlease write in instructions for the choice of bread. If not instructed, White or Whole Wheat Bread would be used.\n\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.44"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Wrap ",
+                            "description": "Roasted Vegetables, Mushrooms, Onions, Egg, Hashbrowns, and Cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.69"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oatmeal with Fruit and Cinnamon ",
+                            "description": "A bowl of oatmeal typically includes fresh fruits and a sprinkle of cinnamon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.69"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Hashbrowns ",
+                            "description": "Shredded potatoes, pan-fried to a golden brown, typically includes a crispy exterior and tender interior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.94"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Quesadilla ",
+                            "description": "Egg, Cheese, Mushrooms, Spinach, Onions, Roasted Peppers, Corn, and Beans",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.38"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Waffles ",
+                            "description": "Two Waffles with fresh fruit, syrup, and whipped cream (Only Served 7:30 am til Noon)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.94"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "All Day Lunch",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Wrap ",
+                            "description": "Mixed Vegetables in a Tortilla Wrap",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Sandwich ",
+                            "description": "Lettuce, Cucumber, Tomato, Onion, and Green Pepper on your choice of Bagel, Croissant, Whole Wheat or White Bread.\n\nPlease write in instructions if you want Bagel, Croissant, Whole Wheat or White Bread. If not instructed, White or Whole Wheat Bread would be used.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.88"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Sandwich ",
+                            "description": "Choice of Bacon, Chicken, Roast Beef, or Turkey with Lettuce, Cucumber, or Tomato, on your choice of Bagel, Croissant, or Whole Wheat or White Bread.\n\nPlease write in instructions if you want Bagel, Croissant, Whole Wheat or White Bread. If not instructed, White or Whole Wheat Bread would be used.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Burger ",
+                            "description": "Grilled Chicken, Lettuce, Tomato, Onion, Cheese, and Mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.13"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Burger ",
+                            "description": "Veggie Patty, Avocado, Lettuce, Tomato, Onion, Pickles, and Mayo",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.13"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BLT ",
+                            "description": "(Bacon, Lettuce, and Tomato) on your choice of Toasted Bagel, Croissant, or Whole Wheat or White Bread.\n\nPlease write in instructions if you want Bagel, Croissant, Whole Wheat or White Bread. If not instructed, White or Whole Wheat Bread would be used.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.44"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Panini ",
+                            "description": "2 Cheeses, Roasted Peppers, Mushrooms, Spinach, and Onion.\n\nPlease write in instructions if you want Bagel, Croissant, Whole Wheat or White Bread. If not instructed, White or Whole Wheat Bread would be used.\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.69"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese ",
+                            "description": "Cheddar on your choice of Whole Wheat or White Bread.\n\nPlease write in instructions if you want Whole Wheat or White Bread. If not instructed, White or Whole Wheat Bread would be used.\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.19"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Quesadilla ",
+                            "description": "Cheese, mushrooms, onions, roasted peppers, corn, rice, and beans ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.38"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruit Salad or Garden Salad ",
+                            "description": "**Fruit Salad:** A bowl of seasonal fresh fruits like pineapples, peaches, mangoes, cherries, raspberries, dragon fruit, oranges, pears, and strawberries.\n\n**Garden Salad:** Mixed greens typically including lettuce, tomatoes, cucumbers, red onions, and croutons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.69"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Fruit Salad or Garden Salad",
+                            "description": "Mixed greens, cherry tomatoes, cucumbers, and red onion. A fresh medley of melons and citrus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cheesecake Slices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blueberry Cheesecake Slice",
+                            "description": "Rich and creamy cheesecake with a blueberry swirl, topped with a glossy blueberry glaze and a drizzle of white icing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brownie Cheesecake Slice",
+                            "description": "Rich cheesecake layered with a fudgy brownie base, typically featuring a swirl of chocolate throughout.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Cheesecake Slice",
+                            "description": "Rich and creamy cheesecake topped with a vibrant layer of strawberry glaze.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Berry Cheesecake Slice",
+                            "description": "Baked cheesecake topped with a medley of mixed berries and berry syrup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Cheesecake Slice",
+                            "description": "Creamy lemon-flavored cheesecake with a graham cracker crust, typically garnished with a hint of zest.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Savories",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Almond Slice",
+                            "description": "A slice of almond cake with a whipped almond filling and crushed almond topping.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.39"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Sausage Roll",
+                            "description": "Golden-brown pastry filled with seasoned chicken sausage, served with sliced, spiced chicken breast and a garnish of fresh parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.29"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Sausage Roll",
+                            "description": "Flaky puff pastry filled with seasoned beef sausage, baked to a golden finish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Squares, Bars &amp; Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Turnover",
+                            "description": "Flaky pastry filled with spiced apple filling, baked to a golden brown.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kahlua Cream Eclair",
+                            "description": "Rich chocolate glaze atop a light pastry filled with creamy Kahlua-infused custard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brownie",
+                            "description": "Rich chocolate brownie topped with a smooth layer of chocolate ganache and sprinkled with chopped nuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.89"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Cake",
+                            "description": "Moist carrot cake topped with a generous layer of creamy frosting.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.59"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nanaimo Bar",
+                            "description": "Layers of rich chocolate, creamy custard, and a crunchy base.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Date Square",
+                            "description": "Crumbly oat topping layered over a sweet date filling, served with whole dates on the side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cakes and Tarts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Tart",
+                            "description": "Buttery pastry filled with a rich, sweet syrup and raisins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Pecan Tart",
+                            "description": "Rich chocolate pecan tart with a buttery crust, drizzled with dark chocolate.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Tart",
+                            "description": "Tangy lemon curd nestled in a buttery, flaky tart crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruit Tart",
+                            "description": "A crisp tart shell filled with creamy custard, topped with fresh slices of kiwi, strawberry, and peach.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Apple Tart",
+                            "description": "A buttery crust filled with spiced apple compote, topped with a light dusting of cinnamon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.59"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "American",
+        "Bakery",
+        "Cafe"
+    ],
+    "url": "https://www.doordash.com/store/steveston-bakery-richmond-30781469/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6725581939",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "7:30 AM - 5:10 PM"
+        ],
+        "TUESDAY": [
+            "7:30 AM - 5:10 PM"
+        ],
+        "WEDNESDAY": [
+            "7:30 AM - 5:10 PM"
+        ],
+        "THURSDAY": [
+            "7:30 AM - 5:10 PM"
+        ],
+        "FRIDAY": [
+            "7:30 AM - 5:10 PM"
+        ],
+        "SATURDAY": [
+            "7:30 AM - 5:10 PM"
+        ],
+        "SUNDAY": [
+            "7:30 AM - 5:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "7:30 AM - 5:30 PM"
+        ],
+        "TUESDAY": [
+            "7:30 AM - 5:30 PM"
+        ],
+        "WEDNESDAY": [
+            "7:30 AM - 5:30 PM"
+        ],
+        "THURSDAY": [
+            "7:30 AM - 5:30 PM"
+        ],
+        "FRIDAY": [
+            "7:30 AM - 5:30 PM"
+        ],
+        "SATURDAY": [
+            "7:30 AM - 5:30 PM"
+        ],
+        "SUNDAY": [
+            "7:30 AM - 5:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

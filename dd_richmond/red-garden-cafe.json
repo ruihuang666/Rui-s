@@ -1,0 +1,875 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/dd918532-2248-41ff-a5ba-c4ea19fa3371.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/9b2c75e5-1125-4ceb-8299-615323469c9c.jpeg"
+    ],
+    "name": "Red Garden Cafe",
+    "address": "3260 Viking Way, Richmond, BC V6V 1V3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.19097",
+        "longitude": "-123.07264"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "Chicken breast, bacon, cheddar cheese, fresh tomato, lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Panini",
+                            "description": "Real chicken breast, cheese, fresh tomato, cucumber, green peppers, onions, and lettuce on focaccia.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg Salad",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fried Rice",
+                            "description": "Tender chicken pieces, fluffy rice, scrambled eggs, and a colorful mix of peas, carrots, and corn.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Turkey Breast",
+                            "description": "Real turkey breast, mushrooms, tomato, Edam cheese with cranberry mayo on french baguette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Sandwich",
+                            "description": "Two eggs, choice of protein with fresh  tomato on choice of toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham Eggs Benedict",
+                            "description": "Two poached eggs, ham, topped with hollandaise sauce on English muffin. Served with hashbrowns. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Forest Ham and Cheese",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soup of the Day",
+                            "description": "Daily rotating soup selection, served in either regular (10oz) or large (16oz) sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Side order: French fries available in regular or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar Wrap",
+                            "description": "Tender chicken and crisp romaine in creamy Caesar dressing, wrapped snugly.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Garden Hash",
+                            "description": "2 eggs, bacon, ham, sausage, peppers, and onion on hashbrowns, with toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "All Day Breakfast",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breakfast Sandwich",
+                            "description": "Two eggs, choice of protein with fresh  tomato on choice of toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Garden Breakfast",
+                            "description": "Two eggs, hashbrowns, choice of ham, bacon, or sausage with toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sunrise Bagel",
+                            "description": "Ham, scrambled eggs, tomato, and cheddar cheese on toasted bagel, with hashbrowns.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hippie Platter",
+                            "description": "2 eggs, hash browns &amp; choice of toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Avocado Toast",
+                            "description": "Two poached eggs, avocado, fresh tomato, and cheese on toast, served with hashbrowns.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eggs Benny",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham Eggs Benedict",
+                            "description": "Two poached eggs, ham, topped with hollandaise sauce on English muffin. Served with hashbrowns. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon Eggs Benedict",
+                            "description": "Two poached eggs, bacon, topped with hollandaise sauce on English muffin. Served with hashbrowns. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Eggs Benedict",
+                            "description": "Two poached eggs with fresh spinach and tomato, topped with hollandaise sauce on English muffin. Served with hashbrowns.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Omelette",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham &amp; Cheese Omelette",
+                            "description": "Ham &amp; cheese omelette with hashbrowns &amp; toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Denver Omelette",
+                            "description": "Ham, fresh peppers, onion, spinach, and cheese omelette with hashbrowns &amp; toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach Feta Omelette",
+                            "description": "Spinach &amp; feta cheese omelette with hashbrowns &amp; toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon &amp; Cheese Omelette",
+                            "description": "Bacon &amp; cheese omelette with hashbrowns &amp; toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom &amp; Cheese Omelette",
+                            "description": "Mushroom &amp; cheese omelette with hashbrowns &amp; toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hash Special",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Garden Hash",
+                            "description": "2 eggs, bacon, ham, sausage, peppers, and onion on hashbrowns, with toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Hash",
+                            "description": "2 eggs, mushrooms, peppers, and onions on hashbrowns, with toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side Order",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Toast",
+                            "description": "Choice of toast with butter, jam, or peanut butter",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "French Fries",
+                            "description": "Side order: French fries available in regular or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Toasted Bagel",
+                            "description": "Toasted bagel with choice of topping",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Toast",
+                            "description": "Garlic-infused bread, toasted to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Garden Salad",
+                            "description": "Mixed greens, red onions, tomatoes, and cucumbers, typically dressed with a light vinaigrette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Garden Salad",
+                            "description": "Fresh mixed greens, choice of regular or large size.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Classic Caesar Salad with Crisp Romaine, Parmesan, Croutons, and Signature Caesar Dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Soup",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Soup of the Day",
+                            "description": "Daily rotating soup selection, served in either regular (10oz) or large (16oz) sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Panini",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Panini",
+                            "description": "Real chicken breast, cheese, fresh tomato, cucumber, green peppers, onions, and lettuce on focaccia.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Turkey Breast",
+                            "description": "Real turkey breast, mushrooms, tomato, Edam cheese with cranberry mayo on french baguette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Mediterranean (Veg)",
+                            "description": "Brie cheese, caramelized onions, and grilled veggies on french baguette.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Melt Panini",
+                            "description": "Tuna, grilled red peppers, spinach, and Edam cheese on focaccia.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg Salad",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Chicken Breast",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Forest Ham and Cheese",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Beef",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Corned Beef",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Salad",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roast Turkey Breast",
+                            "description": "All our sandwiches include tomato, cucumber, green peppers, red onions, and lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Wraps",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chicken Wrap",
+                            "description": "Spicy chicken strips wrapped with lettuce, tomato, and a creamy ranch dressing, typically includes a hint of cheese for balance.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Caesar Wrap",
+                            "description": "Tender chicken and crisp romaine in creamy Caesar dressing, wrapped snugly.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chickpea Wrap with Spinach",
+                            "description": "Spicy chickpea salad, spinach, avocado, cucumber.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "Chicken breast, bacon, cheddar cheese, fresh tomato, lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Cheese and Tomato",
+                            "description": "Melted cheese with sliced tomato, choice of white or whole wheat bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Black Forest Ham and Cheese",
+                            "description": "Grilled Black Forest ham paired with melted cheese, choice of white or whole wheat bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Traditional B.L.T",
+                            "description": "Bacon, fresh lettuce, tomato, mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Cheeseburger with Fries",
+                            "description": "Ground beef patty, American cheese, typically includes lettuce, tomato, onions, and pickles, served with fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna Melt on Bagel",
+                            "description": "Tuna salad on a bagel topped with melted cheddar and mozzarella cheese, garnished with fresh bell pepper rings and served with a side of pickles and shredded carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Reuben Deluxe",
+                            "description": "Corned beef, melted swiss cheese, sauerkraut, and pickles on rye bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "House Specials",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Teriyaki",
+                            "description": "Chicken teriyaki and sautéed veggies on rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken and Vegetable Chow Mein",
+                            "description": "Tender chicken strips stir-fried with crisp vegetables and savory noodles, garnished with fresh green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fried Rice",
+                            "description": "Tender chicken pieces, fluffy rice, scrambled eggs, and a colorful mix of peas, carrots, and corn.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Penne Pasta",
+                            "description": "Tender penne pasta with succulent chicken, bell peppers, spinach, and a sprinkle of Parmesan cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Saffron Rice with Barberry",
+                            "description": "Saffron-infused rice paired with tender chicken and tart barberries, offering a unique blend of flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Shank",
+                            "description": "Lamb shank served in a sandwich, typically includes tender, slow-cooked lamb with a blend of spices and vegetables on artisan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Pasta",
+                            "description": "Loaded with fresh veggies. Customize your pasta with choice of sauce and protein.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Bolognese",
+                            "description": "Spaghetti served with a rich, slow-cooked bolognese sauce, typically including a blend of beef, tomatoes, and a hint of garlic and herbs, garnished with grated Parmesan.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee",
+                            "description": "Freshly brewed coffee, available in regular or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chocolate",
+                            "description": "Smooth, rich chocolate drink, perfectly steamed to warm your soul.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canned Pop",
+                            "description": "Selection of canned sodas including cola varieties, Pepsi, ginger ale, Sprite, and root beer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Large Juice",
+                            "description": "A large serving of juice, freshly prepared, offering a variety of flavors such as orange, apple, cranberry, or tropical fruit punch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.55"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Small Juice",
+                            "description": "A refreshing beverage made from freshly squeezed or pressed fruits.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Assorted Tea",
+                            "description": "Assorted Tea: Selection includes Earl Grey, English Breakfast, Lemon Ginger, Peppermint, Premium Green Tea, and Tetley Orange Pekoe.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.30"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Brandon G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "worth every penny in taste and value."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Joe M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "The avocado toast didn&apos;t have avocado "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 3.7
+    },
+    "servesCuisine": [
+        "Soup",
+        "Sandwich"
+    ],
+    "url": "https://www.doordash.com/store/red-garden-cafe-richmond-24532687/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7788231341",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "7:30 AM - 3:35 PM"
+        ],
+        "WEDNESDAY": [
+            "7:30 AM - 3:35 PM"
+        ],
+        "THURSDAY": [
+            "7:30 AM - 3:35 PM"
+        ],
+        "FRIDAY": [
+            "7:30 AM - 3:35 PM"
+        ],
+        "SATURDAY": [
+            "7:30 AM - 3:35 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "WEDNESDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "THURSDAY": [
+            "7:30 AM - 4 PM"
+        ],
+        "FRIDAY": [
+            "7:30 AM - 4 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,840 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/7dcbb9d3-339b-434d-919b-5381ecb1b4cb.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/9ffd90ce-d222-4110-bc54-85adf27ab158.37"
+    ],
+    "name": "Salt &amp; Steak Restaurant Ltd",
+    "address": "8851 120 St, Delta BC V4C 6R6, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.16415",
+        "longitude": "-122.891"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York Steak 10-12 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$48.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1/2 Lb Brisket",
+                            "description": "16 hours smoked grass-fed beef, BBQ sauce, jus, garlic, chimichurri.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Fried Chicken Burger",
+                            "description": "Louisiana, pickle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish Taco",
+                            "description": "Fish, dill lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Cheese Bread",
+                            "description": "Tandoori chicken, jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rib Eye Steak 12-14 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$60.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Alfredo Fettuccine",
+                            "description": "Sliced grilled chicken, Alfredo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Brisket Sandwich",
+                            "description": "16 hours smoked beef, jus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salt &amp; Steak Signature Beef Burger",
+                            "description": "Rare, Medium Rare, Medium, Medium Well.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Crème Brûlée",
+                            "description": "Caramelized crust, creme custard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Truffle Fries",
+                            "description": "Black pepper, truffle aioli, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomato Soup",
+                            "description": "Tomato, basil, oregano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": " Soups &amp; Salad",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomato Soup",
+                            "description": "Tomato, basil, oregano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caprese Salad",
+                            "description": "Burrata cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "19 B Soup",
+                            "description": "Chicken, prawn, spring onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Smoked olive.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Beets Salad",
+                            "description": "Roasted beets arugula.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizer",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Cheese Bread",
+                            "description": "Tandoori chicken, jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish Taco",
+                            "description": "Fish, dill lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Warm Three Cheese Spinach Dip",
+                            "description": "Artichokes, garlic, spinach, feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Mini Burger Sliders",
+                            "description": "Chicken patty habanero.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brisket Taco",
+                            "description": "Smoked brisket, salsa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Truffle Fries",
+                            "description": "Black pepper, truffle aioli, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yam Fries",
+                            "description": "Garlic aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": " Mains",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "1/2 Lb Brisket",
+                            "description": "16 hours smoked grass-fed beef, BBQ sauce, jus, garlic, chimichurri.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Alfredo Fettuccine",
+                            "description": "Sliced grilled chicken, Alfredo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Brisket Sandwich",
+                            "description": "16 hours smoked beef, jus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Fried Chicken Tenders &amp; Waffles",
+                            "description": "Waffle, fried chicken, sour cream, Louisiana.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Bolognese",
+                            "description": "Grass-fed ground beef, tomato sauce, carrot, garlic.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Pasta",
+                            "description": "Tomato, oregano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Burger",
+                            "description": "Dill lemon, mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Burger",
+                            "description": "Oregano, mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn Alfredo Fettuccine",
+                            "description": "Prawn, Alfredo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Supreme Deep Dish Pizza",
+                            "description": "Chicken, pizza sauce, mozzarella, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$45.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Deluxe Deep Dish Pizza",
+                            "description": "Pizza sauce, veggies, mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margarita Pizza",
+                            "description": "Fior di latte mozzarella, Grana Padano, basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salt &amp; Steak Signature Beef Burger",
+                            "description": "Rare, Medium Rare, Medium, Medium Well.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Fried Chicken Burger",
+                            "description": "Louisiana, pickle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Steaks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York Steak 10-12 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$48.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "T Bone Steak 25 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$65.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomahawk 45 Days Dry Aged Steak 35 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$230.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rib Eye Steak 12-14 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$60.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tenderloin Steak 8 oz",
+                            "description": "Small portion of mashed potatoes, asparagus, sunrise tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$65.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Peanut Butter Mousse Cake",
+                            "description": "Oreo, peanut butter, chocolate ganache.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York Style Cheesecake",
+                            "description": "Rich and creamy, classic New York-style cheesecake on a graham cracker crust.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seven Layer Chocolate Cake",
+                            "description": "Rich, multi-layered chocolate cake topped with chocolate frosting and sprinkled with chocolate pearls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Crème Brûlée",
+                            "description": "Caramelized crust, creme custard.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Brownie Explosion",
+                            "description": "Chocolate fudge brown with ice cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Yam Fries",
+                            "description": "Crisp sweet potato fries, typically seasoned with salt and pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Onion Rings",
+                            "description": "Thick onion slices, lightly battered and deep-fried until golden brown.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of Mashed Potatoes",
+                            "description": "Mashed potatoes typically mixed with butter, cream, and seasoning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side of French Fries",
+                            "description": "Crispy golden fries, expertly seasoned, served as the perfect side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": " Fresh Cold Press Juices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Detox",
+                            "description": "Cucumber, lemon, green apple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vita Fusion",
+                            "description": "Bitter gourd, lemon, green apple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vital Splash",
+                            "description": "Orange, lemon, green apple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Energy Elixir",
+                            "description": "Beetroot, carrot, green apple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nutri Boost",
+                            "description": "Tomato, cucumber, carrot.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chill Chug",
+                            "description": "Cucumber, ginger, green apple.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Orange",
+                            "description": "Freshly squeezed cold pressed orange juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Energizer",
+                            "description": "Carrot, green apple, orange.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": " Mocktails",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Zen Potion",
+                            "description": "Coconut, rosemary, pineapple, cucumber.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Passionflower Fusion",
+                            "description": "Passion fruit, elder flower, butterfly pea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blissful Blue",
+                            "description": "Coconut, mint, agave.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fruity Fiesta Sangria",
+                            "description": "Orange, non-alcoholic-red wine, mango.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Enigma Elixir",
+                            "description": "Blue curacao, vanilla ice cream, fruit punch.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Oasis",
+                            "description": "Cucumber, apple, celery.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hazelnut Dream",
+                            "description": "Whipping cream, hazelnut, blue curacao.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Blaze Berry Blast (BBB)",
+                            "description": "Mixed berries, mint, lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cherry Blossom Royale",
+                            "description": "Lychee, elder flower, hibiscus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salt &amp; Steak Watermelon Bliss",
+                            "description": "Fresh watermelon and lemon juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lavender Berrylicious",
+                            "description": "Lavender, lime, mixed berry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "American",
+        "Fine Dining",
+        "Steakhouses",
+        "Brunch",
+        "Desserts",
+        "Pasta and Burgers",
+        "Pasta &amp; Burgers",
+        "Pasta ",
+        "Fresh Steak",
+        "Halal",
+        "DINEOUT-Dessert"
+    ],
+    "url": "https://www.doordash.com/store/salt-&-steak-restaurant-ltd-delta-29692045/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7786302037",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 10:10 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 10:10 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 10:10 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 10:10 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 10:10 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 10:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 10:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 10:30 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 10:30 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 10:30 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 10:30 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 10:30 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 11 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 11 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

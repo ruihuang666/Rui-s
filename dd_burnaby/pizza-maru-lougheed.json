@@ -1,0 +1,905 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/bbdd4e3f-0a1d-4f1e-a258-0f94bc5b0c11.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/9d5c7dd4-06ac-48b0-8039-3543f1e724c1.jpeg"
+    ],
+    "name": "Pizza Maru Lougheed",
+    "address": "4331 North Rd, Burnaby, BC V3N 4N4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.2453",
+        "longitude": "-122.89287"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shrimbul (13&quot;)",
+                            "description": "Spicy, seafood. Best. Sweet ranch sauce, cheese, onion, chopped pickles, red peppers, mushrooms, bulgogi, shrimp, potato chunk, paprika seasoning, bell peppers, sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shrimbul (10&quot;)",
+                            "description": "Spicy, seafood. Best. Sweet ranch sauce, cheese, onion, chopped pickles, red peppers, mushrooms, bulgogi, shrimp, potato chunk, paprika seasoning, bell peppers, sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Cheese Spaghetti",
+                            "description": "Best. Spaghetti, cheese, sliced onion, sliced mushrooms, ground beef, diced bell peppers, white wine, stock, tomato sauce, parmesan cheese, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Holy Honey Sweet Potato (13&quot;)",
+                            "description": "Best. Pizza sauce, cheese, cheddar cheese, corn, onion, sweet potato mousse, diced sweet potato, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Bulgogi (13&quot;)",
+                            "description": "Best. Pizza sauce, cheese, onion, mushrooms, bulgogi, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean BBQ Wings (10 Pcs)",
+                            "description": "Nuts. Chicken wings with a deliciously seasoned Korean savoury and sweet galbi sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato (13&quot;)",
+                            "description": "Pizza sauce, cheese, potato, onion, ham, bacon, corn, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Holy Honey Sweet Potato (10&quot;)",
+                            "description": "Best. Pizza sauce, cheese, cheddar cheese, corn, onion, sweet potato mousse, diced sweet potato, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shrimbul (16&quot;)",
+                            "description": "Spicy, seafood. Best. Sweet ranch sauce, cheese, onion, chopped pickles, red peppers, mushrooms, bulgogi, shrimp, potato chunk, paprika seasoning, bell peppers, sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato (10&quot;)",
+                            "description": "Pizza sauce, cheese, potato, onion, ham, bacon, corn, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Corn Cheese (10&quot;)",
+                            "description": "Spicy. Corn, mozzarella, sour sauce, hot sauce, sweet ranch sauce, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean BBQ Wings (20 Pcs)",
+                            "description": "Nuts. Best. Chicken wings with a deliciously seasoned Korean savoury and sweet galbi sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicago Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Real Chicago (10&quot;)",
+                            "description": "Tomato sauce, string cheese, cheese, pepperoni, parmesan cheese, parsley, sugar powder ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sea World Chicago (10&quot;)",
+                            "description": "Nuts. Seafood. Cream cheese mousse, string cheese, cheese, sweet ranch sauce, roasted onion, mushroom, crab meat, shrimp, pineapple, corn, ham, bell pepper, sriracha mayo, honey, sliced almond, parsley, sugar powder ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Golden Chicago (10&quot;)",
+                            "description": "Nuts. Cream cheese mousse, string cheese, cheese, sweet potato mousse, sour cream, roasted onion, mushrooms, diced sweet potatoes, cheddar cheese, ham, honey, sliced almond, parsley, sugar powder",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Classic Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Corn Cheese (10&quot;)",
+                            "description": "Spicy. Corn, mozzarella, sour sauce, hot sauce, sweet ranch sauce, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni (13&quot;)",
+                            "description": "Pizza sauce, cheese, pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Cheese (13&quot;)",
+                            "description": "Pizza sauce, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian (10&quot;)",
+                            "description": "Pizza sauce, shredded cheese, pineapple, meat ham.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Cheese (10&quot;)",
+                            "description": "Pizza sauce, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni (10&quot;)",
+                            "description": "Pizza sauce, cheese, pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Cheese (16&quot;)",
+                            "description": "Pizza sauce, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni (16&quot;)",
+                            "description": "Pizza sauce, cheese, pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie (16&quot;)",
+                            "description": "Pizza sauce, cheese, onion, corn, mushrooms, black olives, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie (10&quot;)",
+                            "description": "Pizza sauce, cheese, onion, corn, mushrooms, black olives, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie (13&quot;)",
+                            "description": "Pizza sauce, cheese, onion, corn, mushrooms, black olives, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Maru Special Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Five (13&quot;)",
+                            "description": "Spicy. Pizza sauce, cheese, bulgogi, corn, bacon, mayonnaise, pepperoni, potato chunk, chicken breast, spicy sauce, cheddar cheese, steak sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The &quot;Kaboom!&quot; Cheese Bomb (13&quot;)",
+                            "description": "Pizza sauce, triple extra cheese, honey.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Korean Style Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shrimbul (13&quot;)",
+                            "description": "Spicy, seafood. Best. Sweet ranch sauce, cheese, onion, chopped pickles, red peppers, mushrooms, bulgogi, shrimp, potato chunk, paprika seasoning, bell peppers, sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shrimbul (10&quot;)",
+                            "description": "Spicy, seafood. Best. Sweet ranch sauce, cheese, onion, chopped pickles, red peppers, mushrooms, bulgogi, shrimp, potato chunk, paprika seasoning, bell peppers, sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Shrimbul (16&quot;)",
+                            "description": "Spicy, seafood. Best. Sweet ranch sauce, cheese, onion, chopped pickles, red peppers, mushrooms, bulgogi, shrimp, potato chunk, paprika seasoning, bell peppers, sour cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Holy Honey Sweet Potato (13&quot;)",
+                            "description": "Best. Pizza sauce, cheese, cheddar cheese, corn, onion, sweet potato mousse, diced sweet potato, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Bulgogi (13&quot;)",
+                            "description": "Best. Pizza sauce, cheese, onion, mushrooms, bulgogi, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato (13&quot;)",
+                            "description": "Pizza sauce, cheese, potato, onion, ham, bacon, corn, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Holy Honey Sweet Potato (10&quot;)",
+                            "description": "Best. Pizza sauce, cheese, cheddar cheese, corn, onion, sweet potato mousse, diced sweet potato, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Chicken BBQ (13&quot;)",
+                            "description": "BBQ sauce, cheese, onion, bacon, mushrooms, chicken breast, bell peppers, cherry tomatoes, sliced garlic, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Bulgogi (16&quot;)",
+                            "description": "Best. Pizza sauce, cheese, onion, mushrooms, bulgogi, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Bay (13&quot;)",
+                            "description": "Spicy, seafood. Sweet ranch sauce, cheese, onion, mushrooms, crab meat, pineapple, shrimp, corn, ham, bell peppers, sriracha mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato (10&quot;)",
+                            "description": "Pizza sauce, cheese, potato, onion, ham, bacon, corn, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Bay (16&quot;)",
+                            "description": "Spicy, seafood. Sweet ranch sauce, cheese, onion, mushrooms, crab meat, pineapple, shrimp, corn, ham, bell peppers, sriracha mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crazy Chicken Shrimp (13&quot;)",
+                            "description": "Double Spicy! Best. Seafood. Spicy sauce, cheese, cheddar cheese, onion, mushrooms, chicken breast, shrimp, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crazy Chicken Shrimp (10&quot;)",
+                            "description": "Double Spicy! Best. Seafood. Spicy sauce, cheese, cheddar cheese, onion, mushrooms, chicken breast, shrimp, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Bulgogi (10&quot;)",
+                            "description": "Best. Pizza sauce, cheese, onion, mushrooms, bulgogi, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Holy Honey Sweet Potato (16&quot;)",
+                            "description": "Best. Pizza sauce, cheese, cheddar cheese, corn, onion, sweet potato mousse, diced sweet potato, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Bay (10&quot;)",
+                            "description": "Spicy, seafood. Sweet ranch sauce, cheese, onion, mushrooms, crab meat, pineapple, shrimp, corn, ham, bell peppers, sriracha mayo.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Chicken BBQ (10&quot;)",
+                            "description": "BBQ sauce, cheese, onion, bacon, mushrooms, chicken breast, bell peppers, cherry tomatoes, sliced garlic, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Shrimp (16&quot;)",
+                            "description": "Seafood. Pizza sauce, cheese, sweet chili sauce, shrimp, pineapple, corn, black olive, bell peppers, onion, mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Combination (10&quot;)",
+                            "description": "Pizza sauce, cheese, onion, mushrooms, ham, pepperoni, corn, black olives, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato (16&quot;)",
+                            "description": "Pizza sauce, cheese, potato, onion, ham, bacon, corn, mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Shrimp (10&quot;)",
+                            "description": "Seafood. Pizza sauce, cheese, sweet chili sauce, shrimp, pineapple, corn, black olive, bell peppers, onion, mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Shrimp (13&quot;)",
+                            "description": "Seafood. Pizza sauce, cheese, sweet chili sauce, shrimp, pineapple, corn, black olive, bell peppers, onion, mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crazy Chicken Shrimp (16&quot;)",
+                            "description": "Double Spicy! Best. Seafood. Spicy sauce, cheese, cheddar cheese, onion, mushrooms, chicken breast, shrimp, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Chicken BBQ (16&quot;)",
+                            "description": "BBQ sauce, cheese, onion, bacon, mushrooms, chicken breast, bell peppers, cherry tomatoes, sliced garlic, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$37.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Combination (13&quot;)",
+                            "description": "Pizza sauce, cheese, onion, mushrooms, ham, pepperoni, corn, black olives, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maru Combination (16&quot;)",
+                            "description": "Pizza sauce, cheese, onion, mushrooms, ham, pepperoni, corn, black olives, bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$30.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Korean Wings",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean BBQ Wings (20 Pcs)",
+                            "description": "Nuts. Best. Chicken wings with a deliciously seasoned Korean savoury and sweet galbi sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean BBQ Wings (10 Pcs)",
+                            "description": "Nuts. Chicken wings with a deliciously seasoned Korean savoury and sweet galbi sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Seasoned Wings (10 Pcs)",
+                            "description": "Nuts, spicy. Chicken wings with a deliciously seasoned Korean sweet and spicy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Korean Seasoned Wings (20 Pcs)",
+                            "description": "Nuts, spicy. Chicken wings with a deliciously seasoned Korean sweet and spicy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Topokki",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Topokki",
+                            "description": "Spicy. Rice cake, fish cake, sliced onion, sliced mushrooms, cabbage, stock, chili pepper sauce, salt, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carbonara Topokki",
+                            "description": "Rice cake, bacon, sliced onion, sliced mushrooms, cabbage, stock, cream sauce, salt, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Carbonara Topokki",
+                            "description": "Spicy, seafood. Rice cake, shrimp, bacon, sliced onion, cabbage, sliced mushrooms, stock, chili pepper, cream sauce, spicy buldak, parmesan cheese, salt, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Oven Spaghetti",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Cheese Spaghetti",
+                            "description": "Best. Spaghetti, cheese, sliced onion, sliced mushrooms, ground beef, diced bell peppers, white wine, stock, tomato sauce, parmesan cheese, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Cream Cheese Spaghetti",
+                            "description": "Spicy. Spaghetti, cheese, spicy buldak, bacon, sliced onion, sliced mushrooms, white wine, stock, cream sauce, parmesan cheese, salt, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cream Cheese Spaghetti",
+                            "description": "Spaghetti, cheese, bacon, sliced onion, sliced mushrooms, white wine, stock, cream sauce, parmesan cheese, salt, black pepper, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pop",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Classic, refreshing carbonated beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Nestea",
+                            "description": "Refreshing Iced Tea, Perfectly Sweetened for an Invigorating Sip",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ginger Ale",
+                            "description": "Refreshing, crisp ginger-flavored carbonated soft drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke Zero",
+                            "description": "Coca-Cola Zero Sugar offering the classic taste without sugar or calories.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sprite",
+                            "description": "Crisp, Refreshing Lemon-Lime Carbonated Drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dipping Sauce",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Ranch",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sriracha Mayo",
+                            "description": "Spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalamayo",
+                            "description": "Spicy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Side",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pickles",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Joseph P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "It was soooooooooooo good!"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Korean",
+        "Pizzeria"
+    ],
+    "url": "https://www.doordash.com/store/pizza-maru-lougheed-burnaby-27796305/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+12502651099",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 9:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

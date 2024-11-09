@@ -1,0 +1,724 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/17814a61-a262-4f94-8a08-1f8809644aec.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/93bda093-caba-413c-8a90-392ebfaa91ad.jpg"
+    ],
+    "name": "Cafe &amp; Life Co",
+    "address": "511 W 7th Ave, Vancouver, BC V5Z 2T5, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.264874",
+        "longitude": "-123.11633"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Croissant",
+                            "description": "Our simple yet delicious croissant selections (plain, chocolate or ham &amp; cheese).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Latte (Hot/ Iced)",
+                            "description": "A coffee-based drink made primarily from espresso and steamed/ cold milk..",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Premium Matcha Latte (Hot/ Iced)",
+                            "description": "Our unsweetened Matcha Latte combines premium Japanese matcha tea powder and milk, creating a smooth, creamy, caffeinated coffee alternative.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato (Hot/ Iced)",
+                            "description": "An espresso-based beverage made with vanilla syrup, steamed/ cold milk, espresso and topped with a caramel drizzle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha (Hot/ Iced)",
+                            "description": "Our rich, full-bodied espresso combined with REAL chocolate and steamed/ cold milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg salad croissant",
+                            "description": "Flaky croissant filled with creamy egg salad, crisp lettuce, and fresh tomato slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jasmine Oat Misto",
+                            "description": "Our signature oat misto made with blossomed jasmine tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Bagel with Sauce Gribiche",
+                            "description": "Sauce Gribiche is a luscious amalgamation of creamy textures and vibrant flavors, elegantly bound together with golden crispy bagel and premium quality of smoked salmon. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Duck Croissant",
+                            "description": "Juicy smoky duck thin sliced and nuturitions fresh lettus and croissant",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dried Fig &amp; creamcheese financier",
+                            "description": "classic financier with a creamy cheese and topped with a succulent dried fig slice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Latte (Hot/ Iced)",
+                            "description": "Our Chai Latte combines chai concentrate and added to  milk to give the drink creaminess and texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.10"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain Croissant ",
+                            "description": "A flaky, buttery pastry with a golden-brown exterior and a soft, layered interior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.10"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Refresher",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Passion Fruit Jasmine soda ",
+                            "description": "Passion fruit puree and jasmine essence combined with soda for a refreshing and aromatic drink.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Strawberry Rose Tea",
+                            "description": "please write a request HOT or ICED\nA blend of rose-infused tea gIarnished with fresh strawberry slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Soda",
+                            "description": "Effervescent lemon soda garnished with a fresh lemon slice and a sprig of mint.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yuzu English Breakfast Tea",
+                            "description": "please write a request HOT or ICED\nA blend of English breakfast tea infused with tangy yuzu citrus, served over ice with a lemon wheel garnish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lychee Soda",
+                            "description": "A sparkling soda infused with the delicate sweetness of lychee fruit, garnished with fresh mint leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Savory Bagels!",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Bagel with Sauce Gribiche",
+                            "description": "Sauce Gribiche is a luscious amalgamation of creamy textures and vibrant flavors, elegantly bound together with golden crispy bagel and premium quality of smoked salmon. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Bagel with Guacamole",
+                            "description": "Sesame seed bagel filled with smoked salmon and a layer of guacamole.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tuna &amp; Egg Bagel",
+                            "description": "Sesame seed bagel filled with a mix of tuna and chopped eggs, seasoned with herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.30"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Amazing Brunch",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Duck Salad Bowl",
+                            "description": "A medley of fresh greens topped with sliced smoked duck, walnuts, and a mix of raspberries and blueberries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.70"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yogurt Bowl",
+                            "description": "Authentic Greek Yogurt with fresh fruits and  Granola/Oat meal",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Espresso . Matcha and Other Beverage",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Premium Matcha Latte (Hot/ Iced)",
+                            "description": "Our unsweetened Matcha Latte combines premium Japanese matcha tea powder and milk, creating a smooth, creamy, caffeinated coffee alternative.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Espresso double shot",
+                            "description": "Our espresso is a blend of premium, single-origin coffees from Indonesia and South America. It is a full bodied espresso with a wave of semi-sweet and creamy dark chocolate that continues to bloom on your tongue as it is followed by a balance of juicy acidity and pleasing sweetness. It has a smooth aftertaste and a very long finish. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Americano (Hot/ Iced)",
+                            "description": "A classic drink that water dilutes the espresso while still maintaining a high level of caffeine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caramel Macchiato (Hot/ Iced)",
+                            "description": "An espresso-based beverage made with vanilla syrup, steamed/ cold milk, espresso and topped with a caramel drizzle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate (Hot/ Iced)",
+                            "description": "Our signature hand-crafted chocolate, made with REAL chocolate and steamed/ cold milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.10"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mocha (Hot/ Iced)",
+                            "description": "Our rich, full-bodied espresso combined with REAL chocolate and steamed/ cold milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Latte (Hot/ Iced)",
+                            "description": "Our Chai Latte combines chai concentrate and added to  milk to give the drink creaminess and texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.10"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yuzu Matcha",
+                            "description": "A vibrant blend of matcha green tea with a citrusy yuzu twist, garnished with yuzu peel.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "London Fog",
+                            "description": "A creamy blend of Earl Grey tea and steamed milk, topped with a delicate layer of foam and a hint of vanilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.60"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Uji Matcha Espresso ",
+                            "description": "regular, skim, oat, soy, almond.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caffè Latte (Hot/ Iced)",
+                            "description": "A coffee-based drink made primarily from espresso and steamed/ cold milk..",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino",
+                            "description": "Cappuccino provides harmonious balance of rich, sweet milk and espresso.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.80"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Tea",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "English Breakfast",
+                            "description": "Perfect for kick-starting your morning.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oolong",
+                            "description": "Oolong tea, a traditional beverage, is known for its unique fermentation process, yielding a distinct flavor that balances between green and black tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green",
+                            "description": "Delicate green tea, offering a refreshing and antioxidant-rich experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jasmine",
+                            "description": "Jasmine tea offers a soothing blend, traditionally scented with jasmine blossoms, providing a fragrant and gentle floral experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earl Grey",
+                            "description": "Aromatic black tea infused with delicate bergamot for a refined, citrusy flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rose",
+                            "description": "Light floral notes and a pleasant lingering finish, typically includes rose buds and petals.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.90"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "House Special Mistos",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Oolong Oat Misto",
+                            "description": "Our signature oat misto made with oolong tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jasmine Oat Misto",
+                            "description": "Our signature oat misto made with blossomed jasmine tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Genmaicha Oat Misto",
+                            "description": "Our signature oat misto made with pleasant Genmaicha.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Black Tea Oat Misto",
+                            "description": "Our signature oat misto made with earthy black tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Earl Grey Oat Misto",
+                            "description": "Our signature oat misto made with citrusy earl grey tea. ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rose Tea Oat Misto",
+                            "description": "Our signature oat misto made with pleasant rose tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Daily Delicious Pastries ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Croissant",
+                            "description": "Our simple yet delicious croissant selections (plain, chocolate or ham &amp; cheese).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ham&amp;Cheese Croissant",
+                            "description": "Flaky croissant filled with savory ham and melted cheese, topped with a sprinkle of shredded cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.40"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Duck Croissant",
+                            "description": "Juicy smoky duck thin sliced and nuturitions fresh lettus and croissant",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.80"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cream Cheese Brownie",
+                            "description": "Rich, fudgy brownie topped with a layer of creamy cheesecake, drizzled with chocolate, and served with a dollop of whipped cream dusted with cocoa powder.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Uji Matcha Brownie",
+                            "description": "Rich matcha brownie topped with sliced almonds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dried Fig &amp; creamcheese financier",
+                            "description": "classic financier with a creamy cheese and topped with a succulent dried fig slice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Egg salad croissant",
+                            "description": "Flaky croissant filled with creamy egg salad, crisp lettuce, and fresh tomato slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain Croissant ",
+                            "description": "A flaky, buttery pastry with a golden-brown exterior and a soft, layered interior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.10"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Retail",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "SWP Decaf Blend",
+                            "description": "Our Swiss Water Process decaf is currently a blend of coffee from each region. It is designed to mimic our espresso blend, it changes seasonally to reflect availability. Suitable for espresso machines or drip coffee makers. Well-balanced, semi-sweet chocolate notes, and of course water processed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mia Y"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Caneles were so good! Highly recommend."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hosam E"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Cafe &amp; Life Co. is a beautiful, quiet, and very clean place. Where there is fresh and delicious food."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tarla C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "good but small portions for the cost"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.7
+    },
+    "servesCuisine": [
+        "Cafe",
+        "Espresso",
+        "Salads"
+    ],
+    "url": "https://www.doordash.com/store/cafe-&-life-co-vancouver-2855794/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+1 604-336-9888",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "SATURDAY": [
+            "10:30 AM - 4:40 PM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 3:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 4 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 4 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 4 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 4 PM"
+        ],
+        "SATURDAY": [
+            "10:30 AM - 5 PM"
+        ],
+        "SUNDAY": [
+            "10:30 AM - 4 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

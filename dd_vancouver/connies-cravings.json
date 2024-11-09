@@ -1,0 +1,81 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/7ba9ae6b-985f-4ec7-b911-e7f31681d046.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/656b5b84-4ebe-46b6-b599-e13622eac16c.jpg"
+    ],
+    "name": "CONNIES CRAVINGS",
+    "address": "417 Industrial Ave, Vancouver, BC V6A 2P3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.26978",
+        "longitude": "-123.09606"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Menu",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Dozen Assorted Box",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Half Dozen Assorted Box",
+                            "description": "An assortment of our best sellers!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Bakery",
+        "Cakes",
+        "Cookies"
+    ],
+    "url": "https://www.doordash.com/store/connies-cravings-vancouver-24729237/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7782233260",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "THURSDAY": [
+            "8:30 AM - 12:40 PM"
+        ],
+        "FRIDAY": [
+            "8:30 AM - 1:40 PM"
+        ],
+        "SATURDAY": [
+            "8:30 AM - 1:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "8:30 AM - 2 PM"
+        ],
+        "THURSDAY": [
+            "8:30 AM - 1 PM"
+        ],
+        "FRIDAY": [
+            "8:30 AM - 2 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

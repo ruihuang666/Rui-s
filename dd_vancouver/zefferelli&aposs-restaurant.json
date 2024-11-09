@@ -1,0 +1,706 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/9ffa79d0-d8a0-4135-8019-7238716075bb.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/182f2e2d-5199-4d1c-ae59-feb2f0875478.jpg"
+    ],
+    "name": "Zefferelli&apos;s Restaurant",
+    "address": "Zefferelli's, 1136 Robson St, Vancouver, BC V6E 1B2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.285103",
+        "longitude": "-123.12596"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Ragu",
+                            "description": "Slow simmered meat sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Carbonara",
+                            "description": "Bacon, egg yolk, black pepper &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parmigiana",
+                            "description": "Served with spaghetti alio-olio.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Bread with Blue Cheese and Truffle Oil",
+                            "description": "Toasted bread topped with blue cheese, garlic, and a drizzle of truffle oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Lady finger cookies layered with cream cheese, espresso &amp; rum",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Michelangelo",
+                            "description": "Chicken, sundried tomatoes, peas &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tortellini Gorgonzola",
+                            "description": "With bacon &amp; blue cheese cream sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bruschetta",
+                            "description": "With fresh tomato, basil, garlic &amp; olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Salsicce",
+                            "description": "Italian sausage, roasted peppers &amp; tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguini Funghi",
+                            "description": "Mushrooms, arugula &amp; prosciutto ham with rose sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Margherita",
+                            "description": "Mozzarella, basil &amp; tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguini Crab",
+                            "description": "rock crab, roasted peppers, artichokes, pesto &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kale Caesar Salad",
+                            "description": "With homemade dressing &amp; croutons. Add grilled chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Livers",
+                            "description": "Panfried with sherry &amp; sage on crostini.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Panfried Garlic Prawns",
+                            "description": "With white wine, lemon &amp; butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steamed Mussels",
+                            "description": "With rosemary, garlic, tomato &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza Margherita",
+                            "description": "Mozzarella, basil &amp; tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomato &amp; Bocconcini Salad",
+                            "description": "With virgin olive oil &amp; fresh basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arugula Salad",
+                            "description": "With shaved asiago cheese &amp; lemon olive oil dressing. Add grilled chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bruschetta",
+                            "description": "With fresh tomato, basil, garlic &amp; olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Panfried Italian Sausage",
+                            "description": "With kale &amp; red onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Parmigiana",
+                            "description": "Baked with tomato sauce &amp; mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olive and Anchovy Crostini",
+                            "description": "With olive oil and garlic.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "add Grilled Chicken",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Greens",
+                            "description": "With virgin olive oil &amp; balsamic vinegar. Add grilled chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smoked Salmon Pizza",
+                            "description": "With goat cheese, red onion, capers &amp; greens.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Golden Beet Salad",
+                            "description": "With goat cheese, mixed greens &amp; candied walnuts with a balsamic vinegar, olive oil and mustard vinaigrette. Add grilled chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Warm Spinach Salad",
+                            "description": "With bacon, goat cheese &amp; croutons with a white wine vinaigrette dressing. Add grilled chicken for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Carbonara",
+                            "description": "Bacon, egg yolk, black pepper &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Ragu",
+                            "description": "Slow simmered meat sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Michelangelo",
+                            "description": "Chicken, sundried tomatoes, peas &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Salsicce",
+                            "description": "Italian sausage, roasted peppers &amp; tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguini Funghi",
+                            "description": "Mushrooms, arugula &amp; prosciutto ham with rose sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguini Crab",
+                            "description": "rock crab, roasted peppers, artichokes, pesto &amp; cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguini Puttanesca",
+                            "description": "Prawns, anchovies, olives &amp; capers with a spicy tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Pomodoro",
+                            "description": "Tomato sauce with fresh basil, garlic &amp; olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Salmone",
+                            "description": "Smoked salmon, peas and fresh tomato in a curry cream sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tortellini Gorgonzola",
+                            "description": "With bacon &amp; blue cheese cream sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguini Vongole",
+                            "description": "Clams, garlic, white wine &amp; olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Entrees",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parmigiana",
+                            "description": "Served with spaghetti alio-olio.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veal Saltimbocca",
+                            "description": "Scallopine with prosciutto, sage &amp; marsala wine with spaghetti alio-olio.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veal Piccata",
+                            "description": "medallions finished with caper, white wine, lemon and butter. with spaghetti alio olio",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Marsala",
+                            "description": "Mushroom &amp; marsala wine sauce with spaghetti alio-olio.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Osso Buco",
+                            "description": "Braised veal shank with alio olio potato gnocchi.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Duck Breast",
+                            "description": "With raspberry balsamic demi glace and sauteed vegetables",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Bread with Blue Cheese and Truffle Oil",
+                            "description": "Toasted bread topped with blue cheese, garlic, and a drizzle of truffle oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sauteed Vegetables",
+                            "description": "A medley of sautéed zucchini, bell peppers, onions, and leafy greens, lightly seasoned.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Full Baguette",
+                            "description": "Crispy and airy French baguette with a golden crust and soft interior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2oz Tomato Bread Dip",
+                            "description": "Smooth tomato dip with a rich, tangy flavor, perfect for pairing with bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Marinated Olives",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2oz Grated Cheese",
+                            "description": "Finely grated cheese, perfect for adding a savory touch to your meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dessert",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Lady finger cookies layered with cream cheese, espresso &amp; rum",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hisham S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "It&apos;s my fav place to get pasta delivered from. The portion sizes are perfect for a hungry man."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Tori S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Pasta was bland. The blue Garlic Bread with Blue Cheese and Truffle Oil was awful. I thought I liked blue cheese but this ruined it for me. Also. No utencils so I hate to eat my expensive pasta with two coffee stir sticks from the hotel as chop Sticks. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Zeenat K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "the garlic bread was stale and the quality of the olive oil wasn&apos;t great. carbonaea was dry"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sanjay M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Terrible pasta , very salty and no flavor "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Leah O"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "my favorite Italian in Vancouver City! if you get the chance to dine in it&apos;s a must."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Bar",
+        "Italian"
+    ],
+    "url": "https://www.doordash.com/store/zefferelli's-restaurant-vancouver-1001183/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNDRdfQ==&pickup=false",
+    "phone": "+16046870655",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 8:45 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 10:15 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 10:15 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 8:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 10:30 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 10:30 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

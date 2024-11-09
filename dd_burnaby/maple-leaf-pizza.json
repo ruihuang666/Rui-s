@@ -1,0 +1,739 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/ba178929-d1ad-4e75-b07c-5889e21c145f.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/66e335d4-f639-43ca-8945-faa8d5599410.jpg"
+    ],
+    "name": "Maple Leaf Pizza",
+    "address": "2525 Hemlock St, Vancouver, BC V6H 1H2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.26324",
+        "longitude": "-123.13643"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Half &amp; Half Pizza",
+                            "description": "Customizable half &amp; half pizza: choose any two styles from a wide range including meats, deluxe options, various international flavors, or vegetarian on sizes from 10&quot; to 18&quot;.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Pizza",
+                            "description": "Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Delight",
+                            "description": "BBQ chicken, onions, tandoori chicken, jalapeño peppers and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Pizza",
+                            "description": "Extra pepperoni and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deluxe Pizza",
+                            "description": "Pepperoni, mushrooms, onions, green peppers, Italian sausage and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "All Meat Pizza",
+                            "description": "Pepperoni, ham, bacon, Italian sausage, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12&quot; Medium Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flavor",
+                            "description": "Twelve chicken wings, prepared to your preference from a selection of flavors, typically accompanied by a complementary dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "14&quot; Large Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Donair Pizza",
+                            "description": "Donair meat, onions, tomatoes, sweet Donair sauce and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Pizza",
+                            "description": "Ham, pineapple and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Unlimited Pizza",
+                            "description": "Pepperoni, mushrooms, ham, onions green peppers, Italian sausage, beef black olives and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Specialty Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Pizza",
+                            "description": "Extra pepperoni and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deluxe Pizza",
+                            "description": "Pepperoni, mushrooms, onions, green peppers, Italian sausage and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Unlimited Pizza",
+                            "description": "Pepperoni, mushrooms, ham, onions green peppers, Italian sausage, beef black olives and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "All Meat Pizza",
+                            "description": "Pepperoni, ham, bacon, Italian sausage, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hawaiian Pizza",
+                            "description": "Ham, pineapple and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Donair Pizza",
+                            "description": "Donair meat, onions, tomatoes, sweet Donair sauce and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadian Pizza",
+                            "description": "Pepperoni, mushrooms, bacon and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Pizza",
+                            "description": "Mushrooms, onions, green peppers, tomatoes and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Pizza",
+                            "description": "Ground beef, tomatoes, feta cheese, onions green peppers, black olives and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beefeater",
+                            "description": "Mushroom, seasoned beef, onion, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mexican Pizza",
+                            "description": "Ground beef, onions, green peppers, black olives, hot peppers and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maple Pizza",
+                            "description": "Maple syrup, mushrooms, Donair meat, onions and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gourmet Vegetarian",
+                            "description": "Spinach, artichoke hearts, onions, fresh tomato, pesto sauce, fresh garlic, feta, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Vegetarian Diavola",
+                            "description": "Mushroom, spinach, roasted red peppers, hot chili flakes, cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chicken Specialty Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Pizza",
+                            "description": "Mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Bacon Ranch Pizza",
+                            "description": "Chicken, bacon, ranch and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Deluxe Pizza",
+                            "description": "Chicken, mushrooms, onions green peppers and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Alfredo Chicken Pizza",
+                            "description": "Alfredo sauce, mushrooms, onions, chicken and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Chicken Pizza",
+                            "description": "Butter chicken sauce, onions, green peppers chicken and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Delight",
+                            "description": "BBQ chicken, onions, tandoori chicken, jalapeño peppers and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Chicken Pizza",
+                            "description": "BBQ chicken, BBQ sauce onions and cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Half &amp; Half Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Half &amp; Half Pizza",
+                            "description": "Customizable half &amp; half pizza: choose any two styles from a wide range including meats, deluxe options, various international flavors, or vegetarian on sizes from 10&quot; to 18&quot;.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Unlimited Topping Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "14&quot; Large Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12&quot; Medium Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16&quot; Extra Large Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10&quot; Small Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "18&quot; Giant Pizza",
+                            "description": "With any number of toppings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Double Double",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 - 14&quot; Pizzas with 5 Toppings",
+                            "description": "Two 14&quot; pizzas, each customizable with a choice of 21 toppings including meats like pepperoni, donair, and tandoori chicken, vegetables, and cheeses like feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$45.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 - 12&quot; Pizzas with 5 Toppings",
+                            "description": "Two 12&quot; pizzas, customizable with a choice of 21 toppings including meats like pepperoni and tandoori chicken, vegetables like onions and green peppers, and cheeses.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 - 16&quot; Pizzas with 5 Toppings",
+                            "description": "Two 16&quot; pizzas customizable with selections from meats like pepperoni, ham, and tandoori chicken, to veggies and cheeses including mushrooms, olives, jalapeños, and feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$52.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Family Meal",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Family Meal",
+                            "description": "Choose from any specialty pizza. Two pizzas, 12 chicken wings, one 2 ltr Coke. Add cheesy bread for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$53.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Menu",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza &amp; Wings (14&quot; Large) 2 cans of pop",
+                            "description": "One pizza with five toppings, 10 chicken wings, and 2 cans of pop .",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza &amp; Cheesy Bread (12&quot; Medium)2 Cans of Pop",
+                            "description": "One pizza with five toppings, one cheesy bread or garlic bread, 2 Cans of Pop.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza &amp; Cheesy Bread (14&quot; Large)2 Cans of Pop",
+                            "description": "One pizza with five toppings, one cheesy bread or garlic bread, 2 Cans of Pop.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pizza &amp; Wings (12&quot; Medium) 2 cans of pop",
+                            "description": "One pizza with five toppings, 10 chicken wings, and 2 cans of pop\n\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Party Special",
+                            "description": "Three 16&quot; pizzas with five toppings on each, 30 chicken wings, two 2 ltr pops.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$113.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "12 Wings",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flavor",
+                            "description": "Twelve chicken wings, prepared to your preference from a selection of flavors, typically accompanied by a complementary dip.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dipping Sauce",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Creamy Garlic",
+                            "description": "Creamy garlic sauce is a smooth, rich blend traditionally made with garlic and cream, offering a bold garlic taste suitable for dipping your favorite pizza slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ranch",
+                            "description": "Our ranch dipping sauce is a house-made concoction, blending creamy buttermilk with a mix of herbs and garlic, designed to complement your pizza.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chipotle",
+                            "description": "Chipotle dipping sauce is a smoky blend made with chipotle peppers, typically offering a medium heat level.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet Sauce",
+                            "description": "Sweet sauce is a smooth, sugary condiment, often crafted to complement a variety of pizza with its rich, sweet flavor profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Maryam G"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I got deluxe &amp; chicken deluxe pizzas with my family meal. The pizza was cheesy , crust was slightly  crunchy and the topping was well-cooked.The whole  meal was very delicious. I&apos;ll definitely order again!\n\n"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jeff M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Simply delicious....\nUnlimited toppings put together wonderfully with a perfect garlic infused crust....\nHonestly loved it "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jason M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Was not expecting it to be this great! Super gourmet and great ratio of sauce and cheese."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kate A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Excellent pizza, always arrives super hot. Always delicious. 10/10 no notes! Great place "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Thomas B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "I&apos;ve been looking for a decent pizza for a long time. I ordered the 14&quot; five topping with 10 wings and two pops for $38.99. This pizza was almost perfect. Just the right percentage of toppings to crust. My only complaints were it could have used another spoon of sauce and the onions could have softened up a little more. The wings were perfectly cooked. Thanks guys. I&apos;ll be back."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Pizza",
+        "Chicken",
+        "Chicken Wings",
+        "Family Meals",
+        "Canadian"
+    ],
+    "url": "https://www.doordash.com/store/maple-leaf-pizza-vancouver-2812830/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+1(604) 732-6565",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 11:39 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 11:39 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 11:39 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 11:39 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 1:40 AM"
+        ],
+        "SATURDAY": [
+            "11 AM - 1:40 AM"
+        ],
+        "SUNDAY": [
+            "11 AM - 11:39 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 11:59 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 11:59 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 11:59 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 11:59 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 2 AM"
+        ],
+        "SATURDAY": [
+            "11 AM - 2 AM"
+        ],
+        "SUNDAY": [
+            "11 AM - 11:59 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

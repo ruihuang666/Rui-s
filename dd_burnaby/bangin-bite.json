@@ -1,0 +1,712 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/e9756784-50a7-4e40-b8f7-5ece87f379df.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/460edca0-a551-41e2-95b3-36ea07e52b0d.jpeg"
+    ],
+    "name": "Bangin bite",
+    "address": "1205 E Hastings St, Vancouver, BC V6A 1S4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28164",
+        "longitude": "-123.07884"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Burger &amp; Tender with Fries",
+                            "description": "1 smash burger, 1 tender and fries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Fries",
+                            "description": "3oz certified angus beef smash patty with chedder cheese, pickles,Bed of fries, texas toast and Savvy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "6 piece, wings, served with heat levels and Savvy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York cheesecake",
+                            "description": "A delightful balance of sweetness and tanginess.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Burger",
+                            "description": "beef, slaw, pickles, Savvy sauce, butter bun, fries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bangin Fries",
+                            "description": "2 Chopped Jumbo Tenders, Fries, Pickles, bangin Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Poutine",
+                            "description": "Indulge in the ultimate comfort with our fresh-cut fries, adorned with delectable cheese curds, and smothered in rich, and savory poutine gravy. A tantalizing blend of crispy, cheesy, and velvety flavors that transforms every bite into a culinary delight.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tender Plate",
+                            "description": "3 Jumbo Tenders - served with Fries, Texas Toast, Pickles, &amp; Savvy Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sandwich &amp; Tender",
+                            "description": "1 Sandwich and 1Jumbo Tender - served with Fries, Slaw, Pickles, Texas Toast, Butter Bun &amp; Savvy Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Potato Bliss",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chicken BREAKFAST Burrito",
+                            "description": "Tender,Eggs,cheese, fries and savvy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chicken Burger",
+                            "description": "Our chicken Breast -fried steak Crispy with cheddar cheese slice lettuce, tomatoes, raw onions, and jalapeño with our special chipotle sauce on toasted bun",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mains",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Burger &amp; Tender with Fries",
+                            "description": "1 smash burger, 1 tender and fries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Fries",
+                            "description": "3oz certified angus beef smash patty with chedder cheese, pickles,Bed of fries, texas toast and Savvy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "6 piece, wings, served with heat levels and Savvy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tender Plate",
+                            "description": "3 Jumbo Tenders - served with Fries, Texas Toast, Pickles, &amp; Savvy Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Smash Burger",
+                            "description": "beef, slaw, pickles, Savvy sauce, butter bun, fries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sandwich &amp; Tender",
+                            "description": "1 Sandwich and 1Jumbo Tender - served with Fries, Slaw, Pickles, Texas Toast, Butter Bun &amp; Savvy Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3 hot chicken tenders and smash fries",
+                            "description": "bed of fries, 3 jumbo tenders, 3 smashed patties, cheese, pickles, Savvy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Poutine",
+                            "description": "Indulge in the ultimate comfort with our fresh-cut fries, adorned with delectable cheese curds, and smothered in rich, and savory poutine gravy. A tantalizing blend of crispy, cheesy, and velvety flavors that transforms every bite into a culinary delight.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chicken BREAKFAST Burrito",
+                            "description": "Tender,Eggs,cheese, fries and savvy sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chicken Burrito",
+                            "description": "jumbo tenders, slaw, Savvy sauce, pickles, tortilla",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bangin Plate",
+                            "description": "2 Sandwiches - served with Fries, Slaw, Pickles, &amp; Bangin Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Chicken Burger",
+                            "description": "Our chicken Breast -fried steak Crispy with cheddar cheese slice lettuce, tomatoes, raw onions, and jalapeño with our special chipotle sauce on toasted bun",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Fried Onion Poutine",
+                            "description": "Fresh-cut fries garnished with cheese curds served with poutine gravy topped with crispy fried onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Potato Bliss",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vanilla Ice Cream",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Ice Cream",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Loaded Smash Fries",
+                            "description": "bed of fries, smashed patties, cheese, Savvy sauce, pickles",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Animal style Fries !BOGO!",
+                            "description": "Crispy fries adorned with rich, melted cheddar cheese, caramelized onions and our distinctive Bangin sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sandwich",
+                            "description": "Butter Toasted bun,Jumbo Tenders, Fries, Slaw, Pickles, Savvy Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Velvet Cake",
+                            "description": "A decadent red velvet cake–moist layers, and cream cheese bliss. Pure temptation in every bite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Big Beef Burger",
+                            "description": "Our classic fully grass-Fed Canadian Angus Beef smash burger have 9oz patty, 2 slice of American cheese, coleslaw , and pickles on butter toasted bun with our special savvy sauce on it.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bangin Fries",
+                            "description": "2 Chopped Jumbo Tenders, Fries, Pickles, bangin Sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bangin Pops",
+                            "description": "Nuggets, Spicy Honey, Fries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Slaw",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pickles",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sauces",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buttermilk Ranch",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Honey",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bangin Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$1.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York cheesecake",
+                            "description": "A delightful balance of sweetness and tanginess.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "brownie",
+                            "description": "The combination of a slightly crispy crust and a dense, moist center creates a satisfying experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "red velvet",
+                            "description": "The creamy, slightly tangy frosting complements the sweetness of the cake and adds a rich and indulgent layer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "chocolate cake",
+                            "description": "The deep, dark brown color of the cake is a tempting invitation to chocolate lovers",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cookies and cream cake",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "cola",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Root beer",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diet coke",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "canada dry",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cutlery",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra napkins",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$0.05"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Morning S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Smash Burger was great, one of the best in the city.  Smash Fries was pretty good, huge portions; could have done without the toast between patty &amp; fries. Crispy Potato Bliss was tots.  Like, they were good and I got my $5 worth, but I wish that was in the item description.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jason M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Smash burger with tender and fries is best meal!! Really tasty and great quantity "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Bella B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Excellent burger and fries! Grass-fed beef, home made fries, friendly service. I would come to a place like this any day over traditional chain fast food burger. Fresh homemade bun too. So so delicious!!! Wish I lived here so I could go back more often."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Bella B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious surprise at this restaurant. The dishes were very flavorful and quite generous.\nWe loved our dinner and we&apos;ll come back.\nWe took the vegan spring rolls + chicken sate "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Bella B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "good but the fries were excellent. They were hand cut and crispy. The hamburgers on the menu all have cheese. They should offer a classic without cheese for a lower price."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 3.8
+    },
+    "servesCuisine": [
+        "American",
+        "Italian",
+        "Diner"
+    ],
+    "url": "https://www.doordash.com/store/bangin-bite-vancouver-27782345/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "2365123212",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "4:55 PM - 5 AM"
+        ],
+        "TUESDAY": [
+            "4:55 PM - 5 AM"
+        ],
+        "WEDNESDAY": [
+            "4:55 PM - 5 AM"
+        ],
+        "THURSDAY": [
+            "4:55 PM - 5 AM"
+        ],
+        "FRIDAY": [
+            "4:55 PM - 5 AM"
+        ],
+        "SATURDAY": [
+            "4:55 PM - 5 AM"
+        ],
+        "SUNDAY": [
+            "4:55 PM - 5 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "4:55 PM - 5:20 AM"
+        ],
+        "TUESDAY": [
+            "4:55 PM - 5:20 AM"
+        ],
+        "WEDNESDAY": [
+            "4:55 PM - 5:20 AM"
+        ],
+        "THURSDAY": [
+            "4:55 PM - 5:20 AM"
+        ],
+        "FRIDAY": [
+            "4:55 PM - 5:20 AM"
+        ],
+        "SATURDAY": [
+            "4:55 PM - 5:20 AM"
+        ],
+        "SUNDAY": [
+            "4:55 PM - 5:20 AM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

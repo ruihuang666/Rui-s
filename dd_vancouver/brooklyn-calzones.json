@@ -1,0 +1,302 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/5ade853d-d862-4c86-a0ad-0e544a208c5e.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/e2287aee-e655-4965-851e-4fb6367d221e.jpg"
+    ],
+    "name": "Brooklyn Calzones",
+    "address": "200 E 26th Ave, Vancouver, BC V5V 2G8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.247524",
+        "longitude": "-123.101"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Calzones",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coney Island Calzone",
+                            "description": "Calzone with pepperoni, sausage, peppers, olives, onions, melted mozzarella and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prospect Park Calzone",
+                            "description": "Calzone with pepperoni, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rockaway Calzone",
+                            "description": "Calzone with mushroom, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bushwick Calzone",
+                            "description": "Calzone with ground beef, tomato sauce, creamy ricotta, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flatbush Calzone",
+                            "description": "Calzone with juicy BBQ chicken, onion, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Williamsburg Calzone",
+                            "description": "Calzone with fresh spinach, garlic, creamy ricotta, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Heights Calzone",
+                            "description": "Calzone with juicy pesto chicken, tomato, melted parmesan and mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brooklyn Calzone",
+                            "description": "Calzone with creamy ricotta cheese and mozzarella cheese, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Barclays Calzone",
+                            "description": "Calzone with sausage, pepperoni, ham, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brooklyn Bridge Calzone",
+                            "description": "Calzone with savory ham, pineapple, melted mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BYO Calzone",
+                            "description": "Calzone with your choice of ingredients and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calzone Combo",
+                            "description": "Your choice of calzone and side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "L Train Calzone",
+                            "description": "Calzone with creamy ricotta, parmesan cheese, melted mozzarella, tomato, basil, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Red Hook Calzone",
+                            "description": "Calzone with savory sausage, mushroom, melted parmesan and mozzarella, and a side of marinara.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.49"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Snacks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Wings",
+                            "description": "With your choice of sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "House caesar salad with romaine lettuce, parmesan, croutons and caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Breadsticks",
+                            "description": "Three breadsticks with a side of marinara sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Sticks",
+                            "description": "Fresh dough with a base of garlic sauce topped with cheese - 10&quot;",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mozzarella Sticks",
+                            "description": "5 pieces fried mozzarella sticks with side marinara sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Knots",
+                            "description": "5 pieces house baked garlic knots with side of marinara sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks / Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canned Soda",
+                            "description": "Choose your soda.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99+"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Justyna S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious! Nice crust. Not greasy with good flavour. I would add extra cheese next time. Glad I found this spot!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Little M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "not stuffed with much - no cheese (calzones need cheese) very underwhelming &amp; took an hour for delivery. "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 3.1
+    },
+    "servesCuisine": [
+        "Italian",
+        "Comfort Food",
+        "Fast Food",
+        "Chicken",
+        "Salads",
+        "Sandwiches",
+        "Soup",
+        "Calzones",
+        "Pizza"
+    ],
+    "url": "https://www.doordash.com/store/brooklyn-calzones-vancouver-27718876/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6045584047",
+    "doordashOperationHourInfo": {},
+    "storeOperationHourInfo": {},
+    "merchant_cuisine": "Not found"
+}

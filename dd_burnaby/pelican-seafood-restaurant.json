@@ -1,0 +1,1102 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/30154de4-3611-4929-a8b0-92b6d264d5b9.JPG",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/af37b11c-fb89-4ad8-8eca-c56ab1083975.jpg"
+    ],
+    "name": "Pelican Seafood Restaurant",
+    "address": "1895 E Hastings St, Vancouver, BC V5L 1T3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28153",
+        "longitude": "-123.0662"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Shui Mai Dumplings / 飛魚子燒賣",
+                            "description": "Tender pork dumplings topped with fish roe, wrapped in thin yellow skins.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shrimp Dumpling / 少油蝦餃皇",
+                            "description": "Delicate dumplings filled with succulent shrimp, wrapped in a translucent, tender dough.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shrimp Spring Rolls / 蒜香蝦春卷",
+                            "description": "Golden, crispy rolls filled with tender shrimp and aromatic garlic, paired with a light, flaky wrapper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yang Chow Fried Rice / 揚州炒飯",
+                            "description": "Savory fried rice with diced ham, scrambled eggs, green peas, and scallions, garnished with crispy bits for added texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Green Beans with Minced Pork / 干扁四季豆",
+                            "description": "Tender green beans sautéed with minced pork and seasoned with a spicy blend of traditional Chinese spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Traditional Sticky Rice Wraps / 健怡糯米雞",
+                            "description": "Sticky rice filled with savory meats and mushrooms, wrapped in lotus leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan Fried Prawns &amp; Chives Dumpling / 香煎韭菜餅",
+                            "description": "Savory dumplings filled with prawns and chives, pan-fried to a golden crisp.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pan Fried Beef &amp; Rice Noodle / 干炒牛河",
+                            "description": "Tender beef slices and rice noodles stir-fried with bean sprouts, green onions, and soy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Homemade Daikon Cake / 阿嫲蘿卜糕",
+                            "description": "Pan-fried daikon radish cake with bits of savory cured meat, topped with bean sprouts and a hint of chili.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Steamed BBQ Pork Buns / 蜜汁叉焼飽",
+                            "description": "Soft and fluffy buns filled with savory and sweet barbecued pork.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Congee / ⽣滾滑雞粥",
+                            "description": "Tender chicken pieces in a smooth, creamy rice porridge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stuffed Bean Curd Wraps in Oyster Sauce / 蠔皇鮮竹卷",
+                            "description": "Steamed bean curd wraps filled with a savory blend, typically including pork and vegetables, generously coated in a rich oyster sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Chef Specials (Lunch)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salt and Pepper Deep Fried Tofu / 椒鹽豆腐",
+                            "description": "Deep-fried tofu seasoned with salt and pepper, accompanied by capsicum, onion, spring onion, and garlic.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chow Mein with Mixed Vegetable / 杂菜炒麵",
+                            "description": "Stir-fried chow mein noodles with a medley of vegetables, typically including cabbage, carrots, mushrooms, and bean sprouts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "House Special Chow Mein Assorted Seafood with Crispy Noodle / 招牌炒面",
+                            "description": "Crispy noodles topped with assorted seafood, including shrimp, squid, and fish, accompanied by fresh broccoli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sweet &amp; Sour Pork / 菠蘿咕噜肉",
+                            "description": "Crispy pork pieces coated in a tangy sweet and sour sauce, mixed with bell peppers, onions, and pineapple chunks.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Rice with Prawns / 虾炒飯",
+                            "description": "Fried rice with tender prawns, typically includes egg, peas, carrots, and onions, following traditional Chinese culinary techniques.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flat Rice Noodle with Beef &amp; Vegetable / 菜远牛肉炒河",
+                            "description": "Flat rice noodles stir-fried with slices of beef and a medley of vegetables, typically including bean sprouts and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Green Beans with Minced Pork / 干扁四季豆",
+                            "description": "Tender green beans sautéed with minced pork and seasoned with a spicy blend of traditional Chinese spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Chow Mein with Pickled Vegetable / 味菜牛肉炒麵",
+                            "description": "Pan-fried chow mein noodles with tender beef slices and pickled vegetables, offering a unique blend of flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clam in Blackbean Sauce / 豉汁炒蜆",
+                            "description": "Clams stir-fried with onions and green peppers, generously coated in a savory black bean sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Sticky Rice with Chinese Sausage / 生炒野米腊味糯米飯",
+                            "description": "Sticky rice fried with Chinese sausage and typically includes a savory blend of traditional seasonings and vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Supreme Soy Sauce Chow Mein / 豉油皇炒麵",
+                            "description": "Stir-fried egg noodles with soy sauce, onions, and green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bean Curd Sheets with Mushrooms / 雙菇腐皮球",
+                            "description": "Sautéed bean curd sheets and a mix of shiitake and another variety of mushrooms, typically prepared with a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jellyfish &amp; Beef Cold Plate / 海哲牛展",
+                            "description": "Jellyfish and beef, thinly sliced and served chilled, typically includes a delicate dressing to enhance the flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Wonton / 红油抽手",
+                            "description": "Tender wontons filled with seasoned meat, drizzled with a spicy chili oil sauce, and garnished with fresh green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wonton Soup (Small) / 雲吞湯(小)",
+                            "description": "Wonton Soup typically includes delicate wontons filled with a mixture of minced pork and shrimp, served in a savory chicken broth with choy sum.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom with Beef Tenderlion / 干燒鲜菌牛柳粒",
+                            "description": "Sliced beef tenderloin stir-fried with a variety of fresh mushrooms, typically served in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gai Lan with Oyster Sauce / 蠔油芥蘭",
+                            "description": "Savor our Gai Lan with Oyster Sauce, where blanched Chinese broccoli is elegantly dressed in a rich, umami-packed oyster sauce, showcasing a balance of textures and flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Buddha&apos;s Feast Vegetable / 生炒罗汉齋",
+                            "description": "Stir-fried mixed vegetables including bok choy, broccoli, mushrooms, baby corn, snow peas, bamboo shoots, and water chestnuts, typically in a light sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Wild Rice with Dried Scallops &amp; Egg White / 瑶柱蛋白炒健康米",
+                            "description": "Dried scallops and egg white tossed with wild rice, typically includes hints of garlic and scallions for a subtle flavor enhancement.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Rice with Seafood &amp; Scallops / 有米佬炒瑤柱带子海鲜飯",
+                            "description": "Pan-fried rice with scallops, shrimp, and additional seafood, typically includes mixed vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shanghai Style Chow Mein / 上海粗炒麵",
+                            "description": "Thick Shanghai-style noodles stir-fried with a savory mix of shrimp, chicken, bbq pork, and assorted vegetables, embodying the essence of traditional Shanghai cuisine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stir Fried Flat Rice Noodle with Beef / 干炒牛河",
+                            "description": "Tender beef and wide rice noodles stir-fried with bean sprouts, onions, and a light soy sauce, embodying the essence of traditional Chinese cuisine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Chow Mein with Pickled Vegetable / 味菜鸡肉炒麵",
+                            "description": "Stir-fried chicken and soft egg noodles, typically includes pickled vegetables for a tangy contrast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Rice with Mixed Vegetable / 杂菜炒饭",
+                            "description": "Stir-fried rice mixed with a variety of vegetables, offering a colorful and satisfying meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot &amp; Sour Seafood Soup (Small) / 海鲜酸辣湯 （小)",
+                            "description": "Mixed seafood in a traditionally spicy and sour broth, often featuring shrimp, scallops, and crabmeat with tofu and vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tripe &amp; Daikon Hot Pot / 柱候蘿卜牛筋肚煲",
+                            "description": "Served in a traditional hot pot, this dish combines tender beef tripe and daikon, simmered with a blend of spices and herbs for a hearty meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Daikon &amp; Pork Stomach with Pepper / 胡椒蘿卜猪肚",
+                            "description": "Pork stomach and daikon radish simmered with peppercorns in a savory broth, embodying a traditional Chinese culinary technique.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef &amp; Bitter Melon in Crispy Vermicelli / 凉瓜牛肉煎米粉",
+                            "description": "Sliced beef and bitter melon paired with crispy vermicelli, typically served with a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Singapore Style Curry Fried Vermicelli / 大蝦星州炒米粉",
+                            "description": "Thin rice vermicelli stir-fried with large shrimp and a savory blend of curry seasoning, typically includes onions, bean sprouts, and scrambled eggs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Special Stir Fried Seafood Vermicelli / 漁家炒粉丝",
+                            "description": "Sauteed shrimp, scallops, and other select seafood are tossed with vermicelli noodles, typically accompanied by a mix of vegetables in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Country Style Fried Vermicelli / 家鄉炒米",
+                            "description": "Stir-fried vermicelli with a mix of traditional ingredients, capturing the essence of homestyle cooking in a simple yet satisfying dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flat Rice Noodle with Fish Fillet &amp; Vegetable / 菜远魚片炒河",
+                            "description": "Flat rice noodles stir-fried with slices of fish fillet and assorted vegetables, offering a balanced and savory dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "E-fu Noodle / 蟹肉干烧伊面",
+                            "description": "E-fu noodles, gently tossed with succulent crab meat, typically includes a savory sauce and select vegetables, embodying a classic Chinese culinary tradition.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Slice&amp;bitter Melon in Crispy Vermicelli / 凉瓜鸡片煎米粉",
+                            "description": "Sliced chicken and bitter melon paired with crispy vermicelli, offering a unique blend of textures and flavors, typically stir-fried to enhance the dish&apos;s character.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Maggi Salmon / 美极三文鱼",
+                            "description": "Salmon filet marinated in Maggi sauce, typically includes a blend of spices and herbs, offering a unique taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Flat Rice Noodle with Vegetable / 菜远鸡片炒河",
+                            "description": "Sliced chicken and assorted vegetables stir-fried with flat rice noodles in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Squid with Salt and Pepper / 椒鹽鮮魷",
+                            "description": "Deep-fried squid, seasoned with a blend of salt and pepper, commonly accompanied by a hint of chili for a slight kick.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bean Curd Sheet with Vegetable in Fish Broth / 魚湯鲜腐皮浸菜苗",
+                            "description": "Bean curd sheets and fresh vegetables are gently simmered in a delicate fish broth, offering a light and nourishing choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers / 頭盘",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetable Spring Rolls (4 Pieces) / 素春卷",
+                            "description": "Thin pastry filled with a mix of vegetables, typically cabbage, carrot, and bean sprouts, deep-fried to achieve a crispy texture. Served in a set of four pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Shrimp Egg Roll (2 Pieces) / 脆炸蝦春卷",
+                            "description": "Two pieces of shrimp egg rolls, wrapped in a crispy shell, typically includes a mix of shrimp and vegetables, deep-fried to achieve a golden texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jelly Fish Cold Dish / 海哲分蹄",
+                            "description": "Jellyfish cold dish typically includes thinly sliced jellyfish, seasoned with a blend of soy sauce, sesame oil, and a hint of chili, garnished with cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Stuffed Crab Claw (Each) / 百花釀蟹钳",
+                            "description": "With Shrimp meat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Soup / 湯",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fish Maw with Crab Meat Soup / 蟹肉鱼肚羹",
+                            "description": "Crab meat and fish maw in a thick broth, typically includes egg whites.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wonton Soup / 雲吞汤",
+                            "description": "Handmade wontons, commonly filled with pork, served in a clear and savory broth, often garnished with scallions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken and Egg Drop Corn Soup / 雞茸粟米羹",
+                            "description": "Minced chicken and sweet corn in a savory broth, enhanced with delicately whisked eggs to create a silky texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot &amp; Sour Soup / 酸辣汤",
+                            "description": "A tangy and spicy broth with tofu, bamboo shoots, mushrooms, and egg ribbons, garnished with fresh cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef &amp; Egg Drop Soup / 西湖牛肉羹",
+                            "description": "Minced beef and egg gently swirled into a clear, savory broth, typically includes cilantro and mushrooms for added texture and flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.98"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Seafood / 海鲜",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sautéed Scallops with Seasonal Vegetables / 时菜带子",
+                            "description": "Scallops sautéed with a medley of seasonal vegetables, typically served in a light, savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sautéed Prawn with Vegetables / 油泡蝦球",
+                            "description": "Sautéed prawn with a medley of vegetables, typically featuring a light and savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Prawns with Sweet &amp; Sour Sauce / 椒鹽中蝦",
+                            "description": "Deep-fried prawns, typically coated in batter, served with a tangy sweet and sour sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Prawns with Spiced Salt / 椒鹽中蝦",
+                            "description": "Deep-fried prawns, typically seasoned with a blend of spices and salt, maintaining their shell for added texture.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fried Prawns with Diced Vegetables &amp; Cashew Nut / 腰果蝦仁",
+                            "description": "Prawns stir-fried with a medley of diced vegetables and cashews, offering a crunchy and savory experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Fish Fillet with Rock Salt &amp; Pepper / 椒盐魚球",
+                            "description": "Deep-fried fish fillets, seasoned with a mix of rock salt and pepper, often accompanied by hints of garlic and sliced green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Fish Fillet with Creamy Corn Sauce / 粟米魚塊",
+                            "description": "Crispy deep-fried fish fillet served with a rich, creamy corn sauce, typically featuring a sweet and savory profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Special Honey Prawns / 沙汁蝦",
+                            "description": "Prawns lightly battered and tossed in a special honey sauce, typically includes a savory blend.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Squid with Pepper &amp; Spiced Sauce / 椒鹽鮮魷",
+                            "description": "Crispy deep-fried squid garnished with sliced green onions, red chili flakes, and cucumber slices, accompanied by a pepper and spiced sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawns with Hot Spicy Sauce (Szechuan Style) / 四川蝦球",
+                            "description": "Prawns sautéed in a robust, spicy Szechuan sauce, typically including a mix of garlic, ginger, and chili peppers for a bold flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Poultry / 雞, 鸭",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Barbeque Duck (Half) / 明爐火鴨 (半隻)",
+                            "description": "Tender and juicy duck, roasted to perfection, glazed with a savory sauce, garnished with fresh parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chicken with Shrimp Chips (Half) / 脆皮炸子雞（半隻)",
+                            "description": "Half of a chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diced Chicken with Cashew Nuts / 腰果雞丁",
+                            "description": "Diced chicken stir-fried with cashew nuts, often accompanied by vegetables such as celery, carrots, and water chestnuts, in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Crispy Chicken with Shrimp Chips (Whole) / 脆皮炸子雞 (全隻)",
+                            "description": "Whole chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sautéed Diced Chicken with Black Bean Sauce / 豆豉雞球",
+                            "description": "Diced chicken sautéed with bell peppers and onions, typically includes a savory black bean sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Chicken / 柠檬雞",
+                            "description": "Deep-fried chicken breast, typically served with a tangy lemon sauce that often includes fresh lemon slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sautéed Diced Chicken &amp; Vegetables in Spicy Sauce / 酱爆雞丁",
+                            "description": "Diced chicken sautéed with mixed vegetables, served in a spicy sauce, embodying a classic stir-fry technique.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Sweet &amp; Sour Boneless Chicken / 菠蘿咕噜雞",
+                            "description": "Tender boneless chicken pieces coated in a sweet and tangy pineapple sauce, garnished with sesame seeds and mixed with bell peppers and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Honey Garlic Chicken / 蜜汁鸡球",
+                            "description": "Breaded chicken pieces, typically tossed in a sweet and savory honey garlic sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sizzling Chicken / 姜葱鸡煲",
+                            "description": "With genger &amp; green onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Supreme Chicken (Half) / 盐水雞 (半隻)",
+                            "description": "Half of a chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.98"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Barbecue Duck (Whole) / 明爐火鴨（全隻)",
+                            "description": "Whole duck.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$46.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Supreme Chicken (Whole) / 盐水雞 （全隻）",
+                            "description": "Whole chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$43.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beef &amp; Pork / 牛, 猪",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple Sweet &amp; Sour Pork / 菠蘿咕噜肉",
+                            "description": "Tender pork pieces in a tangy sweet and sour sauce with pineapple chunks, bell peppers, and onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mandarin Pork Chops / 京都焗肉排",
+                            "description": "Deep-fried pork chops, typically served in a tangy mandarin sauce, embodying a blend of sweet and sour flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sliced Beef Sautéed with Black Bean Sauce &amp; Green Pepper / 豉椒牛肉",
+                            "description": "Sliced beef sautéed with fermented black bean sauce and green peppers, offering a savory and slightly spicy profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Deep Fried Spiced Salt Pork Chops / 椒鹽肉排",
+                            "description": "Deep-fried pork chops seasoned with a blend of spices and salt, typically tossed with diced chili peppers for a hint of heat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Pork with Assorted Vegetables / 叉燒雜菜",
+                            "description": "Tender BBQ pork slices with crisp snow peas, carrot flowers, and fresh cilantro.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Steak with Honey Sauce / 蜜汁猪扒",
+                            "description": "Pork steak glazed in a sweet honey sauce, often accompanied by a selection of vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pork Steak with Dried Plum / 话梅猪扒",
+                            "description": "Pork steak, typically served with a sweet and tart dried plum sauce, offering a unique blend of flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Brocolli / 牛肉百家利",
+                            "description": "Tender beef slices stir-fried with fresh broccoli in a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Braised Sliced Pork with Pickled Mustard / 梅菜扣肉",
+                            "description": "Sliced pork belly slow-cooked with pickled mustard greens.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Belle R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I&apos;ve never had Pelican Seafood Restaurant Special Chow Mein / 招牌炒面  delivered so well! The sauce was separate from the crispy noodles so it arrived still fully crispy! 12/10"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Colleen E"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Delicious food and the dim sum pieces are big! A favourite and I&apos;m so happy to see them on DoorDash. We&apos;ll definitely be ordering again soon. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Michel C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "EVERYTHING ORDERED WAS BLAND , HAD TO SPICE IT UP TO EAT IT . SPRINGROLLS UNDER COOKED "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Bina N"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Dim sum is super oily.    "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jane M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "I got the wrong order! I was waiting for my Chinese Donut Wrapped with Rice Flour Roll / 布拉肉鬆炸两腸粉 !"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Chinese",
+        "Dim Sum",
+        "Seafood"
+    ],
+    "url": "https://www.doordash.com/store/pelican-seafood-restaurant-vancouver-24722334/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6042513395",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 10:10 AM\",\"10:31 AM - 9:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 10:30 AM\",\"10:31 AM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

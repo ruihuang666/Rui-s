@@ -1,0 +1,82 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Ela_Made_Me_Do_It_Vanvouver_CIty.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/51eb07fe-9737-45a7-91b2-2e3ed016388b.jpg"
+    ],
+    "name": "Ela Made Me Do It",
+    "address": "266 Raymur Ave, Vancouver, BC V6A 3K8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.28215",
+        "longitude": "-123.08235"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Soup",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Panang Thai Soup (Per 2)",
+                            "description": "Authentic panang curry based thai soup. Spicy, sweet and flavour packed! Fresh tumeric, ginger, thai basil, cilantro, lime juice and so many more traditional ingredients. No shortcuts! also makes a great curry or noodle bowl. Plenty of fresh thai basil, cilantro, ginger, tumeric, green beans, bamboo shoots, water chestnut, onions, tomato, coconut cream and panang curry. Items Included: soups and broths come in 1 litre pouches, frozen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Bone Broth (Per 4)",
+                            "description": "Simmered for 48 hours with vegetables and apple cider vinegar, this ethical bone broth is going to hit the spot, be it health or hunger. Vegetables are organic whenever possible and beef is 100% grass fed, organic, pasture raised beef from family run forstbauer farms in Chilliwack, BC. Items included: all soups and broths come in 1 litre pouches, frozen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Barszcz (Per 2)",
+                            "description": "Sweet, sour and earthy. This is my grandmother&apos;s recipe for polish beet soup, barszcz (our version of borstch). Packed with fresh dill, dried marjoram and organic apple cider vinegar in keeping with tradition. Items included: soups and broths come in 1 litre pouches, frozen.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "servesCuisine": [
+        "Pickup",
+        "Takeout",
+        "Delivery",
+        "Sides",
+        "Healthy",
+        "Soup"
+    ],
+    "url": "https://www.doordash.com/store/ela-made-me-do-it-vancouver-643453/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+17782280334",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 6:30 PM"
+        ],
+        "THURSDAY": [
+            "1 PM - 6:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 6:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

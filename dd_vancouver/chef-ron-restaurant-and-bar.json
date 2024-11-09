@@ -1,0 +1,632 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/fdb5fc1c-411b-4879-a683-9cad572ad9d5.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3c6db4bd-0774-453e-8a1c-882c9ed435c3.jpg"
+    ],
+    "name": "Chef Ron restaurant and bar",
+    "address": "1037 Denman St, Vancouver, BC V6G 2M4, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.288998",
+        "longitude": "-123.13932"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Chicken Sandwich",
+                            "description": "Lettuce, tomato, onion, mayo, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mama&apos;s Style Spaghettini",
+                            "description": "Ground beef, onion, tomato paste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Street Tacos",
+                            "description": "Street Tacos: Bite-sized tacos with chicken, served as an appetizer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Philly Cheese Steak Sandwich",
+                            "description": "6 oz sliced steak, Mozzarella, onion, mushroom, bell pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tongue Sandwich",
+                            "description": "Beef tongue, caramelized onion, mushroom, white sauce, Mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bandari Sandwich",
+                            "description": "Special sauce, caramelized onion, tomato, tomato paste, special all beef sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Serious Burger Lover",
+                            "description": "Angus certified hand patty, lettuce, tomato, cheddar cheese, Ron&apos;s aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Sandwich",
+                            "description": "Hummus, parsley, onion, jalapeño crema, lettuce, Ron&apos;s aioli sauce, tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Dog Sandwich",
+                            "description": "Parsley, onion, mayo, pickle, premium all beef sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettuccine Alfredo",
+                            "description": "Served with your choice of grilled garlic chicken or Cajun chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Vegetable Sandwich",
+                            "description": "Grilled onion, bell pepper, mayo, mustard, eggplant, mushroom, zucchini, pickle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolma",
+                            "description": "Stuffed grape leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Street Tacos",
+                            "description": "Street Tacos: Bite-sized tacos with chicken, served as an appetizer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Dolma",
+                            "description": "Stuffed grape leaves.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Wings",
+                            "description": "Whole chicken wings, deep-fried and tossed in a spicy buffalo sauce, typically accompanied by celery sticks and blue cheese dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Samosa Dish",
+                            "description": "Deep-fried pastry typically includes a savory filling of spiced potatoes, peas, and sometimes meat, served with a side of chutney.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yam Fries",
+                            "description": "Deep-fried until golden, these sweet potato fries are lightly seasoned to enhance their natural sweetness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Fries",
+                            "description": "Fresh-cut fries tossed with minced garlic and parsley, typically includes a sprinkle of parmesan cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheesy Potato Chips",
+                            "description": "Thinly sliced potato chips covered in melted cheese, typically served as a sharable appetizer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Prawns &amp; Grilled Vegetables",
+                            "description": "Grilled prawns and a medley of vegetables, typically including zucchini, bell peppers, and onions, seasoned with chili for a spicy kick.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salt &amp; Pepper Wings",
+                            "description": "Chicken wings seasoned with salt and pepper, then fried to achieve a crisp exterior.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Tacos",
+                            "description": "Ground chickpeas, parsley, and spices, typically served in a taco shell, combining traditional falafel flavors with a Mexican twist.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Cap",
+                            "description": "Mushroom cap appetizer typically includes fresh mushrooms, prepared and presented with a focus on highlighting the natural flavors of the mushroom.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "Golden and crispy, seasoned to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BBQ Wings",
+                            "description": "Chicken wings coated in BBQ sauce, typically prepared by frying and then tossing with the sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus with Tortilla",
+                            "description": "Pureed chickpeas blended with tahini, lemon juice, and garlic, served with tortilla.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Crispy romaine lettuce, creamy Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tabbouleh Salad",
+                            "description": "Finely chopped parsley, tomatoes, mint, onion, bulgur, olive oil, lemon juice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Cucumber, tomato, onion, olive, feta cheese, Greek salad dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Salad",
+                            "description": "Grilled Cajun chicken breast, crisp romaine lettuce, mixed greens, Sunflower seeds, dried cranberries, cherry tomatoes, hot glazed dressing, cauliflower, garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garden Salad",
+                            "description": "Crisp romaine lettuce, tomato, cucumber, ranch dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$7.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Impossible Burger",
+                            "description": "Plant-based burger, lettuce, tomato, Ron&apos;s aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Serious Burger Lover",
+                            "description": "Angus certified hand patty, lettuce, tomato, cheddar cheese, Ron&apos;s aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cajun Chicken Sandwich",
+                            "description": "Lettuce, tomato, onion, mayo, cheddar cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Philly Cheese Steak Sandwich",
+                            "description": "6 oz sliced steak, Mozzarella, onion, mushroom, bell pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bandari Sandwich",
+                            "description": "Special sauce, caramelized onion, tomato, tomato paste, special all beef sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Tongue Sandwich",
+                            "description": "Beef tongue, caramelized onion, mushroom, white sauce, Mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Dog Sandwich",
+                            "description": "Parsley, onion, mayo, pickle, premium all beef sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Falafel Sandwich",
+                            "description": "Hummus, parsley, onion, jalapeño crema, lettuce, Ron&apos;s aioli sauce, tomato.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Vegetable Sandwich",
+                            "description": "Grilled onion, bell pepper, mayo, mustard, eggplant, mushroom, zucchini, pickle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mama&apos;s Style Spaghettini",
+                            "description": "Ground beef, onion, tomato paste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettuccine Alfredo",
+                            "description": "Served with your choice of grilled garlic chicken or Cajun chicken.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Pesto",
+                            "description": "Served with sausage and chorizo sausage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hunan Chicken",
+                            "description": "Onion, carrots, celery, bell pepper, peanuts, broccoli, peanut, cauliflower, sliced chicken breast, Hunan sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Teriyaki Veggie Bowl",
+                            "description": "Carrot, onion, celery, cabbage, mushroom, bell pepper, teriyaki sauce, sesame, jasmine rice, sesame, peanut.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon with Spring Rice",
+                            "description": "6 oz salmon, spring rice, asparagus, caper aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "hadis s"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "best ever Grilled Vegetable Sandwich"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ali Z"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "The flavor of the food wasn’t to my liking, and it seemed a bit too greasy."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "hadis s"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "best Street Tacos ever🥰 "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "hadis s"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": " I just wanted to express my gratitude for how delicious it was. The flavors were perfectly balanced, and the chicken was cooked to perfection. It was one of the best meals I have had in a long time.\n\nThank you so much for taking the time and care to create such a wonderful dish. It was truly a pleasure to enjoy, and I look forward to ordering from your restaurant again soon.\n\n"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Sandwiches",
+        "Salads"
+    ],
+    "url": "https://www.doordash.com/store/chef-ron-restaurant-and-bar-vancouver-24695747/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7786821148",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 9:20 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 9:20 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 9:20 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 9:20 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9:20 PM"
+        ],
+        "SATURDAY": [
+            "12 PM - 9:20 PM"
+        ],
+        "SUNDAY": [
+            "12 PM - 9:20 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

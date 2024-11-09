@@ -1,0 +1,384 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/MindfulJuiceBar152St10330152348.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/aab3098c-3158-4de1-b98d-7eff6ca5a986.jpg"
+    ],
+    "name": "Mindful Juice Bar",
+    "address": "10330 152 St, Surrey, BC V3R 4G8, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.190487",
+        "longitude": "-122.800316"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Acai Bowl",
+                            "description": "Blended acai berry, blueberry, strawberry, raspberry, blackberry, almond milk, banana. Topped with homemade granola, banana, chia seeds, hemp hearts, coconut flakes, cacao nibs, goji berry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Poké Bowl",
+                            "description": "Marinated Tofu, Edamame Beans, Carrots, Pineapples, Avocado, Cucumber &amp; Seaweed Salad on a bed of Mixed Greens, Quinoa  with Sriracha Yuzu Mayo dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Almond",
+                            "description": "Almond milk, banana, oats, almonds, cacao, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raw Earth Bowl",
+                            "description": "Vegan, gluten-free. Carrots, Cabbage, Beet, Grape Tomato, Mixed Greens, Quinoa, Chickpeas, Pepita Seeds, Dried Cranberries with Cashew Garlic or Lemon Tahini dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Portobello Pesto Wrap",
+                            "description": "Vegan. Portobello Mushroom, Bell Pepper, Onion, Pesto Mayo, Provolone Cheese, Mixed Greens, Multigrain Wrap.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rooted",
+                            "description": "Carrot, Apple, Beet, Ginger",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Grilled Cheese",
+                            "description": "Smoked Gouda, Pesto Mayo on Multigrain Bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical",
+                            "description": "Coconut milk, spinach, mango, pineapple, turmeric.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green",
+                            "description": "Coconut water, spinach, cucumber, apple, ginger, lime, chia seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Maca",
+                            "description": "Banana, almond butter, chai spice, maca powder.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Veg + Hummus Wrap",
+                            "description": "Vegan. Eggplant, Zucchini, Bell Pepper, Onion, Sun-dried Tomato Hummus, Mixed Greens, Multigrain Wrap.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Berry",
+                            "description": "Almond milk, berries, spinach, almond butter, dates.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Food",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Veg + Hummus Wrap",
+                            "description": "Vegan. Eggplant, Zucchini, Bell Pepper, Onion, Sun-dried Tomato Hummus, Mixed Greens, Multigrain Wrap.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Raw Earth Bowl",
+                            "description": "Vegan, gluten-free. Carrots, Cabbage, Beet, Grape Tomato, Mixed Greens, Quinoa, Chickpeas, Pepita Seeds, Dried Cranberries with Cashew Garlic or Lemon Tahini dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Poké Bowl",
+                            "description": "Marinated Tofu, Edamame Beans, Carrots, Pineapples, Avocado, Cucumber &amp; Seaweed Salad on a bed of Mixed Greens, Quinoa  with Sriracha Yuzu Mayo dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Portobello Pesto Wrap",
+                            "description": "Vegan. Portobello Mushroom, Bell Pepper, Onion, Pesto Mayo, Provolone Cheese, Mixed Greens, Multigrain Wrap.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Grilled Cheese",
+                            "description": "Smoked Gouda, Pesto Mayo on Multigrain Bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Pressed Juices",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Citrus-C",
+                            "description": "Orange, Grapefruit, Cranberry, Lime",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Glow",
+                            "description": "Swiss Chard, Spinach, Fennel, Cucumber, Pear, Lemon",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rooted",
+                            "description": "Carrot, Apple, Beet, Ginger",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Smoothies",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Berry",
+                            "description": "Almond milk, berries, spinach, almond butter, dates.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mango Acai Berry",
+                            "description": "Coconut water, mango, acai, berries",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pitaya Bowl",
+                            "description": "Blended Pitaya (Dragon Fruit), Mango, Pineapple, Date, Coconut Mylk. Topped with homemade granola, banana, chia seeds, hemp hearts, coconut flakes, cacao nibs, goji berry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tropical",
+                            "description": "Coconut milk, spinach, mango, pineapple, turmeric.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Almond",
+                            "description": "Almond milk, banana, oats, almonds, cacao, coconut flakes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Acai Bowl",
+                            "description": "Blended acai berry, blueberry, strawberry, raspberry, blackberry, almond milk, banana. Topped with homemade granola, banana, chia seeds, hemp hearts, coconut flakes, cacao nibs, goji berry.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green",
+                            "description": "Coconut water, spinach, cucumber, apple, ginger, lime, chia seeds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chai Maca",
+                            "description": "Banana, almond butter, chai spice, maca powder.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.5
+    },
+    "servesCuisine": [
+        "Banh Mi",
+        "Vegan",
+        "Organic",
+        "Juice Bar",
+        "Smoothies"
+    ],
+    "url": "https://www.doordash.com/store/mindful-juice-bar-surrey-386007/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044984330",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 3:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 2:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 3:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 4 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 4 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 4 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 4 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 4 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 3 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

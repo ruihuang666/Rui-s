@@ -1,0 +1,691 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Zawa_920_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/32d2c71a-b5ca-471d-a5a8-9bc5d49a5edf.jpg"
+    ],
+    "name": "Zawa",
+    "address": "Zawa Restaurant, 920 Commercial Dr, Vancouver, BC V5L 3W7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.27638",
+        "longitude": "-123.06937"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flatbread Zaater Manakish",
+                            "description": "Flatbread topped with sesame seeds, feta cheese and a mixture of herbs infused with olive oil. Served with a small hummus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Fresh cucumbers, red onion, tomato, green peppers, kalamata olives, Greek dressing and topped with feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wild Salmon Burger",
+                            "description": "Homemade lemon and orange mayo with tomatoes, red onion, lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken",
+                            "description": "Chicken Souvlaki: Select large with 2 skewers or small with 1.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Selection of soda beverages including Coca-Cola, Diet Coke, and Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Santa Fe Chicken Burger",
+                            "description": "Flame-broiled chicken breast with a mixed mozzarella and cheddar cheese, double smoked bacon and guacamole.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wings (1 lb)",
+                            "description": "1 lb chicken wings, options for honey garlic, hot, salt &amp; pepper, or teriyaki sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Burger",
+                            "description": "Grilled parmesan cheese, double smoked bacon, grilled onions and mushrooms, pickles, house sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "Bacon, swiss and cheddar cheese, black forest ham, turkey breast, lettuce, tomato, mayo. Your choice of white or brown bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Burger",
+                            "description": "Veggie patty (brown rice, mushroom rolled oats mozzarella) grilled onions, green peppers, mushrooms and swiss cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Garlic Prawns",
+                            "description": "Ten pieces of tiger prawn sautéed in our spicy garlic chili sauce, served with crostini bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine",
+                            "description": "Homemade fries smothered in cheese curds and gravy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poutine",
+                            "description": "Homemade fries smothered in cheese curds and gravy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wings (1 lb)",
+                            "description": "1 lb chicken wings, options for honey garlic, hot, salt &amp; pepper, or teriyaki sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calamari",
+                            "description": "Tender lightly breaded squid rings sprinkled with onion, served with homemade tzatziki.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fingers with Fries",
+                            "description": "Chicken tenders lightly breaded, served with fresh cut fries.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hummus &amp; Whole Wheat Naan Bread",
+                            "description": "Mashed chickpeas blended with tahini, garlic, and lemon, served with whole wheat naan bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Flatbread Zaater Manakish",
+                            "description": "Flatbread topped with sesame seeds, feta cheese and a mixture of herbs infused with olive oil. Served with a small hummus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chili Garlic Prawns",
+                            "description": "Ten pieces of tiger prawn sautéed in our spicy garlic chili sauce, served with crostini bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Fresh cucumbers, red onion, tomato, green peppers, kalamata olives, Greek dressing and topped with feta.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Romaine lettuce tossed in our homemade Caesar dressing, garlic croutons and shredded Parmesan cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chef Salad",
+                            "description": "Spinach, artisan lettuce, house balsamic-dijon dressing with fruit, feta cheese and almonds.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garden Salad",
+                            "description": "Fresh tossed lettuce, tomato, cucumbers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Clubhouse",
+                            "description": "Bacon, swiss and cheddar cheese, black forest ham, turkey breast, lettuce, tomato, mayo. Your choice of white or brown bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Signature Burger",
+                            "description": "Grilled parmesan cheese, double smoked bacon, grilled onions and mushrooms, pickles, house sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Santa Fe Chicken Burger",
+                            "description": "Flame-broiled chicken breast with a mixed mozzarella and cheddar cheese, double smoked bacon and guacamole.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Wild Salmon Burger",
+                            "description": "Homemade lemon and orange mayo with tomatoes, red onion, lettuce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegan Burger",
+                            "description": "Veggie patty (chick pea, green onion, parsley, and a range of spices) Avocado, raw onion, tomato, lettuce, hummus.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Burger",
+                            "description": "Veggie patty (brown rice, mushroom rolled oats mozzarella) grilled onions, green peppers, mushrooms and swiss cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spicy Cajun fettucini",
+                            "description": "Spicy chorizo and smoked bacon in our homemade spicy Cajun tomato mushroom sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettuccine with Meatballs",
+                            "description": "Our homemade fettuccine sauce topped with meatballs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seafood Fettuccine",
+                            "description": "Tiger prawns, muscles, white fish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Fettuccine Alfredo",
+                            "description": "Tender grilled chicken in a creamy alfredo sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Souvlaki",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken",
+                            "description": "Chicken Souvlaki: Select large with 2 skewers or small with 1.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "New York Steak",
+                            "description": "Eight ounces steak, served with potatoes, steamed vegetables and garlic toast.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lemon Garlic Chicken",
+                            "description": "Seasoned with lemon, garlic and white wine, served with roasted potatoes, steamed vegetables and garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stir Fry",
+                            "description": "Fresh seasonal vegetables lightly stir-fried in teriyaki or spicy peanut sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb",
+                            "description": "Lamb, available in large with 2 skewers or small with 1 skewer.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prawn",
+                            "description": "Prawn souvlaki. Choice of large (2 skewers) or small (1 skewer).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Extras &amp; Add Ons",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Swiss Cheese",
+                            "description": "Add a slice of Swiss cheese, known for its mild, nutty flavor, to enhance your burger or sandwich.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Guacamole",
+                            "description": "Fresh, creamy avocado dip, seasoned with lime and cilantro. Perfect for sharing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gravy Cream",
+                            "description": "A smooth, rich sauce often made with a base of meat drippings and thickened with cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salsa Cream",
+                            "description": "A blend of salsa and cream, creating a smooth and versatile condiment to complement your dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bacon",
+                            "description": "Crispy thick-cut, smoked to perfection.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mayo Cream",
+                            "description": "Mayo cream is a smooth blend of mayonnaise with a rich, creamy texture, often used to complement burgers or as a dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Sour Cream",
+                            "description": "A creamy topping to complement your burger or enhance the flavor of other dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tzatziki Hummus",
+                            "description": "A blend of creamy hummus and tzatziki, combining chickpeas, tahini, strained yogurt, cucumber, garlic, olive oil, and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheddar Cheese",
+                            "description": "A slice of cheddar cheese, typically added to burgers or sandwiches to enhance flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Selection of soda beverages including Coca-Cola, Diet Coke, and Sprite.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Latte",
+                            "description": "Creamy espresso beverage made with steamed milk, perfect for coffee enthusiasts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cappuccino",
+                            "description": "Classic espresso with steamed milk, topped with a layer of frothy foam.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hot Chocolate",
+                            "description": "Smooth, rich chocolate drink, perfectly steamed to warm your soul.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tea",
+                            "description": "A soothing blend of selected leaves for a calming sipping experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Juice",
+                            "description": "Juice typically includes a selection of freshly extracted flavors such as orange, apple, pineapple, and cranberry, served as a refreshing beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coffee",
+                            "description": "Freshly brewed, aromatic blend to kick-start your day.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Albert A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Why isnt there no breakfast on the door dash menu "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Burgers",
+        "Souvlaki",
+        "Salads"
+    ],
+    "url": "https://www.doordash.com/store/zawa-vancouver-58787/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16042550470",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 9:35 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 9:35 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 9:35 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 9:35 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 9:35 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 9:35 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 9:35 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 10 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 10 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 10 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 10 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 10 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

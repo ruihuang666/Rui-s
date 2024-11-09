@@ -1,0 +1,141 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/3798f2cf-ee70-424d-9d98-c58ac27ab266.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/4f0fc75a-6524-47e8-b0dd-2668654e063b.JPG"
+    ],
+    "name": "Menchie&apos;s Frozen Yogurt",
+    "address": "Menchie's, 20202 66 Ave Unit 3, Langley, BC V2Y 1P3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.120304",
+        "longitude": "-122.66315"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Frozen Yogurt",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Frozen Yogurt (Medium)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Frozen Yogurt (Large)",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Veronica C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "They are amazing! Great service. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Clayton R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "we ordered two flavors for both orders and only got one flavor per order."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.2
+    },
+    "servesCuisine": [
+        "Frozen Yogurt",
+        "Cakes",
+        "Dessert",
+        "Sweets"
+    ],
+    "url": "https://www.doordash.com/store/menchie's-frozen-yogurt-langley-901273/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044270396",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 7:45 PM"
+        ],
+        "TUESDAY": [
+            "1 PM - 7:45 PM"
+        ],
+        "WEDNESDAY": [
+            "1 PM - 7:45 PM"
+        ],
+        "THURSDAY": [
+            "1 PM - 7:45 PM"
+        ],
+        "FRIDAY": [
+            "1 PM - 7:45 PM"
+        ],
+        "SATURDAY": [
+            "1 PM - 7:45 PM"
+        ],
+        "SUNDAY": [
+            "1 PM - 7:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "1 PM - 8 PM"
+        ],
+        "TUESDAY": [
+            "1 PM - 8 PM"
+        ],
+        "WEDNESDAY": [
+            "1 PM - 8 PM"
+        ],
+        "THURSDAY": [
+            "1 PM - 8 PM"
+        ],
+        "FRIDAY": [
+            "1 PM - 8 PM"
+        ],
+        "SATURDAY": [
+            "1 PM - 8 PM"
+        ],
+        "SUNDAY": [
+            "1 PM - 8 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

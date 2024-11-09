@@ -1,0 +1,745 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/d41d2134-3711-4537-867a-954eb0f90a54.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/44a0f578-6c6b-45ad-8cdc-9077593dcd02.jpg"
+    ],
+    "name": "Acquafarina",
+    "address": "425 W Georgia St, Vancouver, BC V6B 3A3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.281178",
+        "longitude": "-123.115395"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "San marzano, fior di latte, &amp; basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gnocchi Pomodoro",
+                            "description": "Premium ground beef, San marzano, Parmigiano Reggiano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Smash Burger",
+                            "description": "Double hand pressed wagyu beef patties, truffle aioli, caramelized onions, crispy shallots, fontina, fries (limited quantities).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6pc Focaccia",
+                            "description": "6pc Focaccia with Truffle Butter",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Polpette",
+                            "description": "Meatballs, arrabbiata sauce, fresh basil, Parmigiano Reggiano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fusillone Bolognese",
+                            "description": "House made pasta, pecorino Romano, &amp; guanciale.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Verdure Miste",
+                            "description": "Grilled Mixed Seasonal Vegetables",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Baby gem, Parmigiano Reggiano, house-made brioche croutons\t",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu Moderno",
+                            "description": "Mascarpone, marsala, espresso sponge cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata &amp; Pesto Rosso",
+                            "description": "San marzano, crispy garlic, &amp; oregano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": " Spicy Vodka Conchiglie",
+                            "description": "San Marzano tomatoes, peperoncino, crema",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Three Course Chef&apos;s Menu",
+                            "description": "Our executive three course chef&apos;s lunch menu.\nChoice of an antipasti, a pasta/secondi, and a dessert.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$50.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Red Wine (Must be 19+)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "La Stella, Classico d&apos;Osoyoos, 2019 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$150.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Antinori, Tignanello, 2019 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$395.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paolo Scavino, Dolcetto d&apos;Alba, 2021 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$90.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Poderi dal Nespoli, Forli (Pinot Nero), 2018 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$120.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "White Wine (Must be 19+)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Alois Lageder, Terra Alpina, Vigneti delle Dolimiti (Pinot Grigio), 2021",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$90.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Santi, Folar (Turbiana), 2020 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$89.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Villa Sparina, Monterotondo, 2017 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$145.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sparkling/Rose (Must be 19+)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veuve Clicquot, Carte Jaune, Brut, NV ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$195.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Le Vieux Pin, Vaïla, 2022 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$86.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mionetto, Prosecco, Brut, NV ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$80.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Villa Di Corlo, Lambrusco Grasparossa di Castelvetro, 2022 ",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$80.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Executive Combo",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Three Course Chef&apos;s Menu",
+                            "description": "Our executive three course chef&apos;s lunch menu.\nChoice of an antipasti, a pasta/secondi, and a dessert.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$50.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Antipasti",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Baby gem, Parmigiano Reggiano, house-made brioche croutons\t",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Polpette",
+                            "description": "Meatballs, arrabbiata sauce, fresh basil, Parmigiano Reggiano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seasonal Burrata Salad",
+                            "description": "Hickory smoked beets, burrata di Puglia, toasted hazelnuts",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Insalata Pera E Capra",
+                            "description": "Roasted pear, greens, goat cheese, &amp; balsamic dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Warm Mixed Olives ",
+                            "description": "House marinated mediterranean olives, citrus, herbs",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Charcuterie Platter",
+                            "description": "Selection of cured meats and pickles",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fusillone Bolognese",
+                            "description": "House made pasta, pecorino Romano, &amp; guanciale.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gnocchi Pomodoro",
+                            "description": "Premium ground beef, San marzano, Parmigiano Reggiano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetto Vesuvio",
+                            "description": "Confit tomatoes, olives, crispy capers, pecorino",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mandorle  Turtufo",
+                            "description": "Chitarra, brown butter, almonds, fresh truffle",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$39.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": " Spicy Vodka Conchiglie",
+                            "description": "San Marzano tomatoes, peperoncino, crema",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizze",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "San marzano, fior di latte, &amp; basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prosciutto Crudo",
+                            "description": "Prosciutto, San Marzano, Buffalo Mozzarella, Sundried Tomato, Arugula",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$40.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata &amp; Pesto Rosso",
+                            "description": "San marzano, crispy garlic, &amp; oregano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fabri Fabri",
+                            "description": "Roasted pears, fior di latte, caramelized pecans, gorgonzola",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$31.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Capricciosa Bianca",
+                            "description": "Cream reduction, Black olive, Grilled artichokes, Ham",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$36.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tartufo Nero",
+                            "description": "Shaved seasonal truffle, cream, fontina cheese",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$42.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lucky Luciano ",
+                            "description": "Prosciutto cotto, soppressata, pancetta, San Marzano, fior di latte",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salsiccia e Rapini",
+                            "description": "Italian sausage, rapini, peperoncino, fior di latte",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Secondi",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "The Smash Burger",
+                            "description": "Double hand pressed wagyu beef patties, truffle aioli, caramelized onions, crispy shallots, fontina, fries (limited quantities).",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Filetto Al Pepe Verde",
+                            "description": "6oz premium beef tenderloin, crispy potatoes &amp; green peppercorn sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$62.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Add-on",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Truffle Fries",
+                            "description": "French fried potatoes, fresh truffle, &amp; parmigiano reggiano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "2 for CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Verdure Miste",
+                            "description": "Grilled Mixed Seasonal Vegetables",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Truffle",
+                            "description": "Seasonal truffle",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00+"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6pc Focaccia",
+                            "description": "6pc Focaccia with Truffle Butter",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Formaggio",
+                            "description": "Selection of 3 Cheeses\nParmigiano Reggiano, Montasio, Gorgonzola",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dolce",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu Moderno",
+                            "description": "Mascarpone, marsala, espresso sponge cake.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Non-alc Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Evian",
+                            "description": "Natural spring water sourced from the French Alps, known for its purity and balanced mineral composition.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "San Pellegrino",
+                            "description": "Effervescent sparkling water, ideal for a refreshing and crisp hydration experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Lora A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Tender gnocchi delicious sauce I added a homemade arugula salad with tomato and lemon at home for balance with a creamy dressing that merged it all together.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Lora A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "These little pillows were decent potion, good not greasy sauce and Italian in flavour. Much improved from the 2 for 1 special. \n Its a stand alone item. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Lora A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Super filling excellently executed and special burger ! Great and small quantity of fries but trust me- fries are not what you need with this ! "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sarah P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "High praise for the Gnocchi Pomodoro! Delicious and hearty dish made with finesse. harmony of flavours and textures. The value is very good for this dish. Consider pairing with the 6pc Focaccia. It&apos;s a nice add on and comes with a flavourful oil butter which is easy to spread on the soft bread."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Lora A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Crust lacking - Per Se is better for delivery but edible overall Needs something- bit soggy "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Italian",
+        "Seafood Restaurant",
+        "Pizzeria",
+        "Fine Dining"
+    ],
+    "url": "https://www.doordash.com/store/acquafarina-vancouver-28180928/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNDRdfQ==&pickup=false",
+    "phone": "6045583099",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 3 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 9:40 PM"
+        ],
+        "SATURDAY": [
+            "3 PM - 9:40 PM"
+        ],
+        "SUNDAY": [
+            "11:30 AM - 2:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11:30 AM - 3 PM"
+        ],
+        "TUESDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "THURSDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "FRIDAY": [
+            "11:30 AM - 10 PM"
+        ],
+        "SATURDAY": [
+            "3 PM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

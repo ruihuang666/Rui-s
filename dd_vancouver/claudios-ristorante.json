@@ -1,0 +1,662 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/81c536b8-dff2-4c4c-bf10-4dbd2d4837ae.jpg",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/8e51da2f-4ff9-4064-98df-52b33e84af62.jpg"
+    ],
+    "name": "Claudios Ristorante",
+    "address": "4402 Skyline Dr, Burnaby, BC V5C 0M7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.26522",
+        "longitude": "-123.00523"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mezzi Rigatoni &apos;Nduja",
+                            "description": "&apos;Nduja sausage, onion, chili, garlic, rosé sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tagliatelle Bolognese",
+                            "description": "Veal, pork, tomato sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Carbonara",
+                            "description": "Egg, guanciale, onion, cream sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "Vegetarian. Tomato, fior di latte, basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Lady fingers, espresso, mascarpone.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arancini",
+                            "description": "Chef&apos;s choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Broccolini",
+                            "description": "Grilled broccolini garnished with lemon slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Piccante",
+                            "description": "Tomato, fior di latte, pepperoni, ricotta, chili, red onion, hot honey.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Focaccia",
+                            "description": "Vegetarian. Fresh baked Italian specialty bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calamari Fritti",
+                            "description": "Shrimp, jalapeño, lemon basil aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Capricciosa",
+                            "description": "Tomato, fior di latte, prosciutto cotto, mushroom, olive, artichoke.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boscaiola Campanelle",
+                            "description": "Pancetta, mushroom, truffle, cream sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Antipasti",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arancini",
+                            "description": "Chef&apos;s choice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carpaccio",
+                            "description": "Beef, pickled mustard seeds, greens, aioli, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Focaccia",
+                            "description": "Vegetarian. Fresh baked Italian specialty bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Broccolini",
+                            "description": "Grilled broccolini garnished with lemon slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gamberi",
+                            "description": "Prawns, spicy tomato butter, confit garlic",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mozzarella In Carrozza",
+                            "description": "Crispy fried mozzarella sandwich, prosciutto cotto, chili aioli",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Antipasto",
+                            "description": "Italian cured meats, cheeses, pickled vegetables. Add half burrata for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calamari Fritti",
+                            "description": "Shrimp, jalapeño, lemon basil aioli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olive Calde",
+                            "description": "Marinated Mediterranean olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Insalata",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Classic Caesar",
+                            "description": "romaine, pane fritto, grana padano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Panzanella",
+                            "description": "Vegetarian. Pomodorini, cucumber, basil, onions, toasted ciabatta. Add half burrata for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arugula Salad",
+                            "description": "Fennel, snap peas, asparagus, pickled cucumber, blood orange, cherry tomato, pistachio vinaigrette",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Pasta",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Carbonara",
+                            "description": "Egg, guanciale, onion, cream sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mezzi Rigatoni &apos;Nduja",
+                            "description": "&apos;Nduja sausage, onion, chili, garlic, rosé sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tagliatelle Bolognese",
+                            "description": "Veal, pork, tomato sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Aglio E Olio ",
+                            "description": "Garlic, Calabrian chili, parsley, lemon zest, blistered cherry tomatoes, pane grattato",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gnocchi Genovese",
+                            "description": "Basil pesto, charred broccolini, asparagus, Grana Padano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ravioli Cacio E Pepe",
+                            "description": "braised beef, blistered corn, pickled chili, Grana Padano",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boscaiola Campanelle",
+                            "description": "Pancetta, mushroom, truffle, cream sauce, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine Ai Frutti Di Mare",
+                            "description": "Mussels, prawns, garlic, tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Pizza Pomodoro",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Margherita",
+                            "description": "Vegetarian. Tomato, fior di latte, basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepperoni Piccante",
+                            "description": "Tomato, fior di latte, pepperoni, ricotta, chili, red onion, hot honey.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Capricciosa",
+                            "description": "Tomato, fior di latte, prosciutto cotto, mushroom, olive, artichoke.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Boscaiola",
+                            "description": "Tomato, fior di latte, Italian sausage, mushroom.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Diavola",
+                            "description": "Tomato, fior di latte, calabrese, basil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Calabrese",
+                            "description": "Tomato, fior di latte, pancetta, &apos;nduja sausage, red pepper, red onion.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prosciutto E Rucola",
+                            "description": "Tomato, fior di latte, arugula.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cotto E Funghi",
+                            "description": "Tomato, fior di latte, prosciutto cotto, mushroom.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Marinara",
+                            "description": "tomato sauce, garlic",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$17.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Pizza Bianca",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetariana",
+                            "description": "Fior di latte, provolone, zucchini, red pepper, eggplant, mushroom, olive, garlic",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Patatosa ",
+                            "description": "Fior di latte, truffe, potato, pancetta, chili",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Secondi",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parmigiana",
+                            "description": "Tomato sauce, fior di late, Grana Padano.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bistecca",
+                            "description": "16oz strip loin, salsa verde, arugula salad",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$64.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lingcod",
+                            "description": "Caramelized cabbage, bagna cauda, peas, corn, chili oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$34.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Eats - Dolci",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Lady fingers, espresso, mascarpone.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Panna Cotta",
+                            "description": "vanilla, crumble, berry compote",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "S. P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "the real taste of Italy 🇮🇹"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Sarah H"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Dont get this pasta. all the flavours dont go and are just throw together , disappointed "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Carol C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 3
+            },
+            "reviewBody": "soup is tomato pasta sauce and chopped mushrooms. they should remove it from the menu if they don&apos;t have anything prepared"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Michelle D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Good food and drinks"
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Italian",
+        "Fast Food"
+    ],
+    "url": "https://www.doordash.com/store/claudios-ristorante-burnaby-28030215/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "6042983135",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 9:40 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 9:40 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 9:40 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 9:40 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 10:40 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 10:40 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 9:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "12 PM - 10 PM"
+        ],
+        "TUESDAY": [
+            "12 PM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "12 PM - 10 PM"
+        ],
+        "THURSDAY": [
+            "12 PM - 10 PM"
+        ],
+        "FRIDAY": [
+            "12 PM - 11 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 11 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

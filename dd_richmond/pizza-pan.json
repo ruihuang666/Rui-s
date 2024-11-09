@@ -1,0 +1,268 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover_square/77b615c5-bd2d-496d-b541-4cbc65a39d3e.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/bbb1cb6e-51e4-4632-ae3d-d7df67d834f5.jpg"
+    ],
+    "name": "Pizza Pan",
+    "address": "The Duchess, 8180 Granville Ave, Richmond, BC V6Y 4G1, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.162624",
+        "longitude": "-123.133832"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cola",
+                            "description": "A refreshing carbonated beverage with a blend of caramel and vanilla flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain (15&quot; Large (8 Slices))",
+                            "description": "Generous layers of melted mozzarella cheese and rich tomato sauce on a classic 15&quot; large pizza crust, cut into 8 slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain (17&quot; Extra Large (12 Slices))",
+                            "description": "A 17-inch extra-large pizza topped with melted mozzarella cheese and a rich tomato sauce, cut into 12 slices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "One Topping (9&quot; Small (4 Slices))",
+                            "description": "9&quot; pizza with choice of one topping: meats including pepperoni, salami, or chicken, vegetables like green peppers or onions, and other options like pineapple or mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "One Topping (12&quot; Medium (6 Slices))",
+                            "description": "12&quot; medium pizza, choice of 17 toppings including meats like pepperoni and vegetables like green peppers, customizable to taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "One Topping (15&quot; Large (8 Slices))",
+                            "description": "15&quot; large pizza, choose one: meats like pepperoni, sausage, or vegetables including green peppers, onions. Variety of toppings available, including jalapeño.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "One Topping (17&quot; Extra Large (12 Slices))",
+                            "description": "17&quot; extra large pizza, 12 slices with a choice of one topping: meats like pepperoni or veggies like green peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two Toppings (9&quot; Small (4 Slices))",
+                            "description": "9&quot; pizza with choice of two toppings: select from meats including pepperoni, salami, and chicken or vegetables like green peppers and mushrooms.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Two Toppings (12&quot; Medium (6 Slices))",
+                            "description": "12&quot; medium pizza with choice of two toppings: select from meats including pepperoni and chicken or veggies such as mushrooms and jalapeño peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Combination #1",
+                            "description": "Pepperoni, mushrooms, green peppers, and olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Combination #1 (12&quot; Medium (6 Slices))",
+                            "description": "Pepperoni, mushrooms, green peppers, and olives.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canada Dry",
+                            "description": "Crisp and refreshing ginger ale with natural flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.45"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadian",
+                            "description": "Pepperoni, mushrooms, and bacon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Vegetarian (12&quot; Medium (6 Slices))",
+                            "description": "Mushrooms, green peppers, olives, onions, and tomatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fresh Fries",
+                            "description": "Golden, crispy fries seasoned with a blend of herbs and a sprinkle of salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain (9&quot; Small (4 Slices))",
+                            "description": "A 9-inch pizza with four slices, featuring a golden crust topped with melted mozzarella cheese and a rich tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Plain (12&quot; Medium (6 Slices))",
+                            "description": "A 12-inch pizza with six slices, featuring a golden-brown crust topped with melted mozzarella cheese and rich tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.75"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mohammad Edris A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Amaz foods great keep it "
+        }
+    ],
+    "servesCuisine": [
+        "Pizza",
+        "Vegetarian",
+        "Chicken"
+    ],
+    "url": "https://www.doordash.com/store/pizza-pan-richmond-24770377/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "7786977130",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "6 AM - 11:40 AM"
+        ],
+        "TUESDAY": [
+            "6 AM - 11:40 AM"
+        ],
+        "WEDNESDAY": [
+            "6 AM - 11:40 AM"
+        ],
+        "THURSDAY": [
+            "6 AM - 11:40 AM"
+        ],
+        "FRIDAY": [
+            "6 AM - 11:40 AM"
+        ],
+        "SATURDAY": [
+            "6 AM - 11:40 AM"
+        ],
+        "SUNDAY": [
+            "6 AM - 11:40 AM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "6 AM - 12 PM"
+        ],
+        "TUESDAY": [
+            "6 AM - 12 PM"
+        ],
+        "WEDNESDAY": [
+            "6 AM - 12 PM"
+        ],
+        "THURSDAY": [
+            "6 AM - 12 PM"
+        ],
+        "FRIDAY": [
+            "6 AM - 12 PM"
+        ],
+        "SATURDAY": [
+            "6 AM - 12 PM"
+        ],
+        "SUNDAY": [
+            "6 AM - 12 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

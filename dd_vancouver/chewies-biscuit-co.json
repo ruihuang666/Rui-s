@@ -1,0 +1,812 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/0fdf5387-d637-449d-bb2f-65c3b543b248.52",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/1f300865-879f-4566-b7b7-95395a785a75.49"
+    ],
+    "name": "Chewies Biscuit Co",
+    "address": "Chewie's Chicken \\u0026 Biscuits, 2822 W 4th Ave, Vancouver, BC V6K 1R2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.268238",
+        "longitude": "-123.1688"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BREAKFAST WRAP",
+                            "description": "  SCRAMBLED EGGS, BACON, CHEESE, JALAPEÑO SAUCE, CREMA, HASHBROWN PATTY WRAPPED IN A FLOUR TORTILLA SERVED WITH HASH BROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "FRIES",
+                            "description": "CRISPY FRENCH FRIES WITH HOT MUMMA SPICE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CRISPY CHICKEN BENNY",
+                            "description": "CRISPY CHICKEN BREAST, BISCUIT, 2 POACHED EGGS, HOLLANDAISE, HOT MUMMA SPICE, HASHBROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHICKEN TENDERS &amp; FRIES",
+                            "description": "CRISPY CHICKEN TENDERS &amp; FRIES WITH YOUR CHOICE OF 1 DIP: HONEY MUSTARD, PARMESAN RANCH, HOT MUMMA SAUCE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TRADITIONAL BUTTERMILK BISCUIT",
+                            "description": "Light &amp; buttery buttermilk biscuit",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HUGE CHOCOLATE CHIP COOKIE",
+                            "description": "A generously sized cookie filled with rich chocolate chips and a soft, chewy center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOT MUMMA CHICKEN BENNY",
+                            "description": "CRISPY CHICKEN BREAST, HOT MUMMA SAUCE, BISCUIT, 2 POACHED EGGS, HOLLANDAISE, HOT MUMMA SPICE, HASHBROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "MOOSE",
+                            "description": "CRISPY CHICKEN BREAST, BACON, CHEESE, FRIED EGG, SAUSAGE GRAVY, BISCUIT, BAGUETTE, POTATO BUN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "MAC &amp; CHEESE",
+                            "description": "CAVATAPPI MAC &amp; CHEESE WITH MIX OF 3 DIFFERENT CHEESES",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CRAZY COOKIES",
+                            "description": "Double chocolate chip cookie topped with dolce du leche \n and variety of: \nSmarties\nkitkat chocolate bars\nreeses pieces cups &amp; cereal (this option contains peanut butter)\nSmores \n\nall crazy cookies then drizzled with chocolate!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "PEROGIES",
+                            "description": "PAN FRIED POTATO &amp; CHEESE PEROGIES, CARAMELIZED ONIONS, CREMA DRIZZLE, HOT MUMMA SPICE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOT MUMMA",
+                            "description": "CRISPY CHICKEN BREAST, SIGNATURE HOT MUMMA SAUCE, CUCUMBER, SLAW, BISCUIT, POTATO BUN OR BAGUETTE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "BRUNCH",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "BREAKFAST WRAP",
+                            "description": "  SCRAMBLED EGGS, BACON, CHEESE, JALAPEÑO SAUCE, CREMA, HASHBROWN PATTY WRAPPED IN A FLOUR TORTILLA SERVED WITH HASH BROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BREAKFAST BOWL",
+                            "description": "2 PC BACON, 2 PC BREAKFAST SAUSAGE, HASH BROWNS, POACHED EGGS, HOLLANDAISE, BISCUIT, JAM",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CRISPY CHICKEN BENNY",
+                            "description": "CRISPY CHICKEN BREAST, BISCUIT, 2 POACHED EGGS, HOLLANDAISE, HOT MUMMA SPICE, HASHBROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOT MUMMA CHICKEN BENNY",
+                            "description": "CRISPY CHICKEN BREAST, HOT MUMMA SAUCE, BISCUIT, 2 POACHED EGGS, HOLLANDAISE, HOT MUMMA SPICE, HASHBROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "FRENCH TOAST FRIED CHICKEN",
+                            "description": "PANKO FRENCH TOAST, CRISPY CHICKEN THIGH, BACON, MAPLE SYRUP, ICING SUGAR",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "BACON BENNY",
+                            "description": "BACON, FRESH SLICED TOMATOES, BUTTERMILK BISCUIT, 2 POACHED EGGS, HOT MUMMA SPICE, HASH BROWNS",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "FRUITY FRENCH TOAST",
+                            "description": "THICK CUT PANKO FRENCH TOAST, MIXED BERRY COMPOTE, WHIP CREAM, MAPLE SYRUP",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SANDWICHES ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": " SUNRISE",
+                            "description": "CRISPY BACON, CHEESE, OVER EASY EGG, HASHBROWN PATTY, SPICY KETCHUP, GARLIC AIOLI, SERVED ON A BISCUIT OR A POTATO BUN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOT MUMMA",
+                            "description": "CRISPY CHICKEN BREAST, SIGNATURE HOT MUMMA SAUCE, CUCUMBER, SLAW, BISCUIT, POTATO BUN OR BAGUETTE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "STONER",
+                            "description": "FRIED CHICKEN, SIGNATURE STONER SAUCE (HONEY, STONE GROUND MUSTARD, SPICES), LETTUCE, PICKLES, SERVED ON BISCUIT, BAGUETTE OR POTATO BUN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "MOOSE",
+                            "description": "CRISPY CHICKEN BREAST, BACON, CHEESE, FRIED EGG, SAUSAGE GRAVY, BISCUIT, BAGUETTE, POTATO BUN",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CAJUN CHICKEN CLUB",
+                            "description": "BAKED CAJUN CHICKEN BREAST, BACON, CHEESE, TOMATO, LETTUCE, PICKLE, GARLIC AIOLI, POTATO BUN, BISUIT, BAGUETTE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "CHEWIE&apos;S CLASSICS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHICKEN TENDERS &amp; FRIES",
+                            "description": "CRISPY CHICKEN TENDERS &amp; FRIES WITH YOUR CHOICE OF 1 DIP: HONEY MUSTARD, PARMESAN RANCH, HOT MUMMA SAUCE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "THE DOUGIE",
+                            "description": "CLASSIC BISCUITS &amp; GRAVY WITH FRIED CHICKEN SMOTHERED IN SAUSAGE GRAVY",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CHICKEN CHUNK MAC &amp; CHEESE BOWL",
+                            "description": "CAVATPPI PASTA NOODLE &amp; CHEESE WITH FRIED CHICKEN CHUNKS, HOT MUMMA SPICE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "GRANDMA&apos;S FRIED CHICKEN",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4PC   CHICKEN COMBO",
+                            "description": "4 pieces crispy chicken with light dust of hot Mumma spice,  fries, gravy, drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2PC  CHICKEN COMBO",
+                            "description": "2 pieces crispy chicken with light dust of hot Mumma spice, fries, gravy, drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3PC   CHICKEN COMBO",
+                            "description": "3 pieces crispy chicken with light dust of hot Mumma spice,  fries, gravy, drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10PC  CHICKEN COMBO",
+                            "description": "10 pieces crispy chicken with light dust of hot mumma spice, 2 fries, large gravy, 2 drinks",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$66.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5PC   CHICKEN COMBO",
+                            "description": "5 pieces crispy chicken with light dust of hot Mumma spice, fries, gravy, drink",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$33.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SINGLE PIECE CHICKEN",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "1 DRUM",
+                            "description": "A single drumstick, expertly fried to achieve a crispy exterior while maintaining a juicy interior, often seasoned with a blend of spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1 THIGH",
+                            "description": "A single fried chicken thigh, typically marinated and coated in a crispy batter before being fried to a golden brown.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SIDES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "MAC &amp; CHEESE",
+                            "description": "CAVATAPPI MAC &amp; CHEESE WITH MIX OF 3 DIFFERENT CHEESES",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "PANKO ZUCCHINI",
+                            "description": "PANKO CRUSTED ZUCCHINI, GARLIC AIOLI, HOT MUMMA SPICE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TRADITIONAL BUTTERMILK BISCUIT",
+                            "description": "Light &amp; buttery buttermilk biscuit",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "FRIES",
+                            "description": "CRISPY FRENCH FRIES WITH HOT MUMMA SPICE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TOTS",
+                            "description": "Crispy tater tots typically seasoned with house blend spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "PEROGIES",
+                            "description": "PAN FRIED POTATO &amp; CHEESE PEROGIES, CARAMELIZED ONIONS, CREMA DRIZZLE, HOT MUMMA SPICE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "SLAW",
+                            "description": "Crisp, refreshing shredded cabbage salad, delicately dressed.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SAUCES",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "SAUSAGE GRAVY",
+                            "description": "Housemade bacon &amp; sausage gravy - 6oz.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOT MUMMA SAUCE",
+                            "description": "A bold concoction, blending fiery spices and tangy undertones, designed to complement chicken dishes with its robust flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HONEY MUSTARD",
+                            "description": "A harmonious blend of sweet honey and classic mustard, creating a versatile sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "RANCH",
+                            "description": "A creamy blend of buttermilk, herbs, and spices, traditionally used as a dressing or dipping sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CREMA",
+                            "description": "House-made crema, a smooth and tangy sauce, typically includes sour cream and a blend of herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "GARLIC AIOLI",
+                            "description": "A creamy blend of minced garlic and olive oil, often enriched with egg yolks or lemon juice, creating a smooth and garlicky sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOLLY",
+                            "description": "None",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "SYRUP",
+                            "description": "A sweet condiment, often made from sugar and water, reduced until thick. Ideal as a drizzle over various dishes to add a hint of sweetness.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "JALPENO SAUCE",
+                            "description": "A spicy condiment made with jalapenos, typically blended to create a smooth, versatile sauce suitable for adding a kick to dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "KETCHUP",
+                            "description": "A smooth tomato-based sauce, often used as a condiment for a variety of dishes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": ""
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "SWEETS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "HUGE CHOCOLATE CHIP COOKIE",
+                            "description": "A generously sized cookie filled with rich chocolate chips and a soft, chewy center.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "CRAZY COOKIES",
+                            "description": "Double chocolate chip cookie topped with dolce du leche \n and variety of: \nSmarties\nkitkat chocolate bars\nreeses pieces cups &amp; cereal (this option contains peanut butter)\nSmores \n\nall crazy cookies then drizzled with chocolate!",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "WARM BISCUIT &amp; BERRIES",
+                            "description": "WARM BUTTERMILK BISCUIT, BERRY COMPOTE, WHIP CREAM",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "DRINKS",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "SOFT DRINKS",
+                            "description": "Selection of sodas including Coke, Diet Coke, and Ginger Ale",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "DRIP COFFEE",
+                            "description": "Freshly brewed coffee, offering a rich and smooth taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "LONDON FOG",
+                            "description": "Earl Grey tea steeped with hints of lavender and sweetened with vanilla syrup, served as a comforting beverage.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "HOT CHOCOLATE",
+                            "description": "Smooth, rich chocolate drink, perfectly steamed to warm your soul.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "SPARKLING WATER",
+                            "description": "500ml bottle",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "TEA",
+                            "description": "A soothing blend of selected leaves for a calming sipping experience.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Julian K"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "Chicken was really tasty and so were the fries."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Raven B"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Everything I&apos;ve had here is delicious and perfectly cooked. I especially like the Mac &amp; Cheese. Perfect pasta shape to hold the sauce which is cooked perfectly Al dente. The chefs here have a refined and consistent technique. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Dominic D"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Mmmmmmm! Lovely comfort food chicken chunk makie. Such tender chicken! Always impressed with their consistent quality and taste. Wonderful tasty Mac and cheese and fried chicken. Great to wash down with a thirst quenching Good tea drink. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Danee F"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Unseasoned over battered chicken, over baked dry biscuit. Eggs were cooked as requested so thats good.\n  Generally the rest of the meal was not great, I  couldnt finish it and ordered something else from another place. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Mia A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Rip off prices. $6 more for each meal on here compared to in store."
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.6
+    },
+    "servesCuisine": [
+        "Fried Chicken",
+        "Brunch",
+        "Breakfast",
+        "Sandwiches",
+        "Eggs",
+        "Chicken",
+        "Sweets",
+        "Vegetarian"
+    ],
+    "url": "https://www.doordash.com/store/chewies-biscuit-co-vancouver-442431/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16043369996",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 7:40 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 7:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "10 AM - 8 PM"
+        ],
+        "TUESDAY": [
+            "10 AM - 8 PM"
+        ],
+        "WEDNESDAY": [
+            "10 AM - 8 PM"
+        ],
+        "THURSDAY": [
+            "10 AM - 8 PM"
+        ],
+        "FRIDAY": [
+            "10 AM - 8 PM"
+        ],
+        "SATURDAY": [
+            "10 AM - 8 PM"
+        ],
+        "SUNDAY": [
+            "10 AM - 8 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

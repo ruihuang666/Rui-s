@@ -1,0 +1,586 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/Tavola_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3b1dd78c-c6e0-4756-890d-cdf5bd9bc5f9.png"
+    ],
+    "name": "Tavola",
+    "address": "Tavola, 1829 Robson Street, Vancouver, BC",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.29184",
+        "longitude": "-123.13587"
+    },
+    "priceRange": "$$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Campanelle ",
+                            "description": "mushrooms, prosciutto, sun-dried tomatoes, lemon\nVegan option available",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rigatoni Pork Ragu",
+                            "description": "braised pork in red wine and tomato",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bigoli and Meatballs",
+                            "description": "long, thick pasta noodle, meatballs, tomato sauce\n*NOTE: Meatballs contain  both  gluten and dairy.  Cannot be made gluten or dairy free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata Sea Salt",
+                            "description": "fresh burrata cheese, sea salt and olive oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Cacio e Pepe",
+                            "description": "a light cheese sauce with cracked black pepper",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brick Chicken",
+                            "description": "half chicken, roasted garlic jus",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Classic Italian dessert made with ladyfingers soaked in coffee, layered with mascarpone cheese and dusted with cocoa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata with Prosciutto",
+                            "description": "fresh burrata cheese, prosciutto, sea salt and olive oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ricotta Gnocchi",
+                            "description": "tender ricotta cheese gnocchi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arugula Salad",
+                            "description": "olive oil, lemon, parmesan",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Broccolini",
+                            "description": "Grilled Broccolini, finished with salsa verde",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Meatballs",
+                            "description": "meatballs in tomato and basil sauce\nPlease note: Meatballs contain dairy and gluten.\nCannot be made gluten or dairy free.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Starters",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata Sea Salt",
+                            "description": "fresh burrata cheese, sea salt and olive oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Burrata with Prosciutto",
+                            "description": "fresh burrata cheese, prosciutto, sea salt and olive oil",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Butter Lettuce Salad",
+                            "description": "Simple lettuce salad with lemon vinaigrette on the side",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Arugula Salad",
+                            "description": "olive oil, lemon, parmesan",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Side Meatballs",
+                            "description": "meatballs in tomato and basil sauce\nPlease note: Meatballs contain dairy and gluten.\nCannot be made gluten or dairy free.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Walnut Pesto Crostini",
+                            "description": "Gorgonzola, walnut pesto, pear and honey (3 pieces)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Liver Crostini",
+                            "description": "chicken liver pate, port onions. Comes with crostinis on the side.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggs and Anchovies",
+                            "description": "Soft boiled eggs with white, pickled anchovies finished with an anchovy aioli",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olives",
+                            "description": "marinated olives",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chickpea Crostini",
+                            "description": "chickpeas, roasted garlic and herbs. Comes with crostinis on the side",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rigatoni Pork Ragu",
+                            "description": "braised pork in red wine and tomato",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom Campanelle ",
+                            "description": "mushrooms, prosciutto, sun-dried tomatoes, lemon\nVegan option available",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bigoli and Meatballs",
+                            "description": "long, thick pasta noodle, meatballs, tomato sauce\n*NOTE: Meatballs contain  both  gluten and dairy.  Cannot be made gluten or dairy free.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Cacio e Pepe",
+                            "description": "a light cheese sauce with cracked black pepper",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ricotta Gnocchi",
+                            "description": "tender ricotta cheese gnocchi",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Tomatoes &amp; Basil",
+                            "description": "a zesty pomodoro sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mains",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Brick Chicken",
+                            "description": "half chicken, roasted garlic jus",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$32.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Grilled Broccolini",
+                            "description": "Grilled Broccolini, finished with salsa verde",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Roasted Nugget Potatoes",
+                            "description": "Roasted nugget potatoes, herbs, truffled pecorino",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Classic Italian dessert made with ladyfingers soaked in coffee, layered with mascarpone cheese and dusted with cocoa.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pannacotta",
+                            "description": "vanilla bean pannacotta, fruit compote",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Heat &amp; Eat Toffee Pudding",
+                            "description": "*Requires heating before consuming*\nPlace toffee pudding on rimmed microwave safe plate, add sauce on top and microwave for 1 minute. Add ice cream (included) and enjoy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Wine",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chianti Casterelle",
+                            "description": "Bright cherry notes that pairs well with pasta",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$45.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Delibori Bianco di Custoza",
+                            "description": "Crisp, fresh white, with notes of cherry blossom, spring flowers, apple and pear.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Rose Spinelli",
+                            "description": "A rose with notes of strawberry. Perfect for sunny days. Abruzzo, Italy.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Prosecco Camp Dhei",
+                            "description": "Dry bubbles to start a nice Italian dinner with. Veneto, Italy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Non-Alcoholic",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "San Pellegrino 750ml",
+                            "description": "sparkling mineral water",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Melanie R"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "mushroom pasta and meatball spaghetti was  delicious.  tiramisu was the perfect ending to a great meal"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Davide S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "best italian food in the area. Ricotta Gnocchi are fantastic"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Hayley M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "I love the burrata with prosciutto. so simple yet so good!"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kristina C"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "The $40+++ appetizer size portion is ridiculous. This was absolutely not worth the cost of the food, taxes and fees. Shame on Tavola for gouging customers."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Krystal A"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "Buratta, olives and wine were amazing but asked the the vegetarian option of the pasta and it was full of meat. Really disappointing as this was my main "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.7
+    },
+    "servesCuisine": [
+        "Italian",
+        "Dessert"
+    ],
+    "url": "https://www.doordash.com/store/tavola-vancouver-28115/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNCwxNDRdfQ==&pickup=false",
+    "phone": "+16046064680",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "5 PM - 9:10 PM"
+        ],
+        "TUESDAY": [
+            "5 PM - 9:10 PM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 9:10 PM"
+        ],
+        "THURSDAY": [
+            "5 PM - 9:10 PM"
+        ],
+        "FRIDAY": [
+            "5 PM - 9:10 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 9:10 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 9:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "TUESDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "THURSDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "FRIDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 9:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

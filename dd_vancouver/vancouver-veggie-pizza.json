@@ -1,0 +1,733 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/VancouverVeggiePizza_7229_Vancouver_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/af2af424-0cde-42ef-85b6-77ff5ca792e2.png"
+    ],
+    "name": "Vancouver Veggie Pizza",
+    "address": "7229 Main St, Vancouver, BC V5X 3J3, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.21889",
+        "longitude": "-123.10205"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Special Pizza",
+                            "description": "Onion, green peppers, mushrooms, pineapples, olives, tomatoes, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Special Pizza",
+                            "description": "Paneer, onions, spinach, green pepper, ginger, cilantro, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Lover Pizza",
+                            "description": "Onion, green peppers, mushrooms, tomatoes, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Lover Pizza",
+                            "description": "Tomato sauce double cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Sticks with Cheese &amp; Seasoning",
+                            "description": "Crisp breadsticks, seasoned and filled with cheese. Available in large, medium, or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "Baked not fried.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Lasagna",
+                            "description": "Baked, with tomato sauce and mozzarella cheese. Served with garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shahi Paneer Pizza",
+                            "description": "Marinated shahi paneer, spinach, green pepper, onions, cheese, ginger and cilantro",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato Pattie Burger",
+                            "description": "Bun, potatoes pattie, onion, tomato, lettuce, cheese, and eggless mayonnaise ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Bread with Cheese",
+                            "description": "Garlic-infused bread, topped with melted cheese. Available in 2 or 4 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Large Pizzas",
+                            "description": "Two large pizzas with choice of Canadian, Cheese Lover, Cheeseburger, Greek-themed, or Veggie options. Select spice level: hot, medium, or none.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$50.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Medium Pizzas",
+                            "description": "Two medium pizzas with choice of toppings: Canadian, Cheese Lover, Cheeseburger, Greek-themed options, Paneer Special, or various Veggie options. Selectable spice levels: Hot, Medium, or No Spice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$45.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sides",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Sticks with Seasoning",
+                            "description": "Crispy breadsticks, available in large, medium, or small, seasoned with herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Sticks with Cheese &amp; Seasoning",
+                            "description": "Crisp breadsticks, seasoned and filled with cheese. Available in large, medium, or small.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bread Sticks with Cheese &amp; Onion",
+                            "description": "Cheese and onion filled breadsticks available in large, medium, or small sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Bread with Cheese",
+                            "description": "Garlic-infused bread, topped with melted cheese. Available in 2 or 4 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic Bread",
+                            "description": "Garlic-infused bread, available in 2 or 4 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Dips",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ranch",
+                            "description": "Has egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Garlic",
+                            "description": "Eggless.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salad",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Crisp lettuce, juicy tomatoes, black olives, red onions, and crumbled feta cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Crisp romaine lettuce topped with seasoned croutons and grated Parmesan, served with Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Salad",
+                            "description": "Crisp lettuce, sliced green bell peppers, juicy tomato wedges, cucumber rounds, and red onion slices, served with a side of creamy dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Special Pizza",
+                            "description": "Onion, green peppers, mushrooms, pineapples, olives, tomatoes, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shahi Paneer Pizza",
+                            "description": "Marinated shahi paneer, spinach, green pepper, onions, cheese, ginger and cilantro",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Lover Pizza",
+                            "description": "Tomato sauce double cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Pepperoni Pizza",
+                            "description": "Veggie pepperoni, cheese, tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer Special Pizza",
+                            "description": "Paneer, onions, spinach, green pepper, ginger, cilantro, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Special Pizza",
+                            "description": "Onions, olives, tomatoes, tomato sauce, feta cheese, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Lover Pizza",
+                            "description": "Spinach, tomatoes, tomato sauce, feta cheese, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Canadian Pizza",
+                            "description": "Veggie pepperoni, mushrooms, hash browns, tomatoes, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Lover Pizza",
+                            "description": "Onion, green peppers, mushrooms, tomatoes, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheeseburger Pizza",
+                            "description": "Onions, green peppers, hash browns, tomatoes, tomato sauce, mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne",
+                            "description": "Baked with tomato sauce, and mozzarella cheese. Served with garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti",
+                            "description": "Baked with tomato sauce, and mozzarella cheese. Served with garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Lasagna",
+                            "description": "Baked, with tomato sauce and mozzarella cheese. Served with garlic bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pastas with Veggies",
+                            "description": "Pick your pasta, pick your veggies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Burgers",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Potato Pattie Burger",
+                            "description": "Bun, potatoes pattie, onion, tomato, lettuce, cheese, and eggless mayonnaise ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Burger",
+                            "description": "Bun, veggie pattie, onion, tomato, lettuce, and cheese. Eggless mayonnaise ketchup.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Mains",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fries",
+                            "description": "Baked not fried.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Extras",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Including Feta",
+                            "description": "A selection of cheeses, typically featuring feta among others, to complement your meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Pepperoni",
+                            "description": "This pizza combines traditional Italian flavors with a twist, featuring a base topped with cheese and slices of veggie pepperoni.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Paneer",
+                            "description": "Fresh, soft cheese often used in traditional Italian and Indian dishes, served as a versatile extra to complement your meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Hash Brown",
+                            "description": "Crispy golden shredded potatoes, lightly seasoned and fried to perfection",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Onions",
+                            "description": "Sliced onions, typically sautéed with olive oil and a blend of Italian herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mushroom",
+                            "description": "Mushrooms sautéed with garlic, herbs, and a hint of white wine.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Banana Pepper",
+                            "description": "Banana peppers, often brined in vinegar, presenting a tangy and mildly spicy taste.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Jalapeno Pepper",
+                            "description": "Jalapeno peppers, typically served as a spicy and tangy accompaniment, enhancing the flavors of your meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spinach",
+                            "description": "Fresh, tender spinach leaves - perfect for healthy salads and sides.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tomatoes",
+                            "description": "Tomatoes, prepared with a drizzle of extra virgin olive oil and a sprinkle of fresh herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Olives",
+                            "description": "A selection of marinated olives, seasoned with aromatic herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Green Peppers",
+                            "description": "Freshly sliced green bell peppers, typically served as a flavorful addition to enhance the dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pineapple",
+                            "description": "Pineapple, typically served as a refreshing complement or enhancement to various dishes, offering a sweet and tangy flavor profile.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Deals for Pizza",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Medium Pizzas",
+                            "description": "Two medium pizzas with choice of toppings: Canadian, Cheese Lover, Cheeseburger, Greek-themed options, Paneer Special, or various Veggie options. Selectable spice levels: Hot, Medium, or No Spice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$45.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Large Pizzas",
+                            "description": "Two large pizzas with choice of Canadian, Cheese Lover, Cheeseburger, Greek-themed, or Veggie options. Select spice level: hot, medium, or none.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$50.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2 Small Pizzas",
+                            "description": "Two small pizzas with a variety of options including Canadian, cheese-themed, cheeseburger, Greek-inspired, paneer, and veggie variants. Choose your spice level: hot, medium, or none.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$35.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Beverages",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi",
+                            "description": "Each. Two liter bottle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke Can",
+                            "description": "Each.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "7 Up Can",
+                            "description": "Each.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pepsi Can",
+                            "description": "Each.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Coke",
+                            "description": "Each. Two liter bottle.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.00"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.1
+    },
+    "servesCuisine": [
+        "Italian",
+        "Pizza"
+    ],
+    "url": "https://www.doordash.com/store/vancouver-veggie-pizza-vancouver-98558/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16043274445",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 9:35 PM"
+        ],
+        "TUESDAY": [
+            "4 PM - 9:35 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 9:35 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 9:35 PM"
+        ],
+        "FRIDAY": [
+            "4 PM - 9:35 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 9:35 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "4 PM - 10 PM"
+        ],
+        "TUESDAY": [
+            "4 PM - 10 PM"
+        ],
+        "WEDNESDAY": [
+            "4 PM - 10 PM"
+        ],
+        "THURSDAY": [
+            "4 PM - 10 PM"
+        ],
+        "FRIDAY": [
+            "4 PM - 10 PM"
+        ],
+        "SUNDAY": [
+            "4 PM - 10 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

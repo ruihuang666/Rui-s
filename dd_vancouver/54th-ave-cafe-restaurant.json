@@ -1,0 +1,1036 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/54thAveCafeRestaurantKerrSt7088VancouverBC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/3e3bc03a-70e3-49b7-8ef8-a8b76d7995b2.png"
+    ],
+    "name": "54th Ave Cafe Restaurant",
+    "address": "7088 Kerr St, Vancouver, BC V5S 4W2, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.219303",
+        "longitude": "-123.04099"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "136. House Special Chow Mein 招牌炒麵",
+                            "description": "A combination of shrimp, squid, mushrooms, and vegetables stir-fried with chow mein noodles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "84. BBQ Pork Fried Rice 叉燒炒飯",
+                            "description": "Tender BBQ pork pieces mixed with fluffy rice, scrambled eggs, peas, and diced carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "207. Beef with Broccoli or Chinese Broccoli",
+                            "description": "Sautéed beef paired with your choice of broccoli or Chinese broccoli.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "192. Sweet-and-Sour Pork 菠蘿咕嚕肉",
+                            "description": "Crispy pork pieces tossed with bell peppers, onions, and pineapple in a tangy sweet-and-sour sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "200. Honey Garlic Spareribs 蒜子蜜汁骨",
+                            "description": "Pork spareribs marinated and cooked with a sweet honey and minced garlic sauce, typically served bone-in.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "149. Shrimp Wonton in Soup 淨雲吞",
+                            "description": "Shrimp wonton in clear broth. Available in small or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "76. Two Kinds BBQ on Rice 雙拼燒臘飯",
+                            "description": "Two kinds BBQ on rice: Choice of BBQ pork, Hainanese chicken (cold), or BBQ duck. Served with a rice base. Mix and match proteins welcome.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "31. Beef Steak with Black Pepper Sauce on Rice 黑椒牛扒飯",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "26. Baked Portuguese Chicken on Rice 焗葡國雞飯",
+                            "description": "Baked Portuguese chicken on rice typically includes boneless chicken in a rich, creamy sauce, served over a bed of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "119. Sliced Beef with Black Bean Sauce Chow Mein 豉椒牛肉炒麵",
+                            "description": "Sliced beef in savory black bean sauce, stir-fried with traditional chow mein noodles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "59. Sliced Fish Congee 魚片粥",
+                            "description": "A thick rice porridge garnished with tender slices of fish, often accompanied by ginger and green onions for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "78. House Special Fried Rice 招牌炒飯",
+                            "description": "Fried rice combined with chicken, beef, shrimp, and a variety of vegetables, typically peas and carrots.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Appetizers 前菜",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "62. Spring Rolls (3 pcs) 脆皮春卷",
+                            "description": "One order comes with three rolls.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "67. Lettuce Wrap 雞肉生菜包",
+                            "description": "Your choice of chicken, beef, pork, duck, or vegetable.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "64. Deep-Fried Wontons (15 pcs) 脆炸雲吞",
+                            "description": "One order comes with 15 pieces.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "65. Spicy Salted Deep-Fried Pork Chop 椒鹽豬扒",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "66. Spicy Salted Deep-Fried Cod 椒鹽斑塊",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "68. Calamari",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "69. Spicy Salted Deep-Fried Squid 椒鹽鮮魷",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "63. Deep-Fried Chicken Wings 炸雞翼",
+                            "description": "Crispy deep-fried chicken wings, available in portions of 6 or 12.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Soups 湯類",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "149. Shrimp Wonton in Soup 淨雲吞",
+                            "description": "Shrimp wonton in clear broth. Available in small or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "157. Wor Wonton Soup 什錦雲吞湯",
+                            "description": "Seafood and meat.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "147. Russian Borscht Soup 羅宋湯",
+                            "description": "Hearty soup with tender beef, cabbage, carrots, potatoes, and onions in a rich, tomato-based broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "153. Hot-and-Sour Soup 酸辣湯",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "151. Minced Chicken with Sweet Corn in Thick Soup 雞茸粟米羹",
+                            "description": "Minced chicken and sweet corn in a thick soup. Available in small or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "152. Cilantro and Minced Beef in Thick Soup 西湖牛肉羹",
+                            "description": "Cilantro and minced beef in a hearty, thick broth. Options for small or large servings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "155. Fish Maw with Sweet Corn in Thick Soup 粟米魚肚羹",
+                            "description": "Fish maw and sweet corn in thick soup. Available in small or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "156. Seafood and Bean Curd in Thick Soup 海鮮豆腐羹",
+                            "description": "Seafood and bean curd in a rich, thick broth. Available in small or large sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "148. Cream of Mushroom Soup 蘑菇忌廉湯",
+                            "description": "Cream of mushroom soup typically includes a smooth blend of mushrooms and cream, often enriched with a delicate base of chicken or vegetable broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "150. Dumpling in Soup 淨水餃",
+                            "description": "Chinese soup dumplings offered in small or large serving sizes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sandwiches and Snacks 三文治及小吃",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "4. French Toast 西多士",
+                            "description": "French toast, typically served with a sweet topping such as syrup or condensed milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "3. Ham Sandwich 火腿三文治",
+                            "description": "Ham sandwiched between slices of bread, typically includes lettuce, tomatoes, and mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "5. Bacon and Egg Sandwich 煙肉蛋三文治",
+                            "description": "Sliced bacon and a fried egg served on toasted bread, a simple yet satisfying combination.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "6. Ham and Egg Sandwich 火腿蛋三文治",
+                            "description": "Sliced ham and a fried egg nestled between slices of bread, typically served as a simple and satisfying sandwich.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "7. Ham and Cheese Sandwich 火腿芝士三文治",
+                            "description": "Sliced ham and melted cheese typically nestled between slices of bread, making for a simple yet satisfying sandwich.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "8. Sliced Beef Sandwich 鮮牛肉三文治",
+                            "description": "Sliced beef sandwich typically includes tender slices of beef on bread, often accompanied by lettuce and a savory sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "9. Corned Beef and Egg Sandwich 鹹牛肉蛋三文治",
+                            "description": "Corned beef and egg sandwich typically includes slices of corned beef and a layer of egg, served between slices of bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "10. Tuna Sandwich 吞拿魚三文治",
+                            "description": "Tuna sandwich typically consists of tuna, lettuce, onions, and pickles, served between slices of bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "11. French Fries 炸薯條",
+                            "description": "Potato strips deep-fried until golden and lightly salted.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "12. Club Sandwich 公司三文治",
+                            "description": "Toasted bread layered with ham, turkey, bacon, lettuce, tomato, and mayonnaise, typically includes American cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "1. Butter Toast 牛油多士",
+                            "description": "Butter spread on toasted bread, often paired with a hint of sugar for a simple yet satisfying snack.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "2. Peanut Butter and Condensed Milk Toast 奶醬多士",
+                            "description": "Toasted bread generously spread with peanut butter and drizzled with condensed milk.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Spaghetti 意粉類",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "20. Steak and Tomato on Spaghetti 鮮茄牛扒燴意粉",
+                            "description": "Steak and tomato sauce served over spaghetti, typically includes tender slices of beef and a rich tomato-based sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "15. Pan-Fried Sliced Ham with Spaghetti 干炒火腿意粉",
+                            "description": "Pan-fried sliced ham with spaghetti typically includes spaghetti tossed with slices of ham, often prepared in a light soy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "16. Pan-Fried Sliced Beef with Spaghetti 干炒牛肉意粉",
+                            "description": "Pan-fried spaghetti tossed with thinly sliced beef, typically includes onions and a savory sauce, inspired by traditional Chinese flavors.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "17. Pan-Fried Shredded Chicken with Spaghetti 干炒雞絲意粉",
+                            "description": "Shredded chicken and spaghetti, pan-fried with a mix of vegetables, typically includes onions and bell peppers.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "18. Shredded Chicken with Cream Sauce on Spaghetti 白汁雞絲燴意粉",
+                            "description": "Shredded chicken and spaghetti are combined with a creamy sauce, typically including a blend of herbs and spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "19. Ham and Tomato on Spaghetti 鮮茄火腿燴意粉",
+                            "description": "Ham and spaghetti tossed with a savory tomato sauce, typically includes herbs and spices for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "21. Sliced Beef and Tomato on Spaghetti 鮮茄牛肉燴意粉",
+                            "description": "Sliced beef and fresh tomatoes atop spaghetti, typically includes a savory tomato-based sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "22. Pork Chop and Tomato on Spaghetti 鮮茄豬扒燴意粉",
+                            "description": "Pork chop and spaghetti tossed with a hearty tomato sauce, typically including herbs and spices for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "23. House Special Spaghetti 公司燴意粉",
+                            "description": "House special spaghetti typically includes a savory blend of meats and vegetables, such as onions, ham, celery, and carrots, all tossed with spaghetti in a rich sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "24. Assorted Seafood with Cream Sauce on Spaghetti 白汁海鮮燴意粉",
+                            "description": "Assorted seafood, typically shrimp, scallops, and squid, served on spaghetti with a creamy sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "13. Baked Spaghetti with Meat Sauce 焗肉酱意粉",
+                            "description": "Spaghetti mixed with a rich meat sauce, baked until golden.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "14. Pan-Fried BBQ Pork with Spaghetti 干炒叉燒意粉",
+                            "description": "Pan-fried spaghetti with slices of BBQ pork, typically includes a blend of soy sauce and select Chinese spices.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Western Dishes 西式飯類",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "31. Beef Steak with Black Pepper Sauce on Rice 黑椒牛扒飯",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "25. Chicken with Black Pepper Sauce on Rice 黑椒雞扒飯",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "28. Pork Chop with Onion Sauce on Rice 洋蔥豬扒飯",
+                            "description": "Pork chop topped with a savory onion sauce, served over rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "26. Baked Portuguese Chicken on Rice 焗葡國雞飯",
+                            "description": "Baked Portuguese chicken on rice typically includes boneless chicken in a rich, creamy sauce, served over a bed of rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "27. Baked Pork Chop on Fried Rice 焗豬扒飯",
+                            "description": "Baked pork chop on fried rice typically consists of a marinated pork chop, baked and served atop fried rice, often accompanied by a tomato-based sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "33. Baked Seafood on Fried Rice 焗海鮮飯",
+                            "description": "A medley of seafood baked atop fried rice, topped with a creamy sauce and melted cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "32. Steak with Onion Sauce on Rice 黑椒牛扒飯",
+                            "description": "Steak served on rice, topped with a savory onion sauce, typically includes hints of black pepper.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "29. Pork Chop with Black Pepper Sauce on Rice 黑椒豬扒飯",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "30. Curry Pork Chop on Rice 黑椒豬扒飯",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Noodles in Soup 湯麵類",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "41. Wonton with Noodles 鮮蝦雲吞湯麵",
+                            "description": "Handmade shrimp wontons and egg noodles served in a savory broth, typically accompanied by greens.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "48. Beef Brisket and Wonton with Noodles 牛腩雲吞湯麵",
+                            "description": "Noodles served in a savory broth, accompanied by tender beef brisket and handmade wontons.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "36. Chicken with Noodles 雞絲湯麵",
+                            "description": "House-made noodles in a savory chicken broth, typically includes shredded chicken, bok choy, and green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "37. BBQ Pork with Noodles 叉燒湯麵",
+                            "description": "Egg noodles in a rich broth, topped with slices of barbecued pork and garnished with scallions and bean sprouts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "38. Pork and Preserved Vegetables with Noodles 雪菜肉絲湯麵",
+                            "description": "Shredded pork and preserved vegetables with noodles in a savory broth, typically includes snow cabbage and tender slices of pork.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "39. Deep-Fired Chicken Wing with Noodles 炸雞翼湯麵",
+                            "description": "Deep-fried chicken wings paired with noodles, served in a traditional soup, often includes a selection of vegetables.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "40. Satay Beef with Noodles 沙爹牛肉湯麵",
+                            "description": "Satay beef with noodles features tender slices of beef and noodles in a savory broth, typically accompanied by vegetables and seasoned with a distinct satay sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "42. Beef Ball with Noodles 牛丸湯麵",
+                            "description": "Noodle soup featuring beef balls, commonly accompanied by a selection of vegetables in a savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "43. Fish Ball with Noodles 冬菜魚蛋湯麵",
+                            "description": "Tender fish balls and preserved vegetables served with noodles in a clear, aromatic broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "44. Beef Ball and Fish Ball with Noodles 雙丸麵",
+                            "description": "Noodle soup with beef balls and fish balls, typically includes a savory broth and traditional Chinese noodles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "45. Beef Brisket with Noodles 柱侯牛腩麵",
+                            "description": "Noodles in a savory broth with tender beef brisket, typically prepared by braising.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "46. Dumpling with Noodles 上湯水餃湯麵",
+                            "description": "Dumplings filled with a mix of ingredients, served in a savory broth with noodles.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "47. Seafood with Noodles 海鮮湯麵",
+                            "description": "Noodles served in a savory broth, accompanied by a selection of seafood such as shrimp, scallops, and squid.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "49. Beef Brisket and Tendons with Noodles 牛筋腩湯麵",
+                            "description": "Noodles served with slow-cooked beef brisket and tendons in a rich, savory broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "51. Curry Beef Brisket with Noodles 咖哩牛腩撈麵",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "52. Chili Pork Mixed Noodles 炸醬撈麵",
+                            "description": "Spicy",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "34. Pork Chop with Noodles 豬扒湯麵",
+                            "description": "Sliced pork chop served over noodles in a clear, savory broth, often accompanied by vegetables and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "35. Beef with Noodles 牛肉湯麵",
+                            "description": "Noodles served in a rich broth, accompanied by slices of beef, typically garnished with green onions and herbs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$13.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Congees 粥",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "55. Chicken with Chinese Mushroom Congee 北菇雞球粥",
+                            "description": "Rice congee with tender chicken and Chinese mushrooms, offering a simple yet satisfying meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "54. Salted Chicken Congee 鹹雞粥",
+                            "description": "Rice porridge combined with salted chicken, often garnished with shredded ginger and green onions for enhanced flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "57. Preserved Egg and Pork Congee 皮蛋瘦肉粥",
+                            "description": "Silky rice porridge with tender pork slices, preserved egg pieces, and garnished with fresh cilantro and green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "59. Sliced Fish Congee 魚片粥",
+                            "description": "A thick rice porridge garnished with tender slices of fish, often accompanied by ginger and green onions for added flavor.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "58. Minced Beef Congee 免治牛肉粥",
+                            "description": "Rice porridge combined with seasoned minced beef, often garnished with green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "60. Seafood Congee 海鮮粥",
+                            "description": "Rice porridge simmered with a selection of seafood, often including shrimp, fish, and squid, gently flavored with ginger and green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "61. Prawn Congee 蝦球粥",
+                            "description": "Rice porridge with tender prawns, often garnished with ginger and green onions.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "53. Plain Congee 白粥",
+                            "description": "Plain congee (白粥) consists of a soothing bowl of boiled rice porridge, traditionally served as a mild and comforting dish.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "56. Sliced Beef Congee 滑牛肉粥",
+                            "description": "Chinese rice porridge with thinly sliced beef, offering a simple yet satisfying meal.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Barbecued 燒臘飯",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "70. BBQ Pork 淨叉燒",
+                            "description": "Succulent BBQ pork, available in small or large servings.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.3
+    },
+    "servesCuisine": [
+        "Chinese",
+        "Noodles",
+        "Seafood",
+        "Chicken",
+        "Fried Rice"
+    ],
+    "url": "https://www.doordash.com/store/54th-ave-cafe-restaurant-vancouver-178613/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16044326099",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 8:40 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 8:40 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 9 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 9 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

@@ -1,0 +1,622 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/LArtista_3891_Burnaby_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/4d424870-e21f-40b4-b5bc-acf9eb6f7087.038"
+    ],
+    "name": "L&apos;Artista",
+    "address": "3891 E Hastings St, Burnaby, BC V5C 2H7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.281185",
+        "longitude": "-123.01896"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Handmade Gnocchi",
+                            "description": "Potato dumplings serve with your choice of sauce: meat sauce, tomato sauce, rose&apos; sauce and pesto.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Alla Carbonara",
+                            "description": "Spaghetti with prosciutto, fresh egg mixed with Parmesan cheese and cream",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tortellini Alla Panna",
+                            "description": "Veal stuffed pasta rings in a cream and cheese sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lasagna Di Casa",
+                            "description": "Layers of fresh pasta with meat sauce, cream, parmesan and mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Romaine lettuce and croutons serve with Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parmigiana",
+                            "description": "Breaded baked chicken breast topped with mozzarella cheese and tomato sauce, served with vegetables and potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Alla Bolognese",
+                            "description": "Spaghetti with homemade meat sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettucine Al Pollo",
+                            "description": "Fettucine, chicken, mushrooms in a choice of cream sauce or tomato cream sauce (ROSE&apos;)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Homemade Lady Fingers cookies dipped in Italian Espresso Coffee,Mascarpone Cheese and Coffee Liqueur",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Insalata Alla Caprese",
+                            "description": "Fresh tomatoes, fresh bocconcini cheese, olive oil and balsamic vinegar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine Ai Gamberoni",
+                            "description": "Linguine, prawns, garlic in a fresh tomato sauce with a touch of cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Mousse",
+                            "description": "Homemade Chocolate Mousee with a hint of hazelnut flavour ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Insalata Mista ",
+                            "description": "Field mixed Green and cherry tomatoes in extra virgin olive oil and balsamic vinegar ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Insalata Alla Caprese",
+                            "description": "Fresh tomatoes, fresh bocconcini cheese, olive oil and balsamic vinegar.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Caesar Salad",
+                            "description": "Romaine lettuce and croutons serve with Caesar dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": " APPETIZERS ",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "GAMBERONI AL QUAZZETTO (PRAWNS)",
+                            "description": "PRAWNS done in garlic, fresh tomato sauce and a touch of cream and spice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tortellini in Bordo (Soup)",
+                            "description": "Tortellini pasta in beef broth.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Pastas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Handmade Gnocchi",
+                            "description": "Potato dumplings serve with your choice of sauce: meat sauce, tomato sauce, rose&apos; sauce and pesto.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lasagna Di Casa",
+                            "description": "Layers of fresh pasta with meat sauce, cream, parmesan and mozzarella cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Alla Carbonara",
+                            "description": "Spaghetti with prosciutto, fresh egg mixed with Parmesan cheese and cream",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tortellini Alla Panna",
+                            "description": "Veal stuffed pasta rings in a cream and cheese sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettucine Al Pollo",
+                            "description": "Fettucine, chicken, mushrooms in a choice of cream sauce or tomato cream sauce (ROSE&apos;)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Fettuccine Di Alfredo",
+                            "description": "Fettucine, Parmesan in a Cream Sauce",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine Ai Gamberoni",
+                            "description": "Linguine, prawns, garlic in a fresh tomato sauce with a touch of cream.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Penne Al Pomodoro",
+                            "description": "Penne al Pomodoro in a fresh tomato sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$19.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "SPAGHETTI CON POLPETTE (MEATBALLS)",
+                            "description": "Spaghetti with fresh homemade tomato sauce and fresh homemade 100% beef meatballs.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Spaghetti Alla Bolognese",
+                            "description": "Spaghetti with homemade meat sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine Alla Primavera",
+                            "description": "Linguine with artichokes,peas and mushrooms in a fresh tomato sauce or cream sauce or Rose&apos; (tomato and cream)",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine al Pesto",
+                            "description": "Pasta intertwined with a sauce of fresh basil, pine nuts, garlic, and a hint of olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Risotto ai Funghi Porcini",
+                            "description": "Italian Arborio Rice with fresh mushrooms and parmesan cheese.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Linguine Alle Vongole",
+                            "description": "Linguine, fresh clams, garlic, white wine and olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$26.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Main Dishes",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "VEAL PARMIGIANA ",
+                            "description": "Breaded Veal Cutlet baked with fresh homemade tomato sauce, mozzarella &amp; parmigiano cheese\nServed with Vegetables and potatoes \n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Parmigiana",
+                            "description": "Breaded baked chicken breast topped with mozzarella cheese and tomato sauce, served with vegetables and potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bistecca Di Vitello",
+                            "description": "Veal Striploin steak in a cognac cream sauce served with vegetables and potato",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$38.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Gamberoni al Vino",
+                            "description": "Prawns in white wine garlic sauce served with vegetables and potatoes",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "POLLO AL LiMONE",
+                            "description": "Chicken Breast in a white wine lemon sauce served with vegetables and potatoes.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$25.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Scaloppine Ai Funghi",
+                            "description": "Veal sauteed with white wine and mushrooms, served with vegetables and potatoes",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$29.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks (Cans)",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pops",
+                            "description": "Sosa, Tonic, Ginger Ale, Coke, Diet Coke and Iced Tea",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.75"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Italian Pops",
+                            "description": "Choice of Limonata or Aranciata",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Desserts",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Tiramisu",
+                            "description": "Homemade Lady Fingers cookies dipped in Italian Espresso Coffee,Mascarpone Cheese and Coffee Liqueur",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$9.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chocolate Mousse",
+                            "description": "Homemade Chocolate Mousee with a hint of hazelnut flavour ",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Extra Charges",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Added Extra Chicken to a Pasta Dish of your Choice",
+                            "description": "Grilled or pan-seared chicken, seasoned with herbs, ready to enhance any dish it accompanies.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Extra Bread",
+                            "description": "Extra bread typically includes additional slices of fresh Italian bread, served with a side of butter.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$3.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Kailey J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Fettucine Al Pollo was delicious, perfectly creamy. Also a good portion, bread is a little small per piece but also delicious. Spaghetti Alla Bolognesetti was delicious. Good portion as well. 10/10 honestly. "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Carlo P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "L&apos;Artista always provides excellent dishes.  Everything on the menu is top notch !"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jade S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Best gnocchi Ive had since my friends moms home made and I searched high and low for something that could replace it and this nailed it!!!! "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Carlo P"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Excellent food as always.   Everything is top notch !"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Jade S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "Best gnocchi since my friends moms home made gnocchi!  "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Italian"
+    ],
+    "url": "https://www.doordash.com/store/l'artista-burnaby-96177/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16042988110",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "5 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "5 PM - 8:45 PM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 8:45 PM"
+        ],
+        "THURSDAY": [
+            "5 PM - 8:45 PM"
+        ],
+        "FRIDAY": [
+            "5 PM - 9:15 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 9:15 PM"
+        ],
+        "SUNDAY": [
+            "5 PM - 8:45 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "5 PM - 9 PM"
+        ],
+        "TUESDAY": [
+            "5 PM - 9 PM"
+        ],
+        "WEDNESDAY": [
+            "5 PM - 9 PM"
+        ],
+        "THURSDAY": [
+            "5 PM - 9 PM"
+        ],
+        "FRIDAY": [
+            "5 PM - 9:30 PM"
+        ],
+        "SATURDAY": [
+            "5 PM - 9:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}

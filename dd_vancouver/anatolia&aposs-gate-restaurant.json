@@ -1,0 +1,909 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Restaurant",
+    "image": [
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/restaurant/cover/AnatoliasGateRestaurant_7084_Burnaby_BC.png",
+        "https://img.cdn4dd.com/cdn-cgi/image/fit=contain,width=1200,height=672,format=auto/https://doordash-static.s3.amazonaws.com/media/store/header/58b1db63-32fe-47fc-abe1-e11e7c264938.jpg"
+    ],
+    "name": "Anatolia&apos;s Gate Restaurant",
+    "address": "7084 Kingsway, Burnaby, BC V5E 1E7, Canada",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "49.21837",
+        "longitude": "-122.95835"
+    },
+    "priceRange": "$$",
+    "hasMenu": {
+        "@type": "Menu",
+        "hasMenuSection": [
+            [
+                {
+                    "name": "Most Ordered",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Iskender",
+                            "description": "Freshly sliced chicken breast marinated with anatolia&apos;s special spices cooked on a vertical broiler with yogurt and tomato sauce, rice and salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lovers Pide",
+                            "description": "Anatolia&apos;s ground meat, Turkish pastrami, tomatoes, cheese &amp; egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Lovers Pide",
+                            "description": "Anatolia&apos;s feta cheese mix with mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Iskender Kabob",
+                            "description": "Freshly sliced beef marinated with Anatolia&apos;s special spices cooked on a vertical broiler with yogurt and tomato sauce, rice and salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Durum",
+                            "description": "Chicken doner wrapped in a freshly baked lavash bread with green and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Kabob",
+                            "description": "Mixed medley of kabobs served with salad, rice, lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Shish",
+                            "description": "Grilled chicken breast chunks served with salad, rice, lavash &amp; yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kunefe",
+                            "description": "Sweet Turkish pastry maid of shredded dough &amp; our homemade cheese.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.97"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lahmajun",
+                            "description": "Anatolia&apos;s ground meat spread on a thin crust. Served on a bed of salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Humus",
+                            "description": "Chick peas, tahini, garlic, lemon, etc.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Curry",
+                            "description": "Chicken breast chunks with curry sauce, rice and salads served with a freshly baked lavash bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Chops (4)",
+                            "description": "Sliced lamb rack (4 pieces) grilled served with rice, salads, yogurt sauce and lavash bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Cold Starters &amp; Salads",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Babaghannush",
+                            "description": "Roasted eggplant, tahini, garlic, lemon, etc.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Yogurt Sauce",
+                            "description": "",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Plate",
+                            "description": "A mixed potburry of cold salads.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$18.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Humus",
+                            "description": "Chick peas, tahini, garlic, lemon, etc.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ajuka",
+                            "description": "Spicy. Roasted eggplants, red peppers with walnuts.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ezme",
+                            "description": "Spicy. Fresh tomatoes, parsley, onion, hot peppers and olive oil.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Seasonal Salad",
+                            "description": "Lettuce and tomato, olive oil and lemon dressing.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$6.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Greek Salad",
+                            "description": "Seasonal salad with feta cheese olive oil and lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$12.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Barbunya",
+                            "description": "Giant lima beans or red kidney beans with olive oil, tomato sauce and lemon.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Stuffed Grape Leaves",
+                            "description": "Stuffed grape leaves, known as dolma, with choice of small or large size, and white or whole wheat bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Eggplant Salad",
+                            "description": "Oven roasted eggplants, tomato, parsley.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Carrot Salad",
+                            "description": "Shredded carrots lightly panned and mix with olive oil mayonnaise.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$8.99"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Hot Starters Wraps &amp; More",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Lovers Pide",
+                            "description": "Anatolia&apos;s feta cheese mix with mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Meat Lovers Pide",
+                            "description": "Anatolia&apos;s ground meat, Turkish pastrami, tomatoes, cheese &amp; egg.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lahmajun",
+                            "description": "Anatolia&apos;s ground meat spread on a thin crust. Served on a bed of salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Durum",
+                            "description": "Chicken doner wrapped in a freshly baked lavash bread with green and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Durum",
+                            "description": "Roasted lamb meat wrapped in a freshly baked lavash bread with onion salad and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ali Baba",
+                            "description": "Mushrooms and mozzarella cheese baked in the oven and served with freshly baked lavash bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Durum Wrap",
+                            "description": "Doner kabob meat wrapped in a freshly baked lavash bread with onion salad and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Adana Durum (Wrap)",
+                            "description": "ANATOLIA&apos;S SPECIAL GROUND BEEF MIX GRILLED AND WRAPPED IN FRESHLY BAKED LAVASH BREAD WITH ONION, SALAD, ITALIAN PARSLEY TOMATO, AND YOGURT SAUCE",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$14.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Menemen",
+                            "description": "Roasted veggies bell pepper, eggplant, zucchini, mushroom &amp; eggs baked in the oven served with freshly baked lavash bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$15.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lentil Soup",
+                            "description": "Soup with meal for an additional charge.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$5.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Durum",
+                            "description": "Roasted veggies bell pepper, eggplant, zucchini mushroom wrapped in a freshly baked lavash bread with yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$11.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Kabob Sofrasi",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Iskender Kabob",
+                            "description": "Freshly sliced beef marinated with Anatolia&apos;s special spices cooked on a vertical broiler with yogurt and tomato sauce, rice and salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Iskender",
+                            "description": "Freshly sliced chicken breast marinated with anatolia&apos;s special spices cooked on a vertical broiler with yogurt and tomato sauce, rice and salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mixed Kabob",
+                            "description": "Mixed medley of kabobs served with salad, rice, lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$28.50"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Adana Kabob",
+                            "description": "Anatolia&apos;s special ground beef mix grilled in a skewer served with salad, rice, lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Shish",
+                            "description": "Grilled chicken breast chunks served with salad, rice, lavash &amp; yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beyti Sarma",
+                            "description": "Anatolia&apos;s special ground beef and lamb kofta skewer grilled wrapped in fresh lavash bread sliced, sprinkled with tomato and yogurt sauce served with salad and, rice.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Kofte",
+                            "description": "Anatolia&apos;s special lamb ground koftes, grilled, served with salad, rice, lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Chops (4)",
+                            "description": "Sliced lamb rack (4 pieces) grilled served with rice, salads, yogurt sauce and lavash bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$27.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Shish",
+                            "description": "Grilled lamb chunks served with salad, rice, lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Shish with Cheese",
+                            "description": "Chicken breast chunks with roasted veggies and melted cheese served with salad, rice lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$24.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Iskender",
+                            "description": "Open flame roasted veggies yogurt and tomato sauce, rice and salad.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Urfa Kabob",
+                            "description": "Spicy. Spicy version of Anatolia&apos;s special ground beef mix, grilled in a skewer served with salad, rice, lavash and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Steaks, Flame Dishes &amp; More",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Curry",
+                            "description": "Chicken breast chunks with curry sauce, rice and salads served with a freshly baked lavash bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Beef Curry",
+                            "description": "Shaved beef doner meat with curry sauce, rice and salads served with a freshly baked lavash bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Guvech",
+                            "description": "Lamb chunks with oven roasted veggies, tomato, mushroom, baked in oven served with lavash.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Tandur",
+                            "description": "Oven roasted lamb chunks with fresh tomato and mushrooms served with salad, rice and a freshly baked lavesh bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Incik (Lamb Shank)",
+                            "description": "Oven roasted lamb shank with fresh tomato served with salad, rice and a freshly baked lavash bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Guvech",
+                            "description": "Chicken breast pieces with oven roasted veggies tomato sauce and cheese baked in oven served with lavash.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kofte Guvech",
+                            "description": "Anatolia&apos;s ground meatballs with oven toasted veggies, tomato sauce and cheese baked in oven served with lavash.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kuru (Kurufasulye)",
+                            "description": "Giant lima beans with tomato sauce served with lamb in it and with a freshly baked lavash bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Shepard&apos;s Guvech",
+                            "description": "Beef strips with oven roasted veggies tomato sauce and cheese baked in oven served with lavash.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$21.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Karides",
+                            "description": "Jumbo prawns, mushrooms and red bell pepper baked together and topped with melted cheese in a casserole.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Salmon Guvec",
+                            "description": "A tilapia fillet with oven roasted veggies, tomato sauce and cheese baked in oven served with lavash.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$22.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Lamb Curry",
+                            "description": "Oven roasted lamb chunks win curry sauce, rice and salads served with a freshly baked lavash bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$23.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Guvech",
+                            "description": "Anatolia&apos;s oven roasted veggies, tomato sauce and cheese baked in oven served with lavash.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Curry",
+                            "description": "Oven roasted veggies with curry sauce, rice and salads served with a freshly baked lavash bread and yogurt sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$20.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Anatolia&apos;s Gourmet Pizzas",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Doner Kabob Pizza",
+                            "description": "Fresh doner kabob meat with fresh mushrooms and if desired with hot sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Chicken Curry Pizza",
+                            "description": "Anatolia&apos;s specially designed curry sauce for this pizza with chicken breast pieces with red bell pepper strips and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Mediterranean Pizza",
+                            "description": "Olive oil, Anatolia&apos;s feta cheese mix, garlic, tomato and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Cheese Pizza",
+                            "description": "Greek-style Cheese Pizza: Available in large, medium, or personal sizes. Choice of white or whole wheat bread.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Bolanaise Pizza",
+                            "description": "Anatolia&apos;s special ground meat mix, mushrooms and mozzarella.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Veggie Delight Pizza",
+                            "description": "Humus spread over the crust and topped with eggplant, zucchini, roasted peppers, tomato and if desired with hot sauce.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$16.95"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Drinks",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Pop",
+                            "description": "Coke, diet coke, coke zero, sprite, nestea cool, ginger ale.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.20"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Ayran",
+                            "description": "Yogurt drink with a touch of salt.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$4.25"
+                            },
+                            "image": ""
+                        },
+                        {
+                            "@type": "MenuItem",
+                            "name": "Turkish Tea",
+                            "description": "Special blend of imported Turkish tea.",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$2.50"
+                            },
+                            "image": ""
+                        }
+                    ]
+                },
+                {
+                    "name": "Sweets",
+                    "hasMenuItem": [
+                        {
+                            "@type": "MenuItem",
+                            "name": "Kunefe",
+                            "description": "Sweet Turkish pastry maid of shredded dough &amp; our homemade cheese.\n",
+                            "offers": {
+                                "@type": "Offer",
+                                "price": "CA$10.97"
+                            },
+                            "image": ""
+                        }
+                    ]
+                }
+            ]
+        ]
+    },
+    "review": [
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Ashley L"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 4
+            },
+            "reviewBody": "wrong pop given. order Coke zero but got regular coke"
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Umed J"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Good quality has gone down, meat was falling apart and dry. Flavours were not there. Bread was good but the diohad a weird taste."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Gunal I"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 2
+            },
+            "reviewBody": "The meal they call &quot;Menemen&quot; has nothing to do with the original Menemen that people cook in Turkiye. This one tastes really bad."
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Janani S"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 1
+            },
+            "reviewBody": "Dosnt taste nor look lik kunafa, sucha disappointment.  "
+        },
+        {
+            "@type": "Review",
+            "publisher": "DoorDash",
+            "author": {
+                "@type": "Person",
+                "name": "Muhammad fahad M"
+            },
+            "reviewRating": {
+                "worstRating": 1,
+                "bestRating": 5,
+                "ratingValue": 5
+            },
+            "reviewBody": "They never disappointed me 200% recommended "
+        }
+    ],
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 50,
+        "worstRating": 1,
+        "bestRating": 5,
+        "reviewCount": 50,
+        "ratingValue": 4.4
+    },
+    "servesCuisine": [
+        "Greek",
+        "Kebabs",
+        "Pizza",
+        "Wraps",
+        "Salads"
+    ],
+    "url": "https://www.doordash.com/store/anatolia's-gate-restaurant-burnaby-59363/?cursor=eyJzZWFyY2hfaXRlbV9jYXJvdXNlbF9jdXJzb3IiOnsicXVlcnkiOiJyZXN0YXVyYW50cyIsIml0ZW1faWRzIjpbXSwic2VhcmNoX3Rlcm0iOiJyZXN0YXVyYW50IiwidmVydGljYWxfaWQiOi05OSwidmVydGljYWxfbmFtZSI6IiJ9LCJzdG9yZV9wcmltYXJ5X3ZlcnRpY2FsX2lkcyI6WzEsNF19&pickup=false",
+    "phone": "+16045252519",
+    "doordashOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:10 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10:10 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:10 PM"
+        ]
+    },
+    "storeOperationHourInfo": {
+        "MONDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "TUESDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "WEDNESDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "THURSDAY": [
+            "11 AM - 9:30 PM"
+        ],
+        "FRIDAY": [
+            "11 AM - 10:30 PM"
+        ],
+        "SATURDAY": [
+            "11 AM - 10:30 PM"
+        ],
+        "SUNDAY": [
+            "11 AM - 9:30 PM"
+        ]
+    },
+    "merchant_cuisine": "Not found"
+}
