@@ -1,0 +1,22 @@
+import random
+
+# Generate a random number between 1 and 100
+num = random.randint(1, 100)
+count = 0
+flag = True
+
+while flag:
+    # Prompt the user to enter a number
+    guess_num = int(input("Enter your guess (a number between 1 and 100): "))
+    count += 1
+    
+    if guess_num == num:
+        print("You guessed it right!")
+        flag = False
+    else:
+        if guess_num > num:
+            print("Too high!")
+        else:
+            print("Too low!")
+
+print(f"You guessed {count} times in total.")
